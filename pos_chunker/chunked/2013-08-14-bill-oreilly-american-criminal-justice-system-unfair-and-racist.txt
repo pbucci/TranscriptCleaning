@@ -1,4 +1,4 @@
-(S )(S By/IN (NP (NBAR Bill/NNP O'Reilly/NNP)))(S
+(S By/IN (NP (NBAR Bill/NNP O'Reilly/NNP)))(S
   Many/JJ
   on/IN
   the/DT
@@ -38,6 +38,38 @@
   's/VBZ
   in/IN
   (NP (NBAR play/NN))
+  ./.)(S
+  In/IN
+  the/DT
+  ``/``
+  (NP (NBAR New/NNP York/NNP Times/NNP))
+  ''/''
+  (NP (NBAR last/JJ Sunday/NNP))
+  ,/,
+  (NP (NBAR Nicholas/NNP Kristof/NNP))
+  wrote/VBD
+  a/DT
+  (NP (NBAR column/NN))
+  about/IN
+  a/DT
+  (NP (NBAR Tennessee/NNP man/NN))
+  named/VBN
+  (NP (NBAR Edward/NNP Young/NNP))
+  ./.
+  He/PRP
+  was/VBD
+  recently/RB
+  sentenced/VBN
+  to/TO
+  15/CD
+  (NP (NBAR years/NNS))
+  in/IN
+  a/DT
+  (NP (NBAR federal/JJ prison/NN))
+  for/IN
+  violating/VBG
+  a/DT
+  (NP (NBAR career/NN criminal/JJ statute/NN))
   ./.)(S
   In/IN
   the/DT
@@ -166,6 +198,431 @@
   (NP (NBAR goods/NNS))
   ./.
   ''/'')(S
+  (NP (NBAR Mr./NNP Kristof/NNP))
+  says/VBZ
+  the/DT
+  (NP (NBAR sentence/NN))
+  's/POS
+  an/DT
+  (NP (NBAR outrage/NN))
+  ,/,
+  (NP (NBAR unfair/NN))
+  at/IN
+  every/DT
+  (NP (NBAR level/NN))
+  ./.
+  (NP (NBAR Quote/NNP))
+  ,/,
+  ``/``
+  (NP (NBAR Young/NNP))
+  ,/,
+  now/RB
+  43/CD
+  ,/,
+  was/VBD
+  convicted/VBN
+  of/IN
+  (NP (NBAR several/JJ burglaries/NNS))
+  as/IN
+  a/DT
+  (NP (NBAR young/JJ man/NN))
+  but/CC
+  then/RB
+  resolved/VBD
+  that/IN
+  he/PRP
+  would/MD
+  turn/VB
+  his/PRP$
+  (NP (NBAR life/NN))
+  around/RB
+  ./.
+  Released/VBN
+  from/IN
+  (NP (NBAR prison/NN))
+  in/IN
+  1996/CD
+  ,/,
+  he/PRP
+  married/VBD
+  ,/,
+  worked/VBD
+  six/CD
+  (NP (NBAR days/NNS))
+  a/DT
+  (NP (NBAR week/NN))
+  and/CC
+  raised/VBD
+  four/CD
+  (NP (NBAR children/NNS))
+  in/IN
+  (NP (NBAR Hixson/NNP))
+  ,/,
+  (NP (NBAR Tennessee/NNP))
+  ./.
+  Then/RB
+  (NP (NBAR Young/NNP))
+  became/VBD
+  a/DT
+  (NP (NBAR suspect/NN))
+  in/IN
+  (NP (NBAR burglaries/NNS))
+  at/IN
+  (NP (NBAR storage/NN facilities/NNS))
+  and/CC
+  (NP (NBAR vehicles/NNS))
+  in/IN
+  the/DT
+  (NP (NBAR area/NN))
+  ./.
+  And/CC
+  the/DT
+  (NP (NBAR police/NN))
+  searched/VBD
+  his/PRP$
+  (NP (NBAR home/NN))
+  and/CC
+  found/VBD
+  the/DT
+  (NP (NBAR forgotten/JJ shotgun/NN shells/NNS))
+  as/RB
+  well/RB
+  as/IN
+  some/DT
+  stolen/VBN
+  (NP (NBAR goods/NNS))
+  ./.
+  ''/'')(S
+  (NP (NBAR Mr./NNP Kristof/NNP))
+  says/VBZ
+  the/DT
+  (NP (NBAR sentence/NN))
+  's/POS
+  an/DT
+  (NP (NBAR outrage/NN))
+  ,/,
+  (NP (NBAR unfair/NN))
+  at/IN
+  every/DT
+  (NP (NBAR level/NN))
+  ./.
+  (NP (NBAR Quote/NNP))
+  ,/,
+  ``/``
+  (NP (NBAR Young/NNP))
+  ,/,
+  now/RB
+  43/CD
+  ,/,
+  was/VBD
+  convicted/VBN
+  of/IN
+  (NP (NBAR several/JJ burglaries/NNS))
+  as/IN
+  a/DT
+  (NP (NBAR young/JJ man/NN))
+  but/CC
+  then/RB
+  resolved/VBD
+  that/IN
+  he/PRP
+  would/MD
+  turn/VB
+  his/PRP$
+  (NP (NBAR life/NN))
+  around/RB
+  ./.
+  Released/VBN
+  from/IN
+  (NP (NBAR prison/NN))
+  in/IN
+  1996/CD
+  ,/,
+  he/PRP
+  married/VBD
+  ,/,
+  worked/VBD
+  six/CD
+  (NP (NBAR days/NNS))
+  a/DT
+  (NP (NBAR week/NN))
+  and/CC
+  raised/VBD
+  four/CD
+  (NP (NBAR children/NNS))
+  in/IN
+  (NP (NBAR Hixson/NNP))
+  ,/,
+  (NP (NBAR Tennessee/NNP))
+  ./.
+  Then/RB
+  (NP (NBAR Young/NNP))
+  became/VBD
+  a/DT
+  (NP (NBAR suspect/NN))
+  in/IN
+  (NP (NBAR burglaries/NNS))
+  at/IN
+  (NP (NBAR storage/NN facilities/NNS))
+  and/CC
+  (NP (NBAR vehicles/NNS))
+  in/IN
+  the/DT
+  (NP (NBAR area/NN))
+  ./.
+  And/CC
+  the/DT
+  (NP (NBAR police/NN))
+  searched/VBD
+  his/PRP$
+  (NP (NBAR home/NN))
+  and/CC
+  found/VBD
+  the/DT
+  (NP (NBAR forgotten/JJ shotgun/NN shells/NNS))
+  as/RB
+  well/RB
+  as/IN
+  some/DT
+  stolen/VBN
+  (NP (NBAR goods/NNS))
+  ./.
+  ''/'')(S
+  (NP (NBAR Mr./NNP Kristof/NNP))
+  says/VBZ
+  the/DT
+  (NP (NBAR sentence/NN))
+  's/POS
+  an/DT
+  (NP (NBAR outrage/NN))
+  ,/,
+  (NP (NBAR unfair/NN))
+  at/IN
+  every/DT
+  (NP (NBAR level/NN))
+  ./.
+  (NP (NBAR Quote/NNP))
+  ,/,
+  ``/``
+  (NP (NBAR Young/NNP))
+  ,/,
+  now/RB
+  43/CD
+  ,/,
+  was/VBD
+  convicted/VBN
+  of/IN
+  (NP (NBAR several/JJ burglaries/NNS))
+  as/IN
+  a/DT
+  (NP (NBAR young/JJ man/NN))
+  but/CC
+  then/RB
+  resolved/VBD
+  that/IN
+  he/PRP
+  would/MD
+  turn/VB
+  his/PRP$
+  (NP (NBAR life/NN))
+  around/RB
+  ./.
+  Released/VBN
+  from/IN
+  (NP (NBAR prison/NN))
+  in/IN
+  1996/CD
+  ,/,
+  he/PRP
+  married/VBD
+  ,/,
+  worked/VBD
+  six/CD
+  (NP (NBAR days/NNS))
+  a/DT
+  (NP (NBAR week/NN))
+  and/CC
+  raised/VBD
+  four/CD
+  (NP (NBAR children/NNS))
+  in/IN
+  (NP (NBAR Hixson/NNP))
+  ,/,
+  (NP (NBAR Tennessee/NNP))
+  ./.
+  Then/RB
+  (NP (NBAR Young/NNP))
+  became/VBD
+  a/DT
+  (NP (NBAR suspect/NN))
+  in/IN
+  (NP (NBAR burglaries/NNS))
+  at/IN
+  (NP (NBAR storage/NN facilities/NNS))
+  and/CC
+  (NP (NBAR vehicles/NNS))
+  in/IN
+  the/DT
+  (NP (NBAR area/NN))
+  ./.
+  And/CC
+  the/DT
+  (NP (NBAR police/NN))
+  searched/VBD
+  his/PRP$
+  (NP (NBAR home/NN))
+  and/CC
+  found/VBD
+  the/DT
+  (NP (NBAR forgotten/JJ shotgun/NN shells/NNS))
+  as/RB
+  well/RB
+  as/IN
+  some/DT
+  stolen/VBN
+  (NP (NBAR goods/NNS))
+  ./.
+  ''/'')(S
+  (NP (NBAR Mr./NNP Kristof/NNP))
+  says/VBZ
+  the/DT
+  (NP (NBAR sentence/NN))
+  's/POS
+  an/DT
+  (NP (NBAR outrage/NN))
+  ,/,
+  (NP (NBAR unfair/NN))
+  at/IN
+  every/DT
+  (NP (NBAR level/NN))
+  ./.
+  (NP (NBAR Quote/NNP))
+  ,/,
+  ``/``
+  (NP (NBAR Young/NNP))
+  ,/,
+  now/RB
+  43/CD
+  ,/,
+  was/VBD
+  convicted/VBN
+  of/IN
+  (NP (NBAR several/JJ burglaries/NNS))
+  as/IN
+  a/DT
+  (NP (NBAR young/JJ man/NN))
+  but/CC
+  then/RB
+  resolved/VBD
+  that/IN
+  he/PRP
+  would/MD
+  turn/VB
+  his/PRP$
+  (NP (NBAR life/NN))
+  around/RB
+  ./.
+  Released/VBN
+  from/IN
+  (NP (NBAR prison/NN))
+  in/IN
+  1996/CD
+  ,/,
+  he/PRP
+  married/VBD
+  ,/,
+  worked/VBD
+  six/CD
+  (NP (NBAR days/NNS))
+  a/DT
+  (NP (NBAR week/NN))
+  and/CC
+  raised/VBD
+  four/CD
+  (NP (NBAR children/NNS))
+  in/IN
+  (NP (NBAR Hixson/NNP))
+  ,/,
+  (NP (NBAR Tennessee/NNP))
+  ./.
+  Then/RB
+  (NP (NBAR Young/NNP))
+  became/VBD
+  a/DT
+  (NP (NBAR suspect/NN))
+  in/IN
+  (NP (NBAR burglaries/NNS))
+  at/IN
+  (NP (NBAR storage/NN facilities/NNS))
+  and/CC
+  (NP (NBAR vehicles/NNS))
+  in/IN
+  the/DT
+  (NP (NBAR area/NN))
+  ./.
+  And/CC
+  the/DT
+  (NP (NBAR police/NN))
+  searched/VBD
+  his/PRP$
+  (NP (NBAR home/NN))
+  and/CC
+  found/VBD
+  the/DT
+  (NP (NBAR forgotten/JJ shotgun/NN shells/NNS))
+  as/RB
+  well/RB
+  as/IN
+  some/DT
+  stolen/VBN
+  (NP (NBAR goods/NNS))
+  ./.
+  ''/'')(S
+  The/DT
+  (NP (NBAR shotgun/NN))
+  shells/VBZ
+  according/VBG
+  to/TO
+  (NP (NBAR Kristof/NNP))
+  ,/,
+  were/VBD
+  given/VBN
+  to/TO
+  (NP (NBAR Young/NNP))
+  by/IN
+  a/DT
+  (NP (NBAR neighbor/NN))
+  but/CC
+  it/PRP
+  is/VBZ
+  against/IN
+  (NP (NBAR federal/JJ law/NN))
+  for/IN
+  a/DT
+  convicted/VBN
+  (NP (NBAR felon/NN))
+  to/TO
+  possess/VB
+  (NP (NBAR weapons/NNS))
+  and/CC
+  (NP (NBAR ammunition/NN))
+  ./.
+  So/RB
+  when/WRB
+  (NP (NBAR police/NN))
+  found/VBD
+  the/DT
+  (NP (NBAR ammo/NN))
+  in/IN
+  (NP (NBAR Young/NNP))
+  's/POS
+  (NP (NBAR home/NN))
+  he/PRP
+  was/VBD
+  charged/VBN
+  in/IN
+  (NP (NBAR federal/JJ court/NN))
+  ./.)(S
   The/DT
   (NP (NBAR shotgun/NN))
   shells/VBZ
@@ -344,6 +801,736 @@
   15/CD
   (NP (NBAR years/NNS))
   ./.)(S
+  Now/RB
+  ,/,
+  we/PRP
+  asked/VBD
+  (NP (NBAR Mr./NNP Kristof/NNP))
+  to/TO
+  appear/VB
+  on/IN
+  the/DT
+  (NP (NBAR program/NN))
+  this/DT
+  (NP (NBAR evening/NN))
+  ./.
+  He/PRP
+  did/VBD
+  not/RB
+  respond/VB
+  to/TO
+  that/DT
+  (NP (NBAR request/NN))
+  ./.
+  And/CC
+  I/PRP
+  do/VBP
+  n't/RB
+  blame/VB
+  him/PRP
+  because/IN
+  here/RB
+  is/VBZ
+  the/DT
+  (NP (NBAR truth/NN))
+  about/IN
+  (NP (NBAR Edward/NNP Young/NNP))
+  ./.
+  He/PRP
+  has/VBZ
+  a/DT
+  (NP (NBAR rap/JJ sheet/NN))
+  that/WDT
+  includes/VBZ
+  22/CD
+  (NP (NBAR felony/NN charges/NNS))
+  ;/:
+  11/CD
+  of/IN
+  which/WDT
+  are/VBP
+  classified/VBN
+  as/IN
+  (NP (NBAR violent/NN))
+  because/IN
+  they/PRP
+  involve/VBP
+  breaking/VBG
+  into/IN
+  a/DT
+  (NP (NBAR home/NN))
+  or/CC
+  (NP (NBAR business/NN))
+  ./.
+  (NP (NBAR Young/NNP))
+  was/VBD
+  facing/VBG
+  three/CD
+  (NP (NBAR state/NN counts/NNS))
+  of/IN
+  (NP (NBAR felony/NN burglary/NN))
+  for/IN
+  (NP (NBAR crimes/NNS))
+  committed/VBN
+  in/IN
+  (NP (NBAR September/NNP))
+  of/IN
+  2011/CD
+  ./.
+  (NP (NBAR Tennessee/NNP authorities/NNS))
+  also/RB
+  say/VBP
+  (NP (NBAR Young/NNP))
+  brought/VBD
+  his/PRP$
+  (NP (NBAR 14-year-old/JJ son/NN))
+  with/IN
+  him/PRP
+  while/IN
+  he/PRP
+  was/VBD
+  committing/VBG
+  some/DT
+  of/IN
+  the/DT
+  (NP (NBAR crimes/NNS))
+  ./.
+  If/IN
+  convicted/VBN
+  under/IN
+  (NP (NBAR Tennessee/NNP law/NN))
+  ,/,
+  (NP (NBAR Young/NNP))
+  was/VBD
+  looking/VBG
+  at/IN
+  far/RB
+  more/JJR
+  (NP (NBAR prison/JJ time/NN))
+  than/IN
+  15/CD
+  (NP (NBAR years/NNS))
+  ./.)(S
+  Now/RB
+  ,/,
+  we/PRP
+  asked/VBD
+  (NP (NBAR Mr./NNP Kristof/NNP))
+  to/TO
+  appear/VB
+  on/IN
+  the/DT
+  (NP (NBAR program/NN))
+  this/DT
+  (NP (NBAR evening/NN))
+  ./.
+  He/PRP
+  did/VBD
+  not/RB
+  respond/VB
+  to/TO
+  that/DT
+  (NP (NBAR request/NN))
+  ./.
+  And/CC
+  I/PRP
+  do/VBP
+  n't/RB
+  blame/VB
+  him/PRP
+  because/IN
+  here/RB
+  is/VBZ
+  the/DT
+  (NP (NBAR truth/NN))
+  about/IN
+  (NP (NBAR Edward/NNP Young/NNP))
+  ./.
+  He/PRP
+  has/VBZ
+  a/DT
+  (NP (NBAR rap/JJ sheet/NN))
+  that/WDT
+  includes/VBZ
+  22/CD
+  (NP (NBAR felony/NN charges/NNS))
+  ;/:
+  11/CD
+  of/IN
+  which/WDT
+  are/VBP
+  classified/VBN
+  as/IN
+  (NP (NBAR violent/NN))
+  because/IN
+  they/PRP
+  involve/VBP
+  breaking/VBG
+  into/IN
+  a/DT
+  (NP (NBAR home/NN))
+  or/CC
+  (NP (NBAR business/NN))
+  ./.
+  (NP (NBAR Young/NNP))
+  was/VBD
+  facing/VBG
+  three/CD
+  (NP (NBAR state/NN counts/NNS))
+  of/IN
+  (NP (NBAR felony/NN burglary/NN))
+  for/IN
+  (NP (NBAR crimes/NNS))
+  committed/VBN
+  in/IN
+  (NP (NBAR September/NNP))
+  of/IN
+  2011/CD
+  ./.
+  (NP (NBAR Tennessee/NNP authorities/NNS))
+  also/RB
+  say/VBP
+  (NP (NBAR Young/NNP))
+  brought/VBD
+  his/PRP$
+  (NP (NBAR 14-year-old/JJ son/NN))
+  with/IN
+  him/PRP
+  while/IN
+  he/PRP
+  was/VBD
+  committing/VBG
+  some/DT
+  of/IN
+  the/DT
+  (NP (NBAR crimes/NNS))
+  ./.
+  If/IN
+  convicted/VBN
+  under/IN
+  (NP (NBAR Tennessee/NNP law/NN))
+  ,/,
+  (NP (NBAR Young/NNP))
+  was/VBD
+  looking/VBG
+  at/IN
+  far/RB
+  more/JJR
+  (NP (NBAR prison/JJ time/NN))
+  than/IN
+  15/CD
+  (NP (NBAR years/NNS))
+  ./.)(S
+  Now/RB
+  ,/,
+  we/PRP
+  asked/VBD
+  (NP (NBAR Mr./NNP Kristof/NNP))
+  to/TO
+  appear/VB
+  on/IN
+  the/DT
+  (NP (NBAR program/NN))
+  this/DT
+  (NP (NBAR evening/NN))
+  ./.
+  He/PRP
+  did/VBD
+  not/RB
+  respond/VB
+  to/TO
+  that/DT
+  (NP (NBAR request/NN))
+  ./.
+  And/CC
+  I/PRP
+  do/VBP
+  n't/RB
+  blame/VB
+  him/PRP
+  because/IN
+  here/RB
+  is/VBZ
+  the/DT
+  (NP (NBAR truth/NN))
+  about/IN
+  (NP (NBAR Edward/NNP Young/NNP))
+  ./.
+  He/PRP
+  has/VBZ
+  a/DT
+  (NP (NBAR rap/JJ sheet/NN))
+  that/WDT
+  includes/VBZ
+  22/CD
+  (NP (NBAR felony/NN charges/NNS))
+  ;/:
+  11/CD
+  of/IN
+  which/WDT
+  are/VBP
+  classified/VBN
+  as/IN
+  (NP (NBAR violent/NN))
+  because/IN
+  they/PRP
+  involve/VBP
+  breaking/VBG
+  into/IN
+  a/DT
+  (NP (NBAR home/NN))
+  or/CC
+  (NP (NBAR business/NN))
+  ./.
+  (NP (NBAR Young/NNP))
+  was/VBD
+  facing/VBG
+  three/CD
+  (NP (NBAR state/NN counts/NNS))
+  of/IN
+  (NP (NBAR felony/NN burglary/NN))
+  for/IN
+  (NP (NBAR crimes/NNS))
+  committed/VBN
+  in/IN
+  (NP (NBAR September/NNP))
+  of/IN
+  2011/CD
+  ./.
+  (NP (NBAR Tennessee/NNP authorities/NNS))
+  also/RB
+  say/VBP
+  (NP (NBAR Young/NNP))
+  brought/VBD
+  his/PRP$
+  (NP (NBAR 14-year-old/JJ son/NN))
+  with/IN
+  him/PRP
+  while/IN
+  he/PRP
+  was/VBD
+  committing/VBG
+  some/DT
+  of/IN
+  the/DT
+  (NP (NBAR crimes/NNS))
+  ./.
+  If/IN
+  convicted/VBN
+  under/IN
+  (NP (NBAR Tennessee/NNP law/NN))
+  ,/,
+  (NP (NBAR Young/NNP))
+  was/VBD
+  looking/VBG
+  at/IN
+  far/RB
+  more/JJR
+  (NP (NBAR prison/JJ time/NN))
+  than/IN
+  15/CD
+  (NP (NBAR years/NNS))
+  ./.)(S
+  Now/RB
+  ,/,
+  we/PRP
+  asked/VBD
+  (NP (NBAR Mr./NNP Kristof/NNP))
+  to/TO
+  appear/VB
+  on/IN
+  the/DT
+  (NP (NBAR program/NN))
+  this/DT
+  (NP (NBAR evening/NN))
+  ./.
+  He/PRP
+  did/VBD
+  not/RB
+  respond/VB
+  to/TO
+  that/DT
+  (NP (NBAR request/NN))
+  ./.
+  And/CC
+  I/PRP
+  do/VBP
+  n't/RB
+  blame/VB
+  him/PRP
+  because/IN
+  here/RB
+  is/VBZ
+  the/DT
+  (NP (NBAR truth/NN))
+  about/IN
+  (NP (NBAR Edward/NNP Young/NNP))
+  ./.
+  He/PRP
+  has/VBZ
+  a/DT
+  (NP (NBAR rap/JJ sheet/NN))
+  that/WDT
+  includes/VBZ
+  22/CD
+  (NP (NBAR felony/NN charges/NNS))
+  ;/:
+  11/CD
+  of/IN
+  which/WDT
+  are/VBP
+  classified/VBN
+  as/IN
+  (NP (NBAR violent/NN))
+  because/IN
+  they/PRP
+  involve/VBP
+  breaking/VBG
+  into/IN
+  a/DT
+  (NP (NBAR home/NN))
+  or/CC
+  (NP (NBAR business/NN))
+  ./.
+  (NP (NBAR Young/NNP))
+  was/VBD
+  facing/VBG
+  three/CD
+  (NP (NBAR state/NN counts/NNS))
+  of/IN
+  (NP (NBAR felony/NN burglary/NN))
+  for/IN
+  (NP (NBAR crimes/NNS))
+  committed/VBN
+  in/IN
+  (NP (NBAR September/NNP))
+  of/IN
+  2011/CD
+  ./.
+  (NP (NBAR Tennessee/NNP authorities/NNS))
+  also/RB
+  say/VBP
+  (NP (NBAR Young/NNP))
+  brought/VBD
+  his/PRP$
+  (NP (NBAR 14-year-old/JJ son/NN))
+  with/IN
+  him/PRP
+  while/IN
+  he/PRP
+  was/VBD
+  committing/VBG
+  some/DT
+  of/IN
+  the/DT
+  (NP (NBAR crimes/NNS))
+  ./.
+  If/IN
+  convicted/VBN
+  under/IN
+  (NP (NBAR Tennessee/NNP law/NN))
+  ,/,
+  (NP (NBAR Young/NNP))
+  was/VBD
+  looking/VBG
+  at/IN
+  far/RB
+  more/JJR
+  (NP (NBAR prison/JJ time/NN))
+  than/IN
+  15/CD
+  (NP (NBAR years/NNS))
+  ./.)(S
+  Now/RB
+  ,/,
+  we/PRP
+  asked/VBD
+  (NP (NBAR Mr./NNP Kristof/NNP))
+  to/TO
+  appear/VB
+  on/IN
+  the/DT
+  (NP (NBAR program/NN))
+  this/DT
+  (NP (NBAR evening/NN))
+  ./.
+  He/PRP
+  did/VBD
+  not/RB
+  respond/VB
+  to/TO
+  that/DT
+  (NP (NBAR request/NN))
+  ./.
+  And/CC
+  I/PRP
+  do/VBP
+  n't/RB
+  blame/VB
+  him/PRP
+  because/IN
+  here/RB
+  is/VBZ
+  the/DT
+  (NP (NBAR truth/NN))
+  about/IN
+  (NP (NBAR Edward/NNP Young/NNP))
+  ./.
+  He/PRP
+  has/VBZ
+  a/DT
+  (NP (NBAR rap/JJ sheet/NN))
+  that/WDT
+  includes/VBZ
+  22/CD
+  (NP (NBAR felony/NN charges/NNS))
+  ;/:
+  11/CD
+  of/IN
+  which/WDT
+  are/VBP
+  classified/VBN
+  as/IN
+  (NP (NBAR violent/NN))
+  because/IN
+  they/PRP
+  involve/VBP
+  breaking/VBG
+  into/IN
+  a/DT
+  (NP (NBAR home/NN))
+  or/CC
+  (NP (NBAR business/NN))
+  ./.
+  (NP (NBAR Young/NNP))
+  was/VBD
+  facing/VBG
+  three/CD
+  (NP (NBAR state/NN counts/NNS))
+  of/IN
+  (NP (NBAR felony/NN burglary/NN))
+  for/IN
+  (NP (NBAR crimes/NNS))
+  committed/VBN
+  in/IN
+  (NP (NBAR September/NNP))
+  of/IN
+  2011/CD
+  ./.
+  (NP (NBAR Tennessee/NNP authorities/NNS))
+  also/RB
+  say/VBP
+  (NP (NBAR Young/NNP))
+  brought/VBD
+  his/PRP$
+  (NP (NBAR 14-year-old/JJ son/NN))
+  with/IN
+  him/PRP
+  while/IN
+  he/PRP
+  was/VBD
+  committing/VBG
+  some/DT
+  of/IN
+  the/DT
+  (NP (NBAR crimes/NNS))
+  ./.
+  If/IN
+  convicted/VBN
+  under/IN
+  (NP (NBAR Tennessee/NNP law/NN))
+  ,/,
+  (NP (NBAR Young/NNP))
+  was/VBD
+  looking/VBG
+  at/IN
+  far/RB
+  more/JJR
+  (NP (NBAR prison/JJ time/NN))
+  than/IN
+  15/CD
+  (NP (NBAR years/NNS))
+  ./.)(S
+  Now/RB
+  ,/,
+  we/PRP
+  asked/VBD
+  (NP (NBAR Mr./NNP Kristof/NNP))
+  to/TO
+  appear/VB
+  on/IN
+  the/DT
+  (NP (NBAR program/NN))
+  this/DT
+  (NP (NBAR evening/NN))
+  ./.
+  He/PRP
+  did/VBD
+  not/RB
+  respond/VB
+  to/TO
+  that/DT
+  (NP (NBAR request/NN))
+  ./.
+  And/CC
+  I/PRP
+  do/VBP
+  n't/RB
+  blame/VB
+  him/PRP
+  because/IN
+  here/RB
+  is/VBZ
+  the/DT
+  (NP (NBAR truth/NN))
+  about/IN
+  (NP (NBAR Edward/NNP Young/NNP))
+  ./.
+  He/PRP
+  has/VBZ
+  a/DT
+  (NP (NBAR rap/JJ sheet/NN))
+  that/WDT
+  includes/VBZ
+  22/CD
+  (NP (NBAR felony/NN charges/NNS))
+  ;/:
+  11/CD
+  of/IN
+  which/WDT
+  are/VBP
+  classified/VBN
+  as/IN
+  (NP (NBAR violent/NN))
+  because/IN
+  they/PRP
+  involve/VBP
+  breaking/VBG
+  into/IN
+  a/DT
+  (NP (NBAR home/NN))
+  or/CC
+  (NP (NBAR business/NN))
+  ./.
+  (NP (NBAR Young/NNP))
+  was/VBD
+  facing/VBG
+  three/CD
+  (NP (NBAR state/NN counts/NNS))
+  of/IN
+  (NP (NBAR felony/NN burglary/NN))
+  for/IN
+  (NP (NBAR crimes/NNS))
+  committed/VBN
+  in/IN
+  (NP (NBAR September/NNP))
+  of/IN
+  2011/CD
+  ./.
+  (NP (NBAR Tennessee/NNP authorities/NNS))
+  also/RB
+  say/VBP
+  (NP (NBAR Young/NNP))
+  brought/VBD
+  his/PRP$
+  (NP (NBAR 14-year-old/JJ son/NN))
+  with/IN
+  him/PRP
+  while/IN
+  he/PRP
+  was/VBD
+  committing/VBG
+  some/DT
+  of/IN
+  the/DT
+  (NP (NBAR crimes/NNS))
+  ./.
+  If/IN
+  convicted/VBN
+  under/IN
+  (NP (NBAR Tennessee/NNP law/NN))
+  ,/,
+  (NP (NBAR Young/NNP))
+  was/VBD
+  looking/VBG
+  at/IN
+  far/RB
+  more/JJR
+  (NP (NBAR prison/JJ time/NN))
+  than/IN
+  15/CD
+  (NP (NBAR years/NNS))
+  ./.)(S
+  So/RB
+  he/PRP
+  pleaded/VBD
+  guilty/JJ
+  to/TO
+  the/DT
+  (NP (NBAR federal/JJ beef/NN))
+  ./.
+  In/IN
+  (NP (NBAR effect/NN))
+  ,/,
+  the/DT
+  (NP (NBAR federal/JJ authorities/NNS))
+  did/VBD
+  Young/VB
+  a/DT
+  (NP (NBAR favor/NN))
+  because/IN
+  the/DT
+  (NP (NBAR state/NN charges/NNS))
+  were/VBD
+  then/RB
+  dropped/VBN
+  ./.
+  (NP (NBAR Somehow/NNP Nicholas/NNP Kristof/NNP))
+  did/VBD
+  n't/RB
+  mention/VB
+  any/DT
+  of/IN
+  that/DT
+  in/IN
+  his/PRP$
+  (NP (NBAR column/NN))
+  ./.)(S
+  So/RB
+  he/PRP
+  pleaded/VBD
+  guilty/JJ
+  to/TO
+  the/DT
+  (NP (NBAR federal/JJ beef/NN))
+  ./.
+  In/IN
+  (NP (NBAR effect/NN))
+  ,/,
+  the/DT
+  (NP (NBAR federal/JJ authorities/NNS))
+  did/VBD
+  Young/VB
+  a/DT
+  (NP (NBAR favor/NN))
+  because/IN
+  the/DT
+  (NP (NBAR state/NN charges/NNS))
+  were/VBD
+  then/RB
+  dropped/VBN
+  ./.
+  (NP (NBAR Somehow/NNP Nicholas/NNP Kristof/NNP))
+  did/VBD
+  n't/RB
+  mention/VB
+  any/DT
+  of/IN
+  that/DT
+  in/IN
+  his/PRP$
+  (NP (NBAR column/NN))
+  ./.)(S
   So/RB
   he/PRP
   pleaded/VBD
@@ -456,6 +1643,34 @@
   like/IN
   (NP (NBAR Edward/NNP Young/NNP))
   ./.)(S
+  The/DT
+  (NP (NBAR left/NN))
+  is/VBZ
+  (NP (NBAR hell/JJ bent/NN))
+  on/IN
+  portraying/VBG
+  the/DT
+  (NP (NBAR American/JJ criminal/JJ justice/NN system/NN))
+  as/IN
+  (NP (NBAR corrupt/NN))
+  and/CC
+  (NP (NBAR racist/NN))
+  ./.
+  It/PRP
+  wants/VBZ
+  (NP (NBAR Americans/NNPS))
+  to/TO
+  believe/VB
+  that/IN
+  the/DT
+  (NP (NBAR prisons/NNS))
+  are/VBP
+  full/JJ
+  of/IN
+  (NP (NBAR nonviolent/JJ offenders/NNS))
+  like/IN
+  (NP (NBAR Edward/NNP Young/NNP))
+  ./.)(S
   In/IN
   (NP (NBAR addition/NN))
   ,/,
@@ -478,6 +1693,74 @@
   with/IN
   (NP
     (NBAR New/NNP York/NNP City/NNP stop-and-frisk/JJ controversy/NN))
+  ./.)(S
+  In/IN
+  (NP (NBAR addition/NN))
+  ,/,
+  the/DT
+  (NP (NBAR left/NN))
+  generally/RB
+  opposes/VBZ
+  (NP (NBAR aggressive/JJ police/NN tactics/NNS))
+  to/TO
+  neutralize/VB
+  (NP (NBAR violent/JJ street/NN crime/NN))
+  ./.
+  We/PRP
+  'll/MD
+  see/VB
+  that/IN
+  in/IN
+  a/DT
+  (NP (NBAR moment/NN))
+  with/IN
+  (NP
+    (NBAR New/NNP York/NNP City/NNP stop-and-frisk/JJ controversy/NN))
+  ./.)(S
+  ``/``
+  Talking/VBG
+  (NP (NBAR Points/NNS))
+  ''/''
+  well/RB
+  understands/VBZ
+  that/IN
+  no/DT
+  (NP (NBAR justice/NN system/NN))
+  is/VBZ
+  perfect/JJ
+  and/CC
+  there/EX
+  is/VBZ
+  some/DT
+  (NP (NBAR unfairness/NN))
+  in/IN
+  the/DT
+  (NP (NBAR U.S./NNP criminal/JJ code/NN))
+  ./.
+  But/CC
+  the/DT
+  (NP (NBAR truth/NN))
+  is/VBZ
+  ,/,
+  the/DT
+  (NP (NBAR truth/NN))
+  is/VBZ
+  ,/,
+  (NP (NBAR crime/NN))
+  in/IN
+  this/DT
+  (NP (NBAR country/NN))
+  has/VBZ
+  dropped/VBN
+  dramatically/RB
+  partially/RB
+  because/IN
+  of/IN
+  (NP (NBAR harsh/JJ punishments/NNS))
+  delivered/VBN
+  to/TO
+  career/VB
+  (NP (NBAR criminals/NNS))
   ./.)(S
   ``/``
   Talking/VBG
@@ -576,4 +1859,216 @@
   (NP (NBAR guy/NN))
   ?/.
   (NP (NBAR Good/JJ grief/NN))
-  ./.)(S And/CC that/DT 's/VBZ ``/`` The/DT (NP (NBAR Memo/NNP)) ./. ''/'')(S )
+  ./.)(S
+  And/CC
+  finally/RB
+  ,/,
+  as/IN
+  every/DT
+  (NP (NBAR cop/NN))
+  knows/VBZ
+  (NP (NBAR criminals/NNS))
+  get/VB
+  away/RB
+  with/IN
+  most/JJS
+  of/IN
+  the/DT
+  (NP (NBAR crimes/NNS))
+  they/PRP
+  commit/VBP
+  ./.
+  (NP (NBAR Edward/NNP Young/NNP))
+  in/IN
+  (NP (NBAR Tennessee/NNP))
+  is/VBZ
+  a/DT
+  (NP (NBAR career/NN criminal/NN))
+  ./.
+  And/CC
+  worse/JJR
+  ,/,
+  if/IN
+  we/PRP
+  believe/VBP
+  the/DT
+  (NP (NBAR authorities/NNS))
+  ,/,
+  he/PRP
+  is/VBZ
+  corrupting/VBG
+  his/PRP$
+  (NP (NBAR 14-year-old/JJ son/NN))
+  ./.
+  And/CC
+  (NP (NBAR Nicholas/NNP Kristof/NNP))
+  wants/VBZ
+  us/PRP
+  to/TO
+  feel/VB
+  (NP (NBAR sorry/NN))
+  for/IN
+  this/DT
+  (NP (NBAR guy/NN))
+  ?/.
+  (NP (NBAR Good/JJ grief/NN))
+  ./.)(S
+  And/CC
+  finally/RB
+  ,/,
+  as/IN
+  every/DT
+  (NP (NBAR cop/NN))
+  knows/VBZ
+  (NP (NBAR criminals/NNS))
+  get/VB
+  away/RB
+  with/IN
+  most/JJS
+  of/IN
+  the/DT
+  (NP (NBAR crimes/NNS))
+  they/PRP
+  commit/VBP
+  ./.
+  (NP (NBAR Edward/NNP Young/NNP))
+  in/IN
+  (NP (NBAR Tennessee/NNP))
+  is/VBZ
+  a/DT
+  (NP (NBAR career/NN criminal/NN))
+  ./.
+  And/CC
+  worse/JJR
+  ,/,
+  if/IN
+  we/PRP
+  believe/VBP
+  the/DT
+  (NP (NBAR authorities/NNS))
+  ,/,
+  he/PRP
+  is/VBZ
+  corrupting/VBG
+  his/PRP$
+  (NP (NBAR 14-year-old/JJ son/NN))
+  ./.
+  And/CC
+  (NP (NBAR Nicholas/NNP Kristof/NNP))
+  wants/VBZ
+  us/PRP
+  to/TO
+  feel/VB
+  (NP (NBAR sorry/NN))
+  for/IN
+  this/DT
+  (NP (NBAR guy/NN))
+  ?/.
+  (NP (NBAR Good/JJ grief/NN))
+  ./.)(S
+  And/CC
+  finally/RB
+  ,/,
+  as/IN
+  every/DT
+  (NP (NBAR cop/NN))
+  knows/VBZ
+  (NP (NBAR criminals/NNS))
+  get/VB
+  away/RB
+  with/IN
+  most/JJS
+  of/IN
+  the/DT
+  (NP (NBAR crimes/NNS))
+  they/PRP
+  commit/VBP
+  ./.
+  (NP (NBAR Edward/NNP Young/NNP))
+  in/IN
+  (NP (NBAR Tennessee/NNP))
+  is/VBZ
+  a/DT
+  (NP (NBAR career/NN criminal/NN))
+  ./.
+  And/CC
+  worse/JJR
+  ,/,
+  if/IN
+  we/PRP
+  believe/VBP
+  the/DT
+  (NP (NBAR authorities/NNS))
+  ,/,
+  he/PRP
+  is/VBZ
+  corrupting/VBG
+  his/PRP$
+  (NP (NBAR 14-year-old/JJ son/NN))
+  ./.
+  And/CC
+  (NP (NBAR Nicholas/NNP Kristof/NNP))
+  wants/VBZ
+  us/PRP
+  to/TO
+  feel/VB
+  (NP (NBAR sorry/NN))
+  for/IN
+  this/DT
+  (NP (NBAR guy/NN))
+  ?/.
+  (NP (NBAR Good/JJ grief/NN))
+  ./.)(S
+  And/CC
+  finally/RB
+  ,/,
+  as/IN
+  every/DT
+  (NP (NBAR cop/NN))
+  knows/VBZ
+  (NP (NBAR criminals/NNS))
+  get/VB
+  away/RB
+  with/IN
+  most/JJS
+  of/IN
+  the/DT
+  (NP (NBAR crimes/NNS))
+  they/PRP
+  commit/VBP
+  ./.
+  (NP (NBAR Edward/NNP Young/NNP))
+  in/IN
+  (NP (NBAR Tennessee/NNP))
+  is/VBZ
+  a/DT
+  (NP (NBAR career/NN criminal/NN))
+  ./.
+  And/CC
+  worse/JJR
+  ,/,
+  if/IN
+  we/PRP
+  believe/VBP
+  the/DT
+  (NP (NBAR authorities/NNS))
+  ,/,
+  he/PRP
+  is/VBZ
+  corrupting/VBG
+  his/PRP$
+  (NP (NBAR 14-year-old/JJ son/NN))
+  ./.
+  And/CC
+  (NP (NBAR Nicholas/NNP Kristof/NNP))
+  wants/VBZ
+  us/PRP
+  to/TO
+  feel/VB
+  (NP (NBAR sorry/NN))
+  for/IN
+  this/DT
+  (NP (NBAR guy/NN))
+  ?/.
+  (NP (NBAR Good/JJ grief/NN))
+  ./.)(S And/CC that/DT 's/VBZ ``/`` The/DT (NP (NBAR Memo/NNP)) ./. ''/'')

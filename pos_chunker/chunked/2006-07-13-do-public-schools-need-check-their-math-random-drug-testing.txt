@@ -1,4 +1,42 @@
-(S )(S
+(S
+  (NP (NBAR BILL/NNP O'REILLY/NNP))
+  ,/,
+  (NP (NBAR FOX/NNP NEWS/NNP ANCHOR/NNP))
+  :/:
+  In/IN
+  the/DT
+  ``/``
+  Unresolved/VBD
+  (NP (NBAR Problem/NNP))
+  ''/''
+  (NP (NBAR segment/NN tonight/NN))
+  :/:
+  Keeping/VBG
+  (NP (NBAR control/NN))
+  of/IN
+  the/DT
+  (NP (NBAR nation/NN))
+  's/POS
+  (NP (NBAR schools/NNS))
+  ./.
+  According/VBG
+  to/TO
+  a/DT
+  (NP (NBAR University/NNP))
+  of/IN
+  (NP (NBAR Michigan/NNP study/NN))
+  ,/,
+  about/IN
+  (NP (NBAR half/NN))
+  of/IN
+  all/DT
+  (NP (NBAR high/JJ school/NN seniors/NNS))
+  say/VBP
+  they/PRP
+  've/VBP
+  taken/VBN
+  (NP (NBAR illegal/JJ drugs/NNS))
+  ./.)(S
   (NP (NBAR BILL/NNP O'REILLY/NNP))
   ,/,
   (NP (NBAR FOX/NNP NEWS/NNP ANCHOR/NNP))
@@ -94,6 +132,35 @@
   so/IN
   fast/RB
   ./.)(S
+  So/RB
+  doing/VBG
+  the/DT
+  (NP (NBAR math/NN))
+  ,/,
+  after/IN
+  all/DT
+  ,/,
+  we/PRP
+  are/VBP
+  in/IN
+  (NP (NBAR school/NN))
+  here/RB
+  ,/,
+  it/PRP
+  would/MD
+  seem/VB
+  (NP (NBAR random/JJ drug/NN))
+  testing/VBG
+  for/IN
+  (NP (NBAR students/NNS))
+  is/VBZ
+  a/DT
+  (NP (NBAR good/JJ thing/NN))
+  ./.
+  Not/RB
+  so/IN
+  fast/RB
+  ./.)(S
   The/DT
   (NP (NBAR ACLU/NNP))
   and/CC
@@ -119,6 +186,78 @@
   on/IN
   this/DT
   (NP (NBAR issue/NN))
+  ./.)(S
+  The/DT
+  (NP (NBAR ACLU/NNP))
+  and/CC
+  (NP (NBAR others/NNS))
+  say/VBP
+  it/PRP
+  's/VBZ
+  a/DT
+  (NP (NBAR privacy/NN violation/NN))
+  ./.
+  And/CC
+  with/IN
+  us/PRP
+  now/RB
+  is/VBZ
+  (NP (NBAR Rebecca/NNP Rose/NNP Woodland/NNP))
+  ,/,
+  an/DT
+  (NP (NBAR attorney/NN))
+  who/WP
+  has/VBZ
+  (NP (NBAR strong/JJ opinions/NNS))
+  on/IN
+  this/DT
+  (NP (NBAR issue/NN))
+  ./.)(S
+  Now/RB
+  you/PRP
+  know/VBP
+  that/IN
+  the/DT
+  (NP (NBAR Supreme/NNP Court/NNP))
+  has/VBZ
+  said/VBD
+  ,/,
+  ``/``
+  that/IN
+  (NP (NBAR schools/NNS))
+  should/MD
+  be/VB
+  held/VBN
+  to/TO
+  a/DT
+  lower/JJR
+  (NP (NBAR standard/NN))
+  of/IN
+  (NP (NBAR search/NN))
+  and/CC
+  (NP (NBAR seizure/NN laws/NNS))
+  due/JJ
+  to/TO
+  the/DT
+  (NP (NBAR fact/NN))
+  that/IN
+  (NP (NBAR school/NN officials/NNS))
+  have/VBP
+  the/DT
+  (NP (NBAR responsibility/NN))
+  to/TO
+  maintain/VB
+  a/DT
+  (NP (NBAR proper/JJ learning/NN environment/NN))
+  ./.
+  ''/''
+  All/DT
+  (NP (NBAR right/NN))
+  ,/,
+  so/IN
+  you/PRP
+  know/VBP
+  that/DT
   ./.)(S
   Now/RB
   you/PRP
@@ -211,6 +350,86 @@
   You/PRP
   understand/VBP
   that/DT
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  (NP (NBAR OK/NN))
+  ./.
+  So/RB
+  as/IN
+  a/DT
+  (NP (NBAR former/JJ teacher/NN))
+  ,/,
+  I/PRP
+  say/VBP
+  if/IN
+  a/DT
+  (NP (NBAR school/NN))
+  has/VBZ
+  a/DT
+  (NP (NBAR drug/NN problem/NN))
+  ,/,
+  all/DT
+  (NP (NBAR right/NN))
+  ,/,
+  which/WDT
+  means/VBZ
+  there/EX
+  's/VBZ
+  an/DT
+  epidemic/JJ
+  ,/,
+  because/IN
+  (NP (NBAR drug/NN use/NN))
+  among/IN
+  (NP (NBAR children/NNS))
+  is/VBZ
+  a/DT
+  (NP (NBAR contagion/NN))
+  ./.
+  You/PRP
+  understand/VBP
+  that/DT
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  (NP (NBAR OK/NN))
+  ./.
+  So/RB
+  as/IN
+  a/DT
+  (NP (NBAR former/JJ teacher/NN))
+  ,/,
+  I/PRP
+  say/VBP
+  if/IN
+  a/DT
+  (NP (NBAR school/NN))
+  has/VBZ
+  a/DT
+  (NP (NBAR drug/NN problem/NN))
+  ,/,
+  all/DT
+  (NP (NBAR right/NN))
+  ,/,
+  which/WDT
+  means/VBZ
+  there/EX
+  's/VBZ
+  an/DT
+  epidemic/JJ
+  ,/,
+  because/IN
+  (NP (NBAR drug/NN use/NN))
+  among/IN
+  (NP (NBAR children/NNS))
+  is/VBZ
+  a/DT
+  (NP (NBAR contagion/NN))
+  ./.
+  You/PRP
+  understand/VBP
+  that/DT
   ./.)(S (NP (NBAR WOODLAND/NN)) :/: Absolutely/RB ./.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
@@ -231,6 +450,177 @@
   a/DT
   (NP (NBAR serious/JJ problem/NN))
   ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  Right/RB
+  ./.
+  The/DT
+  (NP (NBAR school/NN))
+  has/VBZ
+  a/DT
+  (NP (NBAR drug/NN problem/NN))
+  ./.
+  (NP (NBAR Random/NNP drug/NN testing/NN))
+  ,/,
+  taking/VBG
+  the/DT
+  (NP (NBAR hair/NN))
+  out/IN
+  of/IN
+  a/DT
+  (NP (NBAR kid/NN))
+  ,/,
+  all/DT
+  (NP (NBAR right/NN))
+  ,/,
+  with/IN
+  (NP (NBAR privacy/NN rights/NNS))
+  —/VBP
+  I/PRP
+  mean/VBP
+  ,/,
+  you/PRP
+  ca/MD
+  n't/RB
+  (NP (NBAR hand/NN))
+  it/PRP
+  over/IN
+  to/TO
+  the/DT
+  (NP (NBAR cops/NNS))
+  ,/,
+  only/RB
+  to/TO
+  (NP (NBAR school/NN officials/NNS))
+  and/CC
+  the/DT
+  (NP (NBAR parents/NNS))
+  know/VBP
+  (NP (NBAR —/NNP))
+  is/VBZ
+  an/DT
+  (NP (NBAR absolute/JJ legitimate/JJ tool/NN))
+  to/TO
+  use/VB
+  ./.
+  (NP (NBAR Am/NNP))
+  I/PRP
+  wrong/RB
+  ?/.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  Right/RB
+  ./.
+  The/DT
+  (NP (NBAR school/NN))
+  has/VBZ
+  a/DT
+  (NP (NBAR drug/NN problem/NN))
+  ./.
+  (NP (NBAR Random/NNP drug/NN testing/NN))
+  ,/,
+  taking/VBG
+  the/DT
+  (NP (NBAR hair/NN))
+  out/IN
+  of/IN
+  a/DT
+  (NP (NBAR kid/NN))
+  ,/,
+  all/DT
+  (NP (NBAR right/NN))
+  ,/,
+  with/IN
+  (NP (NBAR privacy/NN rights/NNS))
+  —/VBP
+  I/PRP
+  mean/VBP
+  ,/,
+  you/PRP
+  ca/MD
+  n't/RB
+  (NP (NBAR hand/NN))
+  it/PRP
+  over/IN
+  to/TO
+  the/DT
+  (NP (NBAR cops/NNS))
+  ,/,
+  only/RB
+  to/TO
+  (NP (NBAR school/NN officials/NNS))
+  and/CC
+  the/DT
+  (NP (NBAR parents/NNS))
+  know/VBP
+  (NP (NBAR —/NNP))
+  is/VBZ
+  an/DT
+  (NP (NBAR absolute/JJ legitimate/JJ tool/NN))
+  to/TO
+  use/VB
+  ./.
+  (NP (NBAR Am/NNP))
+  I/PRP
+  wrong/RB
+  ?/.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  Right/RB
+  ./.
+  The/DT
+  (NP (NBAR school/NN))
+  has/VBZ
+  a/DT
+  (NP (NBAR drug/NN problem/NN))
+  ./.
+  (NP (NBAR Random/NNP drug/NN testing/NN))
+  ,/,
+  taking/VBG
+  the/DT
+  (NP (NBAR hair/NN))
+  out/IN
+  of/IN
+  a/DT
+  (NP (NBAR kid/NN))
+  ,/,
+  all/DT
+  (NP (NBAR right/NN))
+  ,/,
+  with/IN
+  (NP (NBAR privacy/NN rights/NNS))
+  —/VBP
+  I/PRP
+  mean/VBP
+  ,/,
+  you/PRP
+  ca/MD
+  n't/RB
+  (NP (NBAR hand/NN))
+  it/PRP
+  over/IN
+  to/TO
+  the/DT
+  (NP (NBAR cops/NNS))
+  ,/,
+  only/RB
+  to/TO
+  (NP (NBAR school/NN officials/NNS))
+  and/CC
+  the/DT
+  (NP (NBAR parents/NNS))
+  know/VBP
+  (NP (NBAR —/NNP))
+  is/VBZ
+  an/DT
+  (NP (NBAR absolute/JJ legitimate/JJ tool/NN))
+  to/TO
+  use/VB
+  ./.
+  (NP (NBAR Am/NNP))
+  I/PRP
+  wrong/RB
+  ?/.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   Right/RB
@@ -356,6 +746,71 @@
   and/CC
   (NP (NBAR seizures/NNS))
   ./.)(S
+  (NP (NBAR WOODLAND/NNS))
+  :/:
+  We/PRP
+  've/VBP
+  got/VBN
+  the/DT
+  (NP (NBAR Fourth/NNP Amendment/NNP))
+  ,/,
+  right/RB
+  ?/.
+  We/PRP
+  have/VBP
+  (NP (NBAR protections/NNS))
+  ,/,
+  (NP (NBAR constitutional/JJ protections/NNS))
+  ,/,
+  for/IN
+  (NP (NBAR everyone/NN))
+  in/IN
+  the/DT
+  (NP (NBAR country/NN))
+  ,/,
+  not/RB
+  just/RB
+  (NP (NBAR students/NNS))
+  ,/,
+  (NP (NBAR everyone/NN))
+  ,/,
+  that/IN
+  we/PRP
+  ca/MD
+  n't/RB
+  have/VB
+  (NP (NBAR unlawful/JJ searches/NNS))
+  and/CC
+  (NP (NBAR seizures/NNS))
+  ./.)(S
+  The/DT
+  (NP (NBAR Supreme/NNP Court/NNP))
+  has/VBZ
+  held/VBN
+  that/IN
+  (NP (NBAR drug/NN testing/NN))
+  is/VBZ
+  a/DT
+  (NP (NBAR search/NN))
+  ./.
+  (NP (NBAR So/NNP let/NN))
+  's/POS
+  (NP (NBAR try/NN))
+  to/TO
+  make/VB
+  it/PRP
+  that/IN
+  the/DT
+  (NP (NBAR schools/NNS))
+  have/VBP
+  to/TO
+  justify/VB
+  the/DT
+  (NP (NBAR reasoning/NN))
+  for/IN
+  the/DT
+  (NP (NBAR testing/NN))
+  ./.)(S
   The/DT
   (NP (NBAR Supreme/NNP Court/NNP))
   has/VBZ
@@ -447,6 +902,313 @@
   all/PDT
   the/DT
   (NP (NBAR studies/NNS))
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  Well/RB
+  ,/,
+  they/PRP
+  do/VBP
+  justify/VB
+  it/PRP
+  ,/,
+  though/RB
+  ./.
+  They/PRP
+  say/VBP
+  that/IN
+  we/PRP
+  have/VBP
+  a/DT
+  (NP (NBAR problem/NN))
+  ./.
+  The/DT
+  (NP (NBAR school/NN))
+  has/VBZ
+  a/DT
+  (NP (NBAR problem/NN))
+  ./.
+  We/PRP
+  can/MD
+  document/VB
+  the/DT
+  (NP (NBAR problem/NN))
+  by/IN
+  showing/VBG
+  there/EX
+  are/VBP
+  (NP (NBAR kids/NNS))
+  in/IN
+  (NP (NBAR rehab/NN))
+  or/CC
+  whatever/WDT
+  ./.
+  And/CC
+  then/RB
+  ,/,
+  we/PRP
+  want/VBP
+  to/TO
+  deal/VB
+  with/IN
+  the/DT
+  (NP (NBAR problem/NN))
+  by/IN
+  (NP (NBAR random/NN))
+  ,/,
+  (NP (NBAR random/JJ drug/NN testing/NN))
+  because/IN
+  that/DT
+  drives/VBZ
+  use/VBP
+  down/RP
+  by/IN
+  all/PDT
+  the/DT
+  (NP (NBAR studies/NNS))
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  Well/RB
+  ,/,
+  they/PRP
+  do/VBP
+  justify/VB
+  it/PRP
+  ,/,
+  though/RB
+  ./.
+  They/PRP
+  say/VBP
+  that/IN
+  we/PRP
+  have/VBP
+  a/DT
+  (NP (NBAR problem/NN))
+  ./.
+  The/DT
+  (NP (NBAR school/NN))
+  has/VBZ
+  a/DT
+  (NP (NBAR problem/NN))
+  ./.
+  We/PRP
+  can/MD
+  document/VB
+  the/DT
+  (NP (NBAR problem/NN))
+  by/IN
+  showing/VBG
+  there/EX
+  are/VBP
+  (NP (NBAR kids/NNS))
+  in/IN
+  (NP (NBAR rehab/NN))
+  or/CC
+  whatever/WDT
+  ./.
+  And/CC
+  then/RB
+  ,/,
+  we/PRP
+  want/VBP
+  to/TO
+  deal/VB
+  with/IN
+  the/DT
+  (NP (NBAR problem/NN))
+  by/IN
+  (NP (NBAR random/NN))
+  ,/,
+  (NP (NBAR random/JJ drug/NN testing/NN))
+  because/IN
+  that/DT
+  drives/VBZ
+  use/VBP
+  down/RP
+  by/IN
+  all/PDT
+  the/DT
+  (NP (NBAR studies/NNS))
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  Well/RB
+  ,/,
+  they/PRP
+  do/VBP
+  justify/VB
+  it/PRP
+  ,/,
+  though/RB
+  ./.
+  They/PRP
+  say/VBP
+  that/IN
+  we/PRP
+  have/VBP
+  a/DT
+  (NP (NBAR problem/NN))
+  ./.
+  The/DT
+  (NP (NBAR school/NN))
+  has/VBZ
+  a/DT
+  (NP (NBAR problem/NN))
+  ./.
+  We/PRP
+  can/MD
+  document/VB
+  the/DT
+  (NP (NBAR problem/NN))
+  by/IN
+  showing/VBG
+  there/EX
+  are/VBP
+  (NP (NBAR kids/NNS))
+  in/IN
+  (NP (NBAR rehab/NN))
+  or/CC
+  whatever/WDT
+  ./.
+  And/CC
+  then/RB
+  ,/,
+  we/PRP
+  want/VBP
+  to/TO
+  deal/VB
+  with/IN
+  the/DT
+  (NP (NBAR problem/NN))
+  by/IN
+  (NP (NBAR random/NN))
+  ,/,
+  (NP (NBAR random/JJ drug/NN testing/NN))
+  because/IN
+  that/DT
+  drives/VBZ
+  use/VBP
+  down/RP
+  by/IN
+  all/PDT
+  the/DT
+  (NP (NBAR studies/NNS))
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  Well/RB
+  ,/,
+  they/PRP
+  do/VBP
+  justify/VB
+  it/PRP
+  ,/,
+  though/RB
+  ./.
+  They/PRP
+  say/VBP
+  that/IN
+  we/PRP
+  have/VBP
+  a/DT
+  (NP (NBAR problem/NN))
+  ./.
+  The/DT
+  (NP (NBAR school/NN))
+  has/VBZ
+  a/DT
+  (NP (NBAR problem/NN))
+  ./.
+  We/PRP
+  can/MD
+  document/VB
+  the/DT
+  (NP (NBAR problem/NN))
+  by/IN
+  showing/VBG
+  there/EX
+  are/VBP
+  (NP (NBAR kids/NNS))
+  in/IN
+  (NP (NBAR rehab/NN))
+  or/CC
+  whatever/WDT
+  ./.
+  And/CC
+  then/RB
+  ,/,
+  we/PRP
+  want/VBP
+  to/TO
+  deal/VB
+  with/IN
+  the/DT
+  (NP (NBAR problem/NN))
+  by/IN
+  (NP (NBAR random/NN))
+  ,/,
+  (NP (NBAR random/JJ drug/NN testing/NN))
+  because/IN
+  that/DT
+  drives/VBZ
+  use/VBP
+  down/RP
+  by/IN
+  all/PDT
+  the/DT
+  (NP (NBAR studies/NNS))
+  ./.)(S
+  (NP (NBAR WOODLAND/NN))
+  :/:
+  Well/RB
+  ,/,
+  the/DT
+  (NP (NBAR studies/NNS))
+  say/VBP
+  that/IN
+  it/PRP
+  drives/VBZ
+  use/VBP
+  down/RP
+  a/DT
+  (NP (NBAR bit/NN))
+  ,/,
+  but/CC
+  there/EX
+  are/VBP
+  (NP (NBAR studies/NNS))
+  that/WDT
+  show/VBP
+  that/IN
+  (NP (NBAR extracurricular/JJ activities/NNS))
+  drive/VBP
+  (NP (NBAR drug/NN))
+  use/VBP
+  down/RP
+  ./.
+  So/RB
+  I/PRP
+  think/VBP
+  what/WP
+  we/PRP
+  want/VBP
+  to/TO
+  say/VB
+  ,/,
+  is/VBZ
+  if/IN
+  there/EX
+  's/VBZ
+  a/DT
+  (NP (NBAR reason/NN))
+  ,/,
+  let/VB
+  's/POS
+  allow/VB
+  them/PRP
+  to/TO
+  (NP (NBAR drug/NN test/NN))
   ./.)(S
   (NP (NBAR WOODLAND/NN))
   :/:
@@ -565,6 +1327,193 @@
   including/VBG
   (NP (NBAR children/NNS))
   ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  The/DT
+  (NP (NBAR ACLU/NNP))
+  says/VBZ
+  no/DT
+  ,/,
+  flat/VBZ
+  out/RP
+  no/DT
+  ./.
+  You/PRP
+  're/VBP
+  invading/VBG
+  the/DT
+  (NP (NBAR privacy/NN))
+  of/IN
+  the/DT
+  (NP (NBAR child/NN))
+  ./.
+  And/CC
+  you/PRP
+  know/VBP
+  ,/,
+  the/DT
+  (NP (NBAR ACLU/NNP))
+  ,/,
+  by/IN
+  the/DT
+  (NP (NBAR way/NN))
+  ,/,
+  the/DT
+  (NP (NBAR reason/NN))
+  they/PRP
+  do/VBP
+  this/DT
+  is/VBZ
+  because/IN
+  they/PRP
+  want/VBP
+  (NP (NBAR drugs/NNS))
+  legalized/VBN
+  ./.
+  They/PRP
+  believe/VBP
+  that/IN
+  (NP (NBAR everybody/NN))
+  has/VBZ
+  a/DT
+  (NP (NBAR right/NN))
+  to/TO
+  poison/VB
+  themself/PRP
+  ,/,
+  including/VBG
+  (NP (NBAR children/NNS))
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  The/DT
+  (NP (NBAR ACLU/NNP))
+  says/VBZ
+  no/DT
+  ,/,
+  flat/VBZ
+  out/RP
+  no/DT
+  ./.
+  You/PRP
+  're/VBP
+  invading/VBG
+  the/DT
+  (NP (NBAR privacy/NN))
+  of/IN
+  the/DT
+  (NP (NBAR child/NN))
+  ./.
+  And/CC
+  you/PRP
+  know/VBP
+  ,/,
+  the/DT
+  (NP (NBAR ACLU/NNP))
+  ,/,
+  by/IN
+  the/DT
+  (NP (NBAR way/NN))
+  ,/,
+  the/DT
+  (NP (NBAR reason/NN))
+  they/PRP
+  do/VBP
+  this/DT
+  is/VBZ
+  because/IN
+  they/PRP
+  want/VBP
+  (NP (NBAR drugs/NNS))
+  legalized/VBN
+  ./.
+  They/PRP
+  believe/VBP
+  that/IN
+  (NP (NBAR everybody/NN))
+  has/VBZ
+  a/DT
+  (NP (NBAR right/NN))
+  to/TO
+  poison/VB
+  themself/PRP
+  ,/,
+  including/VBG
+  (NP (NBAR children/NNS))
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  The/DT
+  (NP (NBAR ACLU/NNP))
+  says/VBZ
+  no/DT
+  ,/,
+  flat/VBZ
+  out/RP
+  no/DT
+  ./.
+  You/PRP
+  're/VBP
+  invading/VBG
+  the/DT
+  (NP (NBAR privacy/NN))
+  of/IN
+  the/DT
+  (NP (NBAR child/NN))
+  ./.
+  And/CC
+  you/PRP
+  know/VBP
+  ,/,
+  the/DT
+  (NP (NBAR ACLU/NNP))
+  ,/,
+  by/IN
+  the/DT
+  (NP (NBAR way/NN))
+  ,/,
+  the/DT
+  (NP (NBAR reason/NN))
+  they/PRP
+  do/VBP
+  this/DT
+  is/VBZ
+  because/IN
+  they/PRP
+  want/VBP
+  (NP (NBAR drugs/NNS))
+  legalized/VBN
+  ./.
+  They/PRP
+  believe/VBP
+  that/IN
+  (NP (NBAR everybody/NN))
+  has/VBZ
+  a/DT
+  (NP (NBAR right/NN))
+  to/TO
+  poison/VB
+  themself/PRP
+  ,/,
+  including/VBG
+  (NP (NBAR children/NNS))
+  ./.)(S
+  (NP (NBAR WOODLAND/NN))
+  :/:
+  Well/RB
+  ,/,
+  that/DT
+  's/VBZ
+  a/DT
+  (NP (NBAR problem/NN))
+  ./.
+  I/PRP
+  mean/VBP
+  ,/,
+  I/PRP
+  agree/VBP
+  that/DT
+  ./.)(S
   (NP (NBAR WOODLAND/NN))
   :/:
   Well/RB
@@ -609,6 +1558,23 @@
   I/PRP
   do/VBP
   n't/RB
+  ./.)(S
+  (NP (NBAR WOODLAND/NNS))
+  :/:
+  Who/WP
+  would/MD
+  agree/VB
+  that/IN
+  (NP (NBAR drugs/NNS))
+  are/VBP
+  appropriate/JJ
+  for/IN
+  a/DT
+  (NP (NBAR child/NN))
+  ?/.
+  I/PRP
+  do/VBP
+  n't/RB
   ./.)(S (NP (NBAR O'REILLY/NN)) :/: Well/RB .../:)(S
   (NP (NBAR WOODLAND/NNS))
   :/:
@@ -621,6 +1587,82 @@
   ,/,
   right/RB
   ?/.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  Let/VB
+  's/POS
+  be/VB
+  honest/VBN
+  ./.
+  The/DT
+  (NP (NBAR ACLU/NNP))
+  is/VBZ
+  not/RB
+  saying/VBG
+  they/PRP
+  're/VBP
+  appropriate/JJ
+  ./.
+  They/PRP
+  're/VBP
+  saying/VBG
+  that/IN
+  the/DT
+  (NP (NBAR privacy/NN rights/NNS))
+  of/IN
+  the/DT
+  (NP (NBAR child/NN))
+  override/IN
+  any/DT
+  (NP (NBAR attempt/NN))
+  to/TO
+  try/VB
+  to/TO
+  keep/VB
+  the/DT
+  (NP (NBAR child/NN))
+  away/RB
+  from/IN
+  (NP (NBAR drugs/NNS))
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  Let/VB
+  's/POS
+  be/VB
+  honest/VBN
+  ./.
+  The/DT
+  (NP (NBAR ACLU/NNP))
+  is/VBZ
+  not/RB
+  saying/VBG
+  they/PRP
+  're/VBP
+  appropriate/JJ
+  ./.
+  They/PRP
+  're/VBP
+  saying/VBG
+  that/IN
+  the/DT
+  (NP (NBAR privacy/NN rights/NNS))
+  of/IN
+  the/DT
+  (NP (NBAR child/NN))
+  override/IN
+  any/DT
+  (NP (NBAR attempt/NN))
+  to/TO
+  try/VB
+  to/TO
+  keep/VB
+  the/DT
+  (NP (NBAR child/NN))
+  away/RB
+  from/IN
+  (NP (NBAR drugs/NNS))
+  ./.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   Let/VB
@@ -706,12 +1748,69 @@
   being/VBG
   eroded/VBD
   .../:)(S
+  (NP (NBAR WOODLAND/NN))
+  :/:
+  You/PRP
+  know/VBP
+  ,/,
+  they/PRP
+  use/VBP
+  —/JJ
+  whatever/WDT
+  their/PRP$
+  (NP (NBAR background/NN))
+  is/VBZ
+  ,/,
+  whatever/WDT
+  reasoning/VBG
+  they/PRP
+  have/VBP
+  ,/,
+  they/PRP
+  do/VBP
+  support/VB
+  it/PRP
+  with/IN
+  a/DT
+  (NP (NBAR constitutional/JJ argument/NN))
+  ./.
+  And/CC
+  the/DT
+  (NP (NBAR thing/NN))
+  is/VBZ
+  ,/,
+  (NP (NBAR Bill/NNP))
+  ,/,
+  we/PRP
+  do/VBP
+  n't/RB
+  want/VB
+  to/TO
+  have/VB
+  the/DT
+  (NP (NBAR slippery/NN slope/NN))
+  of/IN
+  the/DT
+  (NP (NBAR Constitution/NNP))
+  being/VBG
+  eroded/VBD
+  .../:)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   The/DT
   (NP (NBAR slippery/NN slope/NN))
   again/RB
   !/.)(S
+  (NP (NBAR WOODLAND/NN))
+  :/:
+  No/UH
+  ,/,
+  come/VB
+  on/IN
+  ./.
+  I/PRP
+  mean/VBP
+  ./.)(S
   (NP (NBAR WOODLAND/NN))
   :/:
   No/UH
@@ -742,6 +1841,36 @@
   (NP (NBAR slope/NN))
   later/RB
   ./.)(S
+  WOODLAND/IN
+  :/:
+  I/PRP
+  agree/VBP
+  ./.
+  How/WRB
+  about/IN
+  we/PRP
+  address/VBP
+  the/DT
+  (NP (NBAR parents/NNS))
+  ?/.
+  Can/MD
+  the/DT
+  (NP (NBAR parents…/NN)))(S
+  WOODLAND/IN
+  :/:
+  I/PRP
+  agree/VBP
+  ./.
+  How/WRB
+  about/IN
+  we/PRP
+  address/VBP
+  the/DT
+  (NP (NBAR parents/NNS))
+  ?/.
+  Can/MD
+  the/DT
+  (NP (NBAR parents…/NN)))(S
   WOODLAND/IN
   :/:
   I/PRP
@@ -798,6 +1927,15 @@
   ,/,
   sometimes/RB
   ./.)(S
+  WOODLAND/IN
+  :/:
+  I/PRP
+  agree/VBP
+  ./.
+  (NP (NBAR Well/NNP))
+  ,/,
+  sometimes/RB
+  ./.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   The/DT
@@ -806,6 +1944,17 @@
   an/DT
   (NP (NBAR obligation/NN))
   ./.)(S (NP (NBAR WOODLAND/NNS)) :/: Yes/UH ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  The/DT
+  (NP (NBAR school/NN))
+  has/VBZ
+  an/DT
+  (NP (NBAR obligation/NN))
+  ,/,
+  (NP (NBAR No/NNP))
+  ./.
+  1…/CD)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   The/DT
@@ -870,6 +2019,84 @@
   Come/VB
   on/IN
   !/.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  No/DT
+  ./.
+  2/CD
+  (NP (NBAR —/NN))
+  has/VBZ
+  an/DT
+  (NP (NBAR obligation/NN))
+  to/TO
+  protect/VB
+  the/DT
+  (NP (NBAR students/NNS))
+  and/CC
+  (NP (NBAR random/JJ drug/NN))
+  testing/VBG
+  (NP (NBAR protects/NNS))
+  them/PRP
+  by/IN
+  discouraging/VBG
+  (NP (NBAR drug/NN use/NN))
+  on/IN
+  (NP (NBAR campus/NN))
+  ./.
+  Come/VB
+  on/IN
+  !/.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  No/DT
+  ./.
+  2/CD
+  (NP (NBAR —/NN))
+  has/VBZ
+  an/DT
+  (NP (NBAR obligation/NN))
+  to/TO
+  protect/VB
+  the/DT
+  (NP (NBAR students/NNS))
+  and/CC
+  (NP (NBAR random/JJ drug/NN))
+  testing/VBG
+  (NP (NBAR protects/NNS))
+  them/PRP
+  by/IN
+  discouraging/VBG
+  (NP (NBAR drug/NN use/NN))
+  on/IN
+  (NP (NBAR campus/NN))
+  ./.
+  Come/VB
+  on/IN
+  !/.)(S
+  (NP (NBAR WOODLAND/NN))
+  :/:
+  As/RB
+  long/RB
+  as/IN
+  we/PRP
+  do/VBP
+  it/PRP
+  within/IN
+  the/DT
+  (NP (NBAR constitutional/JJ rights/NNS))
+  that/IN
+  (NP (NBAR everybody/NN))
+  has/VBZ
+  ./.
+  (NP (NBAR See/NNP))
+  ,/,
+  then/RB
+  we/PRP
+  allow/VBP
+  (NP (NBAR everyone/NN))
+  to/TO
+  have/VB
+  (NP (NBAR constitutional/JJ rights…/NN)))(S
   (NP (NBAR WOODLAND/NN))
   :/:
   As/RB
@@ -994,6 +2221,37 @@
   ./.
   OK/UH
   ?/.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  (NP (NBAR Look/NN))
+  ,/,
+  I/PRP
+  'm/VBP
+  telling/VBG
+  you/PRP
+  ,/,
+  that/IN
+  the/DT
+  (NP (NBAR state/NN))
+  of/IN
+  (NP (NBAR Wisconsin/NNP Supreme/NNP Court/NNP))
+  ruled/VBD
+  that/IN
+  you/PRP
+  can/MD
+  search/VB
+  a/DT
+  (NP (NBAR kid/NN))
+  's/POS
+  (NP (NBAR locker/NN))
+  because/IN
+  the/DT
+  (NP (NBAR locker/NN))
+  is/VBZ
+  (NP (NBAR school/NN property/NN))
+  ./.
+  OK/UH
+  ?/.)(S
   (NP (NBAR WOODLAND/NN))
   :/:
   Well/RB
@@ -1057,7 +2315,7 @@
   coming/VBG
   on/IN
   in/IN
-  ./.)(S )(S )(S )(S
+  ./.)(S
   For/IN
   more/JJR
   (NP (NBAR news/NN))
@@ -1070,4 +2328,4 @@
   here/RB
   for/IN
   (NP (NBAR NYPost.com/NNP))
-  ./.)(S )(S )
+  ./.)

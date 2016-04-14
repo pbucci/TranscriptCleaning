@@ -1,4 +1,4 @@
-(S )(S )(S By/IN (NP (NBAR Bill/NNP O'Reilly/NNP)))(S )(S
+(S By/IN (NP (NBAR Bill/NNP O'Reilly/NNP)))(S
   As/IN
   we/PRP
   reported/VBD
@@ -21,7 +21,7 @@
   (NP (NBAR Muslim/NNP terrorism/NN))
   in/IN
   (NP (NBAR America/NNP))
-  ./.)(S )(S
+  ./.)(S
   Just/RB
   the/DT
   (NP (NBAR thought/NN))
@@ -42,7 +42,7 @@
   (NP (NBAR Congress/NNP))
   ,/,
   (NP (NBAR Keith/NNP Ellison/NNP))
-  :/:)(S )(S (/( (NP (NBAR BEGIN/NNP VIDEO/NNP CLIP/NNP)) )/))(S )(S
+  :/:)(S (/( (NP (NBAR BEGIN/NNP VIDEO/NNP CLIP/NNP)) )/))(S
   (NP (NBAR REP./NNP KEITH/NNP ELLISON/NNP))
   ,/,
   (NP (NBAR D-MINN./NNP))
@@ -118,7 +118,159 @@
   (NP (NBAR Timothy/NNP McVeigh/NNP))
   and/CC
   (NP (NBAR other/JJ things/NNS))
-  ?/.)(S )(S (/( (NP (NBAR END/NNP VIDEO/NNP CLIP/NNP)) )/))(S )(S
+  ?/.)(S
+  (NP (NBAR REP./NNP KEITH/NNP ELLISON/NNP))
+  ,/,
+  (NP (NBAR D-MINN./NNP))
+  :/:
+  I/PRP
+  actually/RB
+  approached/VBD
+  (NP (NBAR Congressman/NNP King/NNP))
+  on/IN
+  the/DT
+  (NP (NBAR House/NNP floor/NN))
+  and/CC
+  told/VBD
+  him/PRP
+  that/IN
+  ,/,
+  you/PRP
+  know/VBP
+  ,/,
+  look/VBP
+  ,/,
+  we/PRP
+  all/DT
+  need/VBP
+  to/TO
+  be/VB
+  concerned/VBN
+  about/IN
+  (NP (NBAR violent/JJ radicalization/NN))
+  but/CC
+  not/RB
+  just/RB
+  against/IN
+  (NP (NBAR Muslims/NNP))
+  ;/:
+  against/IN
+  (NP (NBAR anybody/NN))
+  ./.
+  What/WP
+  about/IN
+  the/DT
+  (NP (NBAR guy/NN))
+  who/WP
+  flew/VBD
+  the/DT
+  (NP (NBAR plane/NN))
+  into/IN
+  the/DT
+  (NP (NBAR IRS/NNP))
+  or/CC
+  what/WP
+  about/IN
+  the/DT
+  (NP (NBAR guy/NN))
+  who/WP
+  killed/VBD
+  a/DT
+  (NP (NBAR guard/NN))
+  at/IN
+  the/DT
+  (NP (NBAR Holocaust/NNP Museum/NNP))
+  ?/.
+  What/WP
+  about/IN
+  all/PDT
+  these/DT
+  (NP (NBAR things/NNS))
+  that/IN
+  we/PRP
+  have/VBP
+  seen/VBN
+  like/IN
+  (NP (NBAR Timothy/NNP McVeigh/NNP))
+  and/CC
+  (NP (NBAR other/JJ things/NNS))
+  ?/.)(S
+  (NP (NBAR REP./NNP KEITH/NNP ELLISON/NNP))
+  ,/,
+  (NP (NBAR D-MINN./NNP))
+  :/:
+  I/PRP
+  actually/RB
+  approached/VBD
+  (NP (NBAR Congressman/NNP King/NNP))
+  on/IN
+  the/DT
+  (NP (NBAR House/NNP floor/NN))
+  and/CC
+  told/VBD
+  him/PRP
+  that/IN
+  ,/,
+  you/PRP
+  know/VBP
+  ,/,
+  look/VBP
+  ,/,
+  we/PRP
+  all/DT
+  need/VBP
+  to/TO
+  be/VB
+  concerned/VBN
+  about/IN
+  (NP (NBAR violent/JJ radicalization/NN))
+  but/CC
+  not/RB
+  just/RB
+  against/IN
+  (NP (NBAR Muslims/NNP))
+  ;/:
+  against/IN
+  (NP (NBAR anybody/NN))
+  ./.
+  What/WP
+  about/IN
+  the/DT
+  (NP (NBAR guy/NN))
+  who/WP
+  flew/VBD
+  the/DT
+  (NP (NBAR plane/NN))
+  into/IN
+  the/DT
+  (NP (NBAR IRS/NNP))
+  or/CC
+  what/WP
+  about/IN
+  the/DT
+  (NP (NBAR guy/NN))
+  who/WP
+  killed/VBD
+  a/DT
+  (NP (NBAR guard/NN))
+  at/IN
+  the/DT
+  (NP (NBAR Holocaust/NNP Museum/NNP))
+  ?/.
+  What/WP
+  about/IN
+  all/PDT
+  these/DT
+  (NP (NBAR things/NNS))
+  that/IN
+  we/PRP
+  have/VBP
+  seen/VBN
+  like/IN
+  (NP (NBAR Timothy/NNP McVeigh/NNP))
+  and/CC
+  (NP (NBAR other/JJ things/NNS))
+  ?/.)(S (/( (NP (NBAR END/NNP VIDEO/NNP CLIP/NNP)) )/))(S
   That/DT
   is/VBZ
   an/DT
@@ -140,7 +292,29 @@
   (NP (NBAR CAIR/NNP))
   well/RB
   know/VBP
-  ./.)(S )(S
+  ./.)(S
+  That/DT
+  is/VBZ
+  an/DT
+  (NP (NBAR outrageous/JJ canard/NN))
+  ,/,
+  a/DT
+  (NP (NBAR rhetorical/JJ ruse/NN))
+  ./.
+  (NP (NBAR Individual/JJ terrorism/NN))
+  is/VBZ
+  far/RB
+  different/JJ
+  from/IN
+  (NP (NBAR Islamic/NNP jihad/NN))
+  ,/,
+  as/IN
+  (NP (NBAR Mr./NNP Ellison/NNP))
+  and/CC
+  (NP (NBAR CAIR/NNP))
+  well/RB
+  know/VBP
+  ./.)(S
   The/DT
   (NP (NBAR Muslim/NNP))
   jihad/VBD
@@ -183,7 +357,50 @@
   (NP (NBAR terrorism/NN))
   is/VBZ
   insane/JJ
-  ./.)(S )(S
+  ./.)(S
+  The/DT
+  (NP (NBAR Muslim/NNP))
+  jihad/VBD
+  (NP (NBAR worldwide/NN))
+  has/VBZ
+  killed/VBN
+  (NP (NBAR tens/NNS))
+  of/IN
+  (NP (NBAR thousands/NNS))
+  of/IN
+  (NP (NBAR people/NNS))
+  ,/,
+  and/CC
+  (NP (NBAR Islamic/NNP theocracies/NNS))
+  like/IN
+  (NP (NBAR Iran/NNP))
+  are/VBP
+  threatening/VBG
+  the/DT
+  (NP (NBAR world/NN))
+  ./.
+  So/IN
+  to/TO
+  say/VB
+  that/IN
+  (NP (NBAR Muslim/NNP terrorism/NN))
+  inside/IN
+  the/DT
+  (NP (NBAR USA/NNP))
+  should/MD
+  not/RB
+  be/VB
+  scrutinized/VBN
+  because/IN
+  a/DT
+  (NP (NBAR few/JJ non-Muslims/NNS))
+  have/VBP
+  engaged/VBN
+  in/IN
+  (NP (NBAR terrorism/NN))
+  is/VBZ
+  insane/JJ
+  ./.)(S
   In/IN
   the/DT
   past/JJ
@@ -210,7 +427,34 @@
   in/IN
   13/CD
   (NP (NBAR dead/JJ Americans/NNPS))
-  ./.)(S )(S
+  ./.)(S
+  In/IN
+  the/DT
+  past/JJ
+  two/CD
+  (NP (NBAR years/NNS))
+  ,/,
+  24/CD
+  (NP (NBAR Muslim/NNP terror/NN plots/NNS))
+  have/VBP
+  been/VBN
+  exposed/VBN
+  in/IN
+  this/DT
+  (NP (NBAR country/NN))
+  ./.
+  One/CD
+  of/IN
+  them/PRP
+  ,/,
+  the/DT
+  (NP (NBAR Fort/NNP Hood/NNP massacre/NN))
+  ,/,
+  resulted/VBD
+  in/IN
+  13/CD
+  (NP (NBAR dead/JJ Americans/NNPS))
+  ./.)(S
   As/IN
   you/PRP
   may/MD
@@ -235,7 +479,7 @@
   to/TO
   the/DT
   (NP (NBAR USA/NNP))
-  ./.)(S )(S
+  ./.)(S
   To/TO
   be/VB
   fair/JJ
@@ -259,7 +503,55 @@
   really/RB
   believe/VBP
   that/IN
-  ./.)(S )(S
+  ./.)(S
+  To/TO
+  be/VB
+  fair/JJ
+  ,/,
+  however/RB
+  ,/,
+  the/DT
+  (NP (NBAR jihad/NN))
+  has/VBZ
+  not/RB
+  caught/VBN
+  on/IN
+  here/RB
+  ./.
+  Most/JJS
+  (NP (NBAR American/JJ Muslims/NNP despise/NN))
+  the/DT
+  (NP (NBAR terror/NN activity/NN))
+  ./.
+  I/PRP
+  really/RB
+  believe/VBP
+  that/IN
+  ./.)(S
+  To/TO
+  be/VB
+  fair/JJ
+  ,/,
+  however/RB
+  ,/,
+  the/DT
+  (NP (NBAR jihad/NN))
+  has/VBZ
+  not/RB
+  caught/VBN
+  on/IN
+  here/RB
+  ./.
+  Most/JJS
+  (NP (NBAR American/JJ Muslims/NNP despise/NN))
+  the/DT
+  (NP (NBAR terror/NN activity/NN))
+  ./.
+  I/PRP
+  really/RB
+  believe/VBP
+  that/IN
+  ./.)(S
   The/DT
   (NP (NBAR House/NNP hearings/NNS))
   would/MD
@@ -282,7 +574,7 @@
   they/PRP
   are/VBP
   here/RB
-  ./.)(S )(S
+  ./.)(S
   (NP (NBAR Are/NNP))
   you/PRP
   getting/VBG
@@ -293,7 +585,18 @@
   They/PRP
   are/VBP
   here/RB
-  ./.)(S )(S
+  ./.)(S
+  (NP (NBAR Are/NNP))
+  you/PRP
+  getting/VBG
+  that/IN
+  ,/,
+  (NP (NBAR Congressman/NNP Ellison/NNP))
+  ?/.
+  They/PRP
+  are/VBP
+  here/RB
+  ./.)(S
   To/TO
   ignore/VB
   the/DT
@@ -336,7 +639,93 @@
   in/IN
   the/DT
   (NP (NBAR liberal/JJ community/NN despise/NN))
-  ./.)(S )(S
+  ./.)(S
+  To/TO
+  ignore/VB
+  the/DT
+  (NP (NBAR threat/NN))
+  would/MD
+  be/VB
+  absolutely/RB
+  irresponsible/JJ
+  ./.
+  That/DT
+  's/VBZ
+  why/WRB
+  the/DT
+  (NP (NBAR Obama/NNP administration/NN))
+  is/VBZ
+  spending/VBG
+  (NP (NBAR billions/NNS))
+  of/IN
+  (NP (NBAR dollars/NNS))
+  on/IN
+  foreign/JJ
+  and/CC
+  (NP (NBAR domestic/JJ intelligence/NN))
+  ./.
+  Even/RB
+  a/DT
+  (NP (NBAR liberal/JJ guy/NN))
+  like/IN
+  (NP (NBAR Attorney/NNP General/NNP Eric/NNP Holder/NNP))
+  is/VBZ
+  aggressively/RB
+  (NP (NBAR investigating/JJ terror/NN activity/NN))
+  by/IN
+  setting/VBG
+  up/RP
+  (NP (NBAR stings/NNS))
+  ,/,
+  which/WDT
+  many/JJ
+  in/IN
+  the/DT
+  (NP (NBAR liberal/JJ community/NN despise/NN))
+  ./.)(S
+  To/TO
+  ignore/VB
+  the/DT
+  (NP (NBAR threat/NN))
+  would/MD
+  be/VB
+  absolutely/RB
+  irresponsible/JJ
+  ./.
+  That/DT
+  's/VBZ
+  why/WRB
+  the/DT
+  (NP (NBAR Obama/NNP administration/NN))
+  is/VBZ
+  spending/VBG
+  (NP (NBAR billions/NNS))
+  of/IN
+  (NP (NBAR dollars/NNS))
+  on/IN
+  foreign/JJ
+  and/CC
+  (NP (NBAR domestic/JJ intelligence/NN))
+  ./.
+  Even/RB
+  a/DT
+  (NP (NBAR liberal/JJ guy/NN))
+  like/IN
+  (NP (NBAR Attorney/NNP General/NNP Eric/NNP Holder/NNP))
+  is/VBZ
+  aggressively/RB
+  (NP (NBAR investigating/JJ terror/NN activity/NN))
+  by/IN
+  setting/VBG
+  up/RP
+  (NP (NBAR stings/NNS))
+  ,/,
+  which/WDT
+  many/JJ
+  in/IN
+  the/DT
+  (NP (NBAR liberal/JJ community/NN despise/NN))
+  ./.)(S
   In/IN
   (NP (NBAR order/NN))
   to/TO
@@ -376,7 +765,47 @@
   among/IN
   the/DT
   (NP (NBAR jihadists/NNS))
-  ./.)(S )(S
+  ./.)(S
+  In/IN
+  (NP (NBAR order/NN))
+  to/TO
+  protect/VB
+  us/PRP
+  from/IN
+  (NP (NBAR terror-killers/NNS))
+  ,/,
+  our/PRP$
+  (NP (NBAR government/NN))
+  must/MD
+  be/VB
+  pro-active/JJ
+  ./.
+  It/PRP
+  must/MD
+  have/VB
+  as/RB
+  (NP (NBAR much/JJ information/NN))
+  as/IN
+  possible/JJ
+  ,/,
+  and/CC
+  these/DT
+  (NP (NBAR congressional/JJ hearings/NNS))
+  can/MD
+  better/VB
+  inform/VB
+  you/PRP
+  and/CC
+  me/PRP
+  about/IN
+  what/WP
+  's/VBZ
+  going/VBG
+  on/IN
+  among/IN
+  the/DT
+  (NP (NBAR jihadists/NNS))
+  ./.)(S
   We/PRP
   do/VBP
   know/VB
@@ -422,7 +851,99 @@
   we/PRP
   will/MD
   be/VB
-  ./.)(S )(S
+  ./.)(S
+  We/PRP
+  do/VBP
+  know/VB
+  that/IN
+  there/EX
+  are/VBP
+  (NP (NBAR Americans/NNPS))
+  who/WP
+  are/VBP
+  funding/VBG
+  (NP (NBAR radical/JJ Islamists/NNS))
+  ./.
+  We/PRP
+  also/RB
+  know/VBP
+  there/EX
+  are/VBP
+  (NP (NBAR Americans/NNPS))
+  working/VBG
+  with/IN
+  (NP (NBAR Al/NNP Qaeda/NNP terror/NN cells/NNS))
+  ./.
+  The/DT
+  more/JJR
+  (NP (NBAR heat/NN))
+  we/PRP
+  can/MD
+  put/VB
+  on/IN
+  these/DT
+  (NP (NBAR people/NNS))
+  and/CC
+  the/DT
+  more/RBR
+  we/PRP
+  can/MD
+  expose/VB
+  their/PRP$
+  (NP (NBAR structure/NN))
+  ,/,
+  the/DT
+  (NP (NBAR safer/NN))
+  we/PRP
+  will/MD
+  be/VB
+  ./.)(S
+  We/PRP
+  do/VBP
+  know/VB
+  that/IN
+  there/EX
+  are/VBP
+  (NP (NBAR Americans/NNPS))
+  who/WP
+  are/VBP
+  funding/VBG
+  (NP (NBAR radical/JJ Islamists/NNS))
+  ./.
+  We/PRP
+  also/RB
+  know/VBP
+  there/EX
+  are/VBP
+  (NP (NBAR Americans/NNPS))
+  working/VBG
+  with/IN
+  (NP (NBAR Al/NNP Qaeda/NNP terror/NN cells/NNS))
+  ./.
+  The/DT
+  more/JJR
+  (NP (NBAR heat/NN))
+  we/PRP
+  can/MD
+  put/VB
+  on/IN
+  these/DT
+  (NP (NBAR people/NNS))
+  and/CC
+  the/DT
+  more/RBR
+  we/PRP
+  can/MD
+  expose/VB
+  their/PRP$
+  (NP (NBAR structure/NN))
+  ,/,
+  the/DT
+  (NP (NBAR safer/NN))
+  we/PRP
+  will/MD
+  be/VB
+  ./.)(S
   (NP (NBAR Congressman/NNP Ellison/NNP))
   and/CC
   (NP (NBAR CAIR/NNP))
@@ -436,7 +957,21 @@
   out/RP
   for/IN
   us/PRP
-  ./.)(S )(S And/CC that/DT 's/VBZ ``/`` The/DT (NP (NBAR Memo/NNP)) ./. ''/'')(S )(S (NP (NBAR Pinheads/NNP)) &/CC (NP (NBAR Patriots/NNP)))(S )(S
+  ./.)(S
+  (NP (NBAR Congressman/NNP Ellison/NNP))
+  and/CC
+  (NP (NBAR CAIR/NNP))
+  are/VBP
+  misguided/VBN
+  ./.
+  They/PRP
+  are/VBP
+  not/RB
+  looking/VBG
+  out/RP
+  for/IN
+  us/PRP
+  ./.)(S And/CC that/DT 's/VBZ ``/`` The/DT (NP (NBAR Memo/NNP)) ./. ''/'')(S (NP (NBAR Pinheads/NNP)) &/CC (NP (NBAR Patriots/NNP)))(S
   As/IN
   you/PRP
   know/VBP
@@ -468,14 +1003,14 @@
   in/IN
   a/DT
   (NP (NBAR shopping/NN mall/NN))
-  ./.)(S )(S
+  ./.)(S
   (NP (NBAR Click/NNP))
   here/RB
   to/TO
   watch/VB
   the/DT
   (NP (NBAR video/NN))
-  !/.)(S )(S
+  !/.)(S
   Is/VBZ
   the/DT
   choir/JJ
@@ -495,7 +1030,27 @@
   (NP (NBAR Please/NNP vote/NN))
   on/IN
   (NP (NBAR BillOReilly.com/NNP))
-  ./.)(S )(S
+  ./.)(S
+  Is/VBZ
+  the/DT
+  choir/JJ
+  patriotic/JJ
+  or/CC
+  pinheaded/VBN
+  for/IN
+  intruding/VBG
+  on/IN
+  (NP (NBAR people/NNS))
+  who/WP
+  might/MD
+  not/RB
+  like/VB
+  (NP (NBAR Christmas/NNP songs/NNS))
+  ?/.
+  (NP (NBAR Please/NNP vote/NN))
+  on/IN
+  (NP (NBAR BillOReilly.com/NNP))
+  ./.)(S
   (NP (NBAR Monday/NNP night/NN))
   we/PRP
   showed/VBD
@@ -553,4 +1108,178 @@
   what/WP
   we/PRP
   expected/VBD
-  ./.)(S )(S )
+  ./.)(S
+  (NP (NBAR Monday/NNP night/NN))
+  we/PRP
+  showed/VBD
+  you/PRP
+  a/DT
+  very/RB
+  (NP (NBAR strange/JJ thing/NN))
+  ./.
+  (NP (NBAR Ms./NNP Joy/NNP Behar/NNP))
+  ,/,
+  who/WP
+  I/PRP
+  think/VBP
+  might/MD
+  have/VB
+  a/DT
+  (NP (NBAR crush/NN))
+  on/IN
+  me/PRP
+  ,/,
+  issued/VBD
+  a/DT
+  (NP (NBAR holiday/JJ card/NN))
+  ,/,
+  and/CC
+  I/PRP
+  really/RB
+  object/VBP
+  to/TO
+  the/DT
+  (NP (NBAR shirt/NN))
+  ./.
+  (NP (NBAR Ninety-five/JJ percent/NN))
+  of/IN
+  you/PRP
+  believe/VBP
+  (NP (NBAR Ms./NNP Behar/NNP))
+  is/VBZ
+  a/DT
+  (NP (NBAR pinhead/NN))
+  for/IN
+  the/DT
+  (NP (NBAR stunt/NN))
+  ;/:
+  5/CD
+  (NP (NBAR percent/NN))
+  say/VBP
+  she/PRP
+  is/VBZ
+  patriotic/JJ
+  ./.
+  That/DT
+  's/VBZ
+  about/IN
+  what/WP
+  we/PRP
+  expected/VBD
+  ./.)(S
+  (NP (NBAR Monday/NNP night/NN))
+  we/PRP
+  showed/VBD
+  you/PRP
+  a/DT
+  very/RB
+  (NP (NBAR strange/JJ thing/NN))
+  ./.
+  (NP (NBAR Ms./NNP Joy/NNP Behar/NNP))
+  ,/,
+  who/WP
+  I/PRP
+  think/VBP
+  might/MD
+  have/VB
+  a/DT
+  (NP (NBAR crush/NN))
+  on/IN
+  me/PRP
+  ,/,
+  issued/VBD
+  a/DT
+  (NP (NBAR holiday/JJ card/NN))
+  ,/,
+  and/CC
+  I/PRP
+  really/RB
+  object/VBP
+  to/TO
+  the/DT
+  (NP (NBAR shirt/NN))
+  ./.
+  (NP (NBAR Ninety-five/JJ percent/NN))
+  of/IN
+  you/PRP
+  believe/VBP
+  (NP (NBAR Ms./NNP Behar/NNP))
+  is/VBZ
+  a/DT
+  (NP (NBAR pinhead/NN))
+  for/IN
+  the/DT
+  (NP (NBAR stunt/NN))
+  ;/:
+  5/CD
+  (NP (NBAR percent/NN))
+  say/VBP
+  she/PRP
+  is/VBZ
+  patriotic/JJ
+  ./.
+  That/DT
+  's/VBZ
+  about/IN
+  what/WP
+  we/PRP
+  expected/VBD
+  ./.)(S
+  (NP (NBAR Monday/NNP night/NN))
+  we/PRP
+  showed/VBD
+  you/PRP
+  a/DT
+  very/RB
+  (NP (NBAR strange/JJ thing/NN))
+  ./.
+  (NP (NBAR Ms./NNP Joy/NNP Behar/NNP))
+  ,/,
+  who/WP
+  I/PRP
+  think/VBP
+  might/MD
+  have/VB
+  a/DT
+  (NP (NBAR crush/NN))
+  on/IN
+  me/PRP
+  ,/,
+  issued/VBD
+  a/DT
+  (NP (NBAR holiday/JJ card/NN))
+  ,/,
+  and/CC
+  I/PRP
+  really/RB
+  object/VBP
+  to/TO
+  the/DT
+  (NP (NBAR shirt/NN))
+  ./.
+  (NP (NBAR Ninety-five/JJ percent/NN))
+  of/IN
+  you/PRP
+  believe/VBP
+  (NP (NBAR Ms./NNP Behar/NNP))
+  is/VBZ
+  a/DT
+  (NP (NBAR pinhead/NN))
+  for/IN
+  the/DT
+  (NP (NBAR stunt/NN))
+  ;/:
+  5/CD
+  (NP (NBAR percent/NN))
+  say/VBP
+  she/PRP
+  is/VBZ
+  patriotic/JJ
+  ./.
+  That/DT
+  's/VBZ
+  about/IN
+  what/WP
+  we/PRP
+  expected/VBD
+  ./.)

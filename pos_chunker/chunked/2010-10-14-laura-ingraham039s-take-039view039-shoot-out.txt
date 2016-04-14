@@ -1,4 +1,42 @@
-(S )(S )(S )(S
+(S
+  (NP (NBAR BILL/NNP O'REILLY/NNP))
+  ,/,
+  (NP (NBAR HOST/NNP))
+  :/:
+  Now/RB
+  for/IN
+  the/DT
+  (NP (NBAR top/JJ story/NN tonight/NN))
+  :/:
+  (NP (NBAR reaction/NN))
+  from/IN
+  both/CC
+  the/DT
+  (NP (NBAR left/NN))
+  and/CC
+  the/DT
+  (NP (NBAR right/NN))
+  ,/,
+  beginning/VBG
+  with/IN
+  (NP (NBAR Fox/NNP News/NNP analyst/NN Laura/NNP Ingraham/NNP))
+  ,/,
+  (NP (NBAR author/NN))
+  of/IN
+  the/DT
+  (NP (NBAR big/JJ best-selling/NN book/NN))
+  ``/``
+  The/DT
+  (NP (NBAR Obama/NNP Diaries/NNPS))
+  ./.
+  ''/''
+  (NP (NBAR Ms./NNP Laura/NNP))
+  joins/VBZ
+  us/PRP
+  now/RB
+  from/IN
+  (NP (NBAR Washington/NNP))
+  ./.)(S
   (NP (NBAR BILL/NNP O'REILLY/NNP))
   ,/,
   (NP (NBAR HOST/NNP))
@@ -57,6 +95,74 @@
   was/VBD
   wild/JJ
   ./.)(S
+  (NP (NBAR LAURA/NNP INGRAHAM/NNP))
+  ,/,
+  (NP (NBAR FOX/NNP NEWS/NNP CONTRIBUTOR/NNP))
+  :/:
+  (NP (NBAR Hey/NNP))
+  ,/,
+  (NP (NBAR Bill/NNP))
+  ,/,
+  my/PRP$
+  (NP (NBAR ears/NNS))
+  are/VBP
+  bleeding/VBG
+  ./.
+  I/PRP
+  mean/VBP
+  ,/,
+  that/DT
+  was/VBD
+  wild/JJ
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  Well/RB
+  ,/,
+  it/PRP
+  was/VBD
+  wild/JJ
+  ./.
+  (NP (NBAR Nobody/NN))
+  expected/VBD
+  it/PRP
+  ,/,
+  by/IN
+  the/DT
+  (NP (NBAR way/NN))
+  ./.
+  I/PRP
+  did/VBD
+  n't/RB
+  expect/VB
+  that/DT
+  to/TO
+  happen/VB
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  Well/RB
+  ,/,
+  it/PRP
+  was/VBD
+  wild/JJ
+  ./.
+  (NP (NBAR Nobody/NN))
+  expected/VBD
+  it/PRP
+  ,/,
+  by/IN
+  the/DT
+  (NP (NBAR way/NN))
+  ./.
+  I/PRP
+  did/VBD
+  n't/RB
+  expect/VB
+  that/DT
+  to/TO
+  happen/VB
+  ./.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   Well/RB
@@ -105,6 +211,30 @@
   tell/VB
   you/PRP
   ./.)(S
+  (NP (NBAR INGRAHAM/NN))
+  :/:
+  It/PRP
+  was/VBD
+  n't/RB
+  a/DT
+  contrived/VBN
+  (NP (NBAR walkout/NN))
+  ,/,
+  because/IN
+  it/PRP
+  looked/VBD
+  a/DT
+  little/JJ
+  too/RB
+  convenient/JJ
+  to/TO
+  me/PRP
+  ./.
+  Let/VB
+  me/PRP
+  tell/VB
+  you/PRP
+  ./.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   No/UH
@@ -117,6 +247,262 @@
   ./.
   Go/VB
   ahead/RB
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  No/UH
+  ,/,
+  no/DT
+  ,/,
+  it/PRP
+  was/VBD
+  n't/RB
+  ./.
+  Go/VB
+  ahead/RB
+  ./.)(S
+  (NP (NBAR INGRAHAM/NNS))
+  :/:
+  Now/RB
+  ,/,
+  well/RB
+  ,/,
+  (NP (NBAR Bill/NNP))
+  ,/,
+  here/RB
+  is/VBZ
+  what/WP
+  I/PRP
+  say/VBP
+  ./.
+  Who/WP
+  gave/VBD
+  (NP (NBAR Joy/NNP Behar/NNP))
+  the/DT
+  (NP (NBAR badge/NN))
+  ?/.
+  (NP (NBAR Last/JJ time/NN))
+  I/PRP
+  checked/VBD
+  ,/,
+  she/PRP
+  was/VBD
+  n't/RB
+  an/DT
+  (NP (NBAR official/JJ speech/NN police/JJ officer/NN))
+  but/CC
+  apparently/RB
+  she/PRP
+  has/VBZ
+  appointed/VBN
+  herself/PRP
+  as/IN
+  such/JJ
+  ./.
+  I/PRP
+  'm/VBP
+  a/DT
+  little/JJ
+  surprised/JJ
+  that/IN
+  (NP (NBAR Whoopi/NNP Goldberg/NNP))
+  would/MD
+  go/VB
+  down/RP
+  that/DT
+  (NP (NBAR road/NN))
+  ,/,
+  because/IN
+  she/PRP
+  said/VBD
+  some/DT
+  really/RB
+  (NP (NBAR sensible/JJ things/NNS))
+  lately/RB
+  when/WRB
+  I/PRP
+  was/VBD
+  on/IN
+  ``/``
+  The/DT
+  (NP (NBAR View/NNP))
+  ''/''
+  and/CC
+  I/PRP
+  know/VBP
+  when/WRB
+  you/PRP
+  have/VBP
+  been/VBN
+  on/IN
+  before/IN
+  about/IN
+  (NP (NBAR taxes/NNS))
+  and/CC
+  so/RB
+  forth/JJ
+  ./.)(S
+  (NP (NBAR INGRAHAM/NNS))
+  :/:
+  Now/RB
+  ,/,
+  well/RB
+  ,/,
+  (NP (NBAR Bill/NNP))
+  ,/,
+  here/RB
+  is/VBZ
+  what/WP
+  I/PRP
+  say/VBP
+  ./.
+  Who/WP
+  gave/VBD
+  (NP (NBAR Joy/NNP Behar/NNP))
+  the/DT
+  (NP (NBAR badge/NN))
+  ?/.
+  (NP (NBAR Last/JJ time/NN))
+  I/PRP
+  checked/VBD
+  ,/,
+  she/PRP
+  was/VBD
+  n't/RB
+  an/DT
+  (NP (NBAR official/JJ speech/NN police/JJ officer/NN))
+  but/CC
+  apparently/RB
+  she/PRP
+  has/VBZ
+  appointed/VBN
+  herself/PRP
+  as/IN
+  such/JJ
+  ./.
+  I/PRP
+  'm/VBP
+  a/DT
+  little/JJ
+  surprised/JJ
+  that/IN
+  (NP (NBAR Whoopi/NNP Goldberg/NNP))
+  would/MD
+  go/VB
+  down/RP
+  that/DT
+  (NP (NBAR road/NN))
+  ,/,
+  because/IN
+  she/PRP
+  said/VBD
+  some/DT
+  really/RB
+  (NP (NBAR sensible/JJ things/NNS))
+  lately/RB
+  when/WRB
+  I/PRP
+  was/VBD
+  on/IN
+  ``/``
+  The/DT
+  (NP (NBAR View/NNP))
+  ''/''
+  and/CC
+  I/PRP
+  know/VBP
+  when/WRB
+  you/PRP
+  have/VBP
+  been/VBN
+  on/IN
+  before/IN
+  about/IN
+  (NP (NBAR taxes/NNS))
+  and/CC
+  so/RB
+  forth/JJ
+  ./.)(S
+  (NP (NBAR INGRAHAM/NNS))
+  :/:
+  Now/RB
+  ,/,
+  well/RB
+  ,/,
+  (NP (NBAR Bill/NNP))
+  ,/,
+  here/RB
+  is/VBZ
+  what/WP
+  I/PRP
+  say/VBP
+  ./.
+  Who/WP
+  gave/VBD
+  (NP (NBAR Joy/NNP Behar/NNP))
+  the/DT
+  (NP (NBAR badge/NN))
+  ?/.
+  (NP (NBAR Last/JJ time/NN))
+  I/PRP
+  checked/VBD
+  ,/,
+  she/PRP
+  was/VBD
+  n't/RB
+  an/DT
+  (NP (NBAR official/JJ speech/NN police/JJ officer/NN))
+  but/CC
+  apparently/RB
+  she/PRP
+  has/VBZ
+  appointed/VBN
+  herself/PRP
+  as/IN
+  such/JJ
+  ./.
+  I/PRP
+  'm/VBP
+  a/DT
+  little/JJ
+  surprised/JJ
+  that/IN
+  (NP (NBAR Whoopi/NNP Goldberg/NNP))
+  would/MD
+  go/VB
+  down/RP
+  that/DT
+  (NP (NBAR road/NN))
+  ,/,
+  because/IN
+  she/PRP
+  said/VBD
+  some/DT
+  really/RB
+  (NP (NBAR sensible/JJ things/NNS))
+  lately/RB
+  when/WRB
+  I/PRP
+  was/VBD
+  on/IN
+  ``/``
+  The/DT
+  (NP (NBAR View/NNP))
+  ''/''
+  and/CC
+  I/PRP
+  know/VBP
+  when/WRB
+  you/PRP
+  have/VBP
+  been/VBN
+  on/IN
+  before/IN
+  about/IN
+  (NP (NBAR taxes/NNS))
+  and/CC
+  so/RB
+  forth/JJ
   ./.)(S
   (NP (NBAR INGRAHAM/NNS))
   :/:
@@ -265,6 +651,106 @@
   be/VB
   mind-blowing/JJ
   ./.)(S
+  But/CC
+  here/RB
+  we/PRP
+  are/VBP
+  at/IN
+  a/DT
+  (NP (NBAR point/NN))
+  in/IN
+  our/PRP$
+  (NP (NBAR country/NN))
+  ,/,
+  (NP (NBAR Bill/NNP))
+  ,/,
+  where/WRB
+  you/PRP
+  ca/MD
+  n't/RB
+  actually/RB
+  say/VB
+  (NP (NBAR something/NN))
+  that/WDT
+  is/VBZ
+  true/JJ
+  without/IN
+  getting/VBG
+  (NP (NBAR jumped/NN))
+  and/CC
+  without/IN
+  (NP (NBAR people/NNS))
+  getting/VBG
+  up/RP
+  ,/,
+  saying/VBG
+  (NP (NBAR inane/JJ things/NNS))
+  like/IN
+  repeating/VBG
+  themselves/PRP
+  over/IN
+  and/CC
+  over/RB
+  again/RB
+  without/IN
+  making/VBG
+  an/DT
+  (NP (NBAR argument/NN))
+  ,/,
+  walking/VBG
+  off/RP
+  the/DT
+  (NP (NBAR stage/NN))
+  and/CC
+  then/RB
+  demanding/VBG
+  an/DT
+  (NP (NBAR apology/NN))
+  essentially/RB
+  from/IN
+  you/PRP
+  ./.
+  I/PRP
+  find/VBP
+  that/DT
+  to/TO
+  be/VB
+  mind-blowing/JJ
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  The/DT
+  (NP (NBAR distinction/NN))
+  --/:
+  I/PRP
+  'm/VBP
+  interested/JJ
+  to/TO
+  hear/VB
+  your/PRP$
+  (NP (NBAR opinion/NN))
+  on/IN
+  this/DT
+  and/CC
+  also/RB
+  (NP (NBAR Alicia/NNP Menendez/NNP))
+  ,/,
+  a/DT
+  liberal/JJ
+  ,/,
+  is/VBZ
+  coming/VBG
+  up/RP
+  behind/IN
+  you/PRP
+  ./.
+  I/PRP
+  want/VBP
+  her/PRP$
+  (NP (NBAR opinion/NN))
+  ,/,
+  too/RB
+  ./.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   The/DT
@@ -323,6 +809,43 @@
   have/VBP
   to/TO
   say…/VB)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  The/DT
+  (NP (NBAR distinction/NN))
+  that/IN
+  (NP (NBAR Ms./NNP Behar/NNP))
+  and/CC
+  (NP (NBAR Ms./NNP Goldberg/NNP make/NN))
+  is/VBZ
+  that/IN
+  you/PRP
+  ca/MD
+  n't/RB
+  say/VB
+  in/IN
+  this/DT
+  (NP (NBAR country/NN Muslims/NNP))
+  attacked/VBD
+  us/PRP
+  ./.
+  You/PRP
+  have/VBP
+  to/TO
+  say…/VB)(S
+  (NP (NBAR INGRAHAM/NN))
+  :/:
+  Well/RB
+  they/PRP
+  consider/VBP
+  themselves/PRP
+  (NP (NBAR Muslims/NNP))
+  ./.
+  They/PRP
+  consider/VBP
+  themselves/PRP
+  (NP (NBAR Muslims/NNP))
+  ./.)(S
   (NP (NBAR INGRAHAM/NN))
   :/:
   Well/RB
@@ -416,7 +939,277 @@
   is/VBZ
   the/DT
   (NP (NBAR question/NN))
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  But/CC
+  you/PRP
+  ca/MD
+  n't/RB
+  say/VB
+  –/VB
+  you/PRP
+  must/MD
+  say/VB
+  (NP (NBAR Muslim/NNP extremists/NNS))
+  ./.
+  I/PRP
+  submit/VBP
+  to/TO
+  you/PRP
+  and/CC
+  everybody/VB
+  watching/VBG
+  (NP (NBAR tonight/NN))
+  that/WDT
+  after/IN
+  10/CD
+  (NP (NBAR years/NNS))
+  ,/,
+  we/PRP
+  got/VBD
+  it/PRP
+  ./.
+  We/PRP
+  know/VBP
+  the/DT
+  (NP (NBAR difference/NN))
+  between/IN
+  (NP (NBAR peace-abiding/JJ Muslims/NNP))
+  and/CC
+  (NP (NBAR people/NNS))
+  who/WP
+  make/VBP
+  (NP (NBAR war/NN))
+  under/IN
+  the/DT
+  (NP (NBAR banner/NN))
+  of/IN
+  (NP (NBAR Islam/NNP))
+  ./.
+  We/PRP
+  know/VBP
+  that/IN
+  ,/,
+  but/CC
+  (NP (NBAR wait/NN))
+  ,/,
+  here/RB
+  is/VBZ
+  the/DT
+  (NP (NBAR question/NN))
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  But/CC
+  you/PRP
+  ca/MD
+  n't/RB
+  say/VB
+  –/VB
+  you/PRP
+  must/MD
+  say/VB
+  (NP (NBAR Muslim/NNP extremists/NNS))
+  ./.
+  I/PRP
+  submit/VBP
+  to/TO
+  you/PRP
+  and/CC
+  everybody/VB
+  watching/VBG
+  (NP (NBAR tonight/NN))
+  that/WDT
+  after/IN
+  10/CD
+  (NP (NBAR years/NNS))
+  ,/,
+  we/PRP
+  got/VBD
+  it/PRP
+  ./.
+  We/PRP
+  know/VBP
+  the/DT
+  (NP (NBAR difference/NN))
+  between/IN
+  (NP (NBAR peace-abiding/JJ Muslims/NNP))
+  and/CC
+  (NP (NBAR people/NNS))
+  who/WP
+  make/VBP
+  (NP (NBAR war/NN))
+  under/IN
+  the/DT
+  (NP (NBAR banner/NN))
+  of/IN
+  (NP (NBAR Islam/NNP))
+  ./.
+  We/PRP
+  know/VBP
+  that/IN
+  ,/,
+  but/CC
+  (NP (NBAR wait/NN))
+  ,/,
+  here/RB
+  is/VBZ
+  the/DT
+  (NP (NBAR question/NN))
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  But/CC
+  you/PRP
+  ca/MD
+  n't/RB
+  say/VB
+  –/VB
+  you/PRP
+  must/MD
+  say/VB
+  (NP (NBAR Muslim/NNP extremists/NNS))
+  ./.
+  I/PRP
+  submit/VBP
+  to/TO
+  you/PRP
+  and/CC
+  everybody/VB
+  watching/VBG
+  (NP (NBAR tonight/NN))
+  that/WDT
+  after/IN
+  10/CD
+  (NP (NBAR years/NNS))
+  ,/,
+  we/PRP
+  got/VBD
+  it/PRP
+  ./.
+  We/PRP
+  know/VBP
+  the/DT
+  (NP (NBAR difference/NN))
+  between/IN
+  (NP (NBAR peace-abiding/JJ Muslims/NNP))
+  and/CC
+  (NP (NBAR people/NNS))
+  who/WP
+  make/VBP
+  (NP (NBAR war/NN))
+  under/IN
+  the/DT
+  (NP (NBAR banner/NN))
+  of/IN
+  (NP (NBAR Islam/NNP))
+  ./.
+  We/PRP
+  know/VBP
+  that/IN
+  ,/,
+  but/CC
+  (NP (NBAR wait/NN))
+  ,/,
+  here/RB
+  is/VBZ
+  the/DT
+  (NP (NBAR question/NN))
   ./.)(S (NP (NBAR INGRAHAM/NN)) :/: Yes/UH ?/.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  As/IN
+  I/PRP
+  mentioned/VBD
+  in/IN
+  the/DT
+  ``/``
+  (NP (NBAR Talking/NNP Points/NNP Memo/NNP))
+  ./.
+  ''/''
+  Did/IN
+  we/PRP
+  say/VBP
+  in/IN
+  (NP (NBAR World/NNP War/NNP II/NNP))
+  we/PRP
+  were/VBD
+  attacked/VBN
+  by/IN
+  (NP (NBAR Japanese/JJ extremists/NNS))
+  or/CC
+  (NP (NBAR German/JJ extremists/NNS))
+  ?/.
+  (NP (NBAR Did/NNP))
+  we/PRP
+  do/VBP
+  that/DT
+  ?/.
+  No/DT
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  As/IN
+  I/PRP
+  mentioned/VBD
+  in/IN
+  the/DT
+  ``/``
+  (NP (NBAR Talking/NNP Points/NNP Memo/NNP))
+  ./.
+  ''/''
+  Did/IN
+  we/PRP
+  say/VBP
+  in/IN
+  (NP (NBAR World/NNP War/NNP II/NNP))
+  we/PRP
+  were/VBD
+  attacked/VBN
+  by/IN
+  (NP (NBAR Japanese/JJ extremists/NNS))
+  or/CC
+  (NP (NBAR German/JJ extremists/NNS))
+  ?/.
+  (NP (NBAR Did/NNP))
+  we/PRP
+  do/VBP
+  that/DT
+  ?/.
+  No/DT
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  As/IN
+  I/PRP
+  mentioned/VBD
+  in/IN
+  the/DT
+  ``/``
+  (NP (NBAR Talking/NNP Points/NNP Memo/NNP))
+  ./.
+  ''/''
+  Did/IN
+  we/PRP
+  say/VBP
+  in/IN
+  (NP (NBAR World/NNP War/NNP II/NNP))
+  we/PRP
+  were/VBD
+  attacked/VBN
+  by/IN
+  (NP (NBAR Japanese/JJ extremists/NNS))
+  or/CC
+  (NP (NBAR German/JJ extremists/NNS))
+  ?/.
+  (NP (NBAR Did/NNP))
+  we/PRP
+  do/VBP
+  that/DT
+  ?/.
+  No/DT
+  ./.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   As/IN
@@ -457,6 +1250,60 @@
   we/PRP
   did/VBD
   n't/RB
+  ./.)(S
+  (NP (NBAR INGRAHAM/NN))
+  :/:
+  No/DT
+  ./.
+  Of/IN
+  (NP (NBAR course/NN))
+  we/PRP
+  did/VBD
+  n't/RB
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  We/PRP
+  said/VBD
+  we/PRP
+  were/VBD
+  attacked/VBN
+  by/IN
+  Japanese/JJ
+  ./.
+  We/PRP
+  were/VBD
+  attacked/VBN
+  by/IN
+  (NP (NBAR Muslims/NNP))
+  ./.
+  That/DT
+  's/VBZ
+  who/WP
+  attacked/VBD
+  us/PRP
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  We/PRP
+  said/VBD
+  we/PRP
+  were/VBD
+  attacked/VBN
+  by/IN
+  Japanese/JJ
+  ./.
+  We/PRP
+  were/VBD
+  attacked/VBN
+  by/IN
+  (NP (NBAR Muslims/NNP))
+  ./.
+  That/DT
+  's/VBZ
+  who/WP
+  attacked/VBD
+  us/PRP
   ./.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
@@ -544,6 +1391,744 @@
   so/RB
   crazy/JJ
   ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  I/PRP
+  know/VBP
+  ./.
+  It/PRP
+  's/VBZ
+  so/RB
+  crazy/JJ
+  ./.)(S
+  (NP (NBAR INGRAHAM/NN))
+  :/:
+  (NP (NBAR Bill/NNP))
+  ,/,
+  I/PRP
+  did/VBD
+  some/DT
+  (NP (NBAR research/NN))
+  here/RB
+  ,/,
+  (NP (NBAR OK/NNP))
+  ?/.
+  (NP (NBAR Joy/NNP Behar/NNP))
+  herself/PRP
+  has/VBZ
+  said/VBD
+  the/DT
+  (NP (NBAR following/JJ things/NNS))
+  about/IN
+  (NP (NBAR Christians/NNPS))
+  ,/,
+  OK/FW
+  ?/.
+  She/PRP
+  called/VBD
+  homeschooling/VBG
+  (NP (NBAR parents/NNS))
+  demented/VBN
+  ./.
+  She/PRP
+  has/VBZ
+  made/VBN
+  (NP (NBAR fun/NN))
+  of/IN
+  the/DT
+  (NP (NBAR Catholic/NNP saints/NNS))
+  as/IN
+  (NP (NBAR people/NNS))
+  who/WP
+  needed/VBD
+  (NP (NBAR psychotropic/NN drugs/NNS))
+  ./.
+  She/PRP
+  has/VBZ
+  called/VBN
+  (NP (NBAR people/NNS))
+  who/WP
+  stand/VBP
+  for/IN
+  (NP (NBAR traditional/JJ marriage/NN))
+  ,/,
+  ridiculed/VBD
+  them/PRP
+  as/IN
+  (NP (NBAR Bible-thumpers/NNS))
+  ./.
+  With/IN
+  (NP (NBAR Ann/NNP Coulter/NNP))
+  ,/,
+  she/PRP
+  talked/VBD
+  and/CC
+  mocked/VBD
+  (NP (NBAR Christian/NNP women/NNS))
+  's/POS
+  (NP (NBAR sexual/JJ habits/NNS))
+  ./.
+  She/PRP
+  said/VBD
+  (NP (NBAR prayer/NN))
+  is/VBZ
+  anti-intellectual/JJ
+  ,/,
+  raising/VBG
+  the/DT
+  (NP (NBAR ire/NN))
+  of/IN
+  (NP (NBAR Elisabeth/NNP Hasselbeck/NNP))
+  ,/,
+  said/VBD
+  (NP (NBAR prayer/NN))
+  takes/VBZ
+  the/DT
+  (NP (NBAR place/NN))
+  of/IN
+  (NP (NBAR logical/JJ thinking/NN))
+  ./.
+  Can/MD
+  you/PRP
+  imagine/VB
+  if/IN
+  you/PRP
+  had/VBD
+  said/VBD
+  those/DT
+  (NP (NBAR things/NNS))
+  about/IN
+  (NP (NBAR Muslims/NNP))
+  what/WP
+  they/PRP
+  would/MD
+  have/VB
+  done/VBN
+  ?/.)(S
+  (NP (NBAR INGRAHAM/NN))
+  :/:
+  (NP (NBAR Bill/NNP))
+  ,/,
+  I/PRP
+  did/VBD
+  some/DT
+  (NP (NBAR research/NN))
+  here/RB
+  ,/,
+  (NP (NBAR OK/NNP))
+  ?/.
+  (NP (NBAR Joy/NNP Behar/NNP))
+  herself/PRP
+  has/VBZ
+  said/VBD
+  the/DT
+  (NP (NBAR following/JJ things/NNS))
+  about/IN
+  (NP (NBAR Christians/NNPS))
+  ,/,
+  OK/FW
+  ?/.
+  She/PRP
+  called/VBD
+  homeschooling/VBG
+  (NP (NBAR parents/NNS))
+  demented/VBN
+  ./.
+  She/PRP
+  has/VBZ
+  made/VBN
+  (NP (NBAR fun/NN))
+  of/IN
+  the/DT
+  (NP (NBAR Catholic/NNP saints/NNS))
+  as/IN
+  (NP (NBAR people/NNS))
+  who/WP
+  needed/VBD
+  (NP (NBAR psychotropic/NN drugs/NNS))
+  ./.
+  She/PRP
+  has/VBZ
+  called/VBN
+  (NP (NBAR people/NNS))
+  who/WP
+  stand/VBP
+  for/IN
+  (NP (NBAR traditional/JJ marriage/NN))
+  ,/,
+  ridiculed/VBD
+  them/PRP
+  as/IN
+  (NP (NBAR Bible-thumpers/NNS))
+  ./.
+  With/IN
+  (NP (NBAR Ann/NNP Coulter/NNP))
+  ,/,
+  she/PRP
+  talked/VBD
+  and/CC
+  mocked/VBD
+  (NP (NBAR Christian/NNP women/NNS))
+  's/POS
+  (NP (NBAR sexual/JJ habits/NNS))
+  ./.
+  She/PRP
+  said/VBD
+  (NP (NBAR prayer/NN))
+  is/VBZ
+  anti-intellectual/JJ
+  ,/,
+  raising/VBG
+  the/DT
+  (NP (NBAR ire/NN))
+  of/IN
+  (NP (NBAR Elisabeth/NNP Hasselbeck/NNP))
+  ,/,
+  said/VBD
+  (NP (NBAR prayer/NN))
+  takes/VBZ
+  the/DT
+  (NP (NBAR place/NN))
+  of/IN
+  (NP (NBAR logical/JJ thinking/NN))
+  ./.
+  Can/MD
+  you/PRP
+  imagine/VB
+  if/IN
+  you/PRP
+  had/VBD
+  said/VBD
+  those/DT
+  (NP (NBAR things/NNS))
+  about/IN
+  (NP (NBAR Muslims/NNP))
+  what/WP
+  they/PRP
+  would/MD
+  have/VB
+  done/VBN
+  ?/.)(S
+  (NP (NBAR INGRAHAM/NN))
+  :/:
+  (NP (NBAR Bill/NNP))
+  ,/,
+  I/PRP
+  did/VBD
+  some/DT
+  (NP (NBAR research/NN))
+  here/RB
+  ,/,
+  (NP (NBAR OK/NNP))
+  ?/.
+  (NP (NBAR Joy/NNP Behar/NNP))
+  herself/PRP
+  has/VBZ
+  said/VBD
+  the/DT
+  (NP (NBAR following/JJ things/NNS))
+  about/IN
+  (NP (NBAR Christians/NNPS))
+  ,/,
+  OK/FW
+  ?/.
+  She/PRP
+  called/VBD
+  homeschooling/VBG
+  (NP (NBAR parents/NNS))
+  demented/VBN
+  ./.
+  She/PRP
+  has/VBZ
+  made/VBN
+  (NP (NBAR fun/NN))
+  of/IN
+  the/DT
+  (NP (NBAR Catholic/NNP saints/NNS))
+  as/IN
+  (NP (NBAR people/NNS))
+  who/WP
+  needed/VBD
+  (NP (NBAR psychotropic/NN drugs/NNS))
+  ./.
+  She/PRP
+  has/VBZ
+  called/VBN
+  (NP (NBAR people/NNS))
+  who/WP
+  stand/VBP
+  for/IN
+  (NP (NBAR traditional/JJ marriage/NN))
+  ,/,
+  ridiculed/VBD
+  them/PRP
+  as/IN
+  (NP (NBAR Bible-thumpers/NNS))
+  ./.
+  With/IN
+  (NP (NBAR Ann/NNP Coulter/NNP))
+  ,/,
+  she/PRP
+  talked/VBD
+  and/CC
+  mocked/VBD
+  (NP (NBAR Christian/NNP women/NNS))
+  's/POS
+  (NP (NBAR sexual/JJ habits/NNS))
+  ./.
+  She/PRP
+  said/VBD
+  (NP (NBAR prayer/NN))
+  is/VBZ
+  anti-intellectual/JJ
+  ,/,
+  raising/VBG
+  the/DT
+  (NP (NBAR ire/NN))
+  of/IN
+  (NP (NBAR Elisabeth/NNP Hasselbeck/NNP))
+  ,/,
+  said/VBD
+  (NP (NBAR prayer/NN))
+  takes/VBZ
+  the/DT
+  (NP (NBAR place/NN))
+  of/IN
+  (NP (NBAR logical/JJ thinking/NN))
+  ./.
+  Can/MD
+  you/PRP
+  imagine/VB
+  if/IN
+  you/PRP
+  had/VBD
+  said/VBD
+  those/DT
+  (NP (NBAR things/NNS))
+  about/IN
+  (NP (NBAR Muslims/NNP))
+  what/WP
+  they/PRP
+  would/MD
+  have/VB
+  done/VBN
+  ?/.)(S
+  (NP (NBAR INGRAHAM/NN))
+  :/:
+  (NP (NBAR Bill/NNP))
+  ,/,
+  I/PRP
+  did/VBD
+  some/DT
+  (NP (NBAR research/NN))
+  here/RB
+  ,/,
+  (NP (NBAR OK/NNP))
+  ?/.
+  (NP (NBAR Joy/NNP Behar/NNP))
+  herself/PRP
+  has/VBZ
+  said/VBD
+  the/DT
+  (NP (NBAR following/JJ things/NNS))
+  about/IN
+  (NP (NBAR Christians/NNPS))
+  ,/,
+  OK/FW
+  ?/.
+  She/PRP
+  called/VBD
+  homeschooling/VBG
+  (NP (NBAR parents/NNS))
+  demented/VBN
+  ./.
+  She/PRP
+  has/VBZ
+  made/VBN
+  (NP (NBAR fun/NN))
+  of/IN
+  the/DT
+  (NP (NBAR Catholic/NNP saints/NNS))
+  as/IN
+  (NP (NBAR people/NNS))
+  who/WP
+  needed/VBD
+  (NP (NBAR psychotropic/NN drugs/NNS))
+  ./.
+  She/PRP
+  has/VBZ
+  called/VBN
+  (NP (NBAR people/NNS))
+  who/WP
+  stand/VBP
+  for/IN
+  (NP (NBAR traditional/JJ marriage/NN))
+  ,/,
+  ridiculed/VBD
+  them/PRP
+  as/IN
+  (NP (NBAR Bible-thumpers/NNS))
+  ./.
+  With/IN
+  (NP (NBAR Ann/NNP Coulter/NNP))
+  ,/,
+  she/PRP
+  talked/VBD
+  and/CC
+  mocked/VBD
+  (NP (NBAR Christian/NNP women/NNS))
+  's/POS
+  (NP (NBAR sexual/JJ habits/NNS))
+  ./.
+  She/PRP
+  said/VBD
+  (NP (NBAR prayer/NN))
+  is/VBZ
+  anti-intellectual/JJ
+  ,/,
+  raising/VBG
+  the/DT
+  (NP (NBAR ire/NN))
+  of/IN
+  (NP (NBAR Elisabeth/NNP Hasselbeck/NNP))
+  ,/,
+  said/VBD
+  (NP (NBAR prayer/NN))
+  takes/VBZ
+  the/DT
+  (NP (NBAR place/NN))
+  of/IN
+  (NP (NBAR logical/JJ thinking/NN))
+  ./.
+  Can/MD
+  you/PRP
+  imagine/VB
+  if/IN
+  you/PRP
+  had/VBD
+  said/VBD
+  those/DT
+  (NP (NBAR things/NNS))
+  about/IN
+  (NP (NBAR Muslims/NNP))
+  what/WP
+  they/PRP
+  would/MD
+  have/VB
+  done/VBN
+  ?/.)(S
+  (NP (NBAR INGRAHAM/NN))
+  :/:
+  (NP (NBAR Bill/NNP))
+  ,/,
+  I/PRP
+  did/VBD
+  some/DT
+  (NP (NBAR research/NN))
+  here/RB
+  ,/,
+  (NP (NBAR OK/NNP))
+  ?/.
+  (NP (NBAR Joy/NNP Behar/NNP))
+  herself/PRP
+  has/VBZ
+  said/VBD
+  the/DT
+  (NP (NBAR following/JJ things/NNS))
+  about/IN
+  (NP (NBAR Christians/NNPS))
+  ,/,
+  OK/FW
+  ?/.
+  She/PRP
+  called/VBD
+  homeschooling/VBG
+  (NP (NBAR parents/NNS))
+  demented/VBN
+  ./.
+  She/PRP
+  has/VBZ
+  made/VBN
+  (NP (NBAR fun/NN))
+  of/IN
+  the/DT
+  (NP (NBAR Catholic/NNP saints/NNS))
+  as/IN
+  (NP (NBAR people/NNS))
+  who/WP
+  needed/VBD
+  (NP (NBAR psychotropic/NN drugs/NNS))
+  ./.
+  She/PRP
+  has/VBZ
+  called/VBN
+  (NP (NBAR people/NNS))
+  who/WP
+  stand/VBP
+  for/IN
+  (NP (NBAR traditional/JJ marriage/NN))
+  ,/,
+  ridiculed/VBD
+  them/PRP
+  as/IN
+  (NP (NBAR Bible-thumpers/NNS))
+  ./.
+  With/IN
+  (NP (NBAR Ann/NNP Coulter/NNP))
+  ,/,
+  she/PRP
+  talked/VBD
+  and/CC
+  mocked/VBD
+  (NP (NBAR Christian/NNP women/NNS))
+  's/POS
+  (NP (NBAR sexual/JJ habits/NNS))
+  ./.
+  She/PRP
+  said/VBD
+  (NP (NBAR prayer/NN))
+  is/VBZ
+  anti-intellectual/JJ
+  ,/,
+  raising/VBG
+  the/DT
+  (NP (NBAR ire/NN))
+  of/IN
+  (NP (NBAR Elisabeth/NNP Hasselbeck/NNP))
+  ,/,
+  said/VBD
+  (NP (NBAR prayer/NN))
+  takes/VBZ
+  the/DT
+  (NP (NBAR place/NN))
+  of/IN
+  (NP (NBAR logical/JJ thinking/NN))
+  ./.
+  Can/MD
+  you/PRP
+  imagine/VB
+  if/IN
+  you/PRP
+  had/VBD
+  said/VBD
+  those/DT
+  (NP (NBAR things/NNS))
+  about/IN
+  (NP (NBAR Muslims/NNP))
+  what/WP
+  they/PRP
+  would/MD
+  have/VB
+  done/VBN
+  ?/.)(S
+  (NP (NBAR INGRAHAM/NN))
+  :/:
+  (NP (NBAR Bill/NNP))
+  ,/,
+  I/PRP
+  did/VBD
+  some/DT
+  (NP (NBAR research/NN))
+  here/RB
+  ,/,
+  (NP (NBAR OK/NNP))
+  ?/.
+  (NP (NBAR Joy/NNP Behar/NNP))
+  herself/PRP
+  has/VBZ
+  said/VBD
+  the/DT
+  (NP (NBAR following/JJ things/NNS))
+  about/IN
+  (NP (NBAR Christians/NNPS))
+  ,/,
+  OK/FW
+  ?/.
+  She/PRP
+  called/VBD
+  homeschooling/VBG
+  (NP (NBAR parents/NNS))
+  demented/VBN
+  ./.
+  She/PRP
+  has/VBZ
+  made/VBN
+  (NP (NBAR fun/NN))
+  of/IN
+  the/DT
+  (NP (NBAR Catholic/NNP saints/NNS))
+  as/IN
+  (NP (NBAR people/NNS))
+  who/WP
+  needed/VBD
+  (NP (NBAR psychotropic/NN drugs/NNS))
+  ./.
+  She/PRP
+  has/VBZ
+  called/VBN
+  (NP (NBAR people/NNS))
+  who/WP
+  stand/VBP
+  for/IN
+  (NP (NBAR traditional/JJ marriage/NN))
+  ,/,
+  ridiculed/VBD
+  them/PRP
+  as/IN
+  (NP (NBAR Bible-thumpers/NNS))
+  ./.
+  With/IN
+  (NP (NBAR Ann/NNP Coulter/NNP))
+  ,/,
+  she/PRP
+  talked/VBD
+  and/CC
+  mocked/VBD
+  (NP (NBAR Christian/NNP women/NNS))
+  's/POS
+  (NP (NBAR sexual/JJ habits/NNS))
+  ./.
+  She/PRP
+  said/VBD
+  (NP (NBAR prayer/NN))
+  is/VBZ
+  anti-intellectual/JJ
+  ,/,
+  raising/VBG
+  the/DT
+  (NP (NBAR ire/NN))
+  of/IN
+  (NP (NBAR Elisabeth/NNP Hasselbeck/NNP))
+  ,/,
+  said/VBD
+  (NP (NBAR prayer/NN))
+  takes/VBZ
+  the/DT
+  (NP (NBAR place/NN))
+  of/IN
+  (NP (NBAR logical/JJ thinking/NN))
+  ./.
+  Can/MD
+  you/PRP
+  imagine/VB
+  if/IN
+  you/PRP
+  had/VBD
+  said/VBD
+  those/DT
+  (NP (NBAR things/NNS))
+  about/IN
+  (NP (NBAR Muslims/NNP))
+  what/WP
+  they/PRP
+  would/MD
+  have/VB
+  done/VBN
+  ?/.)(S
+  (NP (NBAR INGRAHAM/NN))
+  :/:
+  (NP (NBAR Bill/NNP))
+  ,/,
+  I/PRP
+  did/VBD
+  some/DT
+  (NP (NBAR research/NN))
+  here/RB
+  ,/,
+  (NP (NBAR OK/NNP))
+  ?/.
+  (NP (NBAR Joy/NNP Behar/NNP))
+  herself/PRP
+  has/VBZ
+  said/VBD
+  the/DT
+  (NP (NBAR following/JJ things/NNS))
+  about/IN
+  (NP (NBAR Christians/NNPS))
+  ,/,
+  OK/FW
+  ?/.
+  She/PRP
+  called/VBD
+  homeschooling/VBG
+  (NP (NBAR parents/NNS))
+  demented/VBN
+  ./.
+  She/PRP
+  has/VBZ
+  made/VBN
+  (NP (NBAR fun/NN))
+  of/IN
+  the/DT
+  (NP (NBAR Catholic/NNP saints/NNS))
+  as/IN
+  (NP (NBAR people/NNS))
+  who/WP
+  needed/VBD
+  (NP (NBAR psychotropic/NN drugs/NNS))
+  ./.
+  She/PRP
+  has/VBZ
+  called/VBN
+  (NP (NBAR people/NNS))
+  who/WP
+  stand/VBP
+  for/IN
+  (NP (NBAR traditional/JJ marriage/NN))
+  ,/,
+  ridiculed/VBD
+  them/PRP
+  as/IN
+  (NP (NBAR Bible-thumpers/NNS))
+  ./.
+  With/IN
+  (NP (NBAR Ann/NNP Coulter/NNP))
+  ,/,
+  she/PRP
+  talked/VBD
+  and/CC
+  mocked/VBD
+  (NP (NBAR Christian/NNP women/NNS))
+  's/POS
+  (NP (NBAR sexual/JJ habits/NNS))
+  ./.
+  She/PRP
+  said/VBD
+  (NP (NBAR prayer/NN))
+  is/VBZ
+  anti-intellectual/JJ
+  ,/,
+  raising/VBG
+  the/DT
+  (NP (NBAR ire/NN))
+  of/IN
+  (NP (NBAR Elisabeth/NNP Hasselbeck/NNP))
+  ,/,
+  said/VBD
+  (NP (NBAR prayer/NN))
+  takes/VBZ
+  the/DT
+  (NP (NBAR place/NN))
+  of/IN
+  (NP (NBAR logical/JJ thinking/NN))
+  ./.
+  Can/MD
+  you/PRP
+  imagine/VB
+  if/IN
+  you/PRP
+  had/VBD
+  said/VBD
+  those/DT
+  (NP (NBAR things/NNS))
+  about/IN
+  (NP (NBAR Muslims/NNP))
+  what/WP
+  they/PRP
+  would/MD
+  have/VB
+  done/VBN
+  ?/.)(S
   (NP (NBAR INGRAHAM/NN))
   :/:
   (NP (NBAR Bill/NNP))
@@ -692,6 +2277,76 @@
   been/VBN
   documented/VBN
   ./.)(S
+  (NP (NBAR INGRAHAM/NN))
+  :/:
+  But/CC
+  she/PRP
+  is/VBZ
+  guilty/JJ
+  of/IN
+  what/WP
+  she/PRP
+  claims/VBZ
+  you/PRP
+  are/VBP
+  doing/VBG
+  ./.
+  She/PRP
+  is/VBZ
+  actually/RB
+  truly/RB
+  guilty/JJ
+  of/IN
+  that/DT
+  (NP (NBAR type/NN))
+  of/IN
+  anti-Catholic/JJ
+  ,/,
+  (NP (NBAR anti-Christian/JJ speak/NN))
+  on/IN
+  her/PRP$
+  (NP (NBAR show/NN))
+  ./.
+  It/PRP
+  's/VBZ
+  been/VBN
+  documented/VBN
+  ./.)(S
+  (NP (NBAR INGRAHAM/NN))
+  :/:
+  But/CC
+  she/PRP
+  is/VBZ
+  guilty/JJ
+  of/IN
+  what/WP
+  she/PRP
+  claims/VBZ
+  you/PRP
+  are/VBP
+  doing/VBG
+  ./.
+  She/PRP
+  is/VBZ
+  actually/RB
+  truly/RB
+  guilty/JJ
+  of/IN
+  that/DT
+  (NP (NBAR type/NN))
+  of/IN
+  anti-Catholic/JJ
+  ,/,
+  (NP (NBAR anti-Christian/JJ speak/NN))
+  on/IN
+  her/PRP$
+  (NP (NBAR show/NN))
+  ./.
+  It/PRP
+  's/VBZ
+  been/VBN
+  documented/VBN
+  ./.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   All/DT
@@ -735,6 +2390,1048 @@
   n't/RB
   like/VB
   it/PRP
+  ./.)(S
+  (NP (NBAR INGRAHAM/NN))
+  :/:
+  Well/RB
+  ,/,
+  let/VB
+  me/PRP
+  educate/VB
+  you/PRP
+  on/IN
+  that/DT
+  ./.
+  It/PRP
+  's/VBZ
+  anti-Catholic/JJ
+  ./.
+  I/PRP
+  do/VBP
+  n't/RB
+  like/VB
+  it/PRP
+  ./.)(S
+  (NP (NBAR INGRAHAM/NN))
+  :/:
+  Well/RB
+  ,/,
+  let/VB
+  me/PRP
+  educate/VB
+  you/PRP
+  on/IN
+  that/DT
+  ./.
+  It/PRP
+  's/VBZ
+  anti-Catholic/JJ
+  ./.
+  I/PRP
+  do/VBP
+  n't/RB
+  like/VB
+  it/PRP
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  Here/RB
+  's/VBZ
+  the/DT
+  (NP (NBAR big/JJ political/JJ question/NN))
+  ./.
+  I/PRP
+  submit/VBP
+  in/IN
+  ``/``
+  (NP (NBAR Pinheads/NNP))
+  and/CC
+  (NP (NBAR Patriots/NNP))
+  ''/''
+  that/IN
+  it/PRP
+  's/VBZ
+  not/RB
+  only/RB
+  the/DT
+  (NP (NBAR economy/NN))
+  that/WDT
+  's/VBZ
+  really/RB
+  hurting/VBG
+  the/DT
+  (NP (NBAR president/NN))
+  right/RB
+  now/RB
+  ,/,
+  but/CC
+  it/PRP
+  is/VBZ
+  the/DT
+  (NP (NBAR gulf/NN))
+  that/WDT
+  is/VBZ
+  being/VBG
+  created/VBN
+  between/IN
+  him/PRP
+  and/CC
+  the/DT
+  (NP (NBAR folks/NNS))
+  ./.
+  Not/RB
+  all/PDT
+  the/DT
+  (NP (NBAR folks/NNS))
+  ./.
+  (NP (NBAR Liberal/JJ people/NNS))
+  still/RB
+  love/VBP
+  him/PRP
+  ./.
+  But/CC
+  (NP (NBAR working-class/JJ Americans/NNPS))
+  ca/MD
+  n't/RB
+  understand/VB
+  when/WRB
+  you/PRP
+  ask/VBP
+  a/DT
+  (NP (NBAR simple/JJ question/NN))
+  to/TO
+  the/DT
+  (NP (NBAR chief/JJ executive/NN))
+  what/WP
+  about/IN
+  the/DT
+  (NP (NBAR wisdom/NN))
+  of/IN
+  (NP (NBAR building/NN))
+  this/DT
+  ?/.
+  And/CC
+  he/PRP
+  goes/VBZ
+  I/PRP
+  'm/VBP
+  not/RB
+  going/VBG
+  to/TO
+  comment/VB
+  on/IN
+  the/DT
+  (NP (NBAR wisdom/NN))
+  ./.
+  I/PRP
+  submit/VBP
+  to/TO
+  you/PRP
+  that/IN
+  that/DT
+  is/VBZ
+  (NP (NBAR part/NN))
+  of/IN
+  the/DT
+  (NP (NBAR Obama/NNP perception/NN problem/NN))
+  ./.
+  That/DT
+  's/VBZ
+  the/DT
+  (NP (NBAR point/NN))
+  I/PRP
+  was/VBD
+  trying/VBG
+  to/TO
+  make/VB
+  here/RB
+  ./.
+  I/PRP
+  was/VBD
+  n't/RB
+  trying/VBG
+  to/TO
+  ridicule/VB
+  (NP (NBAR people/NNS))
+  in/IN
+  (NP (NBAR Riyadh/NNP))
+  and/CC
+  (NP (NBAR Islamabad/NNP))
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  Here/RB
+  's/VBZ
+  the/DT
+  (NP (NBAR big/JJ political/JJ question/NN))
+  ./.
+  I/PRP
+  submit/VBP
+  in/IN
+  ``/``
+  (NP (NBAR Pinheads/NNP))
+  and/CC
+  (NP (NBAR Patriots/NNP))
+  ''/''
+  that/IN
+  it/PRP
+  's/VBZ
+  not/RB
+  only/RB
+  the/DT
+  (NP (NBAR economy/NN))
+  that/WDT
+  's/VBZ
+  really/RB
+  hurting/VBG
+  the/DT
+  (NP (NBAR president/NN))
+  right/RB
+  now/RB
+  ,/,
+  but/CC
+  it/PRP
+  is/VBZ
+  the/DT
+  (NP (NBAR gulf/NN))
+  that/WDT
+  is/VBZ
+  being/VBG
+  created/VBN
+  between/IN
+  him/PRP
+  and/CC
+  the/DT
+  (NP (NBAR folks/NNS))
+  ./.
+  Not/RB
+  all/PDT
+  the/DT
+  (NP (NBAR folks/NNS))
+  ./.
+  (NP (NBAR Liberal/JJ people/NNS))
+  still/RB
+  love/VBP
+  him/PRP
+  ./.
+  But/CC
+  (NP (NBAR working-class/JJ Americans/NNPS))
+  ca/MD
+  n't/RB
+  understand/VB
+  when/WRB
+  you/PRP
+  ask/VBP
+  a/DT
+  (NP (NBAR simple/JJ question/NN))
+  to/TO
+  the/DT
+  (NP (NBAR chief/JJ executive/NN))
+  what/WP
+  about/IN
+  the/DT
+  (NP (NBAR wisdom/NN))
+  of/IN
+  (NP (NBAR building/NN))
+  this/DT
+  ?/.
+  And/CC
+  he/PRP
+  goes/VBZ
+  I/PRP
+  'm/VBP
+  not/RB
+  going/VBG
+  to/TO
+  comment/VB
+  on/IN
+  the/DT
+  (NP (NBAR wisdom/NN))
+  ./.
+  I/PRP
+  submit/VBP
+  to/TO
+  you/PRP
+  that/IN
+  that/DT
+  is/VBZ
+  (NP (NBAR part/NN))
+  of/IN
+  the/DT
+  (NP (NBAR Obama/NNP perception/NN problem/NN))
+  ./.
+  That/DT
+  's/VBZ
+  the/DT
+  (NP (NBAR point/NN))
+  I/PRP
+  was/VBD
+  trying/VBG
+  to/TO
+  make/VB
+  here/RB
+  ./.
+  I/PRP
+  was/VBD
+  n't/RB
+  trying/VBG
+  to/TO
+  ridicule/VB
+  (NP (NBAR people/NNS))
+  in/IN
+  (NP (NBAR Riyadh/NNP))
+  and/CC
+  (NP (NBAR Islamabad/NNP))
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  Here/RB
+  's/VBZ
+  the/DT
+  (NP (NBAR big/JJ political/JJ question/NN))
+  ./.
+  I/PRP
+  submit/VBP
+  in/IN
+  ``/``
+  (NP (NBAR Pinheads/NNP))
+  and/CC
+  (NP (NBAR Patriots/NNP))
+  ''/''
+  that/IN
+  it/PRP
+  's/VBZ
+  not/RB
+  only/RB
+  the/DT
+  (NP (NBAR economy/NN))
+  that/WDT
+  's/VBZ
+  really/RB
+  hurting/VBG
+  the/DT
+  (NP (NBAR president/NN))
+  right/RB
+  now/RB
+  ,/,
+  but/CC
+  it/PRP
+  is/VBZ
+  the/DT
+  (NP (NBAR gulf/NN))
+  that/WDT
+  is/VBZ
+  being/VBG
+  created/VBN
+  between/IN
+  him/PRP
+  and/CC
+  the/DT
+  (NP (NBAR folks/NNS))
+  ./.
+  Not/RB
+  all/PDT
+  the/DT
+  (NP (NBAR folks/NNS))
+  ./.
+  (NP (NBAR Liberal/JJ people/NNS))
+  still/RB
+  love/VBP
+  him/PRP
+  ./.
+  But/CC
+  (NP (NBAR working-class/JJ Americans/NNPS))
+  ca/MD
+  n't/RB
+  understand/VB
+  when/WRB
+  you/PRP
+  ask/VBP
+  a/DT
+  (NP (NBAR simple/JJ question/NN))
+  to/TO
+  the/DT
+  (NP (NBAR chief/JJ executive/NN))
+  what/WP
+  about/IN
+  the/DT
+  (NP (NBAR wisdom/NN))
+  of/IN
+  (NP (NBAR building/NN))
+  this/DT
+  ?/.
+  And/CC
+  he/PRP
+  goes/VBZ
+  I/PRP
+  'm/VBP
+  not/RB
+  going/VBG
+  to/TO
+  comment/VB
+  on/IN
+  the/DT
+  (NP (NBAR wisdom/NN))
+  ./.
+  I/PRP
+  submit/VBP
+  to/TO
+  you/PRP
+  that/IN
+  that/DT
+  is/VBZ
+  (NP (NBAR part/NN))
+  of/IN
+  the/DT
+  (NP (NBAR Obama/NNP perception/NN problem/NN))
+  ./.
+  That/DT
+  's/VBZ
+  the/DT
+  (NP (NBAR point/NN))
+  I/PRP
+  was/VBD
+  trying/VBG
+  to/TO
+  make/VB
+  here/RB
+  ./.
+  I/PRP
+  was/VBD
+  n't/RB
+  trying/VBG
+  to/TO
+  ridicule/VB
+  (NP (NBAR people/NNS))
+  in/IN
+  (NP (NBAR Riyadh/NNP))
+  and/CC
+  (NP (NBAR Islamabad/NNP))
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  Here/RB
+  's/VBZ
+  the/DT
+  (NP (NBAR big/JJ political/JJ question/NN))
+  ./.
+  I/PRP
+  submit/VBP
+  in/IN
+  ``/``
+  (NP (NBAR Pinheads/NNP))
+  and/CC
+  (NP (NBAR Patriots/NNP))
+  ''/''
+  that/IN
+  it/PRP
+  's/VBZ
+  not/RB
+  only/RB
+  the/DT
+  (NP (NBAR economy/NN))
+  that/WDT
+  's/VBZ
+  really/RB
+  hurting/VBG
+  the/DT
+  (NP (NBAR president/NN))
+  right/RB
+  now/RB
+  ,/,
+  but/CC
+  it/PRP
+  is/VBZ
+  the/DT
+  (NP (NBAR gulf/NN))
+  that/WDT
+  is/VBZ
+  being/VBG
+  created/VBN
+  between/IN
+  him/PRP
+  and/CC
+  the/DT
+  (NP (NBAR folks/NNS))
+  ./.
+  Not/RB
+  all/PDT
+  the/DT
+  (NP (NBAR folks/NNS))
+  ./.
+  (NP (NBAR Liberal/JJ people/NNS))
+  still/RB
+  love/VBP
+  him/PRP
+  ./.
+  But/CC
+  (NP (NBAR working-class/JJ Americans/NNPS))
+  ca/MD
+  n't/RB
+  understand/VB
+  when/WRB
+  you/PRP
+  ask/VBP
+  a/DT
+  (NP (NBAR simple/JJ question/NN))
+  to/TO
+  the/DT
+  (NP (NBAR chief/JJ executive/NN))
+  what/WP
+  about/IN
+  the/DT
+  (NP (NBAR wisdom/NN))
+  of/IN
+  (NP (NBAR building/NN))
+  this/DT
+  ?/.
+  And/CC
+  he/PRP
+  goes/VBZ
+  I/PRP
+  'm/VBP
+  not/RB
+  going/VBG
+  to/TO
+  comment/VB
+  on/IN
+  the/DT
+  (NP (NBAR wisdom/NN))
+  ./.
+  I/PRP
+  submit/VBP
+  to/TO
+  you/PRP
+  that/IN
+  that/DT
+  is/VBZ
+  (NP (NBAR part/NN))
+  of/IN
+  the/DT
+  (NP (NBAR Obama/NNP perception/NN problem/NN))
+  ./.
+  That/DT
+  's/VBZ
+  the/DT
+  (NP (NBAR point/NN))
+  I/PRP
+  was/VBD
+  trying/VBG
+  to/TO
+  make/VB
+  here/RB
+  ./.
+  I/PRP
+  was/VBD
+  n't/RB
+  trying/VBG
+  to/TO
+  ridicule/VB
+  (NP (NBAR people/NNS))
+  in/IN
+  (NP (NBAR Riyadh/NNP))
+  and/CC
+  (NP (NBAR Islamabad/NNP))
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  Here/RB
+  's/VBZ
+  the/DT
+  (NP (NBAR big/JJ political/JJ question/NN))
+  ./.
+  I/PRP
+  submit/VBP
+  in/IN
+  ``/``
+  (NP (NBAR Pinheads/NNP))
+  and/CC
+  (NP (NBAR Patriots/NNP))
+  ''/''
+  that/IN
+  it/PRP
+  's/VBZ
+  not/RB
+  only/RB
+  the/DT
+  (NP (NBAR economy/NN))
+  that/WDT
+  's/VBZ
+  really/RB
+  hurting/VBG
+  the/DT
+  (NP (NBAR president/NN))
+  right/RB
+  now/RB
+  ,/,
+  but/CC
+  it/PRP
+  is/VBZ
+  the/DT
+  (NP (NBAR gulf/NN))
+  that/WDT
+  is/VBZ
+  being/VBG
+  created/VBN
+  between/IN
+  him/PRP
+  and/CC
+  the/DT
+  (NP (NBAR folks/NNS))
+  ./.
+  Not/RB
+  all/PDT
+  the/DT
+  (NP (NBAR folks/NNS))
+  ./.
+  (NP (NBAR Liberal/JJ people/NNS))
+  still/RB
+  love/VBP
+  him/PRP
+  ./.
+  But/CC
+  (NP (NBAR working-class/JJ Americans/NNPS))
+  ca/MD
+  n't/RB
+  understand/VB
+  when/WRB
+  you/PRP
+  ask/VBP
+  a/DT
+  (NP (NBAR simple/JJ question/NN))
+  to/TO
+  the/DT
+  (NP (NBAR chief/JJ executive/NN))
+  what/WP
+  about/IN
+  the/DT
+  (NP (NBAR wisdom/NN))
+  of/IN
+  (NP (NBAR building/NN))
+  this/DT
+  ?/.
+  And/CC
+  he/PRP
+  goes/VBZ
+  I/PRP
+  'm/VBP
+  not/RB
+  going/VBG
+  to/TO
+  comment/VB
+  on/IN
+  the/DT
+  (NP (NBAR wisdom/NN))
+  ./.
+  I/PRP
+  submit/VBP
+  to/TO
+  you/PRP
+  that/IN
+  that/DT
+  is/VBZ
+  (NP (NBAR part/NN))
+  of/IN
+  the/DT
+  (NP (NBAR Obama/NNP perception/NN problem/NN))
+  ./.
+  That/DT
+  's/VBZ
+  the/DT
+  (NP (NBAR point/NN))
+  I/PRP
+  was/VBD
+  trying/VBG
+  to/TO
+  make/VB
+  here/RB
+  ./.
+  I/PRP
+  was/VBD
+  n't/RB
+  trying/VBG
+  to/TO
+  ridicule/VB
+  (NP (NBAR people/NNS))
+  in/IN
+  (NP (NBAR Riyadh/NNP))
+  and/CC
+  (NP (NBAR Islamabad/NNP))
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  Here/RB
+  's/VBZ
+  the/DT
+  (NP (NBAR big/JJ political/JJ question/NN))
+  ./.
+  I/PRP
+  submit/VBP
+  in/IN
+  ``/``
+  (NP (NBAR Pinheads/NNP))
+  and/CC
+  (NP (NBAR Patriots/NNP))
+  ''/''
+  that/IN
+  it/PRP
+  's/VBZ
+  not/RB
+  only/RB
+  the/DT
+  (NP (NBAR economy/NN))
+  that/WDT
+  's/VBZ
+  really/RB
+  hurting/VBG
+  the/DT
+  (NP (NBAR president/NN))
+  right/RB
+  now/RB
+  ,/,
+  but/CC
+  it/PRP
+  is/VBZ
+  the/DT
+  (NP (NBAR gulf/NN))
+  that/WDT
+  is/VBZ
+  being/VBG
+  created/VBN
+  between/IN
+  him/PRP
+  and/CC
+  the/DT
+  (NP (NBAR folks/NNS))
+  ./.
+  Not/RB
+  all/PDT
+  the/DT
+  (NP (NBAR folks/NNS))
+  ./.
+  (NP (NBAR Liberal/JJ people/NNS))
+  still/RB
+  love/VBP
+  him/PRP
+  ./.
+  But/CC
+  (NP (NBAR working-class/JJ Americans/NNPS))
+  ca/MD
+  n't/RB
+  understand/VB
+  when/WRB
+  you/PRP
+  ask/VBP
+  a/DT
+  (NP (NBAR simple/JJ question/NN))
+  to/TO
+  the/DT
+  (NP (NBAR chief/JJ executive/NN))
+  what/WP
+  about/IN
+  the/DT
+  (NP (NBAR wisdom/NN))
+  of/IN
+  (NP (NBAR building/NN))
+  this/DT
+  ?/.
+  And/CC
+  he/PRP
+  goes/VBZ
+  I/PRP
+  'm/VBP
+  not/RB
+  going/VBG
+  to/TO
+  comment/VB
+  on/IN
+  the/DT
+  (NP (NBAR wisdom/NN))
+  ./.
+  I/PRP
+  submit/VBP
+  to/TO
+  you/PRP
+  that/IN
+  that/DT
+  is/VBZ
+  (NP (NBAR part/NN))
+  of/IN
+  the/DT
+  (NP (NBAR Obama/NNP perception/NN problem/NN))
+  ./.
+  That/DT
+  's/VBZ
+  the/DT
+  (NP (NBAR point/NN))
+  I/PRP
+  was/VBD
+  trying/VBG
+  to/TO
+  make/VB
+  here/RB
+  ./.
+  I/PRP
+  was/VBD
+  n't/RB
+  trying/VBG
+  to/TO
+  ridicule/VB
+  (NP (NBAR people/NNS))
+  in/IN
+  (NP (NBAR Riyadh/NNP))
+  and/CC
+  (NP (NBAR Islamabad/NNP))
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  Here/RB
+  's/VBZ
+  the/DT
+  (NP (NBAR big/JJ political/JJ question/NN))
+  ./.
+  I/PRP
+  submit/VBP
+  in/IN
+  ``/``
+  (NP (NBAR Pinheads/NNP))
+  and/CC
+  (NP (NBAR Patriots/NNP))
+  ''/''
+  that/IN
+  it/PRP
+  's/VBZ
+  not/RB
+  only/RB
+  the/DT
+  (NP (NBAR economy/NN))
+  that/WDT
+  's/VBZ
+  really/RB
+  hurting/VBG
+  the/DT
+  (NP (NBAR president/NN))
+  right/RB
+  now/RB
+  ,/,
+  but/CC
+  it/PRP
+  is/VBZ
+  the/DT
+  (NP (NBAR gulf/NN))
+  that/WDT
+  is/VBZ
+  being/VBG
+  created/VBN
+  between/IN
+  him/PRP
+  and/CC
+  the/DT
+  (NP (NBAR folks/NNS))
+  ./.
+  Not/RB
+  all/PDT
+  the/DT
+  (NP (NBAR folks/NNS))
+  ./.
+  (NP (NBAR Liberal/JJ people/NNS))
+  still/RB
+  love/VBP
+  him/PRP
+  ./.
+  But/CC
+  (NP (NBAR working-class/JJ Americans/NNPS))
+  ca/MD
+  n't/RB
+  understand/VB
+  when/WRB
+  you/PRP
+  ask/VBP
+  a/DT
+  (NP (NBAR simple/JJ question/NN))
+  to/TO
+  the/DT
+  (NP (NBAR chief/JJ executive/NN))
+  what/WP
+  about/IN
+  the/DT
+  (NP (NBAR wisdom/NN))
+  of/IN
+  (NP (NBAR building/NN))
+  this/DT
+  ?/.
+  And/CC
+  he/PRP
+  goes/VBZ
+  I/PRP
+  'm/VBP
+  not/RB
+  going/VBG
+  to/TO
+  comment/VB
+  on/IN
+  the/DT
+  (NP (NBAR wisdom/NN))
+  ./.
+  I/PRP
+  submit/VBP
+  to/TO
+  you/PRP
+  that/IN
+  that/DT
+  is/VBZ
+  (NP (NBAR part/NN))
+  of/IN
+  the/DT
+  (NP (NBAR Obama/NNP perception/NN problem/NN))
+  ./.
+  That/DT
+  's/VBZ
+  the/DT
+  (NP (NBAR point/NN))
+  I/PRP
+  was/VBD
+  trying/VBG
+  to/TO
+  make/VB
+  here/RB
+  ./.
+  I/PRP
+  was/VBD
+  n't/RB
+  trying/VBG
+  to/TO
+  ridicule/VB
+  (NP (NBAR people/NNS))
+  in/IN
+  (NP (NBAR Riyadh/NNP))
+  and/CC
+  (NP (NBAR Islamabad/NNP))
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  Here/RB
+  's/VBZ
+  the/DT
+  (NP (NBAR big/JJ political/JJ question/NN))
+  ./.
+  I/PRP
+  submit/VBP
+  in/IN
+  ``/``
+  (NP (NBAR Pinheads/NNP))
+  and/CC
+  (NP (NBAR Patriots/NNP))
+  ''/''
+  that/IN
+  it/PRP
+  's/VBZ
+  not/RB
+  only/RB
+  the/DT
+  (NP (NBAR economy/NN))
+  that/WDT
+  's/VBZ
+  really/RB
+  hurting/VBG
+  the/DT
+  (NP (NBAR president/NN))
+  right/RB
+  now/RB
+  ,/,
+  but/CC
+  it/PRP
+  is/VBZ
+  the/DT
+  (NP (NBAR gulf/NN))
+  that/WDT
+  is/VBZ
+  being/VBG
+  created/VBN
+  between/IN
+  him/PRP
+  and/CC
+  the/DT
+  (NP (NBAR folks/NNS))
+  ./.
+  Not/RB
+  all/PDT
+  the/DT
+  (NP (NBAR folks/NNS))
+  ./.
+  (NP (NBAR Liberal/JJ people/NNS))
+  still/RB
+  love/VBP
+  him/PRP
+  ./.
+  But/CC
+  (NP (NBAR working-class/JJ Americans/NNPS))
+  ca/MD
+  n't/RB
+  understand/VB
+  when/WRB
+  you/PRP
+  ask/VBP
+  a/DT
+  (NP (NBAR simple/JJ question/NN))
+  to/TO
+  the/DT
+  (NP (NBAR chief/JJ executive/NN))
+  what/WP
+  about/IN
+  the/DT
+  (NP (NBAR wisdom/NN))
+  of/IN
+  (NP (NBAR building/NN))
+  this/DT
+  ?/.
+  And/CC
+  he/PRP
+  goes/VBZ
+  I/PRP
+  'm/VBP
+  not/RB
+  going/VBG
+  to/TO
+  comment/VB
+  on/IN
+  the/DT
+  (NP (NBAR wisdom/NN))
+  ./.
+  I/PRP
+  submit/VBP
+  to/TO
+  you/PRP
+  that/IN
+  that/DT
+  is/VBZ
+  (NP (NBAR part/NN))
+  of/IN
+  the/DT
+  (NP (NBAR Obama/NNP perception/NN problem/NN))
+  ./.
+  That/DT
+  's/VBZ
+  the/DT
+  (NP (NBAR point/NN))
+  I/PRP
+  was/VBD
+  trying/VBG
+  to/TO
+  make/VB
+  here/RB
+  ./.
+  I/PRP
+  was/VBD
+  n't/RB
+  trying/VBG
+  to/TO
+  ridicule/VB
+  (NP (NBAR people/NNS))
+  in/IN
+  (NP (NBAR Riyadh/NNP))
+  and/CC
+  (NP (NBAR Islamabad/NNP))
   ./.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
@@ -995,7 +3692,1109 @@
   shut/VB
   down/RP
   (NP (NBAR political/JJ speech/NN))
-  ./.)(S )(S
+  ./.)(S
+  (NP (NBAR INGRAHAM/NN))
+  :/:
+  But/CC
+  what/WP
+  they/PRP
+  're/VBP
+  doing/VBG
+  --/:
+  I/PRP
+  just/RB
+  want/VBP
+  to/TO
+  be/VB
+  very/RB
+  clear/JJ
+  so/IN
+  (NP (NBAR people/NNS))
+  listening/VBG
+  can/MD
+  understand/VB
+  what/WP
+  's/VBZ
+  going/VBG
+  on/IN
+  ./.
+  What/WP
+  they/PRP
+  did/VBD
+  (NP (NBAR today/NN))
+  was/VBD
+  an/DT
+  (NP (NBAR attempt/NN))
+  to/TO
+  intimidate/VB
+  (NP (NBAR others/NNS))
+  ./.
+  They/PRP
+  know/VBP
+  they/PRP
+  are/VBP
+  not/RB
+  going/VBG
+  to/TO
+  intimidate/VB
+  you/PRP
+  ./.
+  But/CC
+  it/PRP
+  's/VBZ
+  very/RB
+  disturbing/JJ
+  to/TO
+  me/PRP
+  because/IN
+  (NP (NBAR people/NNS))
+  who/WP
+  say/VBP
+  that/IN
+  they/PRP
+  are/VBP
+  for/IN
+  (NP (NBAR free/JJ speech/NN))
+  and/CC
+  (NP (NBAR Barbara/NNP Walters/NNP))
+  usually/RB
+  does/VBZ
+  a/DT
+  pretty/RB
+  (NP (NBAR good/JJ job/NN))
+  of/IN
+  moderating/VBG
+  that/IN
+  ./.
+  I/PRP
+  mean/VBP
+  ,/,
+  to/TO
+  come/VB
+  back/RB
+  and/CC
+  say/VBP
+  that/IN
+  you/PRP
+  are/VBP
+  the/DT
+  (NP (NBAR pinhead/NN))
+  after/IN
+  they/PRP
+  embarrassed/VBD
+  themselves/PRP
+  walking/VBG
+  off/RP
+  their/PRP$
+  (NP (NBAR own/JJ set/NN))
+  ./.
+  That/DT
+  was/VBD
+  embarrassing/VBG
+  ./.
+  They/PRP
+  're/VBP
+  treating/VBG
+  you/PRP
+  like/IN
+  (NP (NBAR Mahmoud/NNP Ahmadinejad/NNP))
+  at/IN
+  the/DT
+  (NP (NBAR U.N./NNP))
+  and/CC
+  you/PRP
+  are/VBP
+  a/DT
+  (NP (NBAR lot/NN taller/NN))
+  than/IN
+  (NP (NBAR Mahmoud/NNP))
+  ,/,
+  (NP (NBAR Bill/NNP))
+  ./.
+  So/CC
+  I/PRP
+  mean/VBP
+  ,/,
+  it/PRP
+  's/VBZ
+  ridiculous/JJ
+  ./.
+  This/DT
+  is/VBZ
+  an/DT
+  (NP (NBAR attempt/NN))
+  to/TO
+  shut/VB
+  down/RP
+  (NP (NBAR political/JJ speech/NN))
+  ./.)(S
+  (NP (NBAR INGRAHAM/NN))
+  :/:
+  But/CC
+  what/WP
+  they/PRP
+  're/VBP
+  doing/VBG
+  --/:
+  I/PRP
+  just/RB
+  want/VBP
+  to/TO
+  be/VB
+  very/RB
+  clear/JJ
+  so/IN
+  (NP (NBAR people/NNS))
+  listening/VBG
+  can/MD
+  understand/VB
+  what/WP
+  's/VBZ
+  going/VBG
+  on/IN
+  ./.
+  What/WP
+  they/PRP
+  did/VBD
+  (NP (NBAR today/NN))
+  was/VBD
+  an/DT
+  (NP (NBAR attempt/NN))
+  to/TO
+  intimidate/VB
+  (NP (NBAR others/NNS))
+  ./.
+  They/PRP
+  know/VBP
+  they/PRP
+  are/VBP
+  not/RB
+  going/VBG
+  to/TO
+  intimidate/VB
+  you/PRP
+  ./.
+  But/CC
+  it/PRP
+  's/VBZ
+  very/RB
+  disturbing/JJ
+  to/TO
+  me/PRP
+  because/IN
+  (NP (NBAR people/NNS))
+  who/WP
+  say/VBP
+  that/IN
+  they/PRP
+  are/VBP
+  for/IN
+  (NP (NBAR free/JJ speech/NN))
+  and/CC
+  (NP (NBAR Barbara/NNP Walters/NNP))
+  usually/RB
+  does/VBZ
+  a/DT
+  pretty/RB
+  (NP (NBAR good/JJ job/NN))
+  of/IN
+  moderating/VBG
+  that/IN
+  ./.
+  I/PRP
+  mean/VBP
+  ,/,
+  to/TO
+  come/VB
+  back/RB
+  and/CC
+  say/VBP
+  that/IN
+  you/PRP
+  are/VBP
+  the/DT
+  (NP (NBAR pinhead/NN))
+  after/IN
+  they/PRP
+  embarrassed/VBD
+  themselves/PRP
+  walking/VBG
+  off/RP
+  their/PRP$
+  (NP (NBAR own/JJ set/NN))
+  ./.
+  That/DT
+  was/VBD
+  embarrassing/VBG
+  ./.
+  They/PRP
+  're/VBP
+  treating/VBG
+  you/PRP
+  like/IN
+  (NP (NBAR Mahmoud/NNP Ahmadinejad/NNP))
+  at/IN
+  the/DT
+  (NP (NBAR U.N./NNP))
+  and/CC
+  you/PRP
+  are/VBP
+  a/DT
+  (NP (NBAR lot/NN taller/NN))
+  than/IN
+  (NP (NBAR Mahmoud/NNP))
+  ,/,
+  (NP (NBAR Bill/NNP))
+  ./.
+  So/CC
+  I/PRP
+  mean/VBP
+  ,/,
+  it/PRP
+  's/VBZ
+  ridiculous/JJ
+  ./.
+  This/DT
+  is/VBZ
+  an/DT
+  (NP (NBAR attempt/NN))
+  to/TO
+  shut/VB
+  down/RP
+  (NP (NBAR political/JJ speech/NN))
+  ./.)(S
+  (NP (NBAR INGRAHAM/NN))
+  :/:
+  But/CC
+  what/WP
+  they/PRP
+  're/VBP
+  doing/VBG
+  --/:
+  I/PRP
+  just/RB
+  want/VBP
+  to/TO
+  be/VB
+  very/RB
+  clear/JJ
+  so/IN
+  (NP (NBAR people/NNS))
+  listening/VBG
+  can/MD
+  understand/VB
+  what/WP
+  's/VBZ
+  going/VBG
+  on/IN
+  ./.
+  What/WP
+  they/PRP
+  did/VBD
+  (NP (NBAR today/NN))
+  was/VBD
+  an/DT
+  (NP (NBAR attempt/NN))
+  to/TO
+  intimidate/VB
+  (NP (NBAR others/NNS))
+  ./.
+  They/PRP
+  know/VBP
+  they/PRP
+  are/VBP
+  not/RB
+  going/VBG
+  to/TO
+  intimidate/VB
+  you/PRP
+  ./.
+  But/CC
+  it/PRP
+  's/VBZ
+  very/RB
+  disturbing/JJ
+  to/TO
+  me/PRP
+  because/IN
+  (NP (NBAR people/NNS))
+  who/WP
+  say/VBP
+  that/IN
+  they/PRP
+  are/VBP
+  for/IN
+  (NP (NBAR free/JJ speech/NN))
+  and/CC
+  (NP (NBAR Barbara/NNP Walters/NNP))
+  usually/RB
+  does/VBZ
+  a/DT
+  pretty/RB
+  (NP (NBAR good/JJ job/NN))
+  of/IN
+  moderating/VBG
+  that/IN
+  ./.
+  I/PRP
+  mean/VBP
+  ,/,
+  to/TO
+  come/VB
+  back/RB
+  and/CC
+  say/VBP
+  that/IN
+  you/PRP
+  are/VBP
+  the/DT
+  (NP (NBAR pinhead/NN))
+  after/IN
+  they/PRP
+  embarrassed/VBD
+  themselves/PRP
+  walking/VBG
+  off/RP
+  their/PRP$
+  (NP (NBAR own/JJ set/NN))
+  ./.
+  That/DT
+  was/VBD
+  embarrassing/VBG
+  ./.
+  They/PRP
+  're/VBP
+  treating/VBG
+  you/PRP
+  like/IN
+  (NP (NBAR Mahmoud/NNP Ahmadinejad/NNP))
+  at/IN
+  the/DT
+  (NP (NBAR U.N./NNP))
+  and/CC
+  you/PRP
+  are/VBP
+  a/DT
+  (NP (NBAR lot/NN taller/NN))
+  than/IN
+  (NP (NBAR Mahmoud/NNP))
+  ,/,
+  (NP (NBAR Bill/NNP))
+  ./.
+  So/CC
+  I/PRP
+  mean/VBP
+  ,/,
+  it/PRP
+  's/VBZ
+  ridiculous/JJ
+  ./.
+  This/DT
+  is/VBZ
+  an/DT
+  (NP (NBAR attempt/NN))
+  to/TO
+  shut/VB
+  down/RP
+  (NP (NBAR political/JJ speech/NN))
+  ./.)(S
+  (NP (NBAR INGRAHAM/NN))
+  :/:
+  But/CC
+  what/WP
+  they/PRP
+  're/VBP
+  doing/VBG
+  --/:
+  I/PRP
+  just/RB
+  want/VBP
+  to/TO
+  be/VB
+  very/RB
+  clear/JJ
+  so/IN
+  (NP (NBAR people/NNS))
+  listening/VBG
+  can/MD
+  understand/VB
+  what/WP
+  's/VBZ
+  going/VBG
+  on/IN
+  ./.
+  What/WP
+  they/PRP
+  did/VBD
+  (NP (NBAR today/NN))
+  was/VBD
+  an/DT
+  (NP (NBAR attempt/NN))
+  to/TO
+  intimidate/VB
+  (NP (NBAR others/NNS))
+  ./.
+  They/PRP
+  know/VBP
+  they/PRP
+  are/VBP
+  not/RB
+  going/VBG
+  to/TO
+  intimidate/VB
+  you/PRP
+  ./.
+  But/CC
+  it/PRP
+  's/VBZ
+  very/RB
+  disturbing/JJ
+  to/TO
+  me/PRP
+  because/IN
+  (NP (NBAR people/NNS))
+  who/WP
+  say/VBP
+  that/IN
+  they/PRP
+  are/VBP
+  for/IN
+  (NP (NBAR free/JJ speech/NN))
+  and/CC
+  (NP (NBAR Barbara/NNP Walters/NNP))
+  usually/RB
+  does/VBZ
+  a/DT
+  pretty/RB
+  (NP (NBAR good/JJ job/NN))
+  of/IN
+  moderating/VBG
+  that/IN
+  ./.
+  I/PRP
+  mean/VBP
+  ,/,
+  to/TO
+  come/VB
+  back/RB
+  and/CC
+  say/VBP
+  that/IN
+  you/PRP
+  are/VBP
+  the/DT
+  (NP (NBAR pinhead/NN))
+  after/IN
+  they/PRP
+  embarrassed/VBD
+  themselves/PRP
+  walking/VBG
+  off/RP
+  their/PRP$
+  (NP (NBAR own/JJ set/NN))
+  ./.
+  That/DT
+  was/VBD
+  embarrassing/VBG
+  ./.
+  They/PRP
+  're/VBP
+  treating/VBG
+  you/PRP
+  like/IN
+  (NP (NBAR Mahmoud/NNP Ahmadinejad/NNP))
+  at/IN
+  the/DT
+  (NP (NBAR U.N./NNP))
+  and/CC
+  you/PRP
+  are/VBP
+  a/DT
+  (NP (NBAR lot/NN taller/NN))
+  than/IN
+  (NP (NBAR Mahmoud/NNP))
+  ,/,
+  (NP (NBAR Bill/NNP))
+  ./.
+  So/CC
+  I/PRP
+  mean/VBP
+  ,/,
+  it/PRP
+  's/VBZ
+  ridiculous/JJ
+  ./.
+  This/DT
+  is/VBZ
+  an/DT
+  (NP (NBAR attempt/NN))
+  to/TO
+  shut/VB
+  down/RP
+  (NP (NBAR political/JJ speech/NN))
+  ./.)(S
+  (NP (NBAR INGRAHAM/NN))
+  :/:
+  But/CC
+  what/WP
+  they/PRP
+  're/VBP
+  doing/VBG
+  --/:
+  I/PRP
+  just/RB
+  want/VBP
+  to/TO
+  be/VB
+  very/RB
+  clear/JJ
+  so/IN
+  (NP (NBAR people/NNS))
+  listening/VBG
+  can/MD
+  understand/VB
+  what/WP
+  's/VBZ
+  going/VBG
+  on/IN
+  ./.
+  What/WP
+  they/PRP
+  did/VBD
+  (NP (NBAR today/NN))
+  was/VBD
+  an/DT
+  (NP (NBAR attempt/NN))
+  to/TO
+  intimidate/VB
+  (NP (NBAR others/NNS))
+  ./.
+  They/PRP
+  know/VBP
+  they/PRP
+  are/VBP
+  not/RB
+  going/VBG
+  to/TO
+  intimidate/VB
+  you/PRP
+  ./.
+  But/CC
+  it/PRP
+  's/VBZ
+  very/RB
+  disturbing/JJ
+  to/TO
+  me/PRP
+  because/IN
+  (NP (NBAR people/NNS))
+  who/WP
+  say/VBP
+  that/IN
+  they/PRP
+  are/VBP
+  for/IN
+  (NP (NBAR free/JJ speech/NN))
+  and/CC
+  (NP (NBAR Barbara/NNP Walters/NNP))
+  usually/RB
+  does/VBZ
+  a/DT
+  pretty/RB
+  (NP (NBAR good/JJ job/NN))
+  of/IN
+  moderating/VBG
+  that/IN
+  ./.
+  I/PRP
+  mean/VBP
+  ,/,
+  to/TO
+  come/VB
+  back/RB
+  and/CC
+  say/VBP
+  that/IN
+  you/PRP
+  are/VBP
+  the/DT
+  (NP (NBAR pinhead/NN))
+  after/IN
+  they/PRP
+  embarrassed/VBD
+  themselves/PRP
+  walking/VBG
+  off/RP
+  their/PRP$
+  (NP (NBAR own/JJ set/NN))
+  ./.
+  That/DT
+  was/VBD
+  embarrassing/VBG
+  ./.
+  They/PRP
+  're/VBP
+  treating/VBG
+  you/PRP
+  like/IN
+  (NP (NBAR Mahmoud/NNP Ahmadinejad/NNP))
+  at/IN
+  the/DT
+  (NP (NBAR U.N./NNP))
+  and/CC
+  you/PRP
+  are/VBP
+  a/DT
+  (NP (NBAR lot/NN taller/NN))
+  than/IN
+  (NP (NBAR Mahmoud/NNP))
+  ,/,
+  (NP (NBAR Bill/NNP))
+  ./.
+  So/CC
+  I/PRP
+  mean/VBP
+  ,/,
+  it/PRP
+  's/VBZ
+  ridiculous/JJ
+  ./.
+  This/DT
+  is/VBZ
+  an/DT
+  (NP (NBAR attempt/NN))
+  to/TO
+  shut/VB
+  down/RP
+  (NP (NBAR political/JJ speech/NN))
+  ./.)(S
+  (NP (NBAR INGRAHAM/NN))
+  :/:
+  But/CC
+  what/WP
+  they/PRP
+  're/VBP
+  doing/VBG
+  --/:
+  I/PRP
+  just/RB
+  want/VBP
+  to/TO
+  be/VB
+  very/RB
+  clear/JJ
+  so/IN
+  (NP (NBAR people/NNS))
+  listening/VBG
+  can/MD
+  understand/VB
+  what/WP
+  's/VBZ
+  going/VBG
+  on/IN
+  ./.
+  What/WP
+  they/PRP
+  did/VBD
+  (NP (NBAR today/NN))
+  was/VBD
+  an/DT
+  (NP (NBAR attempt/NN))
+  to/TO
+  intimidate/VB
+  (NP (NBAR others/NNS))
+  ./.
+  They/PRP
+  know/VBP
+  they/PRP
+  are/VBP
+  not/RB
+  going/VBG
+  to/TO
+  intimidate/VB
+  you/PRP
+  ./.
+  But/CC
+  it/PRP
+  's/VBZ
+  very/RB
+  disturbing/JJ
+  to/TO
+  me/PRP
+  because/IN
+  (NP (NBAR people/NNS))
+  who/WP
+  say/VBP
+  that/IN
+  they/PRP
+  are/VBP
+  for/IN
+  (NP (NBAR free/JJ speech/NN))
+  and/CC
+  (NP (NBAR Barbara/NNP Walters/NNP))
+  usually/RB
+  does/VBZ
+  a/DT
+  pretty/RB
+  (NP (NBAR good/JJ job/NN))
+  of/IN
+  moderating/VBG
+  that/IN
+  ./.
+  I/PRP
+  mean/VBP
+  ,/,
+  to/TO
+  come/VB
+  back/RB
+  and/CC
+  say/VBP
+  that/IN
+  you/PRP
+  are/VBP
+  the/DT
+  (NP (NBAR pinhead/NN))
+  after/IN
+  they/PRP
+  embarrassed/VBD
+  themselves/PRP
+  walking/VBG
+  off/RP
+  their/PRP$
+  (NP (NBAR own/JJ set/NN))
+  ./.
+  That/DT
+  was/VBD
+  embarrassing/VBG
+  ./.
+  They/PRP
+  're/VBP
+  treating/VBG
+  you/PRP
+  like/IN
+  (NP (NBAR Mahmoud/NNP Ahmadinejad/NNP))
+  at/IN
+  the/DT
+  (NP (NBAR U.N./NNP))
+  and/CC
+  you/PRP
+  are/VBP
+  a/DT
+  (NP (NBAR lot/NN taller/NN))
+  than/IN
+  (NP (NBAR Mahmoud/NNP))
+  ,/,
+  (NP (NBAR Bill/NNP))
+  ./.
+  So/CC
+  I/PRP
+  mean/VBP
+  ,/,
+  it/PRP
+  's/VBZ
+  ridiculous/JJ
+  ./.
+  This/DT
+  is/VBZ
+  an/DT
+  (NP (NBAR attempt/NN))
+  to/TO
+  shut/VB
+  down/RP
+  (NP (NBAR political/JJ speech/NN))
+  ./.)(S
+  (NP (NBAR INGRAHAM/NN))
+  :/:
+  But/CC
+  what/WP
+  they/PRP
+  're/VBP
+  doing/VBG
+  --/:
+  I/PRP
+  just/RB
+  want/VBP
+  to/TO
+  be/VB
+  very/RB
+  clear/JJ
+  so/IN
+  (NP (NBAR people/NNS))
+  listening/VBG
+  can/MD
+  understand/VB
+  what/WP
+  's/VBZ
+  going/VBG
+  on/IN
+  ./.
+  What/WP
+  they/PRP
+  did/VBD
+  (NP (NBAR today/NN))
+  was/VBD
+  an/DT
+  (NP (NBAR attempt/NN))
+  to/TO
+  intimidate/VB
+  (NP (NBAR others/NNS))
+  ./.
+  They/PRP
+  know/VBP
+  they/PRP
+  are/VBP
+  not/RB
+  going/VBG
+  to/TO
+  intimidate/VB
+  you/PRP
+  ./.
+  But/CC
+  it/PRP
+  's/VBZ
+  very/RB
+  disturbing/JJ
+  to/TO
+  me/PRP
+  because/IN
+  (NP (NBAR people/NNS))
+  who/WP
+  say/VBP
+  that/IN
+  they/PRP
+  are/VBP
+  for/IN
+  (NP (NBAR free/JJ speech/NN))
+  and/CC
+  (NP (NBAR Barbara/NNP Walters/NNP))
+  usually/RB
+  does/VBZ
+  a/DT
+  pretty/RB
+  (NP (NBAR good/JJ job/NN))
+  of/IN
+  moderating/VBG
+  that/IN
+  ./.
+  I/PRP
+  mean/VBP
+  ,/,
+  to/TO
+  come/VB
+  back/RB
+  and/CC
+  say/VBP
+  that/IN
+  you/PRP
+  are/VBP
+  the/DT
+  (NP (NBAR pinhead/NN))
+  after/IN
+  they/PRP
+  embarrassed/VBD
+  themselves/PRP
+  walking/VBG
+  off/RP
+  their/PRP$
+  (NP (NBAR own/JJ set/NN))
+  ./.
+  That/DT
+  was/VBD
+  embarrassing/VBG
+  ./.
+  They/PRP
+  're/VBP
+  treating/VBG
+  you/PRP
+  like/IN
+  (NP (NBAR Mahmoud/NNP Ahmadinejad/NNP))
+  at/IN
+  the/DT
+  (NP (NBAR U.N./NNP))
+  and/CC
+  you/PRP
+  are/VBP
+  a/DT
+  (NP (NBAR lot/NN taller/NN))
+  than/IN
+  (NP (NBAR Mahmoud/NNP))
+  ,/,
+  (NP (NBAR Bill/NNP))
+  ./.
+  So/CC
+  I/PRP
+  mean/VBP
+  ,/,
+  it/PRP
+  's/VBZ
+  ridiculous/JJ
+  ./.
+  This/DT
+  is/VBZ
+  an/DT
+  (NP (NBAR attempt/NN))
+  to/TO
+  shut/VB
+  down/RP
+  (NP (NBAR political/JJ speech/NN))
+  ./.)(S
+  (NP (NBAR INGRAHAM/NN))
+  :/:
+  But/CC
+  what/WP
+  they/PRP
+  're/VBP
+  doing/VBG
+  --/:
+  I/PRP
+  just/RB
+  want/VBP
+  to/TO
+  be/VB
+  very/RB
+  clear/JJ
+  so/IN
+  (NP (NBAR people/NNS))
+  listening/VBG
+  can/MD
+  understand/VB
+  what/WP
+  's/VBZ
+  going/VBG
+  on/IN
+  ./.
+  What/WP
+  they/PRP
+  did/VBD
+  (NP (NBAR today/NN))
+  was/VBD
+  an/DT
+  (NP (NBAR attempt/NN))
+  to/TO
+  intimidate/VB
+  (NP (NBAR others/NNS))
+  ./.
+  They/PRP
+  know/VBP
+  they/PRP
+  are/VBP
+  not/RB
+  going/VBG
+  to/TO
+  intimidate/VB
+  you/PRP
+  ./.
+  But/CC
+  it/PRP
+  's/VBZ
+  very/RB
+  disturbing/JJ
+  to/TO
+  me/PRP
+  because/IN
+  (NP (NBAR people/NNS))
+  who/WP
+  say/VBP
+  that/IN
+  they/PRP
+  are/VBP
+  for/IN
+  (NP (NBAR free/JJ speech/NN))
+  and/CC
+  (NP (NBAR Barbara/NNP Walters/NNP))
+  usually/RB
+  does/VBZ
+  a/DT
+  pretty/RB
+  (NP (NBAR good/JJ job/NN))
+  of/IN
+  moderating/VBG
+  that/IN
+  ./.
+  I/PRP
+  mean/VBP
+  ,/,
+  to/TO
+  come/VB
+  back/RB
+  and/CC
+  say/VBP
+  that/IN
+  you/PRP
+  are/VBP
+  the/DT
+  (NP (NBAR pinhead/NN))
+  after/IN
+  they/PRP
+  embarrassed/VBD
+  themselves/PRP
+  walking/VBG
+  off/RP
+  their/PRP$
+  (NP (NBAR own/JJ set/NN))
+  ./.
+  That/DT
+  was/VBD
+  embarrassing/VBG
+  ./.
+  They/PRP
+  're/VBP
+  treating/VBG
+  you/PRP
+  like/IN
+  (NP (NBAR Mahmoud/NNP Ahmadinejad/NNP))
+  at/IN
+  the/DT
+  (NP (NBAR U.N./NNP))
+  and/CC
+  you/PRP
+  are/VBP
+  a/DT
+  (NP (NBAR lot/NN taller/NN))
+  than/IN
+  (NP (NBAR Mahmoud/NNP))
+  ,/,
+  (NP (NBAR Bill/NNP))
+  ./.
+  So/CC
+  I/PRP
+  mean/VBP
+  ,/,
+  it/PRP
+  's/VBZ
+  ridiculous/JJ
+  ./.
+  This/DT
+  is/VBZ
+  an/DT
+  (NP (NBAR attempt/NN))
+  to/TO
+  shut/VB
+  down/RP
+  (NP (NBAR political/JJ speech/NN))
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  But/CC
+  I/PRP
+  did/VBD
+  n't/RB
+  take/VB
+  (NP (NBAR offense/NN))
+  at/IN
+  (NP (NBAR Ms./NNP Walters/NNP))
+  ./.
+  I/PRP
+  have/VBP
+  to/TO
+  say/VB
+  I/PRP
+  did/VBD
+  n't/RB
+  take/VB
+  (NP (NBAR offense/NN))
+  at/IN
+  (NP (NBAR Barbara's…/NNP)))(S
   (NP (NBAR O'REILLY/NN))
   :/:
   But/CC
@@ -1042,6 +4841,197 @@
   not/RB
   this/DT
   (NP (NBAR time/NN))
+  ./.)(S
+  (NP (NBAR INGRAHAM/NN))
+  :/:
+  Well/RB
+  you/PRP
+  should/MD
+  have/VB
+  ./.
+  You/PRP
+  are/VBP
+  not/RB
+  a/DT
+  (NP (NBAR pinhead/NN))
+  ./.
+  (NP (NBAR Well/NNP))
+  ,/,
+  sometimes/RB
+  you/PRP
+  are/VBP
+  a/DT
+  (NP (NBAR pinhead/NN))
+  but/CC
+  not/RB
+  this/DT
+  (NP (NBAR time/NN))
+  ./.)(S
+  (NP (NBAR INGRAHAM/NN))
+  :/:
+  Well/RB
+  you/PRP
+  should/MD
+  have/VB
+  ./.
+  You/PRP
+  are/VBP
+  not/RB
+  a/DT
+  (NP (NBAR pinhead/NN))
+  ./.
+  (NP (NBAR Well/NNP))
+  ,/,
+  sometimes/RB
+  you/PRP
+  are/VBP
+  a/DT
+  (NP (NBAR pinhead/NN))
+  but/CC
+  not/RB
+  this/DT
+  (NP (NBAR time/NN))
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  She/PRP
+  sees/VBZ
+  it/PRP
+  --/:
+  sincerely/RB
+  sees/VBZ
+  it/PRP
+  that/IN
+  if/IN
+  you/PRP
+  say/VBP
+  (NP (NBAR Muslims/NNS))
+  attacked/VBD
+  (NP (NBAR America/NNP))
+  on/IN
+  9/11/CD
+  you/PRP
+  are/VBP
+  somehow/RB
+  denigrating/VBG
+  an/DT
+  (NP (NBAR entire/JJ people/NNS))
+  ./.
+  I/PRP
+  do/VBP
+  n't/RB
+  see/VB
+  it/PRP
+  that/DT
+  (NP (NBAR way/NN))
+  ./.
+  It/PRP
+  's/VBZ
+  as/RB
+  simple/JJ
+  as/IN
+  that/DT
+  ./.
+  I/PRP
+  will/MD
+  give/VB
+  you/PRP
+  the/DT
+  (NP (NBAR last/JJ word/NN))
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  She/PRP
+  sees/VBZ
+  it/PRP
+  --/:
+  sincerely/RB
+  sees/VBZ
+  it/PRP
+  that/IN
+  if/IN
+  you/PRP
+  say/VBP
+  (NP (NBAR Muslims/NNS))
+  attacked/VBD
+  (NP (NBAR America/NNP))
+  on/IN
+  9/11/CD
+  you/PRP
+  are/VBP
+  somehow/RB
+  denigrating/VBG
+  an/DT
+  (NP (NBAR entire/JJ people/NNS))
+  ./.
+  I/PRP
+  do/VBP
+  n't/RB
+  see/VB
+  it/PRP
+  that/DT
+  (NP (NBAR way/NN))
+  ./.
+  It/PRP
+  's/VBZ
+  as/RB
+  simple/JJ
+  as/IN
+  that/DT
+  ./.
+  I/PRP
+  will/MD
+  give/VB
+  you/PRP
+  the/DT
+  (NP (NBAR last/JJ word/NN))
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  She/PRP
+  sees/VBZ
+  it/PRP
+  --/:
+  sincerely/RB
+  sees/VBZ
+  it/PRP
+  that/IN
+  if/IN
+  you/PRP
+  say/VBP
+  (NP (NBAR Muslims/NNS))
+  attacked/VBD
+  (NP (NBAR America/NNP))
+  on/IN
+  9/11/CD
+  you/PRP
+  are/VBP
+  somehow/RB
+  denigrating/VBG
+  an/DT
+  (NP (NBAR entire/JJ people/NNS))
+  ./.
+  I/PRP
+  do/VBP
+  n't/RB
+  see/VB
+  it/PRP
+  that/DT
+  (NP (NBAR way/NN))
+  ./.
+  It/PRP
+  's/VBZ
+  as/RB
+  simple/JJ
+  as/IN
+  that/DT
+  ./.
+  I/PRP
+  will/MD
+  give/VB
+  you/PRP
+  the/DT
+  (NP (NBAR last/JJ word/NN))
   ./.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
@@ -1165,7 +5155,114 @@
       conservative/JJ
       Tea/NNP
       Party/NNP
+      resurgence…/NN)))(S
+  (NP (NBAR INGRAHAM/NN))
+  :/:
+  (NP (NBAR Bill/NNP))
+  --/:
+  (NP (NBAR Bill/NNP))
+  ,/,
+  here/RB
+  is/VBZ
+  what/WP
+  is/VBZ
+  really/RB
+  happening/VBG
+  is/VBZ
+  that/IN
+  I/PRP
+  think/VBP
+  a/DT
+  (NP (NBAR lot/NN))
+  of/IN
+  the/DT
+  (NP (NBAR gals/NNS))
+  on/IN
+  ``/``
+  The/DT
+  (NP (NBAR View/NNP))
+  ,/,
+  ''/''
+  they/PRP
+  're/VBP
+  (NP (NBAR kind/NN))
+  of/IN
+  freaking/VBG
+  out/RP
+  ,/,
+  right/RB
+  ?/.
+  Because/IN
+  the/DT
+  (NP (NBAR hope/NN))
+  and/CC
+  (NP (NBAR change/NN thing/NN))
+  and/CC
+  (NP (NBAR Obama/NNP))
+  and/CC
+  (NP (NBAR insignia/NN))
+  and/CC
+  the/DT
+  (NP (NBAR star/NN power/NN))
+  and/CC
+  all/PDT
+  the/DT
+  (NP (NBAR celebrities/NNS))
+  and/CC
+  all/PDT
+  the/DT
+  (NP (NBAR Hollywood/NNP people/NNS))
+  who/WP
+  loved/VBD
+  him/PRP
+  ,/,
+  all/DT
+  of/IN
+  that/DT
+  has/VBZ
+  resulted/VBN
+  in/IN
+  (NP (NBAR anemic/JJ approval/NN numbers/NNS))
+  and/CC
+  a/DT
+  (NP
+    (NBAR
+      Republican/NNP
+      conservative/JJ
+      Tea/NNP
+      Party/NNP
       resurgence…/NN)))(S (NP (NBAR O'REILLY/NN)) :/: All/DT (NP (NBAR right/NN)) ./.)(S
+  (NP (NBAR INGRAHAM/NN))
+  :/:
+  And/CC
+  they/PRP
+  do/VBP
+  n't/RB
+  know/VB
+  what/WP
+  to/TO
+  do/VB
+  ./.
+  So/IN
+  they/PRP
+  're/VBP
+  trying/VBG
+  ,/,
+  you/PRP
+  know/VBP
+  ,/,
+  create/VBP
+  these/DT
+  (NP (NBAR side/NN shows/NNS))
+  ,/,
+  and/CC
+  I/PRP
+  think/VBP
+  you/PRP
+  did/VBD
+  just/RB
+  (NP (NBAR fine/NN))
+  ./.)(S
   (NP (NBAR INGRAHAM/NN))
   :/:
   And/CC
@@ -1207,4 +5304,15 @@
   I/PRP
   appreciate/VBP
   that/DT
-  ./.)(S )(S )
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  (NP (NBAR Thank/NN))
+  you/PRP
+  ,/,
+  (NP (NBAR Laura/NNP))
+  ./.
+  I/PRP
+  appreciate/VBP
+  that/DT
+  ./.)

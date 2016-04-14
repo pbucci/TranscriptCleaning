@@ -1,4 +1,46 @@
-(S )(S )(S
+(S
+  (NP (NBAR BILL/NNP O'REILLY/NNP))
+  ,/,
+  (NP (NBAR HOST/NNP))
+  :/:
+  In/IN
+  the/DT
+  ``/``
+  (NP (NBAR Personal/NNP Story/NNP))
+  ''/''
+  (NP (NBAR segment/NN tonight/NN))
+  ,/,
+  the/DT
+  (NP (NBAR city/NN))
+  of/IN
+  (NP (NBAR Los/NNP Angeles/NNP))
+  continues/VBZ
+  to/TO
+  investigate/VB
+  (NP (NBAR Sunday/NNP))
+  's/POS
+  (NP (NBAR police/NN shoot-out/NN))
+  that/WDT
+  led/VBD
+  to/TO
+  the/DT
+  (NP (NBAR tragic/JJ death/NN))
+  of/IN
+  (NP (NBAR 19-month-old/JJ Susie/NNP Pena/NNP))
+  ./.
+  An/DT
+  (NP (NBAR autopsy/NN))
+  shows/VBZ
+  the/DT
+  (NP (NBAR bullet/NN))
+  that/WDT
+  killed/VBD
+  her/PRP
+  was/VBD
+  fired/VBN
+  by/IN
+  (NP (NBAR police/NN))
+  ./.)(S
   (NP (NBAR BILL/NNP O'REILLY/NNP))
   ,/,
   (NP (NBAR HOST/NNP))
@@ -107,6 +149,65 @@
   its/PRP$
   (NP (NBAR tactics/NNS))
   ./.)(S
+  (NP (NBAR Susie/NNP))
+  's/POS
+  (NP (NBAR family/NN))
+  continues/VBZ
+  to/TO
+  criticize/VB
+  the/DT
+  (NP (NBAR SWAT/NNP team/NN))
+  ,/,
+  but/CC
+  (NP (NBAR L.A./NNP Police/NNP Chief/NNP Bill/NNP Bratton/NNP))
+  (/(
+  (NP (NBAR search/NN))
+  )/)
+  said/VBD
+  it/PRP
+  does/VBZ
+  not/RB
+  appear/VB
+  his/PRP$
+  (NP (NBAR officers/NNS))
+  broke/VBD
+  the/DT
+  (NP (NBAR law/NN))
+  ./.
+  Even/RB
+  so/RB
+  ,/,
+  the/DT
+  (NP (NBAR department/NN))
+  will/MD
+  review/VB
+  its/PRP$
+  (NP (NBAR tactics/NNS))
+  ./.)(S
+  With/IN
+  us/PRP
+  now/RB
+  ,/,
+  (NP (NBAR Dr./NNP Casey/NNP Jordan/NNP))
+  ,/,
+  a/DT
+  (NP (NBAR professor/NN))
+  of/IN
+  (NP (NBAR justice/NN))
+  and/CC
+  (NP (NBAR law/NN))
+  at/IN
+  (NP (NBAR Western/JJ Connecticut/NNP State/NNP University/NNP))
+  ./.
+  And/CC
+  from/IN
+  (NP (NBAR Los/NNP Angeles/NNP))
+  ,/,
+  (NP (NBAR Najee/NNP Ali/NNP))
+  ,/,
+  a/DT
+  (NP (NBAR civil/JJ rights/NNS activist/NN))
+  ./.)(S
   With/IN
   us/PRP
   now/RB
@@ -199,6 +300,91 @@
   more/JJR
   (NP (NBAR patience/NN))
   ./.)(S
+  (NP (NBAR NAJEE/NNP ALI/NNP))
+  ,/,
+  (NP (NBAR CIVIL/NNP RIGHTS/NNP ACTIVIST/NNP))
+  :/:
+  Well/RB
+  ,/,
+  first/RB
+  of/IN
+  all/RB
+  ,/,
+  we/PRP
+  're/VBP
+  still/RB
+  shocked/VBN
+  and/CC
+  outraged/VBN
+  by/IN
+  (NP (NBAR Susie/NNP))
+  being/VBG
+  shot/VBN
+  to/TO
+  (NP (NBAR death/NN))
+  by/IN
+  a/DT
+  (NP (NBAR SWAT/NNP team/NN member/NN))
+  ./.
+  And/CC
+  what/WP
+  we/PRP
+  should/MD
+  have/VB
+  asked/VBN
+  for/IN
+  was/VBD
+  more/RBR
+  restraint/JJ
+  and/CC
+  more/JJR
+  (NP (NBAR patience/NN))
+  ./.)(S
+  I/PRP
+  'm/VBP
+  first/JJ
+  to/TO
+  say/VB
+  that/IN
+  we/PRP
+  do/VBP
+  not/RB
+  defend/VB
+  or/CC
+  condone/VB
+  the/DT
+  (NP (NBAR father/NN))
+  's/POS
+  (NP (NBAR action/NN))
+  or/CC
+  his/PRP$
+  (NP (NBAR behavior/NN))
+  ,/,
+  but/CC
+  certainly/RB
+  ,/,
+  we/PRP
+  feel/VBP
+  the/DT
+  (NP (NBAR SWAT/NNP team/NN))
+  could/MD
+  have/VB
+  used/VBN
+  more/JJR
+  (NP (NBAR restraint/NN))
+  and/CC
+  shown/VBN
+  better/RBR
+  (NP (NBAR tactics/NNS))
+  than/IN
+  what/WP
+  they/PRP
+  did/VBD
+  ./.
+  Because/IN
+  (NP (NBAR right/NN))
+  now/RB
+  .../:)(S
   I/PRP
   'm/VBP
   first/JJ
@@ -294,6 +480,130 @@
   (NP (NBAR line/NN))
   of/IN
   (NP (NBAR fire/NN))
+  ./.)(S
+  (NP (NBAR GIBSON/NN))
+  :/:
+  (NP (NBAR Dr./NNP Jordan/NNP))
+  ,/,
+  I/PRP
+  mean/VBP
+  ,/,
+  maybe/RB
+  there/EX
+  's/VBZ
+  a/DT
+  (NP (NBAR point/NN))
+  ./.
+  Even/RB
+  though/IN
+  the/DT
+  (NP (NBAR guy/NN))
+  is/VBZ
+  shooting/VBG
+  ,/,
+  he/PRP
+  's/VBZ
+  holding/VBG
+  the/DT
+  (NP (NBAR baby/NN))
+  as/IN
+  a/DT
+  (NP (NBAR human/JJ shield/NN))
+  ,/,
+  maybe/RB
+  the/DT
+  (NP (NBAR cops/NNS))
+  should/MD
+  have/VB
+  held/VBN
+  their/PRP$
+  (NP (NBAR fire/NN))
+  and/CC
+  waited/VBD
+  for/IN
+  the/DT
+  (NP (NBAR baby/NN))
+  to/TO
+  be/VB
+  out/IN
+  of/IN
+  the/DT
+  (NP (NBAR line/NN))
+  of/IN
+  (NP (NBAR fire/NN))
+  ./.)(S
+  (NP (NBAR CASEY/NNP JORDAN/NNP))
+  ,/,
+  (NP (NBAR PROFESSOR/NNP))
+  ,/,
+  (NP (NBAR WESTERN/NNP CONNECTICUT/NNP STATE/NNP UNIVERSITY/NNP))
+  :/:
+  There/EX
+  are/VBP
+  so/RB
+  (NP (NBAR many/JJ variables/NNS))
+  involved/VBN
+  in/IN
+  all/DT
+  of/IN
+  these/DT
+  (NP (NBAR situations/NNS))
+  that/IN
+  there/EX
+  's/VBZ
+  never/RB
+  a/DT
+  (NP (NBAR perfect/JJ answer/NN))
+  on/IN
+  how/WRB
+  to/TO
+  handle/VB
+  them/PRP
+  ./.
+  We/PRP
+  know/VBP
+  from/IN
+  studying/VBG
+  (NP (NBAR thousands/NNS))
+  of/IN
+  (NP (NBAR similar/JJ cases/NNS))
+  ,/,
+  that/IN
+  when/WRB
+  it/PRP
+  's/VBZ
+  a/DT
+  domestically/RB
+  (NP (NBAR induced/JJ hostage/NN situation/NN))
+  ,/,
+  these/DT
+  are/VBP
+  the/DT
+  (NP (NBAR ones/NNS))
+  end/VBP
+  in/IN
+  (NP (NBAR death/NN))
+  the/DT
+  most/RBS
+  often/RB
+  and/CC
+  are/VBP
+  the/DT
+  most/RBS
+  volatile/JJ
+  ,/,
+  and/CC
+  those/DT
+  are/VBP
+  the/DT
+  (NP (NBAR ones/NNS))
+  where/WRB
+  taking/VBG
+  your/PRP$
+  (NP (NBAR time/NN))
+  does/VBZ
+  n't/RB
+  help/VB
   ./.)(S
   (NP (NBAR CASEY/NNP JORDAN/NNP))
   ,/,
@@ -453,6 +763,346 @@
   his/PRP$
   (NP (NBAR child/NN))
   ./.)(S
+  (NP (NBAR JORDAN/NN))
+  :/:
+  Because/IN
+  if/IN
+  the/DT
+  (NP (NBAR person/NN))
+  has/VBZ
+  taken/VBN
+  (NP (NBAR so-called/JJ loved/JJ ones/NNS))
+  as/IN
+  (NP (NBAR hostages/NNS))
+  ,/,
+  as/IN
+  (NP (NBAR human/JJ shields/NNS))
+  ,/,
+  they/PRP
+  are/VBP
+  in/IN
+  his/PRP$
+  (NP (NBAR mind/NN))
+  probably/RB
+  already/RB
+  dead/JJ
+  ,/,
+  because/IN
+  this/DT
+  (NP (NBAR person/NN))
+  feels/VBZ
+  that/IN
+  he/PRP
+  's/VBZ
+  on/IN
+  a/DT
+  (NP (NBAR downward/JJ spiral/NN))
+  ./.
+  He/PRP
+  's/VBZ
+  desperate/JJ
+  ./.
+  He/PRP
+  knows/VBZ
+  he/PRP
+  's/VBZ
+  either/CC
+  going/VBG
+  to/TO
+  jail/VB
+  or/CC
+  he/PRP
+  's/VBZ
+  going/VBG
+  to/TO
+  die/VB
+  ./.
+  He/PRP
+  's/VBZ
+  probably/RB
+  going/VBG
+  to/TO
+  set/VB
+  himself/PRP
+  up/RP
+  in/IN
+  a/DT
+  (NP (NBAR suicide/NN))
+  by/IN
+  (NP (NBAR cop/NN))
+  ./.
+  And/CC
+  he/PRP
+  probably/RB
+  is/VBZ
+  (NP (NBAR —/NNP))
+  has/VBZ
+  no/DT
+  (NP (NBAR respect/NN))
+  for/IN
+  (NP (NBAR human/JJ life/NN))
+  ,/,
+  including/VBG
+  that/IN
+  of/IN
+  his/PRP$
+  (NP (NBAR child/NN))
+  ./.)(S
+  (NP (NBAR JORDAN/NN))
+  :/:
+  Because/IN
+  if/IN
+  the/DT
+  (NP (NBAR person/NN))
+  has/VBZ
+  taken/VBN
+  (NP (NBAR so-called/JJ loved/JJ ones/NNS))
+  as/IN
+  (NP (NBAR hostages/NNS))
+  ,/,
+  as/IN
+  (NP (NBAR human/JJ shields/NNS))
+  ,/,
+  they/PRP
+  are/VBP
+  in/IN
+  his/PRP$
+  (NP (NBAR mind/NN))
+  probably/RB
+  already/RB
+  dead/JJ
+  ,/,
+  because/IN
+  this/DT
+  (NP (NBAR person/NN))
+  feels/VBZ
+  that/IN
+  he/PRP
+  's/VBZ
+  on/IN
+  a/DT
+  (NP (NBAR downward/JJ spiral/NN))
+  ./.
+  He/PRP
+  's/VBZ
+  desperate/JJ
+  ./.
+  He/PRP
+  knows/VBZ
+  he/PRP
+  's/VBZ
+  either/CC
+  going/VBG
+  to/TO
+  jail/VB
+  or/CC
+  he/PRP
+  's/VBZ
+  going/VBG
+  to/TO
+  die/VB
+  ./.
+  He/PRP
+  's/VBZ
+  probably/RB
+  going/VBG
+  to/TO
+  set/VB
+  himself/PRP
+  up/RP
+  in/IN
+  a/DT
+  (NP (NBAR suicide/NN))
+  by/IN
+  (NP (NBAR cop/NN))
+  ./.
+  And/CC
+  he/PRP
+  probably/RB
+  is/VBZ
+  (NP (NBAR —/NNP))
+  has/VBZ
+  no/DT
+  (NP (NBAR respect/NN))
+  for/IN
+  (NP (NBAR human/JJ life/NN))
+  ,/,
+  including/VBG
+  that/IN
+  of/IN
+  his/PRP$
+  (NP (NBAR child/NN))
+  ./.)(S
+  (NP (NBAR JORDAN/NN))
+  :/:
+  Because/IN
+  if/IN
+  the/DT
+  (NP (NBAR person/NN))
+  has/VBZ
+  taken/VBN
+  (NP (NBAR so-called/JJ loved/JJ ones/NNS))
+  as/IN
+  (NP (NBAR hostages/NNS))
+  ,/,
+  as/IN
+  (NP (NBAR human/JJ shields/NNS))
+  ,/,
+  they/PRP
+  are/VBP
+  in/IN
+  his/PRP$
+  (NP (NBAR mind/NN))
+  probably/RB
+  already/RB
+  dead/JJ
+  ,/,
+  because/IN
+  this/DT
+  (NP (NBAR person/NN))
+  feels/VBZ
+  that/IN
+  he/PRP
+  's/VBZ
+  on/IN
+  a/DT
+  (NP (NBAR downward/JJ spiral/NN))
+  ./.
+  He/PRP
+  's/VBZ
+  desperate/JJ
+  ./.
+  He/PRP
+  knows/VBZ
+  he/PRP
+  's/VBZ
+  either/CC
+  going/VBG
+  to/TO
+  jail/VB
+  or/CC
+  he/PRP
+  's/VBZ
+  going/VBG
+  to/TO
+  die/VB
+  ./.
+  He/PRP
+  's/VBZ
+  probably/RB
+  going/VBG
+  to/TO
+  set/VB
+  himself/PRP
+  up/RP
+  in/IN
+  a/DT
+  (NP (NBAR suicide/NN))
+  by/IN
+  (NP (NBAR cop/NN))
+  ./.
+  And/CC
+  he/PRP
+  probably/RB
+  is/VBZ
+  (NP (NBAR —/NNP))
+  has/VBZ
+  no/DT
+  (NP (NBAR respect/NN))
+  for/IN
+  (NP (NBAR human/JJ life/NN))
+  ,/,
+  including/VBG
+  that/IN
+  of/IN
+  his/PRP$
+  (NP (NBAR child/NN))
+  ./.)(S
+  (NP (NBAR JORDAN/NN))
+  :/:
+  Because/IN
+  if/IN
+  the/DT
+  (NP (NBAR person/NN))
+  has/VBZ
+  taken/VBN
+  (NP (NBAR so-called/JJ loved/JJ ones/NNS))
+  as/IN
+  (NP (NBAR hostages/NNS))
+  ,/,
+  as/IN
+  (NP (NBAR human/JJ shields/NNS))
+  ,/,
+  they/PRP
+  are/VBP
+  in/IN
+  his/PRP$
+  (NP (NBAR mind/NN))
+  probably/RB
+  already/RB
+  dead/JJ
+  ,/,
+  because/IN
+  this/DT
+  (NP (NBAR person/NN))
+  feels/VBZ
+  that/IN
+  he/PRP
+  's/VBZ
+  on/IN
+  a/DT
+  (NP (NBAR downward/JJ spiral/NN))
+  ./.
+  He/PRP
+  's/VBZ
+  desperate/JJ
+  ./.
+  He/PRP
+  knows/VBZ
+  he/PRP
+  's/VBZ
+  either/CC
+  going/VBG
+  to/TO
+  jail/VB
+  or/CC
+  he/PRP
+  's/VBZ
+  going/VBG
+  to/TO
+  die/VB
+  ./.
+  He/PRP
+  's/VBZ
+  probably/RB
+  going/VBG
+  to/TO
+  set/VB
+  himself/PRP
+  up/RP
+  in/IN
+  a/DT
+  (NP (NBAR suicide/NN))
+  by/IN
+  (NP (NBAR cop/NN))
+  ./.
+  And/CC
+  he/PRP
+  probably/RB
+  is/VBZ
+  (NP (NBAR —/NNP))
+  has/VBZ
+  no/DT
+  (NP (NBAR respect/NN))
+  for/IN
+  (NP (NBAR human/JJ life/NN))
+  ,/,
+  including/VBG
+  that/IN
+  of/IN
+  his/PRP$
+  (NP (NBAR child/NN))
+  ./.)(S
   (NP (NBAR GIBSON/NN))
   :/:
   (NP (NBAR Najee/NNP))
@@ -497,6 +1147,243 @@
   at/IN
   them/PRP
   more/RBR
+  ./.)(S
+  (NP (NBAR GIBSON/NN))
+  :/:
+  (NP (NBAR Najee/NNP))
+  ,/,
+  I/PRP
+  'm/VBP
+  still/RB
+  confused/VBN
+  ,/,
+  though/IN
+  ./.
+  I/PRP
+  mean/VBP
+  ,/,
+  the/DT
+  (NP (NBAR guy/NN))
+  is/VBZ
+  using/VBG
+  his/PRP$
+  (NP (NBAR own/JJ baby/NN))
+  as/IN
+  a/DT
+  (NP (NBAR human/JJ shield/NN))
+  ./.
+  He/PRP
+  's/VBZ
+  already/RB
+  shot/JJ
+  one/CD
+  (NP (NBAR cop/NN))
+  ./.
+  He/PRP
+  's/VBZ
+  got/VBD
+  a/DT
+  9mm/CD
+  (NP (NBAR pistol/NN))
+  ./.
+  He/PRP
+  's/VBZ
+  shooting/VBG
+  at/IN
+  them/PRP
+  more/RBR
+  ./.)(S
+  (NP (NBAR GIBSON/NN))
+  :/:
+  (NP (NBAR Najee/NNP))
+  ,/,
+  I/PRP
+  'm/VBP
+  still/RB
+  confused/VBN
+  ,/,
+  though/IN
+  ./.
+  I/PRP
+  mean/VBP
+  ,/,
+  the/DT
+  (NP (NBAR guy/NN))
+  is/VBZ
+  using/VBG
+  his/PRP$
+  (NP (NBAR own/JJ baby/NN))
+  as/IN
+  a/DT
+  (NP (NBAR human/JJ shield/NN))
+  ./.
+  He/PRP
+  's/VBZ
+  already/RB
+  shot/JJ
+  one/CD
+  (NP (NBAR cop/NN))
+  ./.
+  He/PRP
+  's/VBZ
+  got/VBD
+  a/DT
+  9mm/CD
+  (NP (NBAR pistol/NN))
+  ./.
+  He/PRP
+  's/VBZ
+  shooting/VBG
+  at/IN
+  them/PRP
+  more/RBR
+  ./.)(S
+  (NP (NBAR GIBSON/NN))
+  :/:
+  (NP (NBAR Najee/NNP))
+  ,/,
+  I/PRP
+  'm/VBP
+  still/RB
+  confused/VBN
+  ,/,
+  though/IN
+  ./.
+  I/PRP
+  mean/VBP
+  ,/,
+  the/DT
+  (NP (NBAR guy/NN))
+  is/VBZ
+  using/VBG
+  his/PRP$
+  (NP (NBAR own/JJ baby/NN))
+  as/IN
+  a/DT
+  (NP (NBAR human/JJ shield/NN))
+  ./.
+  He/PRP
+  's/VBZ
+  already/RB
+  shot/JJ
+  one/CD
+  (NP (NBAR cop/NN))
+  ./.
+  He/PRP
+  's/VBZ
+  got/VBD
+  a/DT
+  9mm/CD
+  (NP (NBAR pistol/NN))
+  ./.
+  He/PRP
+  's/VBZ
+  shooting/VBG
+  at/IN
+  them/PRP
+  more/RBR
+  ./.)(S
+  (NP (NBAR GIBSON/NN))
+  :/:
+  (NP (NBAR Najee/NNP))
+  ,/,
+  I/PRP
+  'm/VBP
+  still/RB
+  confused/VBN
+  ,/,
+  though/IN
+  ./.
+  I/PRP
+  mean/VBP
+  ,/,
+  the/DT
+  (NP (NBAR guy/NN))
+  is/VBZ
+  using/VBG
+  his/PRP$
+  (NP (NBAR own/JJ baby/NN))
+  as/IN
+  a/DT
+  (NP (NBAR human/JJ shield/NN))
+  ./.
+  He/PRP
+  's/VBZ
+  already/RB
+  shot/JJ
+  one/CD
+  (NP (NBAR cop/NN))
+  ./.
+  He/PRP
+  's/VBZ
+  got/VBD
+  a/DT
+  9mm/CD
+  (NP (NBAR pistol/NN))
+  ./.
+  He/PRP
+  's/VBZ
+  shooting/VBG
+  at/IN
+  them/PRP
+  more/RBR
+  ./.)(S
+  So/RB
+  ,/,
+  I/PRP
+  mean/VBP
+  ,/,
+  we/PRP
+  're/VBP
+  looking/VBG
+  at/IN
+  these/DT
+  (NP (NBAR pictures/NNS))
+  of/IN
+  the/DT
+  (NP (NBAR baby/NN))
+  ,/,
+  and/CC
+  ,/,
+  of/IN
+  (NP (NBAR course/NN))
+  ,/,
+  it/PRP
+  's/VBZ
+  —/JJ
+  it/PRP
+  is/VBZ
+  horrible/JJ
+  ./.
+  And/CC
+  I/PRP
+  'll/MD
+  bet/VB
+  the/DT
+  (NP (NBAR police/NN))
+  do/VBP
+  change/VB
+  their/PRP$
+  (NP (NBAR tactics/NNS))
+  about/IN
+  this/DT
+  ,/,
+  because/IN
+  it/PRP
+  's/VBZ
+  embarrassing/JJ
+  ,/,
+  if/IN
+  (NP (NBAR nothing/NN))
+  else/RB
+  ,/,
+  that/IN
+  you/PRP
+  end/VBP
+  up/RP
+  shooting/VBG
+  a/DT
+  (NP (NBAR baby/NN))
   ./.)(S
   So/RB
   ,/,
@@ -610,6 +1497,171 @@
   his/PRP$
   (NP (NBAR arms/NNS))
   ?/.)(S
+  But/CC
+  what/WP
+  would/MD
+  you/PRP
+  have/VB
+  them/PRP
+  do/VB
+  ?/.
+  I/PRP
+  mean/VBP
+  ,/,
+  here/RB
+  he/PRP
+  comes/VBZ
+  out/RP
+  ./.
+  He/PRP
+  's/VBZ
+  got/VBD
+  the/DT
+  (NP (NBAR gun/NN))
+  ;/:
+  he/PRP
+  's/VBZ
+  shooting/VBG
+  away/RB
+  ./.
+  Are/VBP
+  the/DT
+  (NP (NBAR cops/NNS))
+  just/RB
+  supposed/VBN
+  to/TO
+  duck/VB
+  and/CC
+  hide/VB
+  while/IN
+  he/PRP
+  's/VBZ
+  shooting/VBG
+  and/CC
+  not/RB
+  shoot/VB
+  back/RB
+  ,/,
+  because/IN
+  he/PRP
+  's/VBZ
+  got/VBD
+  the/DT
+  (NP (NBAR baby/NN))
+  in/IN
+  his/PRP$
+  (NP (NBAR arms/NNS))
+  ?/.)(S
+  But/CC
+  what/WP
+  would/MD
+  you/PRP
+  have/VB
+  them/PRP
+  do/VB
+  ?/.
+  I/PRP
+  mean/VBP
+  ,/,
+  here/RB
+  he/PRP
+  comes/VBZ
+  out/RP
+  ./.
+  He/PRP
+  's/VBZ
+  got/VBD
+  the/DT
+  (NP (NBAR gun/NN))
+  ;/:
+  he/PRP
+  's/VBZ
+  shooting/VBG
+  away/RB
+  ./.
+  Are/VBP
+  the/DT
+  (NP (NBAR cops/NNS))
+  just/RB
+  supposed/VBN
+  to/TO
+  duck/VB
+  and/CC
+  hide/VB
+  while/IN
+  he/PRP
+  's/VBZ
+  shooting/VBG
+  and/CC
+  not/RB
+  shoot/VB
+  back/RB
+  ,/,
+  because/IN
+  he/PRP
+  's/VBZ
+  got/VBD
+  the/DT
+  (NP (NBAR baby/NN))
+  in/IN
+  his/PRP$
+  (NP (NBAR arms/NNS))
+  ?/.)(S
+  But/CC
+  what/WP
+  would/MD
+  you/PRP
+  have/VB
+  them/PRP
+  do/VB
+  ?/.
+  I/PRP
+  mean/VBP
+  ,/,
+  here/RB
+  he/PRP
+  comes/VBZ
+  out/RP
+  ./.
+  He/PRP
+  's/VBZ
+  got/VBD
+  the/DT
+  (NP (NBAR gun/NN))
+  ;/:
+  he/PRP
+  's/VBZ
+  shooting/VBG
+  away/RB
+  ./.
+  Are/VBP
+  the/DT
+  (NP (NBAR cops/NNS))
+  just/RB
+  supposed/VBN
+  to/TO
+  duck/VB
+  and/CC
+  hide/VB
+  while/IN
+  he/PRP
+  's/VBZ
+  shooting/VBG
+  and/CC
+  not/RB
+  shoot/VB
+  back/RB
+  ,/,
+  because/IN
+  he/PRP
+  's/VBZ
+  got/VBD
+  the/DT
+  (NP (NBAR baby/NN))
+  in/IN
+  his/PRP$
+  (NP (NBAR arms/NNS))
+  ?/.)(S
   (NP (NBAR ALI/NN))
   :/:
   Well/RB
@@ -626,6 +1678,18 @@
   in/IN
   these/DT
   (NP (NBAR situations/NNS))
+  ./.)(S
+  (NP (NBAR GIBSON/NN))
+  :/:
+  (NP (NBAR Najee/NNP))
+  ,/,
+  come/VB
+  on/IN
+  ./.
+  Name/VB
+  me/PRP
+  an/DT
+  (NP (NBAR instance/NN))
   ./.)(S
   (NP (NBAR GIBSON/NN))
   :/:
@@ -674,6 +1738,369 @@
   and/CC
   killed/VBN
   ./.)(S
+  (NP (NBAR ALI/NN))
+  :/:
+  (NP (NBAR Well/NNP))
+  ,/,
+  I/PRP
+  'll/MD
+  say/VB
+  this/DT
+  ./.
+  For/IN
+  the/DT
+  most/JJS
+  (NP (NBAR part/NN))
+  ,/,
+  I/PRP
+  've/VBP
+  never/RB
+  ,/,
+  ever/RB
+  seen/VBN
+  this/DT
+  ever/RB
+  happen/VB
+  to/TO
+  any/DT
+  (NP (NBAR other/JJ community/NN))
+  ,/,
+  any/DT
+  (NP (NBAR child/NN))
+  of/IN
+  a/DT
+  (NP (NBAR white/JJ person/NN shot/NN))
+  and/CC
+  killed/VBN
+  ./.)(S
+  (NP (NBAR GIBSON/NN))
+  :/:
+  Wait/VB
+  a/DT
+  (NP (NBAR minute/NN))
+  ./.
+  Wait/VB
+  a/DT
+  (NP (NBAR minute/NN))
+  ./.
+  I/PRP
+  mean/VBP
+  ,/,
+  you/PRP
+  're/VBP
+  dragging/VBG
+  me/PRP
+  into/IN
+  a/DT
+  (NP (NBAR racial/JJ pit/NN))
+  here/RB
+  ./.
+  Are/VBP
+  you/PRP
+  telling/VBG
+  me/PRP
+  I/PRP
+  've/VBP
+  got/VBN
+  to/TO
+  come/VB
+  up/RP
+  with/IN
+  an/DT
+  (NP (NBAR instance/NN))
+  where/WRB
+  a/DT
+  (NP (NBAR white/JJ father/NN))
+  is/VBZ
+  holding/VBG
+  a/DT
+  (NP (NBAR white/JJ baby/NN))
+  shooting/VBG
+  at/IN
+  (NP (NBAR cops/NNS))
+  and/CC
+  the/DT
+  (NP (NBAR cops/NNS))
+  shoot/VBP
+  back/RB
+  and/CC
+  kill/VB
+  the/DT
+  (NP (NBAR baby/NN))
+  ?/.
+  I/PRP
+  might/MD
+  suggest/VB
+  to/TO
+  you/PRP
+  that/IN
+  (NP (NBAR white/JJ fathers/NNS))
+  do/VBP
+  n't/RB
+  do/VB
+  that/DT
+  ,/,
+  but/CC
+  that/DT
+  would/MD
+  sound/VB
+  a/DT
+  (NP (NBAR little/JJ racist/NN))
+  ,/,
+  too/RB
+  ,/,
+  would/MD
+  n't/RB
+  it/PRP
+  ,/,
+  (NP (NBAR Najee/NNP))
+  ?/.)(S
+  (NP (NBAR GIBSON/NN))
+  :/:
+  Wait/VB
+  a/DT
+  (NP (NBAR minute/NN))
+  ./.
+  Wait/VB
+  a/DT
+  (NP (NBAR minute/NN))
+  ./.
+  I/PRP
+  mean/VBP
+  ,/,
+  you/PRP
+  're/VBP
+  dragging/VBG
+  me/PRP
+  into/IN
+  a/DT
+  (NP (NBAR racial/JJ pit/NN))
+  here/RB
+  ./.
+  Are/VBP
+  you/PRP
+  telling/VBG
+  me/PRP
+  I/PRP
+  've/VBP
+  got/VBN
+  to/TO
+  come/VB
+  up/RP
+  with/IN
+  an/DT
+  (NP (NBAR instance/NN))
+  where/WRB
+  a/DT
+  (NP (NBAR white/JJ father/NN))
+  is/VBZ
+  holding/VBG
+  a/DT
+  (NP (NBAR white/JJ baby/NN))
+  shooting/VBG
+  at/IN
+  (NP (NBAR cops/NNS))
+  and/CC
+  the/DT
+  (NP (NBAR cops/NNS))
+  shoot/VBP
+  back/RB
+  and/CC
+  kill/VB
+  the/DT
+  (NP (NBAR baby/NN))
+  ?/.
+  I/PRP
+  might/MD
+  suggest/VB
+  to/TO
+  you/PRP
+  that/IN
+  (NP (NBAR white/JJ fathers/NNS))
+  do/VBP
+  n't/RB
+  do/VB
+  that/DT
+  ,/,
+  but/CC
+  that/DT
+  would/MD
+  sound/VB
+  a/DT
+  (NP (NBAR little/JJ racist/NN))
+  ,/,
+  too/RB
+  ,/,
+  would/MD
+  n't/RB
+  it/PRP
+  ,/,
+  (NP (NBAR Najee/NNP))
+  ?/.)(S
+  (NP (NBAR GIBSON/NN))
+  :/:
+  Wait/VB
+  a/DT
+  (NP (NBAR minute/NN))
+  ./.
+  Wait/VB
+  a/DT
+  (NP (NBAR minute/NN))
+  ./.
+  I/PRP
+  mean/VBP
+  ,/,
+  you/PRP
+  're/VBP
+  dragging/VBG
+  me/PRP
+  into/IN
+  a/DT
+  (NP (NBAR racial/JJ pit/NN))
+  here/RB
+  ./.
+  Are/VBP
+  you/PRP
+  telling/VBG
+  me/PRP
+  I/PRP
+  've/VBP
+  got/VBN
+  to/TO
+  come/VB
+  up/RP
+  with/IN
+  an/DT
+  (NP (NBAR instance/NN))
+  where/WRB
+  a/DT
+  (NP (NBAR white/JJ father/NN))
+  is/VBZ
+  holding/VBG
+  a/DT
+  (NP (NBAR white/JJ baby/NN))
+  shooting/VBG
+  at/IN
+  (NP (NBAR cops/NNS))
+  and/CC
+  the/DT
+  (NP (NBAR cops/NNS))
+  shoot/VBP
+  back/RB
+  and/CC
+  kill/VB
+  the/DT
+  (NP (NBAR baby/NN))
+  ?/.
+  I/PRP
+  might/MD
+  suggest/VB
+  to/TO
+  you/PRP
+  that/IN
+  (NP (NBAR white/JJ fathers/NNS))
+  do/VBP
+  n't/RB
+  do/VB
+  that/DT
+  ,/,
+  but/CC
+  that/DT
+  would/MD
+  sound/VB
+  a/DT
+  (NP (NBAR little/JJ racist/NN))
+  ,/,
+  too/RB
+  ,/,
+  would/MD
+  n't/RB
+  it/PRP
+  ,/,
+  (NP (NBAR Najee/NNP))
+  ?/.)(S
+  (NP (NBAR GIBSON/NN))
+  :/:
+  Wait/VB
+  a/DT
+  (NP (NBAR minute/NN))
+  ./.
+  Wait/VB
+  a/DT
+  (NP (NBAR minute/NN))
+  ./.
+  I/PRP
+  mean/VBP
+  ,/,
+  you/PRP
+  're/VBP
+  dragging/VBG
+  me/PRP
+  into/IN
+  a/DT
+  (NP (NBAR racial/JJ pit/NN))
+  here/RB
+  ./.
+  Are/VBP
+  you/PRP
+  telling/VBG
+  me/PRP
+  I/PRP
+  've/VBP
+  got/VBN
+  to/TO
+  come/VB
+  up/RP
+  with/IN
+  an/DT
+  (NP (NBAR instance/NN))
+  where/WRB
+  a/DT
+  (NP (NBAR white/JJ father/NN))
+  is/VBZ
+  holding/VBG
+  a/DT
+  (NP (NBAR white/JJ baby/NN))
+  shooting/VBG
+  at/IN
+  (NP (NBAR cops/NNS))
+  and/CC
+  the/DT
+  (NP (NBAR cops/NNS))
+  shoot/VBP
+  back/RB
+  and/CC
+  kill/VB
+  the/DT
+  (NP (NBAR baby/NN))
+  ?/.
+  I/PRP
+  might/MD
+  suggest/VB
+  to/TO
+  you/PRP
+  that/IN
+  (NP (NBAR white/JJ fathers/NNS))
+  do/VBP
+  n't/RB
+  do/VB
+  that/DT
+  ,/,
+  but/CC
+  that/DT
+  would/MD
+  sound/VB
+  a/DT
+  (NP (NBAR little/JJ racist/NN))
+  ,/,
+  too/RB
+  ,/,
+  would/MD
+  n't/RB
+  it/PRP
+  ,/,
+  (NP (NBAR Najee/NNP))
+  ?/.)(S
   (NP (NBAR GIBSON/NN))
   :/:
   Wait/VB
@@ -803,6 +2230,147 @@
   ,/,
   this/DT
   .../:)(S
+  (NP (NBAR ALI/NN))
+  :/:
+  Well/RB
+  ,/,
+  (NP (NBAR John/NNP))
+  ,/,
+  I/PRP
+  'm/VBP
+  not/RB
+  racist/JJ
+  ./.
+  I/PRP
+  'm/VBP
+  not/RB
+  trying/VBG
+  to/TO
+  sound/VB
+  (NP (NBAR racist/NN))
+  ./.
+  But/CC
+  I/PRP
+  'm/VBP
+  telling/VBG
+  you/PRP
+  what/WP
+  I/PRP
+  know/VBP
+  for/IN
+  a/DT
+  (NP (NBAR fact/NN))
+  ,/,
+  that/IN
+  black/JJ
+  and/CC
+  (NP (NBAR brown/JJ communities/NNS))
+  are/VBP
+  policed/VBN
+  differently/RB
+  than/IN
+  the/DT
+  (NP (NBAR white/JJ communities/NNS))
+  ./.
+  And/CC
+  certainly/RB
+  ,/,
+  this/DT
+  .../:)(S
+  (NP (NBAR ALI/NN))
+  :/:
+  Well/RB
+  ,/,
+  (NP (NBAR John/NNP))
+  ,/,
+  I/PRP
+  'm/VBP
+  not/RB
+  racist/JJ
+  ./.
+  I/PRP
+  'm/VBP
+  not/RB
+  trying/VBG
+  to/TO
+  sound/VB
+  (NP (NBAR racist/NN))
+  ./.
+  But/CC
+  I/PRP
+  'm/VBP
+  telling/VBG
+  you/PRP
+  what/WP
+  I/PRP
+  know/VBP
+  for/IN
+  a/DT
+  (NP (NBAR fact/NN))
+  ,/,
+  that/IN
+  black/JJ
+  and/CC
+  (NP (NBAR brown/JJ communities/NNS))
+  are/VBP
+  policed/VBN
+  differently/RB
+  than/IN
+  the/DT
+  (NP (NBAR white/JJ communities/NNS))
+  ./.
+  And/CC
+  certainly/RB
+  ,/,
+  this/DT
+  .../:)(S
+  (NP (NBAR ALI/NN))
+  :/:
+  Well/RB
+  ,/,
+  (NP (NBAR John/NNP))
+  ,/,
+  I/PRP
+  'm/VBP
+  not/RB
+  racist/JJ
+  ./.
+  I/PRP
+  'm/VBP
+  not/RB
+  trying/VBG
+  to/TO
+  sound/VB
+  (NP (NBAR racist/NN))
+  ./.
+  But/CC
+  I/PRP
+  'm/VBP
+  telling/VBG
+  you/PRP
+  what/WP
+  I/PRP
+  know/VBP
+  for/IN
+  a/DT
+  (NP (NBAR fact/NN))
+  ,/,
+  that/IN
+  black/JJ
+  and/CC
+  (NP (NBAR brown/JJ communities/NNS))
+  are/VBP
+  policed/VBN
+  differently/RB
+  than/IN
+  the/DT
+  (NP (NBAR white/JJ communities/NNS))
+  ./.
+  And/CC
+  certainly/RB
+  ,/,
+  this/DT
+  .../:)(S
   (NP (NBAR GIBSON/NN))
   :/:
   All/DT
@@ -839,6 +2407,50 @@
   so/RB
   (NP (NBAR many/JJ different/JJ things/NNS))
   .../:)(S
+  (NP (NBAR JORDAN/NN))
+  :/:
+  I/PRP
+  do/VBP
+  n't/RB
+  think/VB
+  so/RB
+  ./.
+  You/PRP
+  have/VBP
+  so/RB
+  (NP (NBAR many/JJ different/JJ things/NNS))
+  .../:)(S
+  (NP (NBAR GIBSON/NN))
+  :/:
+  But/CC
+  what/WP
+  is/VBZ
+  —/JJ
+  what/WP
+  is/VBZ
+  the/DT
+  —/JJ
+  how/WRB
+  were/VBD
+  the/DT
+  (NP (NBAR cops/NNS))
+  going/VBG
+  to/TO
+  defend/VB
+  themselves/PRP
+  ?/.
+  They/PRP
+  did/VBD
+  n't/RB
+  break/VB
+  the/DT
+  (NP (NBAR law/NN))
+  when/WRB
+  they/PRP
+  kill/VBP
+  a/DT
+  (NP (NBAR baby/NN))
+  ./.)(S
   (NP (NBAR GIBSON/NN))
   :/:
   But/CC
@@ -896,6 +2508,116 @@
   ./.
   Of/IN
   (NP (NBAR course/NN))
+  ./.)(S
+  (NP (NBAR GIBSON/NNP))
+  :/:
+  Of/IN
+  (NP (NBAR course/NN))
+  ./.
+  Of/IN
+  (NP (NBAR course/NN))
+  ./.)(S
+  (NP (NBAR JORDAN/NN))
+  :/:
+  You/PRP
+  had/VBD
+  three/CD
+  different/JJ
+  shooting/VBG
+  (NP (NBAR episodes/NNS))
+  over/IN
+  the/DT
+  (NP (NBAR space/NN))
+  of/IN
+  three/CD
+  or/CC
+  three/CD
+  and/CC
+  (NP (NBAR half/NN hours/NNS))
+  ,/,
+  and/CC
+  he/PRP
+  sent/VBD
+  his/PRP$
+  (NP (NBAR step/NN daughter/NN))
+  out/RB
+  ./.
+  He/PRP
+  could/MD
+  have/VB
+  sent/VBN
+  her/PRP
+  out/IN
+  with/IN
+  the/DT
+  (NP (NBAR baby/NN))
+  ,/,
+  but/CC
+  he/PRP
+  did/VBD
+  n't/RB
+  ./.
+  He/PRP
+  was/VBD
+  going/VBG
+  to/TO
+  keep/VB
+  that/DT
+  (NP (NBAR child/NN))
+  as/IN
+  a/DT
+  (NP (NBAR human/JJ shield/NN))
+  ./.)(S
+  (NP (NBAR JORDAN/NN))
+  :/:
+  You/PRP
+  had/VBD
+  three/CD
+  different/JJ
+  shooting/VBG
+  (NP (NBAR episodes/NNS))
+  over/IN
+  the/DT
+  (NP (NBAR space/NN))
+  of/IN
+  three/CD
+  or/CC
+  three/CD
+  and/CC
+  (NP (NBAR half/NN hours/NNS))
+  ,/,
+  and/CC
+  he/PRP
+  sent/VBD
+  his/PRP$
+  (NP (NBAR step/NN daughter/NN))
+  out/RB
+  ./.
+  He/PRP
+  could/MD
+  have/VB
+  sent/VBN
+  her/PRP
+  out/IN
+  with/IN
+  the/DT
+  (NP (NBAR baby/NN))
+  ,/,
+  but/CC
+  he/PRP
+  did/VBD
+  n't/RB
+  ./.
+  He/PRP
+  was/VBD
+  going/VBG
+  to/TO
+  keep/VB
+  that/DT
+  (NP (NBAR child/NN))
+  as/IN
+  a/DT
+  (NP (NBAR human/JJ shield/NN))
   ./.)(S
   (NP (NBAR JORDAN/NN))
   :/:
@@ -991,6 +2713,49 @@
   most/JJS
   (NP (NBAR cases/NNS))
   ./.)(S
+  And/CC
+  when/WRB
+  (NP (NBAR —/NN))
+  and/CC
+  earlier/RBR
+  in/IN
+  the/DT
+  (NP (NBAR day/NN))
+  he/PRP
+  had/VBD
+  already/RB
+  threatened/VBN
+  the/DT
+  (NP (NBAR lives/NNS))
+  of/IN
+  the/DT
+  (NP (NBAR baby/NN))
+  ,/,
+  his/PRP$
+  (NP (NBAR stepdaughter/NN))
+  and/CC
+  his/PRP$
+  (NP (NBAR wife/NN))
+  ./.
+  So/RB
+  ,/,
+  you/PRP
+  're/VBP
+  talking/VBG
+  about/IN
+  (NP (NBAR somebody/NN))
+  who/WP
+  's/VBZ
+  not/RB
+  going/VBG
+  to/TO
+  be/VB
+  reasoned/VBN
+  with/IN
+  in/IN
+  most/JJS
+  (NP (NBAR cases/NNS))
+  ./.)(S
   It/PRP
   has/VBZ
   no/DT
@@ -1014,6 +2779,168 @@
   who/WP
   do/VBP
   (NP (NBAR desperate/JJ things/NNS))
+  ./.)(S
+  It/PRP
+  has/VBZ
+  no/DT
+  (NP (NBAR matter/NN))
+  white/JJ
+  ,/,
+  brown/JJ
+  ,/,
+  black/JJ
+  ./.
+  It/PRP
+  does/VBZ
+  n't/RB
+  matter/VB
+  ./.
+  We/PRP
+  're/VBP
+  talking/VBG
+  about/IN
+  (NP (NBAR desperate/JJ people/NNS))
+  who/WP
+  do/VBP
+  (NP (NBAR desperate/JJ things/NNS))
+  ./.)(S
+  It/PRP
+  has/VBZ
+  no/DT
+  (NP (NBAR matter/NN))
+  white/JJ
+  ,/,
+  brown/JJ
+  ,/,
+  black/JJ
+  ./.
+  It/PRP
+  does/VBZ
+  n't/RB
+  matter/VB
+  ./.
+  We/PRP
+  're/VBP
+  talking/VBG
+  about/IN
+  (NP (NBAR desperate/JJ people/NNS))
+  who/WP
+  do/VBP
+  (NP (NBAR desperate/JJ things/NNS))
+  ./.)(S
+  (NP (NBAR GIBSON/NN))
+  :/:
+  (NP (NBAR Najee/NNP))
+  ,/,
+  do/VBP
+  you/PRP
+  think/VB
+  that/IN
+  (NP (NBAR —/NN))
+  you/PRP
+  know/VBP
+  ,/,
+  because/IN
+  (NP (NBAR Bill/NNP Bratton/NNP))
+  is/VBZ
+  not/RB
+  unaware/JJ
+  of/IN
+  (NP (NBAR public/JJ opinion/NN))
+  ./.
+  He/PRP
+  's/VBZ
+  served/VBN
+  in/IN
+  (NP (NBAR New/NNP York/NNP))
+  and/CC
+  (NP (NBAR people/NNS))
+  know/VBP
+  him/PRP
+  here/RB
+  ,/,
+  and/CC
+  we/PRP
+  all/DT
+  know/VBP
+  about/IN
+  the/DT
+  (NP (NBAR sort/NN))
+  of/IN
+  (NP (NBAR heightened/JJ sensitivities/NNS))
+  you/PRP
+  alluded/VBD
+  to/TO
+  in/IN
+  (NP (NBAR Los/NNP Angeles/NNP))
+  ./.
+  There/EX
+  have/VBP
+  been/VBN
+  (NP (NBAR riots/NNS))
+  over/IN
+  these/DT
+  (NP (NBAR sort/NN))
+  of/IN
+  (NP (NBAR things/NNS))
+  before/IN
+  ./.)(S
+  (NP (NBAR GIBSON/NN))
+  :/:
+  (NP (NBAR Najee/NNP))
+  ,/,
+  do/VBP
+  you/PRP
+  think/VB
+  that/IN
+  (NP (NBAR —/NN))
+  you/PRP
+  know/VBP
+  ,/,
+  because/IN
+  (NP (NBAR Bill/NNP Bratton/NNP))
+  is/VBZ
+  not/RB
+  unaware/JJ
+  of/IN
+  (NP (NBAR public/JJ opinion/NN))
+  ./.
+  He/PRP
+  's/VBZ
+  served/VBN
+  in/IN
+  (NP (NBAR New/NNP York/NNP))
+  and/CC
+  (NP (NBAR people/NNS))
+  know/VBP
+  him/PRP
+  here/RB
+  ,/,
+  and/CC
+  we/PRP
+  all/DT
+  know/VBP
+  about/IN
+  the/DT
+  (NP (NBAR sort/NN))
+  of/IN
+  (NP (NBAR heightened/JJ sensitivities/NNS))
+  you/PRP
+  alluded/VBD
+  to/TO
+  in/IN
+  (NP (NBAR Los/NNP Angeles/NNP))
+  ./.
+  There/EX
+  have/VBP
+  been/VBN
+  (NP (NBAR riots/NNS))
+  over/IN
+  these/DT
+  (NP (NBAR sort/NN))
+  of/IN
+  (NP (NBAR things/NNS))
+  before/IN
   ./.)(S
   (NP (NBAR GIBSON/NN))
   :/:
@@ -1159,6 +3086,219 @@
   and/CC
   brown/JJ
   .../:)(S
+  (NP (NBAR ALI/NN))
+  :/:
+  (NP (NBAR Well/NNP))
+  ,/,
+  I/PRP
+  believe/VBP
+  ,/,
+  sir/UH
+  ,/,
+  when/WRB
+  it/PRP
+  's/VBZ
+  all/DT
+  said/VBD
+  and/CC
+  done/VBN
+  ,/,
+  (NP (NBAR Chief/NNP Bratton/NNP))
+  ,/,
+  he/PRP
+  's/VBZ
+  done/VBN
+  an/DT
+  (NP (NBAR excellent/JJ job/NN))
+  in/IN
+  dealing/VBG
+  with/IN
+  this/DT
+  (NP (NBAR issue/NN))
+  and/CC
+  (NP (NBAR other/JJ issues/NNS))
+  since/IN
+  he/PRP
+  's/VBZ
+  been/VBN
+  here/RB
+  in/IN
+  (NP (NBAR Los/NNP Angeles/NNP))
+  ./.
+  So/IN
+  we/PRP
+  support/VB
+  his/PRP$
+  (NP (NBAR leadership/NN))
+  ./.
+  And/CC
+  we/PRP
+  're/VBP
+  hopeful/JJ
+  that/IN
+  we/PRP
+  can/MD
+  come/VB
+  together/RB
+  collectively/RB
+  to/TO
+  deal/VB
+  with/IN
+  these/DT
+  (NP (NBAR issues/NNS))
+  ./.
+  Because/IN
+  certainly/RB
+  (NP (NBAR police/NNS))
+  abuse/RB
+  in/IN
+  the/DT
+  black/JJ
+  and/CC
+  brown/JJ
+  .../:)(S
+  (NP (NBAR ALI/NN))
+  :/:
+  (NP (NBAR Well/NNP))
+  ,/,
+  I/PRP
+  believe/VBP
+  ,/,
+  sir/UH
+  ,/,
+  when/WRB
+  it/PRP
+  's/VBZ
+  all/DT
+  said/VBD
+  and/CC
+  done/VBN
+  ,/,
+  (NP (NBAR Chief/NNP Bratton/NNP))
+  ,/,
+  he/PRP
+  's/VBZ
+  done/VBN
+  an/DT
+  (NP (NBAR excellent/JJ job/NN))
+  in/IN
+  dealing/VBG
+  with/IN
+  this/DT
+  (NP (NBAR issue/NN))
+  and/CC
+  (NP (NBAR other/JJ issues/NNS))
+  since/IN
+  he/PRP
+  's/VBZ
+  been/VBN
+  here/RB
+  in/IN
+  (NP (NBAR Los/NNP Angeles/NNP))
+  ./.
+  So/IN
+  we/PRP
+  support/VB
+  his/PRP$
+  (NP (NBAR leadership/NN))
+  ./.
+  And/CC
+  we/PRP
+  're/VBP
+  hopeful/JJ
+  that/IN
+  we/PRP
+  can/MD
+  come/VB
+  together/RB
+  collectively/RB
+  to/TO
+  deal/VB
+  with/IN
+  these/DT
+  (NP (NBAR issues/NNS))
+  ./.
+  Because/IN
+  certainly/RB
+  (NP (NBAR police/NNS))
+  abuse/RB
+  in/IN
+  the/DT
+  black/JJ
+  and/CC
+  brown/JJ
+  .../:)(S
+  (NP (NBAR ALI/NN))
+  :/:
+  (NP (NBAR Well/NNP))
+  ,/,
+  I/PRP
+  believe/VBP
+  ,/,
+  sir/UH
+  ,/,
+  when/WRB
+  it/PRP
+  's/VBZ
+  all/DT
+  said/VBD
+  and/CC
+  done/VBN
+  ,/,
+  (NP (NBAR Chief/NNP Bratton/NNP))
+  ,/,
+  he/PRP
+  's/VBZ
+  done/VBN
+  an/DT
+  (NP (NBAR excellent/JJ job/NN))
+  in/IN
+  dealing/VBG
+  with/IN
+  this/DT
+  (NP (NBAR issue/NN))
+  and/CC
+  (NP (NBAR other/JJ issues/NNS))
+  since/IN
+  he/PRP
+  's/VBZ
+  been/VBN
+  here/RB
+  in/IN
+  (NP (NBAR Los/NNP Angeles/NNP))
+  ./.
+  So/IN
+  we/PRP
+  support/VB
+  his/PRP$
+  (NP (NBAR leadership/NN))
+  ./.
+  And/CC
+  we/PRP
+  're/VBP
+  hopeful/JJ
+  that/IN
+  we/PRP
+  can/MD
+  come/VB
+  together/RB
+  collectively/RB
+  to/TO
+  deal/VB
+  with/IN
+  these/DT
+  (NP (NBAR issues/NNS))
+  ./.
+  Because/IN
+  certainly/RB
+  (NP (NBAR police/NNS))
+  abuse/RB
+  in/IN
+  the/DT
+  black/JJ
+  and/CC
+  brown/JJ
+  .../:)(S
   (NP (NBAR GIBSON/NN))
   :/:
   You/PRP
@@ -1171,6 +3311,40 @@
   are/VBP
   you/PRP
   ?/.)(S
+  (NP (NBAR ALI/NN))
+  :/:
+  (NP (NBAR Well/NNP))
+  ,/,
+  I/PRP
+  would/MD
+  say/VB
+  (NP (NBAR excessive/JJ force/NN))
+  ./.
+  I/PRP
+  would/MD
+  say/VB
+  (NP (NBAR questionable/JJ tactics/NNS))
+  ./.
+  And/CC
+  certainly/RB
+  .../:)(S
+  (NP (NBAR ALI/NN))
+  :/:
+  (NP (NBAR Well/NNP))
+  ,/,
+  I/PRP
+  would/MD
+  say/VB
+  (NP (NBAR excessive/JJ force/NN))
+  ./.
+  I/PRP
+  would/MD
+  say/VB
+  (NP (NBAR questionable/JJ tactics/NNS))
+  ./.
+  And/CC
+  certainly/RB
+  .../:)(S
   (NP (NBAR ALI/NN))
   :/:
   (NP (NBAR Well/NNP))
@@ -1220,6 +3394,29 @@
   's/VBZ
   (NP (NBAR questionable/JJ tactics/NNS))
   ./.)(S
+  (NP (NBAR ALI/NN))
+  :/:
+  (NP (NBAR Well/NNP))
+  ,/,
+  I/PRP
+  do/VBP
+  n't/RB
+  think/VB
+  (NP (NBAR luck/NN))
+  has/VBZ
+  (NP (NBAR anything/NN))
+  to/TO
+  do/VB
+  with/IN
+  it/PRP
+  ./.
+  I/PRP
+  just/RB
+  think/VBP
+  it/PRP
+  's/VBZ
+  (NP (NBAR questionable/JJ tactics/NNS))
+  ./.)(S
   (NP (NBAR GIBSON/NN))
   :/:
   (NP (NBAR OK./NNP Dr./NNP Jordan/NNP))
@@ -1229,6 +3426,64 @@
   11/CD
   (NP (NBAR officers/NNS shot/NN))
   ./.)(S (NP (NBAR JORDAN/NN)) :/: Right/RB ./.)(S
+  (NP (NBAR GIBSON/NN))
+  :/:
+  What/WP
+  if/IN
+  it/PRP
+  were/VBD
+  one/CD
+  ?/.
+  One/CD
+  (NP (NBAR sharp/JJ hooter/NN))
+  ,/,
+  one/CD
+  (NP (NBAR person/NN))
+  gets/VBZ
+  a/DT
+  (NP (NBAR clear/JJ shot/NN))
+  ,/,
+  take/VB
+  him/PRP
+  out/RP
+  ?/.
+  Why/WRB
+  were/VBD
+  11/CD
+  (NP (NBAR officers/NNS))
+  shooting/VBG
+  at/IN
+  him/PRP
+  ?/.)(S
+  (NP (NBAR GIBSON/NN))
+  :/:
+  What/WP
+  if/IN
+  it/PRP
+  were/VBD
+  one/CD
+  ?/.
+  One/CD
+  (NP (NBAR sharp/JJ hooter/NN))
+  ,/,
+  one/CD
+  (NP (NBAR person/NN))
+  gets/VBZ
+  a/DT
+  (NP (NBAR clear/JJ shot/NN))
+  ,/,
+  take/VB
+  him/PRP
+  out/RP
+  ?/.
+  Why/WRB
+  were/VBD
+  11/CD
+  (NP (NBAR officers/NNS))
+  shooting/VBG
+  at/IN
+  him/PRP
+  ?/.)(S
   (NP (NBAR GIBSON/NN))
   :/:
   What/WP
@@ -1307,6 +3562,153 @@
   the/DT
   (NP (NBAR building/NN))
   ./.)(S
+  (NP (NBAR JORDAN/NN))
+  :/:
+  I/PRP
+  was/VBD
+  n't/RB
+  at/IN
+  the/DT
+  (NP (NBAR scene/NN))
+  ,/,
+  but/CC
+  my/PRP$
+  (NP (NBAR understanding/NN))
+  is/VBZ
+  that/IN
+  it/PRP
+  was/VBD
+  a/DT
+  (NP (NBAR car/NN dealership/NN garage/NN))
+  ,/,
+  that/IN
+  he/PRP
+  was/VBD
+  inside/IN
+  a/DT
+  (NP (NBAR windowless/NN building/NN))
+  that/WDT
+  was/VBD
+  huge/JJ
+  ./.
+  It/PRP
+  was/VBD
+  vast/JJ
+  inside/RB
+  ./.
+  That/IN
+  changes/VBZ
+  (NP (NBAR everything/NN))
+  ./.
+  You/PRP
+  do/VBP
+  n't/RB
+  know/VB
+  where/WRB
+  he/PRP
+  is/VBZ
+  inside/IN
+  the/DT
+  (NP (NBAR building/NN))
+  ./.)(S
+  (NP (NBAR JORDAN/NN))
+  :/:
+  I/PRP
+  was/VBD
+  n't/RB
+  at/IN
+  the/DT
+  (NP (NBAR scene/NN))
+  ,/,
+  but/CC
+  my/PRP$
+  (NP (NBAR understanding/NN))
+  is/VBZ
+  that/IN
+  it/PRP
+  was/VBD
+  a/DT
+  (NP (NBAR car/NN dealership/NN garage/NN))
+  ,/,
+  that/IN
+  he/PRP
+  was/VBD
+  inside/IN
+  a/DT
+  (NP (NBAR windowless/NN building/NN))
+  that/WDT
+  was/VBD
+  huge/JJ
+  ./.
+  It/PRP
+  was/VBD
+  vast/JJ
+  inside/RB
+  ./.
+  That/IN
+  changes/VBZ
+  (NP (NBAR everything/NN))
+  ./.
+  You/PRP
+  do/VBP
+  n't/RB
+  know/VB
+  where/WRB
+  he/PRP
+  is/VBZ
+  inside/IN
+  the/DT
+  (NP (NBAR building/NN))
+  ./.)(S
+  (NP (NBAR JORDAN/NN))
+  :/:
+  I/PRP
+  was/VBD
+  n't/RB
+  at/IN
+  the/DT
+  (NP (NBAR scene/NN))
+  ,/,
+  but/CC
+  my/PRP$
+  (NP (NBAR understanding/NN))
+  is/VBZ
+  that/IN
+  it/PRP
+  was/VBD
+  a/DT
+  (NP (NBAR car/NN dealership/NN garage/NN))
+  ,/,
+  that/IN
+  he/PRP
+  was/VBD
+  inside/IN
+  a/DT
+  (NP (NBAR windowless/NN building/NN))
+  that/WDT
+  was/VBD
+  huge/JJ
+  ./.
+  It/PRP
+  was/VBD
+  vast/JJ
+  inside/RB
+  ./.
+  That/IN
+  changes/VBZ
+  (NP (NBAR everything/NN))
+  ./.
+  You/PRP
+  do/VBP
+  n't/RB
+  know/VB
+  where/WRB
+  he/PRP
+  is/VBZ
+  inside/IN
+  the/DT
+  (NP (NBAR building/NN))
+  ./.)(S
   (NP (NBAR GIBSON/NN))
   :/:
   So/RB
@@ -1316,6 +3718,130 @@
   you/PRP
   shooting/VBG
   ?/.)(S
+  (NP (NBAR JORDAN/NN))
+  :/:
+  Well/RB
+  ,/,
+  you/PRP
+  ca/MD
+  n't/RB
+  have/VB
+  a/DT
+  (NP (NBAR sharpshooter/NN shoot/NN))
+  through/IN
+  a/DT
+  (NP (NBAR building/NN))
+  where/WRB
+  they/PRP
+  ca/MD
+  n't/RB
+  see/VB
+  their/PRP$
+  (NP (NBAR subject/JJ inside/NN))
+  ./.
+  You/PRP
+  do/VBP
+  n't/RB
+  want/VB
+  to/TO
+  introduce/VB
+  (NP (NBAR gas/NN))
+  into/IN
+  the/DT
+  (NP (NBAR building/NN))
+  ,/,
+  because/IN
+  that/DT
+  could/MD
+  kill/VB
+  the/DT
+  (NP (NBAR child/NN))
+  ,/,
+  who/WP
+  has/VBZ
+  smaller/JJR
+  (NP (NBAR lungs/NNS))
+  than/IN
+  an/DT
+  (NP (NBAR adult/NN))
+  ./.
+  They/PRP
+  tried/VBD
+  ,/,
+  I/PRP
+  think/VBP
+  ,/,
+  for/IN
+  3/CD
+  1/2/CD
+  (NP (NBAR hours/NNS))
+  to/TO
+  negotiate/VB
+  by/IN
+  (NP (NBAR bullhorn/NN))
+  ./.)(S
+  (NP (NBAR JORDAN/NN))
+  :/:
+  Well/RB
+  ,/,
+  you/PRP
+  ca/MD
+  n't/RB
+  have/VB
+  a/DT
+  (NP (NBAR sharpshooter/NN shoot/NN))
+  through/IN
+  a/DT
+  (NP (NBAR building/NN))
+  where/WRB
+  they/PRP
+  ca/MD
+  n't/RB
+  see/VB
+  their/PRP$
+  (NP (NBAR subject/JJ inside/NN))
+  ./.
+  You/PRP
+  do/VBP
+  n't/RB
+  want/VB
+  to/TO
+  introduce/VB
+  (NP (NBAR gas/NN))
+  into/IN
+  the/DT
+  (NP (NBAR building/NN))
+  ,/,
+  because/IN
+  that/DT
+  could/MD
+  kill/VB
+  the/DT
+  (NP (NBAR child/NN))
+  ,/,
+  who/WP
+  has/VBZ
+  smaller/JJR
+  (NP (NBAR lungs/NNS))
+  than/IN
+  an/DT
+  (NP (NBAR adult/NN))
+  ./.
+  They/PRP
+  tried/VBD
+  ,/,
+  I/PRP
+  think/VBP
+  ,/,
+  for/IN
+  3/CD
+  1/2/CD
+  (NP (NBAR hours/NNS))
+  to/TO
+  negotiate/VB
+  by/IN
+  (NP (NBAR bullhorn/NN))
+  ./.)(S
   (NP (NBAR JORDAN/NN))
   :/:
   Well/RB
@@ -1472,6 +3998,211 @@
   her/PRP$
   (NP (NBAR father/NN))
   ?/.)(S
+  (NP (NBAR GIBSON/NN))
+  :/:
+  You/PRP
+  know/VBP
+  ,/,
+  (NP (NBAR Najee/NNP))
+  ,/,
+  this/DT
+  is/VBZ
+  what/WP
+  you/PRP
+  can/MD
+  call/VB
+  ,/,
+  I/PRP
+  think/VBP
+  ,/,
+  (NP (NBAR classic/JJ horns/NNS))
+  of/IN
+  a/DT
+  (NP (NBAR dilemma/NN))
+  ./.
+  I/PRP
+  mean/VBP
+  ,/,
+  you/PRP
+  could/MD
+  be/VB
+  making/VBG
+  the/DT
+  (NP (NBAR decision/NN))
+  ,/,
+  if/IN
+  you/PRP
+  're/VBP
+  the/DT
+  (NP (NBAR cops/NNS))
+  ,/,
+  where/WRB
+  in/IN
+  any/DT
+  (NP (NBAR case/NN))
+  the/DT
+  (NP (NBAR child/NN dies/NNS))
+  ./.
+  Are/VBP
+  you/PRP
+  telling/VBG
+  me/PRP
+  that/IN
+  what/WP
+  the/DT
+  (NP (NBAR policy/NN))
+  should/MD
+  be/VB
+  is/VBZ
+  do/VBP
+  n't/RB
+  shoot/VB
+  and/CC
+  ,/,
+  if/IN
+  the/DT
+  (NP (NBAR baby/NN))
+  's/POS
+  going/VBG
+  to/TO
+  die/VB
+  ,/,
+  let/VB
+  it/PRP
+  be/VB
+  at/IN
+  the/DT
+  (NP (NBAR hands/NNS))
+  of/IN
+  his/PRP$
+  (NP (NBAR —/NN))
+  of/IN
+  her/PRP$
+  (NP (NBAR father/NN))
+  ?/.)(S
+  (NP (NBAR GIBSON/NN))
+  :/:
+  You/PRP
+  know/VBP
+  ,/,
+  (NP (NBAR Najee/NNP))
+  ,/,
+  this/DT
+  is/VBZ
+  what/WP
+  you/PRP
+  can/MD
+  call/VB
+  ,/,
+  I/PRP
+  think/VBP
+  ,/,
+  (NP (NBAR classic/JJ horns/NNS))
+  of/IN
+  a/DT
+  (NP (NBAR dilemma/NN))
+  ./.
+  I/PRP
+  mean/VBP
+  ,/,
+  you/PRP
+  could/MD
+  be/VB
+  making/VBG
+  the/DT
+  (NP (NBAR decision/NN))
+  ,/,
+  if/IN
+  you/PRP
+  're/VBP
+  the/DT
+  (NP (NBAR cops/NNS))
+  ,/,
+  where/WRB
+  in/IN
+  any/DT
+  (NP (NBAR case/NN))
+  the/DT
+  (NP (NBAR child/NN dies/NNS))
+  ./.
+  Are/VBP
+  you/PRP
+  telling/VBG
+  me/PRP
+  that/IN
+  what/WP
+  the/DT
+  (NP (NBAR policy/NN))
+  should/MD
+  be/VB
+  is/VBZ
+  do/VBP
+  n't/RB
+  shoot/VB
+  and/CC
+  ,/,
+  if/IN
+  the/DT
+  (NP (NBAR baby/NN))
+  's/POS
+  going/VBG
+  to/TO
+  die/VB
+  ,/,
+  let/VB
+  it/PRP
+  be/VB
+  at/IN
+  the/DT
+  (NP (NBAR hands/NNS))
+  of/IN
+  his/PRP$
+  (NP (NBAR —/NN))
+  of/IN
+  her/PRP$
+  (NP (NBAR father/NN))
+  ?/.)(S
+  (NP (NBAR ALI/NN))
+  :/:
+  (NP (NBAR Well/NNP))
+  ,/,
+  I/PRP
+  would/MD
+  say/VB
+  if/IN
+  you/PRP
+  rush/VBP
+  in/IN
+  ,/,
+  because/IN
+  you/PRP
+  're/VBP
+  trying/VBG
+  to/TO
+  save/VB
+  the/DT
+  (NP (NBAR child/NN))
+  ,/,
+  and/CC
+  then/RB
+  the/DT
+  (NP (NBAR police/NN))
+  kill/VBD
+  the/DT
+  (NP (NBAR child/NN))
+  ,/,
+  then/RB
+  what/WP
+  's/VBZ
+  better/JJR
+  ?/.
+  So/RB
+  ,/,
+  I/PRP
+  do/VBP
+  n't/RB
+  know/VB
+  .../:)(S
   (NP (NBAR ALI/NN))
   :/:
   (NP (NBAR Well/NNP))
@@ -1613,4 +4344,52 @@
   both/DT
   of/IN
   you/PRP
-  ./.)(S )(S )
+  ./.)(S
+  (NP (NBAR GIBSON/NN))
+  :/:
+  (NP (NBAR Najee/NNP))
+  ,/,
+  (NP (NBAR Ali/NNP))
+  ,/,
+  thanks/VBZ
+  a/DT
+  (NP (NBAR lot/NN))
+  ./.
+  (NP (NBAR Najee/NNP))
+  ,/,
+  appreciate/VB
+  it/PRP
+  ./.
+  And/CC
+  (NP (NBAR Dr./NNP Casey/NNP Jordan/NNP))
+  ,/,
+  (NP (NBAR thanks/NNS))
+  to/TO
+  both/DT
+  of/IN
+  you/PRP
+  ./.)(S
+  (NP (NBAR GIBSON/NN))
+  :/:
+  (NP (NBAR Najee/NNP))
+  ,/,
+  (NP (NBAR Ali/NNP))
+  ,/,
+  thanks/VBZ
+  a/DT
+  (NP (NBAR lot/NN))
+  ./.
+  (NP (NBAR Najee/NNP))
+  ,/,
+  appreciate/VB
+  it/PRP
+  ./.
+  And/CC
+  (NP (NBAR Dr./NNP Casey/NNP Jordan/NNP))
+  ,/,
+  (NP (NBAR thanks/NNS))
+  to/TO
+  both/DT
+  of/IN
+  you/PRP
+  ./.)

@@ -1,4 +1,4 @@
-(S )(S )(S
+(S
   (NP (NBAR BILL/NNP O'REILLY/NNP))
   ,/,
   (NP (NBAR HOST/NNP))
@@ -44,6 +44,192 @@
   in/IN
   this/DT
   (NP (NBAR country/NN))
+  ./.)(S
+  (NP (NBAR BILL/NNP O'REILLY/NNP))
+  ,/,
+  (NP (NBAR HOST/NNP))
+  :/:
+  In/IN
+  the/DT
+  ``/``
+  Unresolved/VBD
+  (NP (NBAR problem/NN))
+  ''/''
+  (NP (NBAR segment/NN tonight/NN))
+  :/:
+  There/EX
+  was/VBD
+  an/DT
+  (NP (NBAR intense/JJ debate/NN))
+  over/IN
+  whether/IN
+  (NP (NBAR public/JJ money/NN))
+  should/MD
+  pay/VB
+  for/IN
+  (NP (NBAR abortions/NNS))
+  in/IN
+  the/DT
+  (NP (NBAR Obamacare/NNP legislation/NN))
+  ./.
+  The/DT
+  (NP (NBAR issue/NN))
+  is/VBZ
+  still/RB
+  not/RB
+  defined/VBN
+  ,/,
+  but/CC
+  there/EX
+  is/VBZ
+  no/DT
+  (NP (NBAR question/NN abortion/NN))
+  remains/VBZ
+  very/RB
+  controversial/JJ
+  in/IN
+  this/DT
+  (NP (NBAR country/NN))
+  ./.)(S
+  (NP (NBAR Enter/NNP Abby/NNP Johnson/NNP))
+  ,/,
+  the/DT
+  (NP (NBAR former/JJ director/NN))
+  of/IN
+  (NP (NBAR Planned/NNP Parenthood/NNP))
+  in/IN
+  (NP (NBAR Bryan/NNP))
+  ,/,
+  (NP (NBAR Texas/NNP))
+  ./.
+  (NP (NBAR Ms./NNP Johnson/NNP))
+  had/VBD
+  a/DT
+  (NP (NBAR conversion/NN))
+  and/CC
+  now/RB
+  believes/VBZ
+  (NP (NBAR abortion/NN))
+  is/VBZ
+  wrong/JJ
+  ,/,
+  so/IN
+  she/PRP
+  's/VBZ
+  speaking/VBG
+  out/RP
+  against/IN
+  Planned/VBN
+  (NP (NBAR Parenthood/NNP))
+  ,/,
+  which/WDT
+  is/VBZ
+  trying/VBG
+  to/TO
+  stop/VB
+  her/PRP$
+  ./.
+  And/CC
+  (NP (NBAR yesterday/NN))
+  ,/,
+  a/DT
+  (NP (NBAR judge/NN))
+  lifted/VBD
+  a/DT
+  (NP (NBAR temporary/JJ gag/NN order/NN))
+  on/IN
+  (NP (NBAR Ms./NNP Johnson/NNP))
+  ,/,
+  who/WP
+  joins/VBZ
+  us/PRP
+  now/RB
+  from/IN
+  (NP (NBAR Houston/NNP))
+  ,/,
+  along/IN
+  with/IN
+  (NP (NBAR Shawn/NNP Carney/NNP))
+  ,/,
+  (NP (NBAR national/JJ campaign/NN director/NN))
+  for/IN
+  40/CD
+  (NP (NBAR Days/NNS))
+  for/IN
+  (NP (NBAR Life/NNP))
+  ,/,
+  an/DT
+  (NP (NBAR anti-abortion/NN group/NN))
+  ./.)(S
+  (NP (NBAR Enter/NNP Abby/NNP Johnson/NNP))
+  ,/,
+  the/DT
+  (NP (NBAR former/JJ director/NN))
+  of/IN
+  (NP (NBAR Planned/NNP Parenthood/NNP))
+  in/IN
+  (NP (NBAR Bryan/NNP))
+  ,/,
+  (NP (NBAR Texas/NNP))
+  ./.
+  (NP (NBAR Ms./NNP Johnson/NNP))
+  had/VBD
+  a/DT
+  (NP (NBAR conversion/NN))
+  and/CC
+  now/RB
+  believes/VBZ
+  (NP (NBAR abortion/NN))
+  is/VBZ
+  wrong/JJ
+  ,/,
+  so/IN
+  she/PRP
+  's/VBZ
+  speaking/VBG
+  out/RP
+  against/IN
+  Planned/VBN
+  (NP (NBAR Parenthood/NNP))
+  ,/,
+  which/WDT
+  is/VBZ
+  trying/VBG
+  to/TO
+  stop/VB
+  her/PRP$
+  ./.
+  And/CC
+  (NP (NBAR yesterday/NN))
+  ,/,
+  a/DT
+  (NP (NBAR judge/NN))
+  lifted/VBD
+  a/DT
+  (NP (NBAR temporary/JJ gag/NN order/NN))
+  on/IN
+  (NP (NBAR Ms./NNP Johnson/NNP))
+  ,/,
+  who/WP
+  joins/VBZ
+  us/PRP
+  now/RB
+  from/IN
+  (NP (NBAR Houston/NNP))
+  ,/,
+  along/IN
+  with/IN
+  (NP (NBAR Shawn/NNP Carney/NNP))
+  ,/,
+  (NP (NBAR national/JJ campaign/NN director/NN))
+  for/IN
+  40/CD
+  (NP (NBAR Days/NNS))
+  for/IN
+  (NP (NBAR Life/NNP))
+  ,/,
+  an/DT
+  (NP (NBAR anti-abortion/NN group/NN))
   ./.)(S
   (NP (NBAR Enter/NNP Abby/NNP Johnson/NNP))
   ,/,
@@ -288,6 +474,99 @@
   their/PRP$
   (NP (NBAR abortion/NN numbers/NNS))
   ./.)(S
+  (NP (NBAR JOHNSON/NN))
+  :/:
+  Yes/UH
+  ./.
+  I/PRP
+  mean/VBP
+  ,/,
+  I/PRP
+  absolutely/RB
+  believe/VBP
+  that/IN
+  ./.
+  I/PRP
+  mean/VBP
+  ,/,
+  I/PRP
+  saw/VBD
+  them/PRP
+  trying/VBG
+  to/TO
+  increase/VB
+  their/PRP$
+  (NP (NBAR abortion/NN numbers/NNS))
+  ./.
+  I/PRP
+  saw/VBD
+  them/PRP
+  increase/VB
+  their/PRP$
+  (NP (NBAR abortion/NN numbers/NNS))
+  ./.)(S
+  (NP (NBAR JOHNSON/NN))
+  :/:
+  Yes/UH
+  ./.
+  I/PRP
+  mean/VBP
+  ,/,
+  I/PRP
+  absolutely/RB
+  believe/VBP
+  that/IN
+  ./.
+  I/PRP
+  mean/VBP
+  ,/,
+  I/PRP
+  saw/VBD
+  them/PRP
+  trying/VBG
+  to/TO
+  increase/VB
+  their/PRP$
+  (NP (NBAR abortion/NN numbers/NNS))
+  ./.
+  I/PRP
+  saw/VBD
+  them/PRP
+  increase/VB
+  their/PRP$
+  (NP (NBAR abortion/NN numbers/NNS))
+  ./.)(S
+  (NP (NBAR JOHNSON/NN))
+  :/:
+  Yes/UH
+  ./.
+  I/PRP
+  mean/VBP
+  ,/,
+  I/PRP
+  absolutely/RB
+  believe/VBP
+  that/IN
+  ./.
+  I/PRP
+  mean/VBP
+  ,/,
+  I/PRP
+  saw/VBD
+  them/PRP
+  trying/VBG
+  to/TO
+  increase/VB
+  their/PRP$
+  (NP (NBAR abortion/NN numbers/NNS))
+  ./.
+  I/PRP
+  saw/VBD
+  them/PRP
+  increase/VB
+  their/PRP$
+  (NP (NBAR abortion/NN numbers/NNS))
+  ./.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   Well/RB
@@ -305,6 +584,303 @@
   an/DT
   (NP (NBAR abortion/NN number/NN))
   ?/.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  Well/RB
+  ,/,
+  how/WRB
+  do/VBP
+  they/PRP
+  do/VB
+  that/DT
+  ?/.
+  How/WRB
+  do/VBP
+  you/PRP
+  increase/VB
+  an/DT
+  (NP (NBAR abortion/NN number/NN))
+  ?/.)(S
+  (NP (NBAR JOHNSON/NN))
+  :/:
+  Well/RB
+  ,/,
+  they/PRP
+  increase/VBP
+  their/PRP$
+  (NP (NBAR accessibility/NN))
+  to/TO
+  (NP (NBAR abortion/NN))
+  for/IN
+  (NP (NBAR women/NNS))
+  ./.
+  So/RB
+  ,/,
+  for/IN
+  (NP (NBAR instance/NN))
+  ,/,
+  the/DT
+  (NP (NBAR clinic/NN))
+  that/IN
+  I/PRP
+  worked/VBD
+  at/IN
+  ,/,
+  usually/RB
+  we/PRP
+  only/RB
+  did/VBD
+  (NP (NBAR abortions/NNS))
+  every/DT
+  (NP (NBAR other/JJ Saturday/NNP))
+  ./.
+  And/CC
+  they/PRP
+  said/VBD
+  ,/,
+  ``/``
+  You/PRP
+  know/VBP
+  what/WP
+  ?/.
+  That/DT
+  's/VBZ
+  not/RB
+  really/RB
+  enough/RB
+  ./.
+  We/PRP
+  really/RB
+  need/VB
+  to/TO
+  be/VB
+  able/JJ
+  to/TO
+  open/VB
+  this/DT
+  up/RB
+  to/TO
+  allowing/VBG
+  (NP (NBAR women/NNS))
+  to/TO
+  have/VB
+  (NP (NBAR abortions/NNS))
+  almost/RB
+  every/DT
+  (NP (NBAR day/NN))
+  during/IN
+  the/DT
+  (NP (NBAR week.”/NN)))(S
+  (NP (NBAR JOHNSON/NN))
+  :/:
+  Well/RB
+  ,/,
+  they/PRP
+  increase/VBP
+  their/PRP$
+  (NP (NBAR accessibility/NN))
+  to/TO
+  (NP (NBAR abortion/NN))
+  for/IN
+  (NP (NBAR women/NNS))
+  ./.
+  So/RB
+  ,/,
+  for/IN
+  (NP (NBAR instance/NN))
+  ,/,
+  the/DT
+  (NP (NBAR clinic/NN))
+  that/IN
+  I/PRP
+  worked/VBD
+  at/IN
+  ,/,
+  usually/RB
+  we/PRP
+  only/RB
+  did/VBD
+  (NP (NBAR abortions/NNS))
+  every/DT
+  (NP (NBAR other/JJ Saturday/NNP))
+  ./.
+  And/CC
+  they/PRP
+  said/VBD
+  ,/,
+  ``/``
+  You/PRP
+  know/VBP
+  what/WP
+  ?/.
+  That/DT
+  's/VBZ
+  not/RB
+  really/RB
+  enough/RB
+  ./.
+  We/PRP
+  really/RB
+  need/VB
+  to/TO
+  be/VB
+  able/JJ
+  to/TO
+  open/VB
+  this/DT
+  up/RB
+  to/TO
+  allowing/VBG
+  (NP (NBAR women/NNS))
+  to/TO
+  have/VB
+  (NP (NBAR abortions/NNS))
+  almost/RB
+  every/DT
+  (NP (NBAR day/NN))
+  during/IN
+  the/DT
+  (NP (NBAR week.”/NN)))(S
+  (NP (NBAR JOHNSON/NN))
+  :/:
+  Well/RB
+  ,/,
+  they/PRP
+  increase/VBP
+  their/PRP$
+  (NP (NBAR accessibility/NN))
+  to/TO
+  (NP (NBAR abortion/NN))
+  for/IN
+  (NP (NBAR women/NNS))
+  ./.
+  So/RB
+  ,/,
+  for/IN
+  (NP (NBAR instance/NN))
+  ,/,
+  the/DT
+  (NP (NBAR clinic/NN))
+  that/IN
+  I/PRP
+  worked/VBD
+  at/IN
+  ,/,
+  usually/RB
+  we/PRP
+  only/RB
+  did/VBD
+  (NP (NBAR abortions/NNS))
+  every/DT
+  (NP (NBAR other/JJ Saturday/NNP))
+  ./.
+  And/CC
+  they/PRP
+  said/VBD
+  ,/,
+  ``/``
+  You/PRP
+  know/VBP
+  what/WP
+  ?/.
+  That/DT
+  's/VBZ
+  not/RB
+  really/RB
+  enough/RB
+  ./.
+  We/PRP
+  really/RB
+  need/VB
+  to/TO
+  be/VB
+  able/JJ
+  to/TO
+  open/VB
+  this/DT
+  up/RB
+  to/TO
+  allowing/VBG
+  (NP (NBAR women/NNS))
+  to/TO
+  have/VB
+  (NP (NBAR abortions/NNS))
+  almost/RB
+  every/DT
+  (NP (NBAR day/NN))
+  during/IN
+  the/DT
+  (NP (NBAR week.”/NN)))(S
+  (NP (NBAR JOHNSON/NN))
+  :/:
+  Well/RB
+  ,/,
+  they/PRP
+  increase/VBP
+  their/PRP$
+  (NP (NBAR accessibility/NN))
+  to/TO
+  (NP (NBAR abortion/NN))
+  for/IN
+  (NP (NBAR women/NNS))
+  ./.
+  So/RB
+  ,/,
+  for/IN
+  (NP (NBAR instance/NN))
+  ,/,
+  the/DT
+  (NP (NBAR clinic/NN))
+  that/IN
+  I/PRP
+  worked/VBD
+  at/IN
+  ,/,
+  usually/RB
+  we/PRP
+  only/RB
+  did/VBD
+  (NP (NBAR abortions/NNS))
+  every/DT
+  (NP (NBAR other/JJ Saturday/NNP))
+  ./.
+  And/CC
+  they/PRP
+  said/VBD
+  ,/,
+  ``/``
+  You/PRP
+  know/VBP
+  what/WP
+  ?/.
+  That/DT
+  's/VBZ
+  not/RB
+  really/RB
+  enough/RB
+  ./.
+  We/PRP
+  really/RB
+  need/VB
+  to/TO
+  be/VB
+  able/JJ
+  to/TO
+  open/VB
+  this/DT
+  up/RB
+  to/TO
+  allowing/VBG
+  (NP (NBAR women/NNS))
+  to/TO
+  have/VB
+  (NP (NBAR abortions/NNS))
+  almost/RB
+  every/DT
+  (NP (NBAR day/NN))
+  during/IN
+  the/DT
+  (NP (NBAR week.”/NN)))(S
   (NP (NBAR JOHNSON/NN))
   :/:
   Well/RB
@@ -443,6 +1019,201 @@
   its/PRP$
   (NP (NBAR life/NN))
   ./.)(S
+  (NP (NBAR JOHNSON/NN))
+  :/:
+  (NP (NBAR Well/NNP))
+  ,/,
+  I/PRP
+  actually/RB
+  saw/VBD
+  an/DT
+  (NP (NBAR ultrasound-guided/JJ abortion/NN procedure/NN))
+  ,/,
+  which/WDT
+  is/VBZ
+  not/RB
+  very/RB
+  common/JJ
+  in/IN
+  (NP (NBAR large/JJ abortion/NN facilities/NNS))
+  like/IN
+  (NP (NBAR Planned/NNP Parenthood/NNP))
+  ./.
+  They/PRP
+  're/VBP
+  a/DT
+  more/RBR
+  (NP (NBAR lengthy/JJ procedure/NN))
+  ./.
+  But/CC
+  I/PRP
+  did/VBD
+  actually/RB
+  get/VB
+  to/TO
+  see/VB
+  an/DT
+  (NP (NBAR ultrasound-guided/JJ procedure/NN))
+  ,/,
+  and/CC
+  what/WP
+  I/PRP
+  saw/VBD
+  on/IN
+  the/DT
+  (NP (NBAR screen/NN))
+  was/VBD
+  a/DT
+  (NP (NBAR 13-week/JJ baby/NN))
+  fighting/VBG
+  for/IN
+  its/PRP$
+  (NP (NBAR life/NN))
+  ./.)(S
+  (NP (NBAR JOHNSON/NN))
+  :/:
+  (NP (NBAR Well/NNP))
+  ,/,
+  I/PRP
+  actually/RB
+  saw/VBD
+  an/DT
+  (NP (NBAR ultrasound-guided/JJ abortion/NN procedure/NN))
+  ,/,
+  which/WDT
+  is/VBZ
+  not/RB
+  very/RB
+  common/JJ
+  in/IN
+  (NP (NBAR large/JJ abortion/NN facilities/NNS))
+  like/IN
+  (NP (NBAR Planned/NNP Parenthood/NNP))
+  ./.
+  They/PRP
+  're/VBP
+  a/DT
+  more/RBR
+  (NP (NBAR lengthy/JJ procedure/NN))
+  ./.
+  But/CC
+  I/PRP
+  did/VBD
+  actually/RB
+  get/VB
+  to/TO
+  see/VB
+  an/DT
+  (NP (NBAR ultrasound-guided/JJ procedure/NN))
+  ,/,
+  and/CC
+  what/WP
+  I/PRP
+  saw/VBD
+  on/IN
+  the/DT
+  (NP (NBAR screen/NN))
+  was/VBD
+  a/DT
+  (NP (NBAR 13-week/JJ baby/NN))
+  fighting/VBG
+  for/IN
+  its/PRP$
+  (NP (NBAR life/NN))
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  And/CC
+  instantly/RB
+  ,/,
+  you/PRP
+  said/VBD
+  ,/,
+  ``/``
+  This/DT
+  is/VBZ
+  wrong/JJ
+  ./.
+  I/PRP
+  should/MD
+  n't/RB
+  be/VB
+  at/IN
+  (NP (NBAR Planned/NNP Parenthood/NNP))
+  ./.
+  I/PRP
+  should/MD
+  be/VB
+  pro-life/JJ
+  ''/''
+  ?/.
+  (NP (NBAR Did/NNP))
+  that/IN
+  happen/VB
+  instantly/RB
+  ?/.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  And/CC
+  instantly/RB
+  ,/,
+  you/PRP
+  said/VBD
+  ,/,
+  ``/``
+  This/DT
+  is/VBZ
+  wrong/JJ
+  ./.
+  I/PRP
+  should/MD
+  n't/RB
+  be/VB
+  at/IN
+  (NP (NBAR Planned/NNP Parenthood/NNP))
+  ./.
+  I/PRP
+  should/MD
+  be/VB
+  pro-life/JJ
+  ''/''
+  ?/.
+  (NP (NBAR Did/NNP))
+  that/IN
+  happen/VB
+  instantly/RB
+  ?/.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  And/CC
+  instantly/RB
+  ,/,
+  you/PRP
+  said/VBD
+  ,/,
+  ``/``
+  This/DT
+  is/VBZ
+  wrong/JJ
+  ./.
+  I/PRP
+  should/MD
+  n't/RB
+  be/VB
+  at/IN
+  (NP (NBAR Planned/NNP Parenthood/NNP))
+  ./.
+  I/PRP
+  should/MD
+  be/VB
+  pro-life/JJ
+  ''/''
+  ?/.
+  (NP (NBAR Did/NNP))
+  that/IN
+  happen/VB
+  instantly/RB
+  ?/.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   And/CC
@@ -616,6 +1387,1142 @@
   a/DT
   (NP (NBAR life/NN))
   ./.)(S
+  (NP (NBAR JOHNSON/NN))
+  :/:
+  Well/RB
+  ,/,
+  what/WP
+  I/PRP
+  saw/VBD
+  was/VBD
+  this/DT
+  (NP (NBAR baby/NN fighting/NN))
+  ,/,
+  and/CC
+  I/PRP
+  had/VBD
+  (NP (NBAR flashes/NNS))
+  in/IN
+  my/PRP$
+  (NP (NBAR head/NN))
+  of/IN
+  my/PRP$
+  (NP (NBAR own/JJ daughter/NN))
+  ./.
+  I/PRP
+  remembered/VBD
+  having/VBG
+  an/DT
+  (NP (NBAR ultrasound/NN))
+  at/IN
+  12/CD
+  (NP (NBAR weeks/NNS))
+  with/IN
+  my/PRP$
+  (NP (NBAR own/JJ daughter/NN))
+  ./.
+  And/CC
+  I/PRP
+  just/RB
+  was/VBD
+  thinking/VBG
+  ,/,
+  ``/``
+  What/WP
+  am/VBP
+  I/PRP
+  doing/VBG
+  ?/.
+  ''/''
+  I/PRP
+  was/VBD
+  thinking/VBG
+  ,/,
+  ``/``
+  I/PRP
+  've/VBP
+  never/RB
+  seen/VBN
+  this/DT
+  (NP (NBAR before/NN))
+  ./.
+  ''/''
+  And/CC
+  Planned/VBD
+  (NP (NBAR Parenthood/NNP))
+  really/RB
+  tries/VBZ
+  to/TO
+  instill/VB
+  in/IN
+  their/PRP$
+  (NP (NBAR employees/NNS))
+  and/CC
+  the/DT
+  (NP (NBAR women/NNS))
+  that/WDT
+  are/VBP
+  coming/VBG
+  in/IN
+  for/IN
+  (NP (NBAR abortions/NNS))
+  that/IN
+  this/DT
+  is/VBZ
+  not/RB
+  a/DT
+  (NP (NBAR baby/NN))
+  ,/,
+  that/IN
+  this/DT
+  is/VBZ
+  just/RB
+  a/DT
+  (NP (NBAR mass/NN))
+  of/IN
+  (NP (NBAR cells/NNS))
+  ./.
+  You/PRP
+  know/VBP
+  ,/,
+  do/VBP
+  n't/RB
+  say/VB
+  ``/``
+  (NP (NBAR baby/NN))
+  ''/''
+  in/IN
+  the/DT
+  (NP (NBAR clinic/NN))
+  ./.
+  Do/VBP
+  n't/RB
+  say/VB
+  ``/``
+  (NP (NBAR baby/NN))
+  ''/''
+  to/TO
+  the/DT
+  (NP (NBAR women/NNS))
+  coming/VBG
+  in/IN
+  for/IN
+  an/DT
+  (NP (NBAR abortion/NN))
+  ./.
+  And/CC
+  so/RB
+  you/PRP
+  begin/VBP
+  to/TO
+  believe/VB
+  that/IN
+  ./.
+  You/PRP
+  begin/VBP
+  to/TO
+  believe/VB
+  that/IN
+  it/PRP
+  's/VBZ
+  not/RB
+  a/DT
+  (NP (NBAR life/NN))
+  ./.)(S
+  (NP (NBAR JOHNSON/NN))
+  :/:
+  Well/RB
+  ,/,
+  what/WP
+  I/PRP
+  saw/VBD
+  was/VBD
+  this/DT
+  (NP (NBAR baby/NN fighting/NN))
+  ,/,
+  and/CC
+  I/PRP
+  had/VBD
+  (NP (NBAR flashes/NNS))
+  in/IN
+  my/PRP$
+  (NP (NBAR head/NN))
+  of/IN
+  my/PRP$
+  (NP (NBAR own/JJ daughter/NN))
+  ./.
+  I/PRP
+  remembered/VBD
+  having/VBG
+  an/DT
+  (NP (NBAR ultrasound/NN))
+  at/IN
+  12/CD
+  (NP (NBAR weeks/NNS))
+  with/IN
+  my/PRP$
+  (NP (NBAR own/JJ daughter/NN))
+  ./.
+  And/CC
+  I/PRP
+  just/RB
+  was/VBD
+  thinking/VBG
+  ,/,
+  ``/``
+  What/WP
+  am/VBP
+  I/PRP
+  doing/VBG
+  ?/.
+  ''/''
+  I/PRP
+  was/VBD
+  thinking/VBG
+  ,/,
+  ``/``
+  I/PRP
+  've/VBP
+  never/RB
+  seen/VBN
+  this/DT
+  (NP (NBAR before/NN))
+  ./.
+  ''/''
+  And/CC
+  Planned/VBD
+  (NP (NBAR Parenthood/NNP))
+  really/RB
+  tries/VBZ
+  to/TO
+  instill/VB
+  in/IN
+  their/PRP$
+  (NP (NBAR employees/NNS))
+  and/CC
+  the/DT
+  (NP (NBAR women/NNS))
+  that/WDT
+  are/VBP
+  coming/VBG
+  in/IN
+  for/IN
+  (NP (NBAR abortions/NNS))
+  that/IN
+  this/DT
+  is/VBZ
+  not/RB
+  a/DT
+  (NP (NBAR baby/NN))
+  ,/,
+  that/IN
+  this/DT
+  is/VBZ
+  just/RB
+  a/DT
+  (NP (NBAR mass/NN))
+  of/IN
+  (NP (NBAR cells/NNS))
+  ./.
+  You/PRP
+  know/VBP
+  ,/,
+  do/VBP
+  n't/RB
+  say/VB
+  ``/``
+  (NP (NBAR baby/NN))
+  ''/''
+  in/IN
+  the/DT
+  (NP (NBAR clinic/NN))
+  ./.
+  Do/VBP
+  n't/RB
+  say/VB
+  ``/``
+  (NP (NBAR baby/NN))
+  ''/''
+  to/TO
+  the/DT
+  (NP (NBAR women/NNS))
+  coming/VBG
+  in/IN
+  for/IN
+  an/DT
+  (NP (NBAR abortion/NN))
+  ./.
+  And/CC
+  so/RB
+  you/PRP
+  begin/VBP
+  to/TO
+  believe/VB
+  that/IN
+  ./.
+  You/PRP
+  begin/VBP
+  to/TO
+  believe/VB
+  that/IN
+  it/PRP
+  's/VBZ
+  not/RB
+  a/DT
+  (NP (NBAR life/NN))
+  ./.)(S
+  (NP (NBAR JOHNSON/NN))
+  :/:
+  Well/RB
+  ,/,
+  what/WP
+  I/PRP
+  saw/VBD
+  was/VBD
+  this/DT
+  (NP (NBAR baby/NN fighting/NN))
+  ,/,
+  and/CC
+  I/PRP
+  had/VBD
+  (NP (NBAR flashes/NNS))
+  in/IN
+  my/PRP$
+  (NP (NBAR head/NN))
+  of/IN
+  my/PRP$
+  (NP (NBAR own/JJ daughter/NN))
+  ./.
+  I/PRP
+  remembered/VBD
+  having/VBG
+  an/DT
+  (NP (NBAR ultrasound/NN))
+  at/IN
+  12/CD
+  (NP (NBAR weeks/NNS))
+  with/IN
+  my/PRP$
+  (NP (NBAR own/JJ daughter/NN))
+  ./.
+  And/CC
+  I/PRP
+  just/RB
+  was/VBD
+  thinking/VBG
+  ,/,
+  ``/``
+  What/WP
+  am/VBP
+  I/PRP
+  doing/VBG
+  ?/.
+  ''/''
+  I/PRP
+  was/VBD
+  thinking/VBG
+  ,/,
+  ``/``
+  I/PRP
+  've/VBP
+  never/RB
+  seen/VBN
+  this/DT
+  (NP (NBAR before/NN))
+  ./.
+  ''/''
+  And/CC
+  Planned/VBD
+  (NP (NBAR Parenthood/NNP))
+  really/RB
+  tries/VBZ
+  to/TO
+  instill/VB
+  in/IN
+  their/PRP$
+  (NP (NBAR employees/NNS))
+  and/CC
+  the/DT
+  (NP (NBAR women/NNS))
+  that/WDT
+  are/VBP
+  coming/VBG
+  in/IN
+  for/IN
+  (NP (NBAR abortions/NNS))
+  that/IN
+  this/DT
+  is/VBZ
+  not/RB
+  a/DT
+  (NP (NBAR baby/NN))
+  ,/,
+  that/IN
+  this/DT
+  is/VBZ
+  just/RB
+  a/DT
+  (NP (NBAR mass/NN))
+  of/IN
+  (NP (NBAR cells/NNS))
+  ./.
+  You/PRP
+  know/VBP
+  ,/,
+  do/VBP
+  n't/RB
+  say/VB
+  ``/``
+  (NP (NBAR baby/NN))
+  ''/''
+  in/IN
+  the/DT
+  (NP (NBAR clinic/NN))
+  ./.
+  Do/VBP
+  n't/RB
+  say/VB
+  ``/``
+  (NP (NBAR baby/NN))
+  ''/''
+  to/TO
+  the/DT
+  (NP (NBAR women/NNS))
+  coming/VBG
+  in/IN
+  for/IN
+  an/DT
+  (NP (NBAR abortion/NN))
+  ./.
+  And/CC
+  so/RB
+  you/PRP
+  begin/VBP
+  to/TO
+  believe/VB
+  that/IN
+  ./.
+  You/PRP
+  begin/VBP
+  to/TO
+  believe/VB
+  that/IN
+  it/PRP
+  's/VBZ
+  not/RB
+  a/DT
+  (NP (NBAR life/NN))
+  ./.)(S
+  (NP (NBAR JOHNSON/NN))
+  :/:
+  Well/RB
+  ,/,
+  what/WP
+  I/PRP
+  saw/VBD
+  was/VBD
+  this/DT
+  (NP (NBAR baby/NN fighting/NN))
+  ,/,
+  and/CC
+  I/PRP
+  had/VBD
+  (NP (NBAR flashes/NNS))
+  in/IN
+  my/PRP$
+  (NP (NBAR head/NN))
+  of/IN
+  my/PRP$
+  (NP (NBAR own/JJ daughter/NN))
+  ./.
+  I/PRP
+  remembered/VBD
+  having/VBG
+  an/DT
+  (NP (NBAR ultrasound/NN))
+  at/IN
+  12/CD
+  (NP (NBAR weeks/NNS))
+  with/IN
+  my/PRP$
+  (NP (NBAR own/JJ daughter/NN))
+  ./.
+  And/CC
+  I/PRP
+  just/RB
+  was/VBD
+  thinking/VBG
+  ,/,
+  ``/``
+  What/WP
+  am/VBP
+  I/PRP
+  doing/VBG
+  ?/.
+  ''/''
+  I/PRP
+  was/VBD
+  thinking/VBG
+  ,/,
+  ``/``
+  I/PRP
+  've/VBP
+  never/RB
+  seen/VBN
+  this/DT
+  (NP (NBAR before/NN))
+  ./.
+  ''/''
+  And/CC
+  Planned/VBD
+  (NP (NBAR Parenthood/NNP))
+  really/RB
+  tries/VBZ
+  to/TO
+  instill/VB
+  in/IN
+  their/PRP$
+  (NP (NBAR employees/NNS))
+  and/CC
+  the/DT
+  (NP (NBAR women/NNS))
+  that/WDT
+  are/VBP
+  coming/VBG
+  in/IN
+  for/IN
+  (NP (NBAR abortions/NNS))
+  that/IN
+  this/DT
+  is/VBZ
+  not/RB
+  a/DT
+  (NP (NBAR baby/NN))
+  ,/,
+  that/IN
+  this/DT
+  is/VBZ
+  just/RB
+  a/DT
+  (NP (NBAR mass/NN))
+  of/IN
+  (NP (NBAR cells/NNS))
+  ./.
+  You/PRP
+  know/VBP
+  ,/,
+  do/VBP
+  n't/RB
+  say/VB
+  ``/``
+  (NP (NBAR baby/NN))
+  ''/''
+  in/IN
+  the/DT
+  (NP (NBAR clinic/NN))
+  ./.
+  Do/VBP
+  n't/RB
+  say/VB
+  ``/``
+  (NP (NBAR baby/NN))
+  ''/''
+  to/TO
+  the/DT
+  (NP (NBAR women/NNS))
+  coming/VBG
+  in/IN
+  for/IN
+  an/DT
+  (NP (NBAR abortion/NN))
+  ./.
+  And/CC
+  so/RB
+  you/PRP
+  begin/VBP
+  to/TO
+  believe/VB
+  that/IN
+  ./.
+  You/PRP
+  begin/VBP
+  to/TO
+  believe/VB
+  that/IN
+  it/PRP
+  's/VBZ
+  not/RB
+  a/DT
+  (NP (NBAR life/NN))
+  ./.)(S
+  (NP (NBAR JOHNSON/NN))
+  :/:
+  Well/RB
+  ,/,
+  what/WP
+  I/PRP
+  saw/VBD
+  was/VBD
+  this/DT
+  (NP (NBAR baby/NN fighting/NN))
+  ,/,
+  and/CC
+  I/PRP
+  had/VBD
+  (NP (NBAR flashes/NNS))
+  in/IN
+  my/PRP$
+  (NP (NBAR head/NN))
+  of/IN
+  my/PRP$
+  (NP (NBAR own/JJ daughter/NN))
+  ./.
+  I/PRP
+  remembered/VBD
+  having/VBG
+  an/DT
+  (NP (NBAR ultrasound/NN))
+  at/IN
+  12/CD
+  (NP (NBAR weeks/NNS))
+  with/IN
+  my/PRP$
+  (NP (NBAR own/JJ daughter/NN))
+  ./.
+  And/CC
+  I/PRP
+  just/RB
+  was/VBD
+  thinking/VBG
+  ,/,
+  ``/``
+  What/WP
+  am/VBP
+  I/PRP
+  doing/VBG
+  ?/.
+  ''/''
+  I/PRP
+  was/VBD
+  thinking/VBG
+  ,/,
+  ``/``
+  I/PRP
+  've/VBP
+  never/RB
+  seen/VBN
+  this/DT
+  (NP (NBAR before/NN))
+  ./.
+  ''/''
+  And/CC
+  Planned/VBD
+  (NP (NBAR Parenthood/NNP))
+  really/RB
+  tries/VBZ
+  to/TO
+  instill/VB
+  in/IN
+  their/PRP$
+  (NP (NBAR employees/NNS))
+  and/CC
+  the/DT
+  (NP (NBAR women/NNS))
+  that/WDT
+  are/VBP
+  coming/VBG
+  in/IN
+  for/IN
+  (NP (NBAR abortions/NNS))
+  that/IN
+  this/DT
+  is/VBZ
+  not/RB
+  a/DT
+  (NP (NBAR baby/NN))
+  ,/,
+  that/IN
+  this/DT
+  is/VBZ
+  just/RB
+  a/DT
+  (NP (NBAR mass/NN))
+  of/IN
+  (NP (NBAR cells/NNS))
+  ./.
+  You/PRP
+  know/VBP
+  ,/,
+  do/VBP
+  n't/RB
+  say/VB
+  ``/``
+  (NP (NBAR baby/NN))
+  ''/''
+  in/IN
+  the/DT
+  (NP (NBAR clinic/NN))
+  ./.
+  Do/VBP
+  n't/RB
+  say/VB
+  ``/``
+  (NP (NBAR baby/NN))
+  ''/''
+  to/TO
+  the/DT
+  (NP (NBAR women/NNS))
+  coming/VBG
+  in/IN
+  for/IN
+  an/DT
+  (NP (NBAR abortion/NN))
+  ./.
+  And/CC
+  so/RB
+  you/PRP
+  begin/VBP
+  to/TO
+  believe/VB
+  that/IN
+  ./.
+  You/PRP
+  begin/VBP
+  to/TO
+  believe/VB
+  that/IN
+  it/PRP
+  's/VBZ
+  not/RB
+  a/DT
+  (NP (NBAR life/NN))
+  ./.)(S
+  (NP (NBAR JOHNSON/NN))
+  :/:
+  Well/RB
+  ,/,
+  what/WP
+  I/PRP
+  saw/VBD
+  was/VBD
+  this/DT
+  (NP (NBAR baby/NN fighting/NN))
+  ,/,
+  and/CC
+  I/PRP
+  had/VBD
+  (NP (NBAR flashes/NNS))
+  in/IN
+  my/PRP$
+  (NP (NBAR head/NN))
+  of/IN
+  my/PRP$
+  (NP (NBAR own/JJ daughter/NN))
+  ./.
+  I/PRP
+  remembered/VBD
+  having/VBG
+  an/DT
+  (NP (NBAR ultrasound/NN))
+  at/IN
+  12/CD
+  (NP (NBAR weeks/NNS))
+  with/IN
+  my/PRP$
+  (NP (NBAR own/JJ daughter/NN))
+  ./.
+  And/CC
+  I/PRP
+  just/RB
+  was/VBD
+  thinking/VBG
+  ,/,
+  ``/``
+  What/WP
+  am/VBP
+  I/PRP
+  doing/VBG
+  ?/.
+  ''/''
+  I/PRP
+  was/VBD
+  thinking/VBG
+  ,/,
+  ``/``
+  I/PRP
+  've/VBP
+  never/RB
+  seen/VBN
+  this/DT
+  (NP (NBAR before/NN))
+  ./.
+  ''/''
+  And/CC
+  Planned/VBD
+  (NP (NBAR Parenthood/NNP))
+  really/RB
+  tries/VBZ
+  to/TO
+  instill/VB
+  in/IN
+  their/PRP$
+  (NP (NBAR employees/NNS))
+  and/CC
+  the/DT
+  (NP (NBAR women/NNS))
+  that/WDT
+  are/VBP
+  coming/VBG
+  in/IN
+  for/IN
+  (NP (NBAR abortions/NNS))
+  that/IN
+  this/DT
+  is/VBZ
+  not/RB
+  a/DT
+  (NP (NBAR baby/NN))
+  ,/,
+  that/IN
+  this/DT
+  is/VBZ
+  just/RB
+  a/DT
+  (NP (NBAR mass/NN))
+  of/IN
+  (NP (NBAR cells/NNS))
+  ./.
+  You/PRP
+  know/VBP
+  ,/,
+  do/VBP
+  n't/RB
+  say/VB
+  ``/``
+  (NP (NBAR baby/NN))
+  ''/''
+  in/IN
+  the/DT
+  (NP (NBAR clinic/NN))
+  ./.
+  Do/VBP
+  n't/RB
+  say/VB
+  ``/``
+  (NP (NBAR baby/NN))
+  ''/''
+  to/TO
+  the/DT
+  (NP (NBAR women/NNS))
+  coming/VBG
+  in/IN
+  for/IN
+  an/DT
+  (NP (NBAR abortion/NN))
+  ./.
+  And/CC
+  so/RB
+  you/PRP
+  begin/VBP
+  to/TO
+  believe/VB
+  that/IN
+  ./.
+  You/PRP
+  begin/VBP
+  to/TO
+  believe/VB
+  that/IN
+  it/PRP
+  's/VBZ
+  not/RB
+  a/DT
+  (NP (NBAR life/NN))
+  ./.)(S
+  (NP (NBAR JOHNSON/NN))
+  :/:
+  Well/RB
+  ,/,
+  what/WP
+  I/PRP
+  saw/VBD
+  was/VBD
+  this/DT
+  (NP (NBAR baby/NN fighting/NN))
+  ,/,
+  and/CC
+  I/PRP
+  had/VBD
+  (NP (NBAR flashes/NNS))
+  in/IN
+  my/PRP$
+  (NP (NBAR head/NN))
+  of/IN
+  my/PRP$
+  (NP (NBAR own/JJ daughter/NN))
+  ./.
+  I/PRP
+  remembered/VBD
+  having/VBG
+  an/DT
+  (NP (NBAR ultrasound/NN))
+  at/IN
+  12/CD
+  (NP (NBAR weeks/NNS))
+  with/IN
+  my/PRP$
+  (NP (NBAR own/JJ daughter/NN))
+  ./.
+  And/CC
+  I/PRP
+  just/RB
+  was/VBD
+  thinking/VBG
+  ,/,
+  ``/``
+  What/WP
+  am/VBP
+  I/PRP
+  doing/VBG
+  ?/.
+  ''/''
+  I/PRP
+  was/VBD
+  thinking/VBG
+  ,/,
+  ``/``
+  I/PRP
+  've/VBP
+  never/RB
+  seen/VBN
+  this/DT
+  (NP (NBAR before/NN))
+  ./.
+  ''/''
+  And/CC
+  Planned/VBD
+  (NP (NBAR Parenthood/NNP))
+  really/RB
+  tries/VBZ
+  to/TO
+  instill/VB
+  in/IN
+  their/PRP$
+  (NP (NBAR employees/NNS))
+  and/CC
+  the/DT
+  (NP (NBAR women/NNS))
+  that/WDT
+  are/VBP
+  coming/VBG
+  in/IN
+  for/IN
+  (NP (NBAR abortions/NNS))
+  that/IN
+  this/DT
+  is/VBZ
+  not/RB
+  a/DT
+  (NP (NBAR baby/NN))
+  ,/,
+  that/IN
+  this/DT
+  is/VBZ
+  just/RB
+  a/DT
+  (NP (NBAR mass/NN))
+  of/IN
+  (NP (NBAR cells/NNS))
+  ./.
+  You/PRP
+  know/VBP
+  ,/,
+  do/VBP
+  n't/RB
+  say/VB
+  ``/``
+  (NP (NBAR baby/NN))
+  ''/''
+  in/IN
+  the/DT
+  (NP (NBAR clinic/NN))
+  ./.
+  Do/VBP
+  n't/RB
+  say/VB
+  ``/``
+  (NP (NBAR baby/NN))
+  ''/''
+  to/TO
+  the/DT
+  (NP (NBAR women/NNS))
+  coming/VBG
+  in/IN
+  for/IN
+  an/DT
+  (NP (NBAR abortion/NN))
+  ./.
+  And/CC
+  so/RB
+  you/PRP
+  begin/VBP
+  to/TO
+  believe/VB
+  that/IN
+  ./.
+  You/PRP
+  begin/VBP
+  to/TO
+  believe/VB
+  that/IN
+  it/PRP
+  's/VBZ
+  not/RB
+  a/DT
+  (NP (NBAR life/NN))
+  ./.)(S
+  (NP (NBAR JOHNSON/NN))
+  :/:
+  Well/RB
+  ,/,
+  what/WP
+  I/PRP
+  saw/VBD
+  was/VBD
+  this/DT
+  (NP (NBAR baby/NN fighting/NN))
+  ,/,
+  and/CC
+  I/PRP
+  had/VBD
+  (NP (NBAR flashes/NNS))
+  in/IN
+  my/PRP$
+  (NP (NBAR head/NN))
+  of/IN
+  my/PRP$
+  (NP (NBAR own/JJ daughter/NN))
+  ./.
+  I/PRP
+  remembered/VBD
+  having/VBG
+  an/DT
+  (NP (NBAR ultrasound/NN))
+  at/IN
+  12/CD
+  (NP (NBAR weeks/NNS))
+  with/IN
+  my/PRP$
+  (NP (NBAR own/JJ daughter/NN))
+  ./.
+  And/CC
+  I/PRP
+  just/RB
+  was/VBD
+  thinking/VBG
+  ,/,
+  ``/``
+  What/WP
+  am/VBP
+  I/PRP
+  doing/VBG
+  ?/.
+  ''/''
+  I/PRP
+  was/VBD
+  thinking/VBG
+  ,/,
+  ``/``
+  I/PRP
+  've/VBP
+  never/RB
+  seen/VBN
+  this/DT
+  (NP (NBAR before/NN))
+  ./.
+  ''/''
+  And/CC
+  Planned/VBD
+  (NP (NBAR Parenthood/NNP))
+  really/RB
+  tries/VBZ
+  to/TO
+  instill/VB
+  in/IN
+  their/PRP$
+  (NP (NBAR employees/NNS))
+  and/CC
+  the/DT
+  (NP (NBAR women/NNS))
+  that/WDT
+  are/VBP
+  coming/VBG
+  in/IN
+  for/IN
+  (NP (NBAR abortions/NNS))
+  that/IN
+  this/DT
+  is/VBZ
+  not/RB
+  a/DT
+  (NP (NBAR baby/NN))
+  ,/,
+  that/IN
+  this/DT
+  is/VBZ
+  just/RB
+  a/DT
+  (NP (NBAR mass/NN))
+  of/IN
+  (NP (NBAR cells/NNS))
+  ./.
+  You/PRP
+  know/VBP
+  ,/,
+  do/VBP
+  n't/RB
+  say/VB
+  ``/``
+  (NP (NBAR baby/NN))
+  ''/''
+  in/IN
+  the/DT
+  (NP (NBAR clinic/NN))
+  ./.
+  Do/VBP
+  n't/RB
+  say/VB
+  ``/``
+  (NP (NBAR baby/NN))
+  ''/''
+  to/TO
+  the/DT
+  (NP (NBAR women/NNS))
+  coming/VBG
+  in/IN
+  for/IN
+  an/DT
+  (NP (NBAR abortion/NN))
+  ./.
+  And/CC
+  so/RB
+  you/PRP
+  begin/VBP
+  to/TO
+  believe/VB
+  that/IN
+  ./.
+  You/PRP
+  begin/VBP
+  to/TO
+  believe/VB
+  that/IN
+  it/PRP
+  's/VBZ
+  not/RB
+  a/DT
+  (NP (NBAR life/NN))
+  ./.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   (NP (NBAR Mr./NNP Carney/NNP))
@@ -646,6 +2553,1196 @@
   they/PRP
   not/RB
   ?/.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  (NP (NBAR Mr./NNP Carney/NNP))
+  ,/,
+  the/DT
+  (NP (NBAR court/NN case/NN))
+  that/WDT
+  temporarily/RB
+  prevented/VBD
+  (NP (NBAR Ms./NNP Johnson/NNP))
+  from/IN
+  speaking/VBG
+  about/RB
+  Planned/VBN
+  (NP (NBAR Parenthood/NNP))
+  was/VBD
+  pretty/RB
+  intense/JJ
+  ./.
+  They/PRP
+  went/VBD
+  after/IN
+  (NP (NBAR Abby/NNP))
+  pretty/RB
+  hard/RB
+  ,/,
+  did/VBD
+  they/PRP
+  not/RB
+  ?/.)(S
+  (NP (NBAR SHAWN/NNP CARNEY/NNP))
+  ,/,
+  (NP (NBAR NATIONAL/NNP CAMPAIGN/NNP DIRECTOR/NNP))
+  ,/,
+  40/CD
+  (NP (NBAR DAYS/NNP FOR/NNP LIFE/NNP))
+  :/:
+  They/PRP
+  did/VBD
+  ,/,
+  (NP (NBAR Bill/NNP))
+  ./.
+  And/CC
+  it/PRP
+  shows/VBZ
+  that/IN
+  this/DT
+  (NP (NBAR organization/NN))
+  refuses/VBZ
+  to/TO
+  accept/VB
+  ,/,
+  particularly/RB
+  from/IN
+  one/CD
+  of/IN
+  their/PRP$
+  own/JJ
+  ,/,
+  that/IN
+  (NP (NBAR somebody/NN))
+  can/MD
+  have/VB
+  a/DT
+  (NP (NBAR change/NN))
+  of/IN
+  (NP (NBAR heart/NN))
+  on/IN
+  this/DT
+  (NP (NBAR issue/NN))
+  ./.
+  And/CC
+  the/DT
+  (NP (NBAR judge/NN))
+  threw/VBD
+  it/PRP
+  out/RP
+  because/IN
+  they/PRP
+  presented/VBD
+  no/DT
+  (NP (NBAR evidence/NN))
+  that/IN
+  she/PRP
+  had/VBD
+  a/DT
+  (NP (NBAR breach/NN))
+  of/IN
+  (NP (NBAR contract/NN))
+  ./.
+  She/PRP
+  simply/RB
+  saw/VBD
+  a/DT
+  (NP (NBAR baby/NN fight/NN))
+  for/IN
+  its/PRP$
+  (NP (NBAR life/NN))
+  ,/,
+  only/RB
+  to/TO
+  obviously/RB
+  lose/VB
+  that/DT
+  (NP (NBAR fight/NN))
+  before/IN
+  her/PRP$
+  (NP (NBAR eyes/NNS))
+  ,/,
+  and/CC
+  she/PRP
+  changed/VBD
+  her/PRP$
+  (NP (NBAR position/NN))
+  ./.
+  And/CC
+  she/PRP
+  came/VBD
+  to/TO
+  40/CD
+  (NP (NBAR Days/NNS))
+  for/IN
+  (NP (NBAR Life/NNP))
+  and/CC
+  knew/VBD
+  that/IN
+  we/PRP
+  would/MD
+  be/VB
+  accepting/VBG
+  of/IN
+  her/PRP
+  ./.
+  We/PRP
+  hold/VBP
+  (NP (NBAR vigils/NNS))
+  across/IN
+  the/DT
+  (NP (NBAR country/NN))
+  for/IN
+  (NP (NBAR people/NNS))
+  ,/,
+  obviously/RB
+  ,/,
+  having/VBG
+  (NP (NBAR abortions/NNS))
+  ,/,
+  but/CC
+  also/RB
+  the/DT
+  (NP (NBAR people/NNS))
+  who/WP
+  work/VBP
+  in/IN
+  this/DT
+  (NP (NBAR industry/NN))
+  ./.
+  And/CC
+  she/PRP
+  trusted/VBD
+  that/IN
+  ./.
+  She/PRP
+  was/VBD
+  confident/JJ
+  in/IN
+  it/PRP
+  ./.
+  And/CC
+  Planned/VBD
+  (NP (NBAR Parenthood/NNP refuses/NNS))
+  to/TO
+  accept/VB
+  that/DT
+  ./.)(S
+  (NP (NBAR SHAWN/NNP CARNEY/NNP))
+  ,/,
+  (NP (NBAR NATIONAL/NNP CAMPAIGN/NNP DIRECTOR/NNP))
+  ,/,
+  40/CD
+  (NP (NBAR DAYS/NNP FOR/NNP LIFE/NNP))
+  :/:
+  They/PRP
+  did/VBD
+  ,/,
+  (NP (NBAR Bill/NNP))
+  ./.
+  And/CC
+  it/PRP
+  shows/VBZ
+  that/IN
+  this/DT
+  (NP (NBAR organization/NN))
+  refuses/VBZ
+  to/TO
+  accept/VB
+  ,/,
+  particularly/RB
+  from/IN
+  one/CD
+  of/IN
+  their/PRP$
+  own/JJ
+  ,/,
+  that/IN
+  (NP (NBAR somebody/NN))
+  can/MD
+  have/VB
+  a/DT
+  (NP (NBAR change/NN))
+  of/IN
+  (NP (NBAR heart/NN))
+  on/IN
+  this/DT
+  (NP (NBAR issue/NN))
+  ./.
+  And/CC
+  the/DT
+  (NP (NBAR judge/NN))
+  threw/VBD
+  it/PRP
+  out/RP
+  because/IN
+  they/PRP
+  presented/VBD
+  no/DT
+  (NP (NBAR evidence/NN))
+  that/IN
+  she/PRP
+  had/VBD
+  a/DT
+  (NP (NBAR breach/NN))
+  of/IN
+  (NP (NBAR contract/NN))
+  ./.
+  She/PRP
+  simply/RB
+  saw/VBD
+  a/DT
+  (NP (NBAR baby/NN fight/NN))
+  for/IN
+  its/PRP$
+  (NP (NBAR life/NN))
+  ,/,
+  only/RB
+  to/TO
+  obviously/RB
+  lose/VB
+  that/DT
+  (NP (NBAR fight/NN))
+  before/IN
+  her/PRP$
+  (NP (NBAR eyes/NNS))
+  ,/,
+  and/CC
+  she/PRP
+  changed/VBD
+  her/PRP$
+  (NP (NBAR position/NN))
+  ./.
+  And/CC
+  she/PRP
+  came/VBD
+  to/TO
+  40/CD
+  (NP (NBAR Days/NNS))
+  for/IN
+  (NP (NBAR Life/NNP))
+  and/CC
+  knew/VBD
+  that/IN
+  we/PRP
+  would/MD
+  be/VB
+  accepting/VBG
+  of/IN
+  her/PRP
+  ./.
+  We/PRP
+  hold/VBP
+  (NP (NBAR vigils/NNS))
+  across/IN
+  the/DT
+  (NP (NBAR country/NN))
+  for/IN
+  (NP (NBAR people/NNS))
+  ,/,
+  obviously/RB
+  ,/,
+  having/VBG
+  (NP (NBAR abortions/NNS))
+  ,/,
+  but/CC
+  also/RB
+  the/DT
+  (NP (NBAR people/NNS))
+  who/WP
+  work/VBP
+  in/IN
+  this/DT
+  (NP (NBAR industry/NN))
+  ./.
+  And/CC
+  she/PRP
+  trusted/VBD
+  that/IN
+  ./.
+  She/PRP
+  was/VBD
+  confident/JJ
+  in/IN
+  it/PRP
+  ./.
+  And/CC
+  Planned/VBD
+  (NP (NBAR Parenthood/NNP refuses/NNS))
+  to/TO
+  accept/VB
+  that/DT
+  ./.)(S
+  (NP (NBAR SHAWN/NNP CARNEY/NNP))
+  ,/,
+  (NP (NBAR NATIONAL/NNP CAMPAIGN/NNP DIRECTOR/NNP))
+  ,/,
+  40/CD
+  (NP (NBAR DAYS/NNP FOR/NNP LIFE/NNP))
+  :/:
+  They/PRP
+  did/VBD
+  ,/,
+  (NP (NBAR Bill/NNP))
+  ./.
+  And/CC
+  it/PRP
+  shows/VBZ
+  that/IN
+  this/DT
+  (NP (NBAR organization/NN))
+  refuses/VBZ
+  to/TO
+  accept/VB
+  ,/,
+  particularly/RB
+  from/IN
+  one/CD
+  of/IN
+  their/PRP$
+  own/JJ
+  ,/,
+  that/IN
+  (NP (NBAR somebody/NN))
+  can/MD
+  have/VB
+  a/DT
+  (NP (NBAR change/NN))
+  of/IN
+  (NP (NBAR heart/NN))
+  on/IN
+  this/DT
+  (NP (NBAR issue/NN))
+  ./.
+  And/CC
+  the/DT
+  (NP (NBAR judge/NN))
+  threw/VBD
+  it/PRP
+  out/RP
+  because/IN
+  they/PRP
+  presented/VBD
+  no/DT
+  (NP (NBAR evidence/NN))
+  that/IN
+  she/PRP
+  had/VBD
+  a/DT
+  (NP (NBAR breach/NN))
+  of/IN
+  (NP (NBAR contract/NN))
+  ./.
+  She/PRP
+  simply/RB
+  saw/VBD
+  a/DT
+  (NP (NBAR baby/NN fight/NN))
+  for/IN
+  its/PRP$
+  (NP (NBAR life/NN))
+  ,/,
+  only/RB
+  to/TO
+  obviously/RB
+  lose/VB
+  that/DT
+  (NP (NBAR fight/NN))
+  before/IN
+  her/PRP$
+  (NP (NBAR eyes/NNS))
+  ,/,
+  and/CC
+  she/PRP
+  changed/VBD
+  her/PRP$
+  (NP (NBAR position/NN))
+  ./.
+  And/CC
+  she/PRP
+  came/VBD
+  to/TO
+  40/CD
+  (NP (NBAR Days/NNS))
+  for/IN
+  (NP (NBAR Life/NNP))
+  and/CC
+  knew/VBD
+  that/IN
+  we/PRP
+  would/MD
+  be/VB
+  accepting/VBG
+  of/IN
+  her/PRP
+  ./.
+  We/PRP
+  hold/VBP
+  (NP (NBAR vigils/NNS))
+  across/IN
+  the/DT
+  (NP (NBAR country/NN))
+  for/IN
+  (NP (NBAR people/NNS))
+  ,/,
+  obviously/RB
+  ,/,
+  having/VBG
+  (NP (NBAR abortions/NNS))
+  ,/,
+  but/CC
+  also/RB
+  the/DT
+  (NP (NBAR people/NNS))
+  who/WP
+  work/VBP
+  in/IN
+  this/DT
+  (NP (NBAR industry/NN))
+  ./.
+  And/CC
+  she/PRP
+  trusted/VBD
+  that/IN
+  ./.
+  She/PRP
+  was/VBD
+  confident/JJ
+  in/IN
+  it/PRP
+  ./.
+  And/CC
+  Planned/VBD
+  (NP (NBAR Parenthood/NNP refuses/NNS))
+  to/TO
+  accept/VB
+  that/DT
+  ./.)(S
+  (NP (NBAR SHAWN/NNP CARNEY/NNP))
+  ,/,
+  (NP (NBAR NATIONAL/NNP CAMPAIGN/NNP DIRECTOR/NNP))
+  ,/,
+  40/CD
+  (NP (NBAR DAYS/NNP FOR/NNP LIFE/NNP))
+  :/:
+  They/PRP
+  did/VBD
+  ,/,
+  (NP (NBAR Bill/NNP))
+  ./.
+  And/CC
+  it/PRP
+  shows/VBZ
+  that/IN
+  this/DT
+  (NP (NBAR organization/NN))
+  refuses/VBZ
+  to/TO
+  accept/VB
+  ,/,
+  particularly/RB
+  from/IN
+  one/CD
+  of/IN
+  their/PRP$
+  own/JJ
+  ,/,
+  that/IN
+  (NP (NBAR somebody/NN))
+  can/MD
+  have/VB
+  a/DT
+  (NP (NBAR change/NN))
+  of/IN
+  (NP (NBAR heart/NN))
+  on/IN
+  this/DT
+  (NP (NBAR issue/NN))
+  ./.
+  And/CC
+  the/DT
+  (NP (NBAR judge/NN))
+  threw/VBD
+  it/PRP
+  out/RP
+  because/IN
+  they/PRP
+  presented/VBD
+  no/DT
+  (NP (NBAR evidence/NN))
+  that/IN
+  she/PRP
+  had/VBD
+  a/DT
+  (NP (NBAR breach/NN))
+  of/IN
+  (NP (NBAR contract/NN))
+  ./.
+  She/PRP
+  simply/RB
+  saw/VBD
+  a/DT
+  (NP (NBAR baby/NN fight/NN))
+  for/IN
+  its/PRP$
+  (NP (NBAR life/NN))
+  ,/,
+  only/RB
+  to/TO
+  obviously/RB
+  lose/VB
+  that/DT
+  (NP (NBAR fight/NN))
+  before/IN
+  her/PRP$
+  (NP (NBAR eyes/NNS))
+  ,/,
+  and/CC
+  she/PRP
+  changed/VBD
+  her/PRP$
+  (NP (NBAR position/NN))
+  ./.
+  And/CC
+  she/PRP
+  came/VBD
+  to/TO
+  40/CD
+  (NP (NBAR Days/NNS))
+  for/IN
+  (NP (NBAR Life/NNP))
+  and/CC
+  knew/VBD
+  that/IN
+  we/PRP
+  would/MD
+  be/VB
+  accepting/VBG
+  of/IN
+  her/PRP
+  ./.
+  We/PRP
+  hold/VBP
+  (NP (NBAR vigils/NNS))
+  across/IN
+  the/DT
+  (NP (NBAR country/NN))
+  for/IN
+  (NP (NBAR people/NNS))
+  ,/,
+  obviously/RB
+  ,/,
+  having/VBG
+  (NP (NBAR abortions/NNS))
+  ,/,
+  but/CC
+  also/RB
+  the/DT
+  (NP (NBAR people/NNS))
+  who/WP
+  work/VBP
+  in/IN
+  this/DT
+  (NP (NBAR industry/NN))
+  ./.
+  And/CC
+  she/PRP
+  trusted/VBD
+  that/IN
+  ./.
+  She/PRP
+  was/VBD
+  confident/JJ
+  in/IN
+  it/PRP
+  ./.
+  And/CC
+  Planned/VBD
+  (NP (NBAR Parenthood/NNP refuses/NNS))
+  to/TO
+  accept/VB
+  that/DT
+  ./.)(S
+  (NP (NBAR SHAWN/NNP CARNEY/NNP))
+  ,/,
+  (NP (NBAR NATIONAL/NNP CAMPAIGN/NNP DIRECTOR/NNP))
+  ,/,
+  40/CD
+  (NP (NBAR DAYS/NNP FOR/NNP LIFE/NNP))
+  :/:
+  They/PRP
+  did/VBD
+  ,/,
+  (NP (NBAR Bill/NNP))
+  ./.
+  And/CC
+  it/PRP
+  shows/VBZ
+  that/IN
+  this/DT
+  (NP (NBAR organization/NN))
+  refuses/VBZ
+  to/TO
+  accept/VB
+  ,/,
+  particularly/RB
+  from/IN
+  one/CD
+  of/IN
+  their/PRP$
+  own/JJ
+  ,/,
+  that/IN
+  (NP (NBAR somebody/NN))
+  can/MD
+  have/VB
+  a/DT
+  (NP (NBAR change/NN))
+  of/IN
+  (NP (NBAR heart/NN))
+  on/IN
+  this/DT
+  (NP (NBAR issue/NN))
+  ./.
+  And/CC
+  the/DT
+  (NP (NBAR judge/NN))
+  threw/VBD
+  it/PRP
+  out/RP
+  because/IN
+  they/PRP
+  presented/VBD
+  no/DT
+  (NP (NBAR evidence/NN))
+  that/IN
+  she/PRP
+  had/VBD
+  a/DT
+  (NP (NBAR breach/NN))
+  of/IN
+  (NP (NBAR contract/NN))
+  ./.
+  She/PRP
+  simply/RB
+  saw/VBD
+  a/DT
+  (NP (NBAR baby/NN fight/NN))
+  for/IN
+  its/PRP$
+  (NP (NBAR life/NN))
+  ,/,
+  only/RB
+  to/TO
+  obviously/RB
+  lose/VB
+  that/DT
+  (NP (NBAR fight/NN))
+  before/IN
+  her/PRP$
+  (NP (NBAR eyes/NNS))
+  ,/,
+  and/CC
+  she/PRP
+  changed/VBD
+  her/PRP$
+  (NP (NBAR position/NN))
+  ./.
+  And/CC
+  she/PRP
+  came/VBD
+  to/TO
+  40/CD
+  (NP (NBAR Days/NNS))
+  for/IN
+  (NP (NBAR Life/NNP))
+  and/CC
+  knew/VBD
+  that/IN
+  we/PRP
+  would/MD
+  be/VB
+  accepting/VBG
+  of/IN
+  her/PRP
+  ./.
+  We/PRP
+  hold/VBP
+  (NP (NBAR vigils/NNS))
+  across/IN
+  the/DT
+  (NP (NBAR country/NN))
+  for/IN
+  (NP (NBAR people/NNS))
+  ,/,
+  obviously/RB
+  ,/,
+  having/VBG
+  (NP (NBAR abortions/NNS))
+  ,/,
+  but/CC
+  also/RB
+  the/DT
+  (NP (NBAR people/NNS))
+  who/WP
+  work/VBP
+  in/IN
+  this/DT
+  (NP (NBAR industry/NN))
+  ./.
+  And/CC
+  she/PRP
+  trusted/VBD
+  that/IN
+  ./.
+  She/PRP
+  was/VBD
+  confident/JJ
+  in/IN
+  it/PRP
+  ./.
+  And/CC
+  Planned/VBD
+  (NP (NBAR Parenthood/NNP refuses/NNS))
+  to/TO
+  accept/VB
+  that/DT
+  ./.)(S
+  (NP (NBAR SHAWN/NNP CARNEY/NNP))
+  ,/,
+  (NP (NBAR NATIONAL/NNP CAMPAIGN/NNP DIRECTOR/NNP))
+  ,/,
+  40/CD
+  (NP (NBAR DAYS/NNP FOR/NNP LIFE/NNP))
+  :/:
+  They/PRP
+  did/VBD
+  ,/,
+  (NP (NBAR Bill/NNP))
+  ./.
+  And/CC
+  it/PRP
+  shows/VBZ
+  that/IN
+  this/DT
+  (NP (NBAR organization/NN))
+  refuses/VBZ
+  to/TO
+  accept/VB
+  ,/,
+  particularly/RB
+  from/IN
+  one/CD
+  of/IN
+  their/PRP$
+  own/JJ
+  ,/,
+  that/IN
+  (NP (NBAR somebody/NN))
+  can/MD
+  have/VB
+  a/DT
+  (NP (NBAR change/NN))
+  of/IN
+  (NP (NBAR heart/NN))
+  on/IN
+  this/DT
+  (NP (NBAR issue/NN))
+  ./.
+  And/CC
+  the/DT
+  (NP (NBAR judge/NN))
+  threw/VBD
+  it/PRP
+  out/RP
+  because/IN
+  they/PRP
+  presented/VBD
+  no/DT
+  (NP (NBAR evidence/NN))
+  that/IN
+  she/PRP
+  had/VBD
+  a/DT
+  (NP (NBAR breach/NN))
+  of/IN
+  (NP (NBAR contract/NN))
+  ./.
+  She/PRP
+  simply/RB
+  saw/VBD
+  a/DT
+  (NP (NBAR baby/NN fight/NN))
+  for/IN
+  its/PRP$
+  (NP (NBAR life/NN))
+  ,/,
+  only/RB
+  to/TO
+  obviously/RB
+  lose/VB
+  that/DT
+  (NP (NBAR fight/NN))
+  before/IN
+  her/PRP$
+  (NP (NBAR eyes/NNS))
+  ,/,
+  and/CC
+  she/PRP
+  changed/VBD
+  her/PRP$
+  (NP (NBAR position/NN))
+  ./.
+  And/CC
+  she/PRP
+  came/VBD
+  to/TO
+  40/CD
+  (NP (NBAR Days/NNS))
+  for/IN
+  (NP (NBAR Life/NNP))
+  and/CC
+  knew/VBD
+  that/IN
+  we/PRP
+  would/MD
+  be/VB
+  accepting/VBG
+  of/IN
+  her/PRP
+  ./.
+  We/PRP
+  hold/VBP
+  (NP (NBAR vigils/NNS))
+  across/IN
+  the/DT
+  (NP (NBAR country/NN))
+  for/IN
+  (NP (NBAR people/NNS))
+  ,/,
+  obviously/RB
+  ,/,
+  having/VBG
+  (NP (NBAR abortions/NNS))
+  ,/,
+  but/CC
+  also/RB
+  the/DT
+  (NP (NBAR people/NNS))
+  who/WP
+  work/VBP
+  in/IN
+  this/DT
+  (NP (NBAR industry/NN))
+  ./.
+  And/CC
+  she/PRP
+  trusted/VBD
+  that/IN
+  ./.
+  She/PRP
+  was/VBD
+  confident/JJ
+  in/IN
+  it/PRP
+  ./.
+  And/CC
+  Planned/VBD
+  (NP (NBAR Parenthood/NNP refuses/NNS))
+  to/TO
+  accept/VB
+  that/DT
+  ./.)(S
+  (NP (NBAR SHAWN/NNP CARNEY/NNP))
+  ,/,
+  (NP (NBAR NATIONAL/NNP CAMPAIGN/NNP DIRECTOR/NNP))
+  ,/,
+  40/CD
+  (NP (NBAR DAYS/NNP FOR/NNP LIFE/NNP))
+  :/:
+  They/PRP
+  did/VBD
+  ,/,
+  (NP (NBAR Bill/NNP))
+  ./.
+  And/CC
+  it/PRP
+  shows/VBZ
+  that/IN
+  this/DT
+  (NP (NBAR organization/NN))
+  refuses/VBZ
+  to/TO
+  accept/VB
+  ,/,
+  particularly/RB
+  from/IN
+  one/CD
+  of/IN
+  their/PRP$
+  own/JJ
+  ,/,
+  that/IN
+  (NP (NBAR somebody/NN))
+  can/MD
+  have/VB
+  a/DT
+  (NP (NBAR change/NN))
+  of/IN
+  (NP (NBAR heart/NN))
+  on/IN
+  this/DT
+  (NP (NBAR issue/NN))
+  ./.
+  And/CC
+  the/DT
+  (NP (NBAR judge/NN))
+  threw/VBD
+  it/PRP
+  out/RP
+  because/IN
+  they/PRP
+  presented/VBD
+  no/DT
+  (NP (NBAR evidence/NN))
+  that/IN
+  she/PRP
+  had/VBD
+  a/DT
+  (NP (NBAR breach/NN))
+  of/IN
+  (NP (NBAR contract/NN))
+  ./.
+  She/PRP
+  simply/RB
+  saw/VBD
+  a/DT
+  (NP (NBAR baby/NN fight/NN))
+  for/IN
+  its/PRP$
+  (NP (NBAR life/NN))
+  ,/,
+  only/RB
+  to/TO
+  obviously/RB
+  lose/VB
+  that/DT
+  (NP (NBAR fight/NN))
+  before/IN
+  her/PRP$
+  (NP (NBAR eyes/NNS))
+  ,/,
+  and/CC
+  she/PRP
+  changed/VBD
+  her/PRP$
+  (NP (NBAR position/NN))
+  ./.
+  And/CC
+  she/PRP
+  came/VBD
+  to/TO
+  40/CD
+  (NP (NBAR Days/NNS))
+  for/IN
+  (NP (NBAR Life/NNP))
+  and/CC
+  knew/VBD
+  that/IN
+  we/PRP
+  would/MD
+  be/VB
+  accepting/VBG
+  of/IN
+  her/PRP
+  ./.
+  We/PRP
+  hold/VBP
+  (NP (NBAR vigils/NNS))
+  across/IN
+  the/DT
+  (NP (NBAR country/NN))
+  for/IN
+  (NP (NBAR people/NNS))
+  ,/,
+  obviously/RB
+  ,/,
+  having/VBG
+  (NP (NBAR abortions/NNS))
+  ,/,
+  but/CC
+  also/RB
+  the/DT
+  (NP (NBAR people/NNS))
+  who/WP
+  work/VBP
+  in/IN
+  this/DT
+  (NP (NBAR industry/NN))
+  ./.
+  And/CC
+  she/PRP
+  trusted/VBD
+  that/IN
+  ./.
+  She/PRP
+  was/VBD
+  confident/JJ
+  in/IN
+  it/PRP
+  ./.
+  And/CC
+  Planned/VBD
+  (NP (NBAR Parenthood/NNP refuses/NNS))
+  to/TO
+  accept/VB
+  that/DT
+  ./.)(S
+  (NP (NBAR SHAWN/NNP CARNEY/NNP))
+  ,/,
+  (NP (NBAR NATIONAL/NNP CAMPAIGN/NNP DIRECTOR/NNP))
+  ,/,
+  40/CD
+  (NP (NBAR DAYS/NNP FOR/NNP LIFE/NNP))
+  :/:
+  They/PRP
+  did/VBD
+  ,/,
+  (NP (NBAR Bill/NNP))
+  ./.
+  And/CC
+  it/PRP
+  shows/VBZ
+  that/IN
+  this/DT
+  (NP (NBAR organization/NN))
+  refuses/VBZ
+  to/TO
+  accept/VB
+  ,/,
+  particularly/RB
+  from/IN
+  one/CD
+  of/IN
+  their/PRP$
+  own/JJ
+  ,/,
+  that/IN
+  (NP (NBAR somebody/NN))
+  can/MD
+  have/VB
+  a/DT
+  (NP (NBAR change/NN))
+  of/IN
+  (NP (NBAR heart/NN))
+  on/IN
+  this/DT
+  (NP (NBAR issue/NN))
+  ./.
+  And/CC
+  the/DT
+  (NP (NBAR judge/NN))
+  threw/VBD
+  it/PRP
+  out/RP
+  because/IN
+  they/PRP
+  presented/VBD
+  no/DT
+  (NP (NBAR evidence/NN))
+  that/IN
+  she/PRP
+  had/VBD
+  a/DT
+  (NP (NBAR breach/NN))
+  of/IN
+  (NP (NBAR contract/NN))
+  ./.
+  She/PRP
+  simply/RB
+  saw/VBD
+  a/DT
+  (NP (NBAR baby/NN fight/NN))
+  for/IN
+  its/PRP$
+  (NP (NBAR life/NN))
+  ,/,
+  only/RB
+  to/TO
+  obviously/RB
+  lose/VB
+  that/DT
+  (NP (NBAR fight/NN))
+  before/IN
+  her/PRP$
+  (NP (NBAR eyes/NNS))
+  ,/,
+  and/CC
+  she/PRP
+  changed/VBD
+  her/PRP$
+  (NP (NBAR position/NN))
+  ./.
+  And/CC
+  she/PRP
+  came/VBD
+  to/TO
+  40/CD
+  (NP (NBAR Days/NNS))
+  for/IN
+  (NP (NBAR Life/NNP))
+  and/CC
+  knew/VBD
+  that/IN
+  we/PRP
+  would/MD
+  be/VB
+  accepting/VBG
+  of/IN
+  her/PRP
+  ./.
+  We/PRP
+  hold/VBP
+  (NP (NBAR vigils/NNS))
+  across/IN
+  the/DT
+  (NP (NBAR country/NN))
+  for/IN
+  (NP (NBAR people/NNS))
+  ,/,
+  obviously/RB
+  ,/,
+  having/VBG
+  (NP (NBAR abortions/NNS))
+  ,/,
+  but/CC
+  also/RB
+  the/DT
+  (NP (NBAR people/NNS))
+  who/WP
+  work/VBP
+  in/IN
+  this/DT
+  (NP (NBAR industry/NN))
+  ./.
+  And/CC
+  she/PRP
+  trusted/VBD
+  that/IN
+  ./.
+  She/PRP
+  was/VBD
+  confident/JJ
+  in/IN
+  it/PRP
+  ./.
+  And/CC
+  Planned/VBD
+  (NP (NBAR Parenthood/NNP refuses/NNS))
+  to/TO
+  accept/VB
+  that/DT
+  ./.)(S
   (NP (NBAR SHAWN/NNP CARNEY/NNP))
   ,/,
   (NP (NBAR NATIONAL/NNP CAMPAIGN/NNP DIRECTOR/NNP))
@@ -835,6 +3932,789 @@
   (NP (NBAR Americans/NNPS))
   uncomfortable/JJ
   ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  Well/RB
+  ,/,
+  obviously/RB
+  ,/,
+  it/PRP
+  's/VBZ
+  a/DT
+  very/RB
+  (NP (NBAR emotional/JJ issue/NN))
+  ./.
+  Now/RB
+  ,/,
+  in/IN
+  your/PRP$
+  (NP (NBAR experience/NN))
+  ,/,
+  do/VBP
+  you/PRP
+  demonize/VB
+  (NP (NBAR women/NNS))
+  who/WP
+  have/VBP
+  (NP (NBAR abortions/NNS))
+  ,/,
+  (NP (NBAR Mr./NNP Carney/NNP))
+  ?/.
+  (NP (NBAR Do/NNP))
+  you/PRP
+  guys/VB
+  do/VBP
+  that/DT
+  (NP (NBAR kind/NN))
+  of/IN
+  (NP (NBAR stuff/NN))
+  ?/.
+  Because/IN
+  that/DT
+  really/RB
+  makes/VBZ
+  (NP (NBAR Americans/NNPS))
+  uncomfortable/JJ
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  Well/RB
+  ,/,
+  obviously/RB
+  ,/,
+  it/PRP
+  's/VBZ
+  a/DT
+  very/RB
+  (NP (NBAR emotional/JJ issue/NN))
+  ./.
+  Now/RB
+  ,/,
+  in/IN
+  your/PRP$
+  (NP (NBAR experience/NN))
+  ,/,
+  do/VBP
+  you/PRP
+  demonize/VB
+  (NP (NBAR women/NNS))
+  who/WP
+  have/VBP
+  (NP (NBAR abortions/NNS))
+  ,/,
+  (NP (NBAR Mr./NNP Carney/NNP))
+  ?/.
+  (NP (NBAR Do/NNP))
+  you/PRP
+  guys/VB
+  do/VBP
+  that/DT
+  (NP (NBAR kind/NN))
+  of/IN
+  (NP (NBAR stuff/NN))
+  ?/.
+  Because/IN
+  that/DT
+  really/RB
+  makes/VBZ
+  (NP (NBAR Americans/NNPS))
+  uncomfortable/JJ
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  Well/RB
+  ,/,
+  obviously/RB
+  ,/,
+  it/PRP
+  's/VBZ
+  a/DT
+  very/RB
+  (NP (NBAR emotional/JJ issue/NN))
+  ./.
+  Now/RB
+  ,/,
+  in/IN
+  your/PRP$
+  (NP (NBAR experience/NN))
+  ,/,
+  do/VBP
+  you/PRP
+  demonize/VB
+  (NP (NBAR women/NNS))
+  who/WP
+  have/VBP
+  (NP (NBAR abortions/NNS))
+  ,/,
+  (NP (NBAR Mr./NNP Carney/NNP))
+  ?/.
+  (NP (NBAR Do/NNP))
+  you/PRP
+  guys/VB
+  do/VBP
+  that/DT
+  (NP (NBAR kind/NN))
+  of/IN
+  (NP (NBAR stuff/NN))
+  ?/.
+  Because/IN
+  that/DT
+  really/RB
+  makes/VBZ
+  (NP (NBAR Americans/NNPS))
+  uncomfortable/JJ
+  ./.)(S
+  (NP (NBAR CARNEY/NN))
+  :/:
+  (NP (NBAR Right/NNP))
+  ./.
+  And/CC
+  this/DT
+  is/VBZ
+  a/DT
+  (NP (NBAR peaceful/JJ effort/NN))
+  ./.
+  This/DT
+  is/VBZ
+  why/WRB
+  we/PRP
+  're/VBP
+  there/RB
+  ,/,
+  obviously/RB
+  ,/,
+  for/IN
+  the/DT
+  (NP (NBAR women/NNS))
+  who/WP
+  are/VBP
+  going/VBG
+  into/IN
+  the/DT
+  (NP (NBAR clinics/NNS))
+  for/IN
+  (NP (NBAR abortions/NNS))
+  ./.
+  And/CC
+  we/PRP
+  're/VBP
+  also/RB
+  there/RB
+  for/IN
+  (NP (NBAR women/NNS))
+  who/WP
+  work/VBP
+  in/IN
+  this/DT
+  (NP (NBAR industry/NN))
+  ./.
+  (NP (NBAR Abby/NNP))
+  is/VBZ
+  actually/RB
+  the/DT
+  26th/CD
+  (NP (NBAR abortion/NN clinic/JJ worker/NN))
+  who/WP
+  has/VBZ
+  approached/VBN
+  us/PRP
+  after/IN
+  her/PRP$
+  (NP (NBAR clinic/NN))
+  was/VBD
+  the/DT
+  (NP (NBAR site/NN))
+  of/IN
+  one/CD
+  of/IN
+  our/PRP$
+  (NP (NBAR vigils/NNS))
+  ./.
+  They/PRP
+  left/VBD
+  that/DT
+  (NP (NBAR industry/NN))
+  ./.
+  (NP (NBAR Abby/NNP))
+  is/VBZ
+  the/DT
+  only/JJ
+  Planned/VBD
+  (NP (NBAR Parenthood/NNP director/NN))
+  who/WP
+  had/VBD
+  a/DT
+  (NP (NBAR conversion/NN))
+  and/CC
+  left/VBD
+  her/PRP$
+  (NP (NBAR job/NN))
+  ./.
+  But/CC
+  we/PRP
+  are/VBP
+  there/RB
+  for/IN
+  these/DT
+  (NP (NBAR workers…/NNS)))(S
+  (NP (NBAR CARNEY/NN))
+  :/:
+  (NP (NBAR Right/NNP))
+  ./.
+  And/CC
+  this/DT
+  is/VBZ
+  a/DT
+  (NP (NBAR peaceful/JJ effort/NN))
+  ./.
+  This/DT
+  is/VBZ
+  why/WRB
+  we/PRP
+  're/VBP
+  there/RB
+  ,/,
+  obviously/RB
+  ,/,
+  for/IN
+  the/DT
+  (NP (NBAR women/NNS))
+  who/WP
+  are/VBP
+  going/VBG
+  into/IN
+  the/DT
+  (NP (NBAR clinics/NNS))
+  for/IN
+  (NP (NBAR abortions/NNS))
+  ./.
+  And/CC
+  we/PRP
+  're/VBP
+  also/RB
+  there/RB
+  for/IN
+  (NP (NBAR women/NNS))
+  who/WP
+  work/VBP
+  in/IN
+  this/DT
+  (NP (NBAR industry/NN))
+  ./.
+  (NP (NBAR Abby/NNP))
+  is/VBZ
+  actually/RB
+  the/DT
+  26th/CD
+  (NP (NBAR abortion/NN clinic/JJ worker/NN))
+  who/WP
+  has/VBZ
+  approached/VBN
+  us/PRP
+  after/IN
+  her/PRP$
+  (NP (NBAR clinic/NN))
+  was/VBD
+  the/DT
+  (NP (NBAR site/NN))
+  of/IN
+  one/CD
+  of/IN
+  our/PRP$
+  (NP (NBAR vigils/NNS))
+  ./.
+  They/PRP
+  left/VBD
+  that/DT
+  (NP (NBAR industry/NN))
+  ./.
+  (NP (NBAR Abby/NNP))
+  is/VBZ
+  the/DT
+  only/JJ
+  Planned/VBD
+  (NP (NBAR Parenthood/NNP director/NN))
+  who/WP
+  had/VBD
+  a/DT
+  (NP (NBAR conversion/NN))
+  and/CC
+  left/VBD
+  her/PRP$
+  (NP (NBAR job/NN))
+  ./.
+  But/CC
+  we/PRP
+  are/VBP
+  there/RB
+  for/IN
+  these/DT
+  (NP (NBAR workers…/NNS)))(S
+  (NP (NBAR CARNEY/NN))
+  :/:
+  (NP (NBAR Right/NNP))
+  ./.
+  And/CC
+  this/DT
+  is/VBZ
+  a/DT
+  (NP (NBAR peaceful/JJ effort/NN))
+  ./.
+  This/DT
+  is/VBZ
+  why/WRB
+  we/PRP
+  're/VBP
+  there/RB
+  ,/,
+  obviously/RB
+  ,/,
+  for/IN
+  the/DT
+  (NP (NBAR women/NNS))
+  who/WP
+  are/VBP
+  going/VBG
+  into/IN
+  the/DT
+  (NP (NBAR clinics/NNS))
+  for/IN
+  (NP (NBAR abortions/NNS))
+  ./.
+  And/CC
+  we/PRP
+  're/VBP
+  also/RB
+  there/RB
+  for/IN
+  (NP (NBAR women/NNS))
+  who/WP
+  work/VBP
+  in/IN
+  this/DT
+  (NP (NBAR industry/NN))
+  ./.
+  (NP (NBAR Abby/NNP))
+  is/VBZ
+  actually/RB
+  the/DT
+  26th/CD
+  (NP (NBAR abortion/NN clinic/JJ worker/NN))
+  who/WP
+  has/VBZ
+  approached/VBN
+  us/PRP
+  after/IN
+  her/PRP$
+  (NP (NBAR clinic/NN))
+  was/VBD
+  the/DT
+  (NP (NBAR site/NN))
+  of/IN
+  one/CD
+  of/IN
+  our/PRP$
+  (NP (NBAR vigils/NNS))
+  ./.
+  They/PRP
+  left/VBD
+  that/DT
+  (NP (NBAR industry/NN))
+  ./.
+  (NP (NBAR Abby/NNP))
+  is/VBZ
+  the/DT
+  only/JJ
+  Planned/VBD
+  (NP (NBAR Parenthood/NNP director/NN))
+  who/WP
+  had/VBD
+  a/DT
+  (NP (NBAR conversion/NN))
+  and/CC
+  left/VBD
+  her/PRP$
+  (NP (NBAR job/NN))
+  ./.
+  But/CC
+  we/PRP
+  are/VBP
+  there/RB
+  for/IN
+  these/DT
+  (NP (NBAR workers…/NNS)))(S
+  (NP (NBAR CARNEY/NN))
+  :/:
+  (NP (NBAR Right/NNP))
+  ./.
+  And/CC
+  this/DT
+  is/VBZ
+  a/DT
+  (NP (NBAR peaceful/JJ effort/NN))
+  ./.
+  This/DT
+  is/VBZ
+  why/WRB
+  we/PRP
+  're/VBP
+  there/RB
+  ,/,
+  obviously/RB
+  ,/,
+  for/IN
+  the/DT
+  (NP (NBAR women/NNS))
+  who/WP
+  are/VBP
+  going/VBG
+  into/IN
+  the/DT
+  (NP (NBAR clinics/NNS))
+  for/IN
+  (NP (NBAR abortions/NNS))
+  ./.
+  And/CC
+  we/PRP
+  're/VBP
+  also/RB
+  there/RB
+  for/IN
+  (NP (NBAR women/NNS))
+  who/WP
+  work/VBP
+  in/IN
+  this/DT
+  (NP (NBAR industry/NN))
+  ./.
+  (NP (NBAR Abby/NNP))
+  is/VBZ
+  actually/RB
+  the/DT
+  26th/CD
+  (NP (NBAR abortion/NN clinic/JJ worker/NN))
+  who/WP
+  has/VBZ
+  approached/VBN
+  us/PRP
+  after/IN
+  her/PRP$
+  (NP (NBAR clinic/NN))
+  was/VBD
+  the/DT
+  (NP (NBAR site/NN))
+  of/IN
+  one/CD
+  of/IN
+  our/PRP$
+  (NP (NBAR vigils/NNS))
+  ./.
+  They/PRP
+  left/VBD
+  that/DT
+  (NP (NBAR industry/NN))
+  ./.
+  (NP (NBAR Abby/NNP))
+  is/VBZ
+  the/DT
+  only/JJ
+  Planned/VBD
+  (NP (NBAR Parenthood/NNP director/NN))
+  who/WP
+  had/VBD
+  a/DT
+  (NP (NBAR conversion/NN))
+  and/CC
+  left/VBD
+  her/PRP$
+  (NP (NBAR job/NN))
+  ./.
+  But/CC
+  we/PRP
+  are/VBP
+  there/RB
+  for/IN
+  these/DT
+  (NP (NBAR workers…/NNS)))(S
+  (NP (NBAR CARNEY/NN))
+  :/:
+  (NP (NBAR Right/NNP))
+  ./.
+  And/CC
+  this/DT
+  is/VBZ
+  a/DT
+  (NP (NBAR peaceful/JJ effort/NN))
+  ./.
+  This/DT
+  is/VBZ
+  why/WRB
+  we/PRP
+  're/VBP
+  there/RB
+  ,/,
+  obviously/RB
+  ,/,
+  for/IN
+  the/DT
+  (NP (NBAR women/NNS))
+  who/WP
+  are/VBP
+  going/VBG
+  into/IN
+  the/DT
+  (NP (NBAR clinics/NNS))
+  for/IN
+  (NP (NBAR abortions/NNS))
+  ./.
+  And/CC
+  we/PRP
+  're/VBP
+  also/RB
+  there/RB
+  for/IN
+  (NP (NBAR women/NNS))
+  who/WP
+  work/VBP
+  in/IN
+  this/DT
+  (NP (NBAR industry/NN))
+  ./.
+  (NP (NBAR Abby/NNP))
+  is/VBZ
+  actually/RB
+  the/DT
+  26th/CD
+  (NP (NBAR abortion/NN clinic/JJ worker/NN))
+  who/WP
+  has/VBZ
+  approached/VBN
+  us/PRP
+  after/IN
+  her/PRP$
+  (NP (NBAR clinic/NN))
+  was/VBD
+  the/DT
+  (NP (NBAR site/NN))
+  of/IN
+  one/CD
+  of/IN
+  our/PRP$
+  (NP (NBAR vigils/NNS))
+  ./.
+  They/PRP
+  left/VBD
+  that/DT
+  (NP (NBAR industry/NN))
+  ./.
+  (NP (NBAR Abby/NNP))
+  is/VBZ
+  the/DT
+  only/JJ
+  Planned/VBD
+  (NP (NBAR Parenthood/NNP director/NN))
+  who/WP
+  had/VBD
+  a/DT
+  (NP (NBAR conversion/NN))
+  and/CC
+  left/VBD
+  her/PRP$
+  (NP (NBAR job/NN))
+  ./.
+  But/CC
+  we/PRP
+  are/VBP
+  there/RB
+  for/IN
+  these/DT
+  (NP (NBAR workers…/NNS)))(S
+  (NP (NBAR CARNEY/NN))
+  :/:
+  (NP (NBAR Right/NNP))
+  ./.
+  And/CC
+  this/DT
+  is/VBZ
+  a/DT
+  (NP (NBAR peaceful/JJ effort/NN))
+  ./.
+  This/DT
+  is/VBZ
+  why/WRB
+  we/PRP
+  're/VBP
+  there/RB
+  ,/,
+  obviously/RB
+  ,/,
+  for/IN
+  the/DT
+  (NP (NBAR women/NNS))
+  who/WP
+  are/VBP
+  going/VBG
+  into/IN
+  the/DT
+  (NP (NBAR clinics/NNS))
+  for/IN
+  (NP (NBAR abortions/NNS))
+  ./.
+  And/CC
+  we/PRP
+  're/VBP
+  also/RB
+  there/RB
+  for/IN
+  (NP (NBAR women/NNS))
+  who/WP
+  work/VBP
+  in/IN
+  this/DT
+  (NP (NBAR industry/NN))
+  ./.
+  (NP (NBAR Abby/NNP))
+  is/VBZ
+  actually/RB
+  the/DT
+  26th/CD
+  (NP (NBAR abortion/NN clinic/JJ worker/NN))
+  who/WP
+  has/VBZ
+  approached/VBN
+  us/PRP
+  after/IN
+  her/PRP$
+  (NP (NBAR clinic/NN))
+  was/VBD
+  the/DT
+  (NP (NBAR site/NN))
+  of/IN
+  one/CD
+  of/IN
+  our/PRP$
+  (NP (NBAR vigils/NNS))
+  ./.
+  They/PRP
+  left/VBD
+  that/DT
+  (NP (NBAR industry/NN))
+  ./.
+  (NP (NBAR Abby/NNP))
+  is/VBZ
+  the/DT
+  only/JJ
+  Planned/VBD
+  (NP (NBAR Parenthood/NNP director/NN))
+  who/WP
+  had/VBD
+  a/DT
+  (NP (NBAR conversion/NN))
+  and/CC
+  left/VBD
+  her/PRP$
+  (NP (NBAR job/NN))
+  ./.
+  But/CC
+  we/PRP
+  are/VBP
+  there/RB
+  for/IN
+  these/DT
+  (NP (NBAR workers…/NNS)))(S
+  (NP (NBAR CARNEY/NN))
+  :/:
+  (NP (NBAR Right/NNP))
+  ./.
+  And/CC
+  this/DT
+  is/VBZ
+  a/DT
+  (NP (NBAR peaceful/JJ effort/NN))
+  ./.
+  This/DT
+  is/VBZ
+  why/WRB
+  we/PRP
+  're/VBP
+  there/RB
+  ,/,
+  obviously/RB
+  ,/,
+  for/IN
+  the/DT
+  (NP (NBAR women/NNS))
+  who/WP
+  are/VBP
+  going/VBG
+  into/IN
+  the/DT
+  (NP (NBAR clinics/NNS))
+  for/IN
+  (NP (NBAR abortions/NNS))
+  ./.
+  And/CC
+  we/PRP
+  're/VBP
+  also/RB
+  there/RB
+  for/IN
+  (NP (NBAR women/NNS))
+  who/WP
+  work/VBP
+  in/IN
+  this/DT
+  (NP (NBAR industry/NN))
+  ./.
+  (NP (NBAR Abby/NNP))
+  is/VBZ
+  actually/RB
+  the/DT
+  26th/CD
+  (NP (NBAR abortion/NN clinic/JJ worker/NN))
+  who/WP
+  has/VBZ
+  approached/VBN
+  us/PRP
+  after/IN
+  her/PRP$
+  (NP (NBAR clinic/NN))
+  was/VBD
+  the/DT
+  (NP (NBAR site/NN))
+  of/IN
+  one/CD
+  of/IN
+  our/PRP$
+  (NP (NBAR vigils/NNS))
+  ./.
+  They/PRP
+  left/VBD
+  that/DT
+  (NP (NBAR industry/NN))
+  ./.
+  (NP (NBAR Abby/NNP))
+  is/VBZ
+  the/DT
+  only/JJ
+  Planned/VBD
+  (NP (NBAR Parenthood/NNP director/NN))
+  who/WP
+  had/VBD
+  a/DT
+  (NP (NBAR conversion/NN))
+  and/CC
+  left/VBD
+  her/PRP$
+  (NP (NBAR job/NN))
+  ./.
+  But/CC
+  we/PRP
+  are/VBP
+  there/RB
+  for/IN
+  these/DT
+  (NP (NBAR workers…/NNS)))(S
   (NP (NBAR CARNEY/NN))
   :/:
   (NP (NBAR Right/NNP))
@@ -1018,6 +4898,202 @@
   to/TO
   go/VB
   ./.)(S
+  (NP (NBAR CARNEY/NN))
+  :/:
+  Absolutely/RB
+  ./.
+  This/DT
+  is/VBZ
+  a/DT
+  (NP (NBAR peaceful/JJ effort/NN))
+  ./.
+  It/PRP
+  's/VBZ
+  not/RB
+  violent/JJ
+  ./.
+  It/PRP
+  's/VBZ
+  approachable/JJ
+  ./.
+  And/CC
+  (NP (NBAR Abby/NNP))
+  's/POS
+  (NP (NBAR case/NN))
+  proves/VBZ
+  that/IN
+  because/IN
+  she/PRP
+  felt/VBD
+  the/DT
+  (NP (NBAR warmth/NN))
+  of/IN
+  the/DT
+  (NP (NBAR people/NNS))
+  out/IN
+  there/RB
+  ,/,
+  and/CC
+  that/DT
+  's/VBZ
+  why/WRB
+  she/PRP
+  left/VBD
+  that/IN
+  (NP (NBAR industry/NN))
+  and/CC
+  had/VBD
+  somewhere/RB
+  to/TO
+  go/VB
+  ./.)(S
+  (NP (NBAR CARNEY/NN))
+  :/:
+  Absolutely/RB
+  ./.
+  This/DT
+  is/VBZ
+  a/DT
+  (NP (NBAR peaceful/JJ effort/NN))
+  ./.
+  It/PRP
+  's/VBZ
+  not/RB
+  violent/JJ
+  ./.
+  It/PRP
+  's/VBZ
+  approachable/JJ
+  ./.
+  And/CC
+  (NP (NBAR Abby/NNP))
+  's/POS
+  (NP (NBAR case/NN))
+  proves/VBZ
+  that/IN
+  because/IN
+  she/PRP
+  felt/VBD
+  the/DT
+  (NP (NBAR warmth/NN))
+  of/IN
+  the/DT
+  (NP (NBAR people/NNS))
+  out/IN
+  there/RB
+  ,/,
+  and/CC
+  that/DT
+  's/VBZ
+  why/WRB
+  she/PRP
+  left/VBD
+  that/IN
+  (NP (NBAR industry/NN))
+  and/CC
+  had/VBD
+  somewhere/RB
+  to/TO
+  go/VB
+  ./.)(S
+  (NP (NBAR CARNEY/NN))
+  :/:
+  Absolutely/RB
+  ./.
+  This/DT
+  is/VBZ
+  a/DT
+  (NP (NBAR peaceful/JJ effort/NN))
+  ./.
+  It/PRP
+  's/VBZ
+  not/RB
+  violent/JJ
+  ./.
+  It/PRP
+  's/VBZ
+  approachable/JJ
+  ./.
+  And/CC
+  (NP (NBAR Abby/NNP))
+  's/POS
+  (NP (NBAR case/NN))
+  proves/VBZ
+  that/IN
+  because/IN
+  she/PRP
+  felt/VBD
+  the/DT
+  (NP (NBAR warmth/NN))
+  of/IN
+  the/DT
+  (NP (NBAR people/NNS))
+  out/IN
+  there/RB
+  ,/,
+  and/CC
+  that/DT
+  's/VBZ
+  why/WRB
+  she/PRP
+  left/VBD
+  that/IN
+  (NP (NBAR industry/NN))
+  and/CC
+  had/VBD
+  somewhere/RB
+  to/TO
+  go/VB
+  ./.)(S
+  (NP (NBAR CARNEY/NN))
+  :/:
+  Absolutely/RB
+  ./.
+  This/DT
+  is/VBZ
+  a/DT
+  (NP (NBAR peaceful/JJ effort/NN))
+  ./.
+  It/PRP
+  's/VBZ
+  not/RB
+  violent/JJ
+  ./.
+  It/PRP
+  's/VBZ
+  approachable/JJ
+  ./.
+  And/CC
+  (NP (NBAR Abby/NNP))
+  's/POS
+  (NP (NBAR case/NN))
+  proves/VBZ
+  that/IN
+  because/IN
+  she/PRP
+  felt/VBD
+  the/DT
+  (NP (NBAR warmth/NN))
+  of/IN
+  the/DT
+  (NP (NBAR people/NNS))
+  out/IN
+  there/RB
+  ,/,
+  and/CC
+  that/DT
+  's/VBZ
+  why/WRB
+  she/PRP
+  left/VBD
+  that/IN
+  (NP (NBAR industry/NN))
+  and/CC
+  had/VBD
+  somewhere/RB
+  to/TO
+  go/VB
+  ./.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   All/DT
@@ -1041,4 +5117,52 @@
   ''/''
   this/DT
   (NP (NBAR evening/NN))
-  ./.)(S )(S )
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  All/DT
+  (NP (NBAR right/NN))
+  ./.
+  Very/RB
+  (NP (NBAR interesting/JJ story/NN))
+  ./.
+  (NP (NBAR Ms./NNP Johnson/NNP))
+  ,/,
+  (NP (NBAR Mr./NNP Carney/NNP))
+  ,/,
+  we/PRP
+  appreciate/VBP
+  you/PRP
+  coming/VBG
+  on/IN
+  ``/``
+  The/DT
+  (NP (NBAR Factor/NN))
+  ''/''
+  this/DT
+  (NP (NBAR evening/NN))
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  All/DT
+  (NP (NBAR right/NN))
+  ./.
+  Very/RB
+  (NP (NBAR interesting/JJ story/NN))
+  ./.
+  (NP (NBAR Ms./NNP Johnson/NNP))
+  ,/,
+  (NP (NBAR Mr./NNP Carney/NNP))
+  ,/,
+  we/PRP
+  appreciate/VBP
+  you/PRP
+  coming/VBG
+  on/IN
+  ``/``
+  The/DT
+  (NP (NBAR Factor/NN))
+  ''/''
+  this/DT
+  (NP (NBAR evening/NN))
+  ./.)

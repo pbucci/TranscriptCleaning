@@ -1,4 +1,4 @@
-(S )(S )(S
+(S
   (NP (NBAR BILL/NNP O’REILLY/NNP))
   ,/,
   (NP (NBAR HOST/NNP))
@@ -115,6 +115,92 @@
   canonize/VB
   (NP (NBAR Judas/NNP))
   ?/.)(S
+  And/CC
+  with/IN
+  us/PRP
+  now/RB
+  ,/,
+  (NP (NBAR Father/NNP James/NNP Martin/NNP))
+  ,/,
+  (NP (NBAR author/NN))
+  of/IN
+  the/DT
+  (NP (NBAR book/NN))
+  ,/,
+  ``/``
+  My/PRP$
+  (NP (NBAR Life/NN))
+  with/IN
+  the/DT
+  (NP (NBAR Saints/NNS))
+  ./.
+  ''/''
+  So/RB
+  now/RB
+  (NP (NBAR Judas/NNP))
+  is/VBZ
+  a/DT
+  (NP (NBAR saint/NN))
+  ?/.
+  Is/VBZ
+  that/IN
+  what/WP
+  we’re/VBD
+  going/VBG
+  to/TO
+  have/VB
+  to/TO
+  do/VB
+  ,/,
+  induct/VB
+  him/PRP
+  ,/,
+  canonize/VB
+  (NP (NBAR Judas/NNP))
+  ?/.)(S
+  And/CC
+  with/IN
+  us/PRP
+  now/RB
+  ,/,
+  (NP (NBAR Father/NNP James/NNP Martin/NNP))
+  ,/,
+  (NP (NBAR author/NN))
+  of/IN
+  the/DT
+  (NP (NBAR book/NN))
+  ,/,
+  ``/``
+  My/PRP$
+  (NP (NBAR Life/NN))
+  with/IN
+  the/DT
+  (NP (NBAR Saints/NNS))
+  ./.
+  ''/''
+  So/RB
+  now/RB
+  (NP (NBAR Judas/NNP))
+  is/VBZ
+  a/DT
+  (NP (NBAR saint/NN))
+  ?/.
+  Is/VBZ
+  that/IN
+  what/WP
+  we’re/VBD
+  going/VBG
+  to/TO
+  have/VB
+  to/TO
+  do/VB
+  ,/,
+  induct/VB
+  him/PRP
+  ,/,
+  canonize/VB
+  (NP (NBAR Judas/NNP))
+  ?/.)(S
   (NP (NBAR JAMES/NNP MARTIN/NNP))
   ,/,
   (NP (NBAR FATHER/NNP))
@@ -133,6 +219,140 @@
   according/VBG
   to/TO
   me/PRP
+  ./.)(S
+  (NP (NBAR O’REILLY/NN))
+  :/:
+  OK/JJ
+  ./.
+  But/CC
+  if/IN
+  this/DT
+  is/VBZ
+  true/JJ
+  ,/,
+  you/PRP
+  know/VBP
+  ,/,
+  and/CC
+  (NP (NBAR Jesus/NNP))
+  did/VBD
+  ask/VB
+  (NP (NBAR Judas/NNP))
+  ,/,
+  because/IN
+  (NP (NBAR Jesus/NNP))
+  wanted/VBD
+  to/TO
+  fulfill/VB
+  the/DT
+  (NP (NBAR scripture/NN))
+  and/CC
+  could/MD
+  have/VB
+  said/VBD
+  this/DT
+  ,/,
+  to/TO
+  go/VB
+  over/IN
+  and/CC
+  arrange/VB
+  for/IN
+  him/PRP
+  to/TO
+  be/VB
+  handed/VBN
+  over/IN
+  to/TO
+  the/DT
+  (NP (NBAR Sanhedrin/NNP))
+  to/TO
+  avoid/VB
+  (NP (NBAR violence/NN))
+  perhaps/RB
+  ,/,
+  then/RB
+  (NP (NBAR Judas/NNP))
+  would/MD
+  be/VB
+  a/DT
+  (NP (NBAR good/JJ guy/NN))
+  ./.
+  And/CC
+  he’s/JJ
+  gotten/VB
+  a/DT
+  (NP (NBAR bad/JJ deal/NN))
+  all/PDT
+  these/DT
+  (NP (NBAR years/NNS))
+  ./.)(S
+  (NP (NBAR O’REILLY/NN))
+  :/:
+  OK/JJ
+  ./.
+  But/CC
+  if/IN
+  this/DT
+  is/VBZ
+  true/JJ
+  ,/,
+  you/PRP
+  know/VBP
+  ,/,
+  and/CC
+  (NP (NBAR Jesus/NNP))
+  did/VBD
+  ask/VB
+  (NP (NBAR Judas/NNP))
+  ,/,
+  because/IN
+  (NP (NBAR Jesus/NNP))
+  wanted/VBD
+  to/TO
+  fulfill/VB
+  the/DT
+  (NP (NBAR scripture/NN))
+  and/CC
+  could/MD
+  have/VB
+  said/VBD
+  this/DT
+  ,/,
+  to/TO
+  go/VB
+  over/IN
+  and/CC
+  arrange/VB
+  for/IN
+  him/PRP
+  to/TO
+  be/VB
+  handed/VBN
+  over/IN
+  to/TO
+  the/DT
+  (NP (NBAR Sanhedrin/NNP))
+  to/TO
+  avoid/VB
+  (NP (NBAR violence/NN))
+  perhaps/RB
+  ,/,
+  then/RB
+  (NP (NBAR Judas/NNP))
+  would/MD
+  be/VB
+  a/DT
+  (NP (NBAR good/JJ guy/NN))
+  ./.
+  And/CC
+  he’s/JJ
+  gotten/VB
+  a/DT
+  (NP (NBAR bad/JJ deal/NN))
+  all/PDT
+  these/DT
+  (NP (NBAR years/NNS))
   ./.)(S
   (NP (NBAR O’REILLY/NN))
   :/:
@@ -283,6 +503,416 @@
   his/PRP$
   (NP (NBAR body/NN))
   ./.)(S
+  (NP (NBAR MARTIN/NN))
+  :/:
+  Well/RB
+  ,/,
+  if/IN
+  that/DT
+  were/VBD
+  true/JJ
+  ./.
+  The/DT
+  (NP (NBAR idea/NN))
+  is/VBZ
+  that/IN
+  this/DT
+  —/VBZ
+  this/DT
+  (NP (NBAR gospel/NN))
+  of/IN
+  (NP (NBAR Judas/NNP))
+  was/VBD
+  written/VBN
+  about/IN
+  200/CD
+  (NP (NBAR years/NNS))
+  after/IN
+  (NP (NBAR Jesus/NNP))
+  ,/,
+  and/CC
+  it’s/RB
+  written/VBN
+  by/IN
+  a/DT
+  (NP (NBAR group/NN))
+  of/IN
+  (NP (NBAR people/NNS))
+  called/VBN
+  the/DT
+  (NP (NBAR Gnostics/NNPS))
+  ./.
+  And/CC
+  they/PRP
+  thought/VBD
+  the/DT
+  (NP (NBAR body/NN))
+  was/VBD
+  bad/JJ
+  ./.
+  So/RB
+  ,/,
+  (NP (NBAR anything/NN))
+  that/IN
+  (NP (NBAR Judas/NNP))
+  would/MD
+  do/VB
+  to/TO
+  help/VB
+  (NP (NBAR Christ/NNP))
+  get/VB
+  rid/JJ
+  of/IN
+  his/PRP$
+  (NP (NBAR body/NN))
+  was/VBD
+  good/JJ
+  ./.
+  So/RB
+  that’s/JJ
+  their/PRP$
+  (NP (NBAR agenda/NN))
+  ./.
+  Their/PRP$
+  (NP (NBAR agenda/NN))
+  is/VBZ
+  to/TO
+  say/VB
+  (NP (NBAR Judas/NNP sort/NN))
+  of/IN
+  (NP (NBAR freed/NN Jesus/NNP))
+  from/IN
+  his/PRP$
+  (NP (NBAR body/NN))
+  ./.)(S
+  (NP (NBAR MARTIN/NN))
+  :/:
+  Well/RB
+  ,/,
+  if/IN
+  that/DT
+  were/VBD
+  true/JJ
+  ./.
+  The/DT
+  (NP (NBAR idea/NN))
+  is/VBZ
+  that/IN
+  this/DT
+  —/VBZ
+  this/DT
+  (NP (NBAR gospel/NN))
+  of/IN
+  (NP (NBAR Judas/NNP))
+  was/VBD
+  written/VBN
+  about/IN
+  200/CD
+  (NP (NBAR years/NNS))
+  after/IN
+  (NP (NBAR Jesus/NNP))
+  ,/,
+  and/CC
+  it’s/RB
+  written/VBN
+  by/IN
+  a/DT
+  (NP (NBAR group/NN))
+  of/IN
+  (NP (NBAR people/NNS))
+  called/VBN
+  the/DT
+  (NP (NBAR Gnostics/NNPS))
+  ./.
+  And/CC
+  they/PRP
+  thought/VBD
+  the/DT
+  (NP (NBAR body/NN))
+  was/VBD
+  bad/JJ
+  ./.
+  So/RB
+  ,/,
+  (NP (NBAR anything/NN))
+  that/IN
+  (NP (NBAR Judas/NNP))
+  would/MD
+  do/VB
+  to/TO
+  help/VB
+  (NP (NBAR Christ/NNP))
+  get/VB
+  rid/JJ
+  of/IN
+  his/PRP$
+  (NP (NBAR body/NN))
+  was/VBD
+  good/JJ
+  ./.
+  So/RB
+  that’s/JJ
+  their/PRP$
+  (NP (NBAR agenda/NN))
+  ./.
+  Their/PRP$
+  (NP (NBAR agenda/NN))
+  is/VBZ
+  to/TO
+  say/VB
+  (NP (NBAR Judas/NNP sort/NN))
+  of/IN
+  (NP (NBAR freed/NN Jesus/NNP))
+  from/IN
+  his/PRP$
+  (NP (NBAR body/NN))
+  ./.)(S
+  (NP (NBAR MARTIN/NN))
+  :/:
+  Well/RB
+  ,/,
+  if/IN
+  that/DT
+  were/VBD
+  true/JJ
+  ./.
+  The/DT
+  (NP (NBAR idea/NN))
+  is/VBZ
+  that/IN
+  this/DT
+  —/VBZ
+  this/DT
+  (NP (NBAR gospel/NN))
+  of/IN
+  (NP (NBAR Judas/NNP))
+  was/VBD
+  written/VBN
+  about/IN
+  200/CD
+  (NP (NBAR years/NNS))
+  after/IN
+  (NP (NBAR Jesus/NNP))
+  ,/,
+  and/CC
+  it’s/RB
+  written/VBN
+  by/IN
+  a/DT
+  (NP (NBAR group/NN))
+  of/IN
+  (NP (NBAR people/NNS))
+  called/VBN
+  the/DT
+  (NP (NBAR Gnostics/NNPS))
+  ./.
+  And/CC
+  they/PRP
+  thought/VBD
+  the/DT
+  (NP (NBAR body/NN))
+  was/VBD
+  bad/JJ
+  ./.
+  So/RB
+  ,/,
+  (NP (NBAR anything/NN))
+  that/IN
+  (NP (NBAR Judas/NNP))
+  would/MD
+  do/VB
+  to/TO
+  help/VB
+  (NP (NBAR Christ/NNP))
+  get/VB
+  rid/JJ
+  of/IN
+  his/PRP$
+  (NP (NBAR body/NN))
+  was/VBD
+  good/JJ
+  ./.
+  So/RB
+  that’s/JJ
+  their/PRP$
+  (NP (NBAR agenda/NN))
+  ./.
+  Their/PRP$
+  (NP (NBAR agenda/NN))
+  is/VBZ
+  to/TO
+  say/VB
+  (NP (NBAR Judas/NNP sort/NN))
+  of/IN
+  (NP (NBAR freed/NN Jesus/NNP))
+  from/IN
+  his/PRP$
+  (NP (NBAR body/NN))
+  ./.)(S
+  (NP (NBAR MARTIN/NN))
+  :/:
+  Well/RB
+  ,/,
+  if/IN
+  that/DT
+  were/VBD
+  true/JJ
+  ./.
+  The/DT
+  (NP (NBAR idea/NN))
+  is/VBZ
+  that/IN
+  this/DT
+  —/VBZ
+  this/DT
+  (NP (NBAR gospel/NN))
+  of/IN
+  (NP (NBAR Judas/NNP))
+  was/VBD
+  written/VBN
+  about/IN
+  200/CD
+  (NP (NBAR years/NNS))
+  after/IN
+  (NP (NBAR Jesus/NNP))
+  ,/,
+  and/CC
+  it’s/RB
+  written/VBN
+  by/IN
+  a/DT
+  (NP (NBAR group/NN))
+  of/IN
+  (NP (NBAR people/NNS))
+  called/VBN
+  the/DT
+  (NP (NBAR Gnostics/NNPS))
+  ./.
+  And/CC
+  they/PRP
+  thought/VBD
+  the/DT
+  (NP (NBAR body/NN))
+  was/VBD
+  bad/JJ
+  ./.
+  So/RB
+  ,/,
+  (NP (NBAR anything/NN))
+  that/IN
+  (NP (NBAR Judas/NNP))
+  would/MD
+  do/VB
+  to/TO
+  help/VB
+  (NP (NBAR Christ/NNP))
+  get/VB
+  rid/JJ
+  of/IN
+  his/PRP$
+  (NP (NBAR body/NN))
+  was/VBD
+  good/JJ
+  ./.
+  So/RB
+  that’s/JJ
+  their/PRP$
+  (NP (NBAR agenda/NN))
+  ./.
+  Their/PRP$
+  (NP (NBAR agenda/NN))
+  is/VBZ
+  to/TO
+  say/VB
+  (NP (NBAR Judas/NNP sort/NN))
+  of/IN
+  (NP (NBAR freed/NN Jesus/NNP))
+  from/IN
+  his/PRP$
+  (NP (NBAR body/NN))
+  ./.)(S
+  (NP (NBAR MARTIN/NN))
+  :/:
+  Well/RB
+  ,/,
+  if/IN
+  that/DT
+  were/VBD
+  true/JJ
+  ./.
+  The/DT
+  (NP (NBAR idea/NN))
+  is/VBZ
+  that/IN
+  this/DT
+  —/VBZ
+  this/DT
+  (NP (NBAR gospel/NN))
+  of/IN
+  (NP (NBAR Judas/NNP))
+  was/VBD
+  written/VBN
+  about/IN
+  200/CD
+  (NP (NBAR years/NNS))
+  after/IN
+  (NP (NBAR Jesus/NNP))
+  ,/,
+  and/CC
+  it’s/RB
+  written/VBN
+  by/IN
+  a/DT
+  (NP (NBAR group/NN))
+  of/IN
+  (NP (NBAR people/NNS))
+  called/VBN
+  the/DT
+  (NP (NBAR Gnostics/NNPS))
+  ./.
+  And/CC
+  they/PRP
+  thought/VBD
+  the/DT
+  (NP (NBAR body/NN))
+  was/VBD
+  bad/JJ
+  ./.
+  So/RB
+  ,/,
+  (NP (NBAR anything/NN))
+  that/IN
+  (NP (NBAR Judas/NNP))
+  would/MD
+  do/VB
+  to/TO
+  help/VB
+  (NP (NBAR Christ/NNP))
+  get/VB
+  rid/JJ
+  of/IN
+  his/PRP$
+  (NP (NBAR body/NN))
+  was/VBD
+  good/JJ
+  ./.
+  So/RB
+  that’s/JJ
+  their/PRP$
+  (NP (NBAR agenda/NN))
+  ./.
+  Their/PRP$
+  (NP (NBAR agenda/NN))
+  is/VBZ
+  to/TO
+  say/VB
+  (NP (NBAR Judas/NNP sort/NN))
+  of/IN
+  (NP (NBAR freed/NN Jesus/NNP))
+  from/IN
+  his/PRP$
+  (NP (NBAR body/NN))
+  ./.)(S
   (NP (NBAR O’REILLY/NN))
   :/:
   All/DT
@@ -305,6 +935,40 @@
   was/VBD
   bad/JJ
   ?/.)(S
+  (NP (NBAR O’REILLY/NN))
+  :/:
+  All/DT
+  (NP (NBAR right/NN))
+  ./.
+  So/RB
+  ,/,
+  this/DT
+  (NP (NBAR group/NN))
+  of/IN
+  (NP (NBAR Christians/NNPS))
+  ,/,
+  (NP (NBAR early/JJ Christians/NNPS))
+  ,/,
+  they/PRP
+  believe/VBP
+  that/IN
+  the/DT
+  (NP (NBAR human/JJ body/NN))
+  was/VBD
+  bad/JJ
+  ?/.)(S
+  (NP (NBAR MARTIN/NN))
+  :/:
+  (NP (NBAR Right/NNP))
+  ./.
+  (NP (NBAR Body/NNP))
+  ,/,
+  bad/JJ
+  ;/:
+  (NP (NBAR spirit/NN))
+  ,/,
+  good/JJ
+  ./.)(S
   (NP (NBAR MARTIN/NN))
   :/:
   (NP (NBAR Right/NNP))
@@ -381,6 +1045,355 @@
   less/JJR
   (NP (NBAR accurate/NN))
   ./.)(S
+  (NP (NBAR MARTIN/NN))
+  :/:
+  (NP (NBAR Right/NNP))
+  ./.
+  So/RB
+  ,/,
+  (NP (NBAR they’re/JJ sort/NN))
+  of/IN
+  reinterpreting/VBG
+  this/DT
+  ./.
+  And/CC
+  remember/VB
+  ,/,
+  it’s/RB
+  much/RB
+  later/RBR
+  than/IN
+  the/DT
+  (NP (NBAR gospels/NNS))
+  that/IN
+  we/PRP
+  know/VBP
+  ,/,
+  so/RB
+  it’s/JJ
+  presumably/RB
+  a/DT
+  (NP (NBAR lot/NN))
+  less/JJR
+  (NP (NBAR accurate/NN))
+  ./.)(S
+  (NP (NBAR MARTIN/NN))
+  :/:
+  (NP (NBAR Right/NNP))
+  ./.
+  So/RB
+  ,/,
+  (NP (NBAR they’re/JJ sort/NN))
+  of/IN
+  reinterpreting/VBG
+  this/DT
+  ./.
+  And/CC
+  remember/VB
+  ,/,
+  it’s/RB
+  much/RB
+  later/RBR
+  than/IN
+  the/DT
+  (NP (NBAR gospels/NNS))
+  that/IN
+  we/PRP
+  know/VBP
+  ,/,
+  so/RB
+  it’s/JJ
+  presumably/RB
+  a/DT
+  (NP (NBAR lot/NN))
+  less/JJR
+  (NP (NBAR accurate/NN))
+  ./.)(S
+  (NP (NBAR O’REILLY/NN))
+  :/:
+  All/DT
+  (NP (NBAR right/NN))
+  ./.
+  Now/RB
+  ,/,
+  I/PRP
+  have/VBP
+  one/CD
+  more/JJR
+  (NP (NBAR question/NN))
+  ./.
+  I/PRP
+  wrote/VBD
+  a/DT
+  (NP (NBAR column/NN))
+  on/IN
+  this/DT
+  ,/,
+  by/IN
+  the/DT
+  (NP (NBAR way/NN))
+  ./.
+  (NP (NBAR I’m/NNP))
+  going/VBG
+  to/TO
+  give/VB
+  you/PRP
+  my/PRP$
+  (NP (NBAR theory/NN))
+  ./.
+  (NP (NBAR Princeton/NNP theology/NN professor/NN))
+  says/VBZ
+  ,/,
+  ``/``
+  This/DT
+  wipes/VBZ
+  out/RP
+  the/DT
+  (NP (NBAR monolithic/JJ approach/NN))
+  to/TO
+  (NP (NBAR Christianity/NNP))
+  ,/,
+  ''/''
+  which/WDT
+  I/PRP
+  thought/VBD
+  was/VBD
+  incredibly/RB
+  dopey/JJ
+  ./.
+  What/WP
+  did/VBD
+  you/PRP
+  say/VB
+  ?/.)(S
+  (NP (NBAR O’REILLY/NN))
+  :/:
+  All/DT
+  (NP (NBAR right/NN))
+  ./.
+  Now/RB
+  ,/,
+  I/PRP
+  have/VBP
+  one/CD
+  more/JJR
+  (NP (NBAR question/NN))
+  ./.
+  I/PRP
+  wrote/VBD
+  a/DT
+  (NP (NBAR column/NN))
+  on/IN
+  this/DT
+  ,/,
+  by/IN
+  the/DT
+  (NP (NBAR way/NN))
+  ./.
+  (NP (NBAR I’m/NNP))
+  going/VBG
+  to/TO
+  give/VB
+  you/PRP
+  my/PRP$
+  (NP (NBAR theory/NN))
+  ./.
+  (NP (NBAR Princeton/NNP theology/NN professor/NN))
+  says/VBZ
+  ,/,
+  ``/``
+  This/DT
+  wipes/VBZ
+  out/RP
+  the/DT
+  (NP (NBAR monolithic/JJ approach/NN))
+  to/TO
+  (NP (NBAR Christianity/NNP))
+  ,/,
+  ''/''
+  which/WDT
+  I/PRP
+  thought/VBD
+  was/VBD
+  incredibly/RB
+  dopey/JJ
+  ./.
+  What/WP
+  did/VBD
+  you/PRP
+  say/VB
+  ?/.)(S
+  (NP (NBAR O’REILLY/NN))
+  :/:
+  All/DT
+  (NP (NBAR right/NN))
+  ./.
+  Now/RB
+  ,/,
+  I/PRP
+  have/VBP
+  one/CD
+  more/JJR
+  (NP (NBAR question/NN))
+  ./.
+  I/PRP
+  wrote/VBD
+  a/DT
+  (NP (NBAR column/NN))
+  on/IN
+  this/DT
+  ,/,
+  by/IN
+  the/DT
+  (NP (NBAR way/NN))
+  ./.
+  (NP (NBAR I’m/NNP))
+  going/VBG
+  to/TO
+  give/VB
+  you/PRP
+  my/PRP$
+  (NP (NBAR theory/NN))
+  ./.
+  (NP (NBAR Princeton/NNP theology/NN professor/NN))
+  says/VBZ
+  ,/,
+  ``/``
+  This/DT
+  wipes/VBZ
+  out/RP
+  the/DT
+  (NP (NBAR monolithic/JJ approach/NN))
+  to/TO
+  (NP (NBAR Christianity/NNP))
+  ,/,
+  ''/''
+  which/WDT
+  I/PRP
+  thought/VBD
+  was/VBD
+  incredibly/RB
+  dopey/JJ
+  ./.
+  What/WP
+  did/VBD
+  you/PRP
+  say/VB
+  ?/.)(S
+  (NP (NBAR O’REILLY/NN))
+  :/:
+  All/DT
+  (NP (NBAR right/NN))
+  ./.
+  Now/RB
+  ,/,
+  I/PRP
+  have/VBP
+  one/CD
+  more/JJR
+  (NP (NBAR question/NN))
+  ./.
+  I/PRP
+  wrote/VBD
+  a/DT
+  (NP (NBAR column/NN))
+  on/IN
+  this/DT
+  ,/,
+  by/IN
+  the/DT
+  (NP (NBAR way/NN))
+  ./.
+  (NP (NBAR I’m/NNP))
+  going/VBG
+  to/TO
+  give/VB
+  you/PRP
+  my/PRP$
+  (NP (NBAR theory/NN))
+  ./.
+  (NP (NBAR Princeton/NNP theology/NN professor/NN))
+  says/VBZ
+  ,/,
+  ``/``
+  This/DT
+  wipes/VBZ
+  out/RP
+  the/DT
+  (NP (NBAR monolithic/JJ approach/NN))
+  to/TO
+  (NP (NBAR Christianity/NNP))
+  ,/,
+  ''/''
+  which/WDT
+  I/PRP
+  thought/VBD
+  was/VBD
+  incredibly/RB
+  dopey/JJ
+  ./.
+  What/WP
+  did/VBD
+  you/PRP
+  say/VB
+  ?/.)(S
+  (NP (NBAR O’REILLY/NN))
+  :/:
+  All/DT
+  (NP (NBAR right/NN))
+  ./.
+  Now/RB
+  ,/,
+  I/PRP
+  have/VBP
+  one/CD
+  more/JJR
+  (NP (NBAR question/NN))
+  ./.
+  I/PRP
+  wrote/VBD
+  a/DT
+  (NP (NBAR column/NN))
+  on/IN
+  this/DT
+  ,/,
+  by/IN
+  the/DT
+  (NP (NBAR way/NN))
+  ./.
+  (NP (NBAR I’m/NNP))
+  going/VBG
+  to/TO
+  give/VB
+  you/PRP
+  my/PRP$
+  (NP (NBAR theory/NN))
+  ./.
+  (NP (NBAR Princeton/NNP theology/NN professor/NN))
+  says/VBZ
+  ,/,
+  ``/``
+  This/DT
+  wipes/VBZ
+  out/RP
+  the/DT
+  (NP (NBAR monolithic/JJ approach/NN))
+  to/TO
+  (NP (NBAR Christianity/NNP))
+  ,/,
+  ''/''
+  which/WDT
+  I/PRP
+  thought/VBD
+  was/VBD
+  incredibly/RB
+  dopey/JJ
+  ./.
+  What/WP
+  did/VBD
+  you/PRP
+  say/VB
+  ?/.)(S
   (NP (NBAR O’REILLY/NN))
   :/:
   All/DT
@@ -478,6 +1491,86 @@
   the/DT
   (NP (NBAR event/NN))
   ./.)(S
+  (NP (NBAR MARTIN/NN))
+  :/:
+  (NP (NBAR Well/NNP))
+  ,/,
+  I/PRP
+  mean/VBP
+  ,/,
+  you/PRP
+  have/VBP
+  to/TO
+  understand/VB
+  these/DT
+  (NP (NBAR gospels/NNS))
+  in/IN
+  a/DT
+  (NP (NBAR context/NN))
+  ./.
+  You/PRP
+  have/VBP
+  the/DT
+  original/JJ
+  four/CD
+  (NP (NBAR Gospels/NNP —/NNP Matthew/NNP))
+  ,/,
+  (NP (NBAR Mark/NNP))
+  ,/,
+  (NP (NBAR Luke/NNP))
+  ,/,
+  and/CC
+  (NP (NBAR John/NNP))
+  ./.
+  (NP (NBAR They’re/NNP))
+  more/JJR
+  (NP (NBAR accurate/NN))
+  because/IN
+  (NP (NBAR they’re/NN closer/NN))
+  to/TO
+  the/DT
+  (NP (NBAR event/NN))
+  ./.)(S
+  (NP (NBAR MARTIN/NN))
+  :/:
+  (NP (NBAR Well/NNP))
+  ,/,
+  I/PRP
+  mean/VBP
+  ,/,
+  you/PRP
+  have/VBP
+  to/TO
+  understand/VB
+  these/DT
+  (NP (NBAR gospels/NNS))
+  in/IN
+  a/DT
+  (NP (NBAR context/NN))
+  ./.
+  You/PRP
+  have/VBP
+  the/DT
+  original/JJ
+  four/CD
+  (NP (NBAR Gospels/NNP —/NNP Matthew/NNP))
+  ,/,
+  (NP (NBAR Mark/NNP))
+  ,/,
+  (NP (NBAR Luke/NNP))
+  ,/,
+  and/CC
+  (NP (NBAR John/NNP))
+  ./.
+  (NP (NBAR They’re/NNP))
+  more/JJR
+  (NP (NBAR accurate/NN))
+  because/IN
+  (NP (NBAR they’re/NN closer/NN))
+  to/TO
+  the/DT
+  (NP (NBAR event/NN))
+  ./.)(S
   And/CC
   I/PRP
   think/VBP
@@ -533,6 +1626,23 @@
   (NP (NBAR Christianity/NNP))
   ./.
   (NP (NBAR Right/NNP))
+  ?/.)(S
+  (NP (NBAR O’REILLY/NN))
+  :/:
+  And/CC
+  (NP (NBAR today/NN))
+  ,/,
+  I/PRP
+  believe/VBP
+  ,/,
+  there/EX
+  are/VBP
+  competing/VBG
+  (NP (NBAR ideas/NNS))
+  with/IN
+  (NP (NBAR Christianity/NNP))
+  ./.
+  (NP (NBAR Right/NNP))
   ?/.)(S (NP (NBAR MARTIN/NN)) :/: Absolutely/RB ./.)(S
   (NP (NBAR O’REILLY/NN))
   :/:
@@ -548,6 +1658,13 @@
   they/PRP
   were/VBD
   competing/VBG
+  ./.)(S
+  (NP (NBAR MARTIN/NN))
+  :/:
+  (NP (NBAR That’s/NNP))
+  true/JJ
+  ./.
+  (NP (NBAR Right/NNP))
   ./.)(S
   (NP (NBAR MARTIN/NN))
   :/:
@@ -597,12 +1714,137 @@
   tell/VB
   us/PRP
   .../:)(S
+  (NP (NBAR MARTIN/NN))
+  :/:
+  Right/RB
+  ./.
+  The/DT
+  (NP (NBAR gospels/NNS))
+  are/VBP
+  written/VBN
+  (NP (NBAR —/NNP))
+  they’re/VBZ
+  trying/VBG
+  to/TO
+  tell/VB
+  us/PRP
+  .../:)(S
   (NP (NBAR O’REILLY/NN))
   :/:
   (NP (NBAR They’re/NNP lessons/NNS))
   ,/,
   yes/UH
   ./.)(S
+  (NP (NBAR MARTIN/NN))
+  :/:
+  (NP (NBAR Well/NNP))
+  ,/,
+  I/PRP
+  mean/VBP
+  ,/,
+  but/CC
+  (NP (NBAR they’re/NNS))
+  based/VBN
+  on/IN
+  (NP (NBAR —/NN))
+  I/PRP
+  mean/VBP
+  ,/,
+  (NP (NBAR parts/NNS))
+  of/IN
+  the/DT
+  (NP (NBAR gospels/NNS))
+  are/VBP
+  telling/VBG
+  ,/,
+  you/PRP
+  know/VBP
+  ,/,
+  (NP (NBAR factual/JJ stories/NNS))
+  of/IN
+  what/WP
+  these/DT
+  (NP (NBAR people/NNS))
+  saw/VBD
+  and/CC
+  are/VBP
+  reported/VBN
+  ./.
+  But/CC
+  ,/,
+  you/PRP
+  know/VBP
+  ,/,
+  remember/VB
+  ,/,
+  it’s/VB
+  (NP (NBAR oral/JJ tradition/NN))
+  ,/,
+  and/CC
+  then/RB
+  they’re/VB
+  written/VBN
+  down/RP
+  ./.
+  And/CC
+  so/RB
+  we/PRP
+  .../:)(S
+  (NP (NBAR MARTIN/NN))
+  :/:
+  (NP (NBAR Well/NNP))
+  ,/,
+  I/PRP
+  mean/VBP
+  ,/,
+  but/CC
+  (NP (NBAR they’re/NNS))
+  based/VBN
+  on/IN
+  (NP (NBAR —/NN))
+  I/PRP
+  mean/VBP
+  ,/,
+  (NP (NBAR parts/NNS))
+  of/IN
+  the/DT
+  (NP (NBAR gospels/NNS))
+  are/VBP
+  telling/VBG
+  ,/,
+  you/PRP
+  know/VBP
+  ,/,
+  (NP (NBAR factual/JJ stories/NNS))
+  of/IN
+  what/WP
+  these/DT
+  (NP (NBAR people/NNS))
+  saw/VBD
+  and/CC
+  are/VBP
+  reported/VBN
+  ./.
+  But/CC
+  ,/,
+  you/PRP
+  know/VBP
+  ,/,
+  remember/VB
+  ,/,
+  it’s/VB
+  (NP (NBAR oral/JJ tradition/NN))
+  ,/,
+  and/CC
+  then/RB
+  they’re/VB
+  written/VBN
+  down/RP
+  ./.
+  And/CC
+  so/RB
+  we/PRP
+  .../:)(S
   (NP (NBAR MARTIN/NN))
   :/:
   (NP (NBAR Well/NNP))
@@ -685,6 +1927,48 @@
   as/IN
   (NP (NBAR literal/JJ history/NN))
   ./.)(S
+  (NP (NBAR MARTIN/NN))
+  :/:
+  Right/RB
+  ./.
+  You/PRP
+  can’t/VBP
+  look/VB
+  at/IN
+  them/PRP
+  as/IN
+  (NP (NBAR literal/JJ history/NN))
+  ./.)(S
+  (NP (NBAR O’REILLY/NN))
+  :/:
+  You/PRP
+  can’t/VBP
+  ./.
+  Because/IN
+  if/IN
+  you/PRP
+  look/VBP
+  ,/,
+  if/IN
+  you/PRP
+  compare/VBP
+  (NP (NBAR Matthew/NNP))
+  ,/,
+  (NP (NBAR Mark/NNP))
+  ,/,
+  (NP (NBAR Luke/NNP))
+  ,/,
+  and/CC
+  (NP (NBAR John/NNP))
+  ,/,
+  they/PRP
+  all/DT
+  have/VBP
+  (NP (NBAR different/JJ interpretations/NNS))
+  of/IN
+  what/WP
+  happened/VBD
+  ./.)(S
   (NP (NBAR O’REILLY/NN))
   :/:
   You/PRP
@@ -730,12 +2014,60 @@
   (NP (NBAR Jesus/NNP))
   did/VBD
   .../:)(S
+  (NP (NBAR MARTIN/NN))
+  :/:
+  Right/JJ
+  ./.
+  But/CC
+  you/PRP
+  do/VBP
+  get/VB
+  the/DT
+  (NP (NBAR general/JJ outlines/NNS))
+  of/IN
+  what/WP
+  (NP (NBAR Jesus/NNP))
+  did/VBD
+  .../:)(S
   (NP (NBAR O’REILLY/NN))
   :/:
   The/DT
   (NP (NBAR flavor/NN))
   of/IN
   it/PRP
+  ./.)(S
+  (NP (NBAR MARTIN/NN))
+  :/:
+  And/CC
+  more/JJR
+  than/IN
+  that/DT
+  ./.
+  You/PRP
+  get/VBP
+  (NP (NBAR stories/NNS))
+  that/WDT
+  seem/VBP
+  to/TO
+  be/VB
+  —/VBN
+  you/PRP
+  know/VBP
+  ,/,
+  in/IN
+  all/PDT
+  the/DT
+  (NP (NBAR Gospels/NNP))
+  that/WDT
+  seem/VBP
+  to/TO
+  have/VB
+  some/DT
+  (NP (NBAR sort/NN))
+  of/IN
+  (NP (NBAR historical/JJ basis/NN))
+  in/IN
+  (NP (NBAR fact/NN))
   ./.)(S
   (NP (NBAR MARTIN/NN))
   :/:
@@ -809,6 +2141,55 @@
   it/PRP
   happened/VBD
   ./.)(S
+  (NP (NBAR O’REILLY/NN))
+  :/:
+  Well/RB
+  ,/,
+  (NP (NBAR Tacitus/NNP))
+  and/CC
+  (NP (NBAR Josephus/NNP))
+  ,/,
+  the/DT
+  (NP (NBAR Roman/NNP historian/NN))
+  and/CC
+  the/DT
+  (NP (NBAR Hebrew/NNP))
+  historian/JJ
+  both/DT
+  chronicle/VBP
+  the/DT
+  (NP (NBAR death/NN))
+  of/IN
+  (NP (NBAR Jesus/NNP))
+  and/CC
+  the/DT
+  (NP (NBAR trial/NN))
+  in/IN
+  (NP (NBAR front/NN))
+  of/IN
+  (NP (NBAR Pilate/NNP))
+  ,/,
+  and/CC
+  the/DT
+  (NP (NBAR Sanhedrin/NNP))
+  ./.
+  So/RB
+  he/PRP
+  we/PRP
+  know/VBP
+  it/PRP
+  happened/VBD
+  ./.)(S
+  (NP (NBAR MARTIN/NN))
+  :/:
+  (NP (NBAR Right/NNP))
+  ./.
+  And/CC
+  (NP (NBAR that’s/NN))
+  in/IN
+  the/DT
+  (NP (NBAR Gospel/NNP))
+  ./.)(S
   (NP (NBAR MARTIN/NN))
   :/:
   (NP (NBAR Right/NNP))
@@ -878,6 +2259,90 @@
   a/DT
   (NP (NBAR roof/NN))
   ./.)(S
+  (NP (NBAR O’REILLY/NN))
+  :/:
+  But/CC
+  then/RB
+  when/WRB
+  you/PRP
+  go/VBP
+  out/RP
+  with/IN
+  the/DT
+  (NP (NBAR loaves/NNS))
+  and/CC
+  (NP (NBAR fishes/NNS))
+  ,/,
+  and/CC
+  some/DT
+  (NP (NBAR people/NNS))
+  8,000/CD
+  and/CC
+  there/EX
+  were/VBD
+  16/CD
+  (NP (NBAR lepers/NNS))
+  and/CC
+  there/EX
+  were/VBD
+  eight/CD
+  ./.
+  And/CC
+  (NP (NBAR Nicodemus/NNP))
+  is/VBZ
+  in/IN
+  a/DT
+  (NP (NBAR tree/NN))
+  ./.
+  No/UH
+  ,/,
+  he’s/VB
+  on/IN
+  a/DT
+  (NP (NBAR roof/NN))
+  ./.)(S
+  (NP (NBAR O’REILLY/NN))
+  :/:
+  But/CC
+  then/RB
+  when/WRB
+  you/PRP
+  go/VBP
+  out/RP
+  with/IN
+  the/DT
+  (NP (NBAR loaves/NNS))
+  and/CC
+  (NP (NBAR fishes/NNS))
+  ,/,
+  and/CC
+  some/DT
+  (NP (NBAR people/NNS))
+  8,000/CD
+  and/CC
+  there/EX
+  were/VBD
+  16/CD
+  (NP (NBAR lepers/NNS))
+  and/CC
+  there/EX
+  were/VBD
+  eight/CD
+  ./.
+  And/CC
+  (NP (NBAR Nicodemus/NNP))
+  is/VBZ
+  in/IN
+  a/DT
+  (NP (NBAR tree/NN))
+  ./.
+  No/UH
+  ,/,
+  he’s/VB
+  on/IN
+  a/DT
+  (NP (NBAR roof/NN))
+  ./.)(S
   (NP (NBAR Look/NNP))
   ,/,
   the/DT
@@ -897,6 +2362,253 @@
   it/PRP
   not/RB
   ?/.)(S
+  (NP (NBAR Look/NNP))
+  ,/,
+  the/DT
+  (NP (NBAR Judas/NNP story/NN))
+  for/IN
+  me/PRP
+  is/VBZ
+  (NP (NBAR don’t/JJ betray/NN people/NNS))
+  for/IN
+  (NP (NBAR money/NN))
+  ./.
+  That’s/CC
+  the/DT
+  (NP (NBAR Judas/NNP story/NN))
+  ,/,
+  is/VBZ
+  it/PRP
+  not/RB
+  ?/.)(S
+  (NP (NBAR MARTIN/NN))
+  :/:
+  Well/RB
+  ,/,
+  the/DT
+  (NP (NBAR other/JJ part/NN))
+  of/IN
+  it/PRP
+  is/VBZ
+  —/JJ
+  I/PRP
+  agree/VBP
+  ./.
+  And/CC
+  also/RB
+  ,/,
+  you/PRP
+  know/VBP
+  ,/,
+  (NP (NBAR Judas/NNP))
+  is/VBZ
+  trying/VBG
+  to/TO
+  make/VB
+  (NP (NBAR Jesus/NNP))
+  do/VB
+  (NP (NBAR something/NN))
+  that/IN
+  he/PRP
+  doesn’t/VBZ
+  want/VBP
+  to/TO
+  do/VB
+  ,/,
+  or/CC
+  (NP (NBAR Judas/NNP))
+  is/VBZ
+  frustrated/VBN
+  that/IN
+  (NP (NBAR Jesus/NNP))
+  isn’t/VB
+  doing/VBG
+  (NP (NBAR something/NN))
+  ./.
+  So/RB
+  in/IN
+  a/DT
+  (NP (NBAR sense/NN))
+  ,/,
+  I/PRP
+  see/VBP
+  Judas/RB
+  as/IN
+  trying/VBG
+  to/TO
+  make/VB
+  (NP (NBAR God/NNP))
+  in/IN
+  his/PRP$
+  (NP (NBAR own/JJ image/NN))
+  rather/RB
+  than/IN
+  the/DT
+  (NP (NBAR other/JJ way/NN))
+  around/IN
+  ./.
+  (NP (NBAR So/NNP it’s/JJ sort/NN))
+  of/IN
+  a/DT
+  (NP (NBAR sin/NN))
+  of/IN
+  (NP (NBAR pride/NN))
+  ,/,
+  as/RB
+  well/RB
+  ./.)(S
+  (NP (NBAR MARTIN/NN))
+  :/:
+  Well/RB
+  ,/,
+  the/DT
+  (NP (NBAR other/JJ part/NN))
+  of/IN
+  it/PRP
+  is/VBZ
+  —/JJ
+  I/PRP
+  agree/VBP
+  ./.
+  And/CC
+  also/RB
+  ,/,
+  you/PRP
+  know/VBP
+  ,/,
+  (NP (NBAR Judas/NNP))
+  is/VBZ
+  trying/VBG
+  to/TO
+  make/VB
+  (NP (NBAR Jesus/NNP))
+  do/VB
+  (NP (NBAR something/NN))
+  that/IN
+  he/PRP
+  doesn’t/VBZ
+  want/VBP
+  to/TO
+  do/VB
+  ,/,
+  or/CC
+  (NP (NBAR Judas/NNP))
+  is/VBZ
+  frustrated/VBN
+  that/IN
+  (NP (NBAR Jesus/NNP))
+  isn’t/VB
+  doing/VBG
+  (NP (NBAR something/NN))
+  ./.
+  So/RB
+  in/IN
+  a/DT
+  (NP (NBAR sense/NN))
+  ,/,
+  I/PRP
+  see/VBP
+  Judas/RB
+  as/IN
+  trying/VBG
+  to/TO
+  make/VB
+  (NP (NBAR God/NNP))
+  in/IN
+  his/PRP$
+  (NP (NBAR own/JJ image/NN))
+  rather/RB
+  than/IN
+  the/DT
+  (NP (NBAR other/JJ way/NN))
+  around/IN
+  ./.
+  (NP (NBAR So/NNP it’s/JJ sort/NN))
+  of/IN
+  a/DT
+  (NP (NBAR sin/NN))
+  of/IN
+  (NP (NBAR pride/NN))
+  ,/,
+  as/RB
+  well/RB
+  ./.)(S
+  (NP (NBAR MARTIN/NN))
+  :/:
+  Well/RB
+  ,/,
+  the/DT
+  (NP (NBAR other/JJ part/NN))
+  of/IN
+  it/PRP
+  is/VBZ
+  —/JJ
+  I/PRP
+  agree/VBP
+  ./.
+  And/CC
+  also/RB
+  ,/,
+  you/PRP
+  know/VBP
+  ,/,
+  (NP (NBAR Judas/NNP))
+  is/VBZ
+  trying/VBG
+  to/TO
+  make/VB
+  (NP (NBAR Jesus/NNP))
+  do/VB
+  (NP (NBAR something/NN))
+  that/IN
+  he/PRP
+  doesn’t/VBZ
+  want/VBP
+  to/TO
+  do/VB
+  ,/,
+  or/CC
+  (NP (NBAR Judas/NNP))
+  is/VBZ
+  frustrated/VBN
+  that/IN
+  (NP (NBAR Jesus/NNP))
+  isn’t/VB
+  doing/VBG
+  (NP (NBAR something/NN))
+  ./.
+  So/RB
+  in/IN
+  a/DT
+  (NP (NBAR sense/NN))
+  ,/,
+  I/PRP
+  see/VBP
+  Judas/RB
+  as/IN
+  trying/VBG
+  to/TO
+  make/VB
+  (NP (NBAR God/NNP))
+  in/IN
+  his/PRP$
+  (NP (NBAR own/JJ image/NN))
+  rather/RB
+  than/IN
+  the/DT
+  (NP (NBAR other/JJ way/NN))
+  around/IN
+  ./.
+  (NP (NBAR So/NNP it’s/JJ sort/NN))
+  of/IN
+  a/DT
+  (NP (NBAR sin/NN))
+  of/IN
+  (NP (NBAR pride/NN))
+  ,/,
+  as/RB
+  well/RB
+  ./.)(S
   (NP (NBAR MARTIN/NN))
   :/:
   Well/RB
@@ -1064,6 +2776,120 @@
   of/IN
   (NP (NBAR silver/NN))
   ./.)(S
+  (NP (NBAR O’REILLY/NN))
+  :/:
+  I/PRP
+  mean/VBP
+  ,/,
+  if/IN
+  you/PRP
+  put/VBP
+  it/PRP
+  together/RB
+  with/IN
+  the/DT
+  (NP (NBAR money/NN changers/NNS))
+  in/IN
+  the/DT
+  (NP (NBAR temple/NN))
+  ,/,
+  (NP (NBAR Moses/NNP))
+  and/CC
+  the/DT
+  (NP (NBAR golden/JJ idol/NN))
+  ,/,
+  it/PRP
+  all/DT
+  makes/VBZ
+  (NP (NBAR sense/NN))
+  ./.
+  This/DT
+  is/VBZ
+  (NP (NBAR central/JJ theme/NN))
+  of/IN
+  (NP (NBAR Christianity/NNP))
+  ./.
+  (NP (NBAR Don’t/NNP))
+  let/VBD
+  (NP (NBAR money/NN corrupt/NN))
+  you/PRP
+  :/:
+  30/CD
+  (NP (NBAR pieces/NNS))
+  of/IN
+  (NP (NBAR silver/NN))
+  ./.)(S
+  (NP (NBAR O’REILLY/NN))
+  :/:
+  I/PRP
+  mean/VBP
+  ,/,
+  if/IN
+  you/PRP
+  put/VBP
+  it/PRP
+  together/RB
+  with/IN
+  the/DT
+  (NP (NBAR money/NN changers/NNS))
+  in/IN
+  the/DT
+  (NP (NBAR temple/NN))
+  ,/,
+  (NP (NBAR Moses/NNP))
+  and/CC
+  the/DT
+  (NP (NBAR golden/JJ idol/NN))
+  ,/,
+  it/PRP
+  all/DT
+  makes/VBZ
+  (NP (NBAR sense/NN))
+  ./.
+  This/DT
+  is/VBZ
+  (NP (NBAR central/JJ theme/NN))
+  of/IN
+  (NP (NBAR Christianity/NNP))
+  ./.
+  (NP (NBAR Don’t/NNP))
+  let/VBD
+  (NP (NBAR money/NN corrupt/NN))
+  you/PRP
+  :/:
+  30/CD
+  (NP (NBAR pieces/NNS))
+  of/IN
+  (NP (NBAR silver/NN))
+  ./.)(S
+  (NP (NBAR MARTIN/NN))
+  :/:
+  (NP (NBAR Right/NNP))
+  ./.
+  Assuming/VBG
+  he/PRP
+  did/VBD
+  it/PRP
+  for/IN
+  (NP (NBAR money/NN))
+  ./.
+  I/PRP
+  mean/VBP
+  .../:)(S
+  (NP (NBAR MARTIN/NN))
+  :/:
+  (NP (NBAR Right/NNP))
+  ./.
+  Assuming/VBG
+  he/PRP
+  did/VBD
+  it/PRP
+  for/IN
+  (NP (NBAR money/NN))
+  ./.
+  I/PRP
+  mean/VBP
+  .../:)(S
   (NP (NBAR MARTIN/NN))
   :/:
   (NP (NBAR Right/NNP))
@@ -1140,6 +2966,62 @@
   in/IN
   the/DT
   (NP (NBAR Gospel/NNP))
+  ./.)(S
+  (NP (NBAR O’REILLY/NN))
+  :/:
+  You/PRP
+  tricked/VBD
+  me/PRP
+  ./.
+  You/PRP
+  tricked/VBD
+  me/PRP
+  ./.
+  I/PRP
+  think/VBP
+  that’s/IN
+  the/DT
+  (NP (NBAR lesson/NN))
+  ,/,
+  though/IN
+  ,/,
+  and/CC
+  that’s/RB
+  why/WRB
+  it/PRP
+  was/VBD
+  included/VBN
+  in/IN
+  the/DT
+  (NP (NBAR Gospel/NNP))
+  ./.)(S
+  (NP (NBAR O’REILLY/NN))
+  :/:
+  You/PRP
+  tricked/VBD
+  me/PRP
+  ./.
+  You/PRP
+  tricked/VBD
+  me/PRP
+  ./.
+  I/PRP
+  think/VBP
+  that’s/IN
+  the/DT
+  (NP (NBAR lesson/NN))
+  ,/,
+  though/IN
+  ,/,
+  and/CC
+  that’s/RB
+  why/WRB
+  it/PRP
+  was/VBD
+  included/VBN
+  in/IN
+  the/DT
+  (NP (NBAR Gospel/NNP))
   ./.)(S (NP (NBAR MARTIN/NN)) :/: One/CD (NP (NBAR lesson/NN)) ./.)(S
   (NP (NBAR O’REILLY/NN))
   :/:
@@ -1168,6 +3050,130 @@
   (NP (NBAR Father/NNP))
   ,/,
   (NP (NBAR happy/JJ Easter/NNP))
+  ./.)(S
+  (NP (NBAR O’REILLY/NN))
+  :/:
+  (NP (NBAR OK./NNP All/NNP))
+  right/RB
+  ./.
+  So/RB
+  ,/,
+  (NP (NBAR I’m/NNP))
+  not/RB
+  worried/VBD
+  about/IN
+  this/DT
+  (NP (NBAR Judas/NNP thing/NN))
+  ./.
+  I/PRP
+  think/VBP
+  the/DT
+  (NP (NBAR lesson/NN))
+  stands/VBZ
+  ./.
+  (NP (NBAR Don’t/NNP betray/NN people/NNS))
+  for/IN
+  (NP (NBAR money/NN))
+  ./.
+  (NP (NBAR Father/NNP))
+  ,/,
+  (NP (NBAR happy/JJ Easter/NNP))
+  ./.)(S
+  (NP (NBAR O’REILLY/NN))
+  :/:
+  (NP (NBAR OK./NNP All/NNP))
+  right/RB
+  ./.
+  So/RB
+  ,/,
+  (NP (NBAR I’m/NNP))
+  not/RB
+  worried/VBD
+  about/IN
+  this/DT
+  (NP (NBAR Judas/NNP thing/NN))
+  ./.
+  I/PRP
+  think/VBP
+  the/DT
+  (NP (NBAR lesson/NN))
+  stands/VBZ
+  ./.
+  (NP (NBAR Don’t/NNP betray/NN people/NNS))
+  for/IN
+  (NP (NBAR money/NN))
+  ./.
+  (NP (NBAR Father/NNP))
+  ,/,
+  (NP (NBAR happy/JJ Easter/NNP))
+  ./.)(S
+  (NP (NBAR O’REILLY/NN))
+  :/:
+  (NP (NBAR OK./NNP All/NNP))
+  right/RB
+  ./.
+  So/RB
+  ,/,
+  (NP (NBAR I’m/NNP))
+  not/RB
+  worried/VBD
+  about/IN
+  this/DT
+  (NP (NBAR Judas/NNP thing/NN))
+  ./.
+  I/PRP
+  think/VBP
+  the/DT
+  (NP (NBAR lesson/NN))
+  stands/VBZ
+  ./.
+  (NP (NBAR Don’t/NNP betray/NN people/NNS))
+  for/IN
+  (NP (NBAR money/NN))
+  ./.
+  (NP (NBAR Father/NNP))
+  ,/,
+  (NP (NBAR happy/JJ Easter/NNP))
+  ./.)(S
+  (NP (NBAR O’REILLY/NN))
+  :/:
+  (NP (NBAR OK./NNP All/NNP))
+  right/RB
+  ./.
+  So/RB
+  ,/,
+  (NP (NBAR I’m/NNP))
+  not/RB
+  worried/VBD
+  about/IN
+  this/DT
+  (NP (NBAR Judas/NNP thing/NN))
+  ./.
+  I/PRP
+  think/VBP
+  the/DT
+  (NP (NBAR lesson/NN))
+  stands/VBZ
+  ./.
+  (NP (NBAR Don’t/NNP betray/NN people/NNS))
+  for/IN
+  (NP (NBAR money/NN))
+  ./.
+  (NP (NBAR Father/NNP))
+  ,/,
+  (NP (NBAR happy/JJ Easter/NNP))
+  ./.)(S
+  (NP (NBAR MARTIN/NN))
+  :/:
+  (NP (NBAR Same/NN))
+  to/TO
+  you/PRP
+  ./.
+  Thank/VB
+  you/PRP
+  ,/,
+  my/PRP$
+  (NP (NBAR pleasure/NN))
   ./.)(S
   (NP (NBAR MARTIN/NN))
   :/:
@@ -1219,4 +3225,43 @@
   as/IN
   on/IN
   (NP (NBAR BillOReilly.com/NNP))
-  ./.)(S )(S )
+  ./.)(S
+  (NP (NBAR O’REILLY/NN))
+  :/:
+  And/CC
+  by/IN
+  the/DT
+  (NP (NBAR way/NN))
+  ,/,
+  my/PRP$
+  (NP (NBAR brand-new/JJ column/NN))
+  ,/,
+  as/IN
+  I/PRP
+  mentioned/VBD
+  ,/,
+  is/VBZ
+  on/IN
+  this/DT
+  (NP (NBAR subject/NN))
+  ./.
+  It/PRP
+  will/MD
+  be/VB
+  in/IN
+  (NP (NBAR Friday’s/NNP New/NNP York/NNP Post/NNP))
+  and/CC
+  (NP (NBAR other/JJ fine/JJ newspapers/NNS))
+  across/IN
+  the/DT
+  (NP (NBAR country/NN))
+  and/CC
+  this/DT
+  (NP (NBAR weekend/NN))
+  ,/,
+  as/RB
+  well/RB
+  as/IN
+  on/IN
+  (NP (NBAR BillOReilly.com/NNP))
+  ./.)

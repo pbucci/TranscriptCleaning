@@ -1,4 +1,35 @@
-(S )(S By/IN (NP (NBAR Bill/NNP O'Reilly/NNP)))(S
+(S By/IN (NP (NBAR Bill/NNP O'Reilly/NNP)))(S
+  We/PRP
+  now/RB
+  know/VBP
+  about/IN
+  the/DT
+  (NP (NBAR human/JJ toll/NN))
+  of/IN
+  the/DT
+  (NP (NBAR Boston/NNP terror/NN attack/NN yesterday/NN))
+  ,/,
+  more/JJR
+  than/IN
+  170/CD
+  (NP (NBAR people/NNS))
+  were/VBD
+  hurt/VBN
+  ,/,
+  three/CD
+  are/VBP
+  dead/JJ
+  including/VBG
+  an/DT
+  (NP (NBAR eight-year-old/JJ boy/NN))
+  ./.
+  Some/DT
+  of/IN
+  the/DT
+  (NP (NBAR injuries/NNS))
+  are/VBP
+  horrific/JJ
+  ./.)(S
   We/PRP
   now/RB
   know/VBP
@@ -30,6 +61,70 @@
   are/VBP
   horrific/JJ
   ./.)(S (/( (NP (NBAR BEGIN/NNP VIDEO/NNP CLIP/NNP)) )/))(S
+  (NP (NBAR DR./NNP GEORGE/NNP VELMAHOS/NNP))
+  ,/,
+  (NP (NBAR CHIEF/NNP OF/NNP TRAUMA/NNP))
+  ,/,
+  (NP (NBAR MASS/NNP))
+  ./.
+  (NP (NBAR GEN./NNP HOSPITAL/NNP))
+  :/:
+  Eight/CD
+  (NP (NBAR patients/NNS))
+  are/VBP
+  in/IN
+  more/RBR
+  (NP (NBAR severe/JJ conditions/NNS))
+  than/IN
+  the/DT
+  (NP (NBAR rest/NN))
+  and/CC
+  they/PRP
+  have/VBP
+  (NP (NBAR undergone/JJ major/JJ operations/NNS))
+  ./.
+  Predominantly/RB
+  (NP (NBAR unfortunately/JJ amputations/NNS))
+  because/IN
+  of/IN
+  the/DT
+  (NP (NBAR devastating/JJ effects/NNS))
+  of/IN
+  the/DT
+  (NP (NBAR bombs/NN))
+  ./.)(S
+  (NP (NBAR DR./NNP GEORGE/NNP VELMAHOS/NNP))
+  ,/,
+  (NP (NBAR CHIEF/NNP OF/NNP TRAUMA/NNP))
+  ,/,
+  (NP (NBAR MASS/NNP))
+  ./.
+  (NP (NBAR GEN./NNP HOSPITAL/NNP))
+  :/:
+  Eight/CD
+  (NP (NBAR patients/NNS))
+  are/VBP
+  in/IN
+  more/RBR
+  (NP (NBAR severe/JJ conditions/NNS))
+  than/IN
+  the/DT
+  (NP (NBAR rest/NN))
+  and/CC
+  they/PRP
+  have/VBP
+  (NP (NBAR undergone/JJ major/JJ operations/NNS))
+  ./.
+  Predominantly/RB
+  (NP (NBAR unfortunately/JJ amputations/NNS))
+  because/IN
+  of/IN
+  the/DT
+  (NP (NBAR devastating/JJ effects/NNS))
+  of/IN
+  the/DT
+  (NP (NBAR bombs/NN))
+  ./.)(S
   (NP (NBAR DR./NNP GEORGE/NNP VELMAHOS/NNP))
   ,/,
   (NP (NBAR CHIEF/NNP OF/NNP TRAUMA/NNP))
@@ -115,7 +210,255 @@
   save/VB
   those/DT
   (NP (NBAR legs/NNS))
+  ./.)(S
+  There/EX
+  are/VBP
+  a/DT
+  (NP (NBAR variety/NN))
+  of/IN
+  (NP (NBAR sharp/JJ objects/NNS))
+  that/IN
+  we/PRP
+  found/VBD
+  in/IN
+  their/PRP$
+  (NP (NBAR bodies/NNS))
+  ,/,
+  probably/RB
+  this/DT
+  (NP (NBAR bomb/NN))
+  had/VBD
+  (NP (NBAR multiple/JJ metallic/JJ fragments/NNS))
+  in/IN
+  them/PRP
+  ./.
+  And/CC
+  we/PRP
+  removed/VBD
+  (NP (NBAR pellets/NNS))
+  and/CC
+  (NP (NBAR nails/NNS))
+  ./.
+  We/PRP
+  have/VBP
+  performed/VBN
+  four/CD
+  (NP (NBAR amputations/NNS))
+  and/CC
+  there/EX
+  are/VBP
+  two/CD
+  more/JJR
+  (NP (NBAR limbs/NNS))
+  that/WDT
+  are/VBP
+  at/IN
+  (NP (NBAR risk/NN))
+  ./.
+  But/CC
+  I/PRP
+  hope/VBP
+  that/IN
+  we/PRP
+  will/MD
+  save/VB
+  those/DT
+  (NP (NBAR legs/NNS))
+  ./.)(S
+  There/EX
+  are/VBP
+  a/DT
+  (NP (NBAR variety/NN))
+  of/IN
+  (NP (NBAR sharp/JJ objects/NNS))
+  that/IN
+  we/PRP
+  found/VBD
+  in/IN
+  their/PRP$
+  (NP (NBAR bodies/NNS))
+  ,/,
+  probably/RB
+  this/DT
+  (NP (NBAR bomb/NN))
+  had/VBD
+  (NP (NBAR multiple/JJ metallic/JJ fragments/NNS))
+  in/IN
+  them/PRP
+  ./.
+  And/CC
+  we/PRP
+  removed/VBD
+  (NP (NBAR pellets/NNS))
+  and/CC
+  (NP (NBAR nails/NNS))
+  ./.
+  We/PRP
+  have/VBP
+  performed/VBN
+  four/CD
+  (NP (NBAR amputations/NNS))
+  and/CC
+  there/EX
+  are/VBP
+  two/CD
+  more/JJR
+  (NP (NBAR limbs/NNS))
+  that/WDT
+  are/VBP
+  at/IN
+  (NP (NBAR risk/NN))
+  ./.
+  But/CC
+  I/PRP
+  hope/VBP
+  that/IN
+  we/PRP
+  will/MD
+  save/VB
+  those/DT
+  (NP (NBAR legs/NNS))
+  ./.)(S
+  There/EX
+  are/VBP
+  a/DT
+  (NP (NBAR variety/NN))
+  of/IN
+  (NP (NBAR sharp/JJ objects/NNS))
+  that/IN
+  we/PRP
+  found/VBD
+  in/IN
+  their/PRP$
+  (NP (NBAR bodies/NNS))
+  ,/,
+  probably/RB
+  this/DT
+  (NP (NBAR bomb/NN))
+  had/VBD
+  (NP (NBAR multiple/JJ metallic/JJ fragments/NNS))
+  in/IN
+  them/PRP
+  ./.
+  And/CC
+  we/PRP
+  removed/VBD
+  (NP (NBAR pellets/NNS))
+  and/CC
+  (NP (NBAR nails/NNS))
+  ./.
+  We/PRP
+  have/VBP
+  performed/VBN
+  four/CD
+  (NP (NBAR amputations/NNS))
+  and/CC
+  there/EX
+  are/VBP
+  two/CD
+  more/JJR
+  (NP (NBAR limbs/NNS))
+  that/WDT
+  are/VBP
+  at/IN
+  (NP (NBAR risk/NN))
+  ./.
+  But/CC
+  I/PRP
+  hope/VBP
+  that/IN
+  we/PRP
+  will/MD
+  save/VB
+  those/DT
+  (NP (NBAR legs/NNS))
   ./.)(S (/( (NP (NBAR END/NNP VIDEO/NNP CLIP/NNP)) )/))(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  Now/RB
+  the/DT
+  (NP (NBAR dead/JJ boy/NN))
+  was/VBD
+  (NP (NBAR Martin/NNP Richard/NNP))
+  ,/,
+  eight/CD
+  (NP (NBAR years/NNS))
+  old/JJ
+  as/IN
+  I/PRP
+  said/VBD
+  ,/,
+  and/CC
+  his/PRP$
+  (NP (NBAR mother/NN))
+  and/CC
+  (NP (NBAR sister/NN))
+  also/RB
+  suffered/VBD
+  (NP (NBAR serious/JJ injuries/NNS))
+  ./.
+  The/DT
+  (NP (NBAR Richard/NNP family/NN))
+  well/RB
+  known/VBN
+  in/IN
+  (NP (NBAR Dorchester/NNP))
+  ,/,
+  a/DT
+  (NP (NBAR working/JJ class/NN neighborhood/NN))
+  of/IN
+  (NP (NBAR Boston/NNP))
+  ./.
+  (NP (NBAR Martin/NNP))
+  's/POS
+  (NP (NBAR father/NN Bill/NNP))
+  is/VBZ
+  a/DT
+  (NP (NBAR community/NN leader/NN))
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  Now/RB
+  the/DT
+  (NP (NBAR dead/JJ boy/NN))
+  was/VBD
+  (NP (NBAR Martin/NNP Richard/NNP))
+  ,/,
+  eight/CD
+  (NP (NBAR years/NNS))
+  old/JJ
+  as/IN
+  I/PRP
+  said/VBD
+  ,/,
+  and/CC
+  his/PRP$
+  (NP (NBAR mother/NN))
+  and/CC
+  (NP (NBAR sister/NN))
+  also/RB
+  suffered/VBD
+  (NP (NBAR serious/JJ injuries/NNS))
+  ./.
+  The/DT
+  (NP (NBAR Richard/NNP family/NN))
+  well/RB
+  known/VBN
+  in/IN
+  (NP (NBAR Dorchester/NNP))
+  ,/,
+  a/DT
+  (NP (NBAR working/JJ class/NN neighborhood/NN))
+  of/IN
+  (NP (NBAR Boston/NNP))
+  ./.
+  (NP (NBAR Martin/NNP))
+  's/POS
+  (NP (NBAR father/NN Bill/NNP))
+  is/VBZ
+  a/DT
+  (NP (NBAR community/NN leader/NN))
+  ./.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   Now/RB
@@ -222,6 +565,258 @@
   the/DT
   (NP (NBAR hospital/NN))
   ./.)(S
+  (NP (NBAR JANE/NNP SHERMAN/NNP))
+  ,/,
+  (NP (NBAR RICHARD/NNP FAMILY/NNP NEIGHBOR/NNP))
+  :/:
+  I/PRP
+  said/VBD
+  ``/``
+  (NP (NBAR Oh/NNP))
+  ,/,
+  my/PRP$
+  (NP (NBAR God/NNP))
+  ,/,
+  (NP (NBAR Bill/NNP))
+  ,/,
+  are/VBP
+  you/PRP
+  ok/JJ
+  ?/.
+  ''/''
+  And/CC
+  he/PRP
+  did/VBD
+  n't/RB
+  even/RB
+  answer/VB
+  me/PRP
+  ./.
+  And/CC
+  his/PRP$
+  (NP (NBAR friend/NN))
+  came/VBD
+  over/IN
+  to/TO
+  tell/VB
+  me/PRP
+  what/WDT
+  has/VBZ
+  happened/VBN
+  ./.
+  And/CC
+  I/PRP
+  was/VBD
+  just/RB
+  in/IN
+  (NP (NBAR shock/NN))
+  and/CC
+  horrified/VBD
+  ./.
+  He/PRP
+  just/RB
+  told/VBD
+  me/PRP
+  that/IN
+  (NP (NBAR Martin/NNP))
+  had/VBD
+  died/VBN
+  and/CC
+  (NP (NBAR other/JJ ones/NNS))
+  were/VBD
+  in/IN
+  the/DT
+  (NP (NBAR hospital/NN))
+  ./.)(S
+  (NP (NBAR JANE/NNP SHERMAN/NNP))
+  ,/,
+  (NP (NBAR RICHARD/NNP FAMILY/NNP NEIGHBOR/NNP))
+  :/:
+  I/PRP
+  said/VBD
+  ``/``
+  (NP (NBAR Oh/NNP))
+  ,/,
+  my/PRP$
+  (NP (NBAR God/NNP))
+  ,/,
+  (NP (NBAR Bill/NNP))
+  ,/,
+  are/VBP
+  you/PRP
+  ok/JJ
+  ?/.
+  ''/''
+  And/CC
+  he/PRP
+  did/VBD
+  n't/RB
+  even/RB
+  answer/VB
+  me/PRP
+  ./.
+  And/CC
+  his/PRP$
+  (NP (NBAR friend/NN))
+  came/VBD
+  over/IN
+  to/TO
+  tell/VB
+  me/PRP
+  what/WDT
+  has/VBZ
+  happened/VBN
+  ./.
+  And/CC
+  I/PRP
+  was/VBD
+  just/RB
+  in/IN
+  (NP (NBAR shock/NN))
+  and/CC
+  horrified/VBD
+  ./.
+  He/PRP
+  just/RB
+  told/VBD
+  me/PRP
+  that/IN
+  (NP (NBAR Martin/NNP))
+  had/VBD
+  died/VBN
+  and/CC
+  (NP (NBAR other/JJ ones/NNS))
+  were/VBD
+  in/IN
+  the/DT
+  (NP (NBAR hospital/NN))
+  ./.)(S
+  (NP (NBAR JANE/NNP SHERMAN/NNP))
+  ,/,
+  (NP (NBAR RICHARD/NNP FAMILY/NNP NEIGHBOR/NNP))
+  :/:
+  I/PRP
+  said/VBD
+  ``/``
+  (NP (NBAR Oh/NNP))
+  ,/,
+  my/PRP$
+  (NP (NBAR God/NNP))
+  ,/,
+  (NP (NBAR Bill/NNP))
+  ,/,
+  are/VBP
+  you/PRP
+  ok/JJ
+  ?/.
+  ''/''
+  And/CC
+  he/PRP
+  did/VBD
+  n't/RB
+  even/RB
+  answer/VB
+  me/PRP
+  ./.
+  And/CC
+  his/PRP$
+  (NP (NBAR friend/NN))
+  came/VBD
+  over/IN
+  to/TO
+  tell/VB
+  me/PRP
+  what/WDT
+  has/VBZ
+  happened/VBN
+  ./.
+  And/CC
+  I/PRP
+  was/VBD
+  just/RB
+  in/IN
+  (NP (NBAR shock/NN))
+  and/CC
+  horrified/VBD
+  ./.
+  He/PRP
+  just/RB
+  told/VBD
+  me/PRP
+  that/IN
+  (NP (NBAR Martin/NNP))
+  had/VBD
+  died/VBN
+  and/CC
+  (NP (NBAR other/JJ ones/NNS))
+  were/VBD
+  in/IN
+  the/DT
+  (NP (NBAR hospital/NN))
+  ./.)(S
+  (NP (NBAR JANE/NNP SHERMAN/NNP))
+  ,/,
+  (NP (NBAR RICHARD/NNP FAMILY/NNP NEIGHBOR/NNP))
+  :/:
+  I/PRP
+  said/VBD
+  ``/``
+  (NP (NBAR Oh/NNP))
+  ,/,
+  my/PRP$
+  (NP (NBAR God/NNP))
+  ,/,
+  (NP (NBAR Bill/NNP))
+  ,/,
+  are/VBP
+  you/PRP
+  ok/JJ
+  ?/.
+  ''/''
+  And/CC
+  he/PRP
+  did/VBD
+  n't/RB
+  even/RB
+  answer/VB
+  me/PRP
+  ./.
+  And/CC
+  his/PRP$
+  (NP (NBAR friend/NN))
+  came/VBD
+  over/IN
+  to/TO
+  tell/VB
+  me/PRP
+  what/WDT
+  has/VBZ
+  happened/VBN
+  ./.
+  And/CC
+  I/PRP
+  was/VBD
+  just/RB
+  in/IN
+  (NP (NBAR shock/NN))
+  and/CC
+  horrified/VBD
+  ./.
+  He/PRP
+  just/RB
+  told/VBD
+  me/PRP
+  that/IN
+  (NP (NBAR Martin/NNP))
+  had/VBD
+  died/VBN
+  and/CC
+  (NP (NBAR other/JJ ones/NNS))
+  were/VBD
+  in/IN
+  the/DT
+  (NP (NBAR hospital/NN))
+  ./.)(S
   And/CC
   I/PRP
   did/VBD
@@ -240,6 +835,46 @@
   at/IN
   that/DT
   (NP (NBAR time/NN))
+  ./.)(S
+  And/CC
+  I/PRP
+  did/VBD
+  n't/RB
+  ask/VB
+  any/DT
+  more/JJR
+  (NP (NBAR questions/NNS))
+  ./.
+  I/PRP
+  did/VBD
+  n't/RB
+  feel/VB
+  it/PRP
+  appropriate/VB
+  at/IN
+  that/DT
+  (NP (NBAR time/NN))
+  ./.)(S
+  Well/IN
+  it/PRP
+  's/VBZ
+  sad/JJ
+  ,/,
+  it/PRP
+  's/VBZ
+  very/RB
+  ,/,
+  very/RB
+  sad/JJ
+  ./.
+  There/EX
+  are/VBP
+  no/DT
+  (NP (NBAR words/NNS))
+  to/TO
+  describe/VB
+  this/DT
+  (NP (NBAR whole/JJ situation/NN))
   ./.)(S
   Well/IN
   it/PRP
@@ -308,6 +943,333 @@
   would/MD
   get/VB
   through/IN
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  And/CC
+  that/DT
+  's/VBZ
+  true/JJ
+  ./.
+  It/PRP
+  is/VBZ
+  impossible/JJ
+  to/TO
+  put/VB
+  (NP (NBAR things/NNS))
+  like/IN
+  this/DT
+  into/IN
+  (NP (NBAR context/NN))
+  ./.
+  (NP (NBAR Terrorists/NNS))
+  are/VBP
+  obviously/RB
+  targeting/VBG
+  (NP (NBAR America/NNP))
+  ./.
+  So/RB
+  far/RB
+  (NP (NBAR U.S./NNP authorities/NNS))
+  have/VBP
+  done/VBN
+  an/DT
+  (NP (NBAR excellent/JJ job/NN))
+  in/IN
+  my/PRP$
+  (NP (NBAR opinion/NN))
+  in/IN
+  protecting/VBG
+  us/PRP
+  but/CC
+  it/PRP
+  was/VBD
+  inevitable/JJ
+  that/IN
+  (NP (NBAR someone/NN))
+  would/MD
+  get/VB
+  through/IN
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  And/CC
+  that/DT
+  's/VBZ
+  true/JJ
+  ./.
+  It/PRP
+  is/VBZ
+  impossible/JJ
+  to/TO
+  put/VB
+  (NP (NBAR things/NNS))
+  like/IN
+  this/DT
+  into/IN
+  (NP (NBAR context/NN))
+  ./.
+  (NP (NBAR Terrorists/NNS))
+  are/VBP
+  obviously/RB
+  targeting/VBG
+  (NP (NBAR America/NNP))
+  ./.
+  So/RB
+  far/RB
+  (NP (NBAR U.S./NNP authorities/NNS))
+  have/VBP
+  done/VBN
+  an/DT
+  (NP (NBAR excellent/JJ job/NN))
+  in/IN
+  my/PRP$
+  (NP (NBAR opinion/NN))
+  in/IN
+  protecting/VBG
+  us/PRP
+  but/CC
+  it/PRP
+  was/VBD
+  inevitable/JJ
+  that/IN
+  (NP (NBAR someone/NN))
+  would/MD
+  get/VB
+  through/IN
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  And/CC
+  that/DT
+  's/VBZ
+  true/JJ
+  ./.
+  It/PRP
+  is/VBZ
+  impossible/JJ
+  to/TO
+  put/VB
+  (NP (NBAR things/NNS))
+  like/IN
+  this/DT
+  into/IN
+  (NP (NBAR context/NN))
+  ./.
+  (NP (NBAR Terrorists/NNS))
+  are/VBP
+  obviously/RB
+  targeting/VBG
+  (NP (NBAR America/NNP))
+  ./.
+  So/RB
+  far/RB
+  (NP (NBAR U.S./NNP authorities/NNS))
+  have/VBP
+  done/VBN
+  an/DT
+  (NP (NBAR excellent/JJ job/NN))
+  in/IN
+  my/PRP$
+  (NP (NBAR opinion/NN))
+  in/IN
+  protecting/VBG
+  us/PRP
+  but/CC
+  it/PRP
+  was/VBD
+  inevitable/JJ
+  that/IN
+  (NP (NBAR someone/NN))
+  would/MD
+  get/VB
+  through/IN
+  ./.)(S
+  Now/RB
+  about/IN
+  the/DT
+  (NP (NBAR bombs/NN))
+  ./.
+  (NP (NBAR Fox/NNP News/NNP))
+  is/VBZ
+  reporting/VBG
+  they/PRP
+  were/VBD
+  homemade/VBN
+  ,/,
+  put/VB
+  into/IN
+  a/DT
+  (NP (NBAR knapsack/NN))
+  and/CC
+  placed/VBN
+  in/IN
+  (NP (NBAR garbage/NN cans/NNS))
+  ./.
+  The/DT
+  (NP (NBAR bombs/NN))
+  contained/VBD
+  (NP (NBAR nails/NNS))
+  ,/,
+  (NP (NBAR ball/JJ bearings/NNS))
+  and/CC
+  (NP (NBAR BB/NNP))
+  's/POS
+  those/DT
+  are/VBP
+  designed/VBN
+  to/TO
+  maim/VB
+  (NP (NBAR people/NNS))
+  ./.
+  Also/RB
+  bombs/VBP
+  like/IN
+  this/DT
+  have/VBP
+  been/VBN
+  used/VBN
+  in/IN
+  (NP (NBAR Afghanistan/NNP))
+  but/CC
+  again/RB
+  they/PRP
+  seem/VBP
+  to/TO
+  be/VB
+  homemade/VBN
+  with/IN
+  (NP (NBAR ingredients/NNS))
+  you/PRP
+  can/MD
+  buy/VB
+  at/IN
+  any/DT
+  (NP (NBAR hardware/NN store/NN))
+  ./.)(S
+  Now/RB
+  about/IN
+  the/DT
+  (NP (NBAR bombs/NN))
+  ./.
+  (NP (NBAR Fox/NNP News/NNP))
+  is/VBZ
+  reporting/VBG
+  they/PRP
+  were/VBD
+  homemade/VBN
+  ,/,
+  put/VB
+  into/IN
+  a/DT
+  (NP (NBAR knapsack/NN))
+  and/CC
+  placed/VBN
+  in/IN
+  (NP (NBAR garbage/NN cans/NNS))
+  ./.
+  The/DT
+  (NP (NBAR bombs/NN))
+  contained/VBD
+  (NP (NBAR nails/NNS))
+  ,/,
+  (NP (NBAR ball/JJ bearings/NNS))
+  and/CC
+  (NP (NBAR BB/NNP))
+  's/POS
+  those/DT
+  are/VBP
+  designed/VBN
+  to/TO
+  maim/VB
+  (NP (NBAR people/NNS))
+  ./.
+  Also/RB
+  bombs/VBP
+  like/IN
+  this/DT
+  have/VBP
+  been/VBN
+  used/VBN
+  in/IN
+  (NP (NBAR Afghanistan/NNP))
+  but/CC
+  again/RB
+  they/PRP
+  seem/VBP
+  to/TO
+  be/VB
+  homemade/VBN
+  with/IN
+  (NP (NBAR ingredients/NNS))
+  you/PRP
+  can/MD
+  buy/VB
+  at/IN
+  any/DT
+  (NP (NBAR hardware/NN store/NN))
+  ./.)(S
+  Now/RB
+  about/IN
+  the/DT
+  (NP (NBAR bombs/NN))
+  ./.
+  (NP (NBAR Fox/NNP News/NNP))
+  is/VBZ
+  reporting/VBG
+  they/PRP
+  were/VBD
+  homemade/VBN
+  ,/,
+  put/VB
+  into/IN
+  a/DT
+  (NP (NBAR knapsack/NN))
+  and/CC
+  placed/VBN
+  in/IN
+  (NP (NBAR garbage/NN cans/NNS))
+  ./.
+  The/DT
+  (NP (NBAR bombs/NN))
+  contained/VBD
+  (NP (NBAR nails/NNS))
+  ,/,
+  (NP (NBAR ball/JJ bearings/NNS))
+  and/CC
+  (NP (NBAR BB/NNP))
+  's/POS
+  those/DT
+  are/VBP
+  designed/VBN
+  to/TO
+  maim/VB
+  (NP (NBAR people/NNS))
+  ./.
+  Also/RB
+  bombs/VBP
+  like/IN
+  this/DT
+  have/VBP
+  been/VBN
+  used/VBN
+  in/IN
+  (NP (NBAR Afghanistan/NNP))
+  but/CC
+  again/RB
+  they/PRP
+  seem/VBP
+  to/TO
+  be/VB
+  homemade/VBN
+  with/IN
+  (NP (NBAR ingredients/NNS))
+  you/PRP
+  can/MD
+  buy/VB
+  at/IN
+  any/DT
+  (NP (NBAR hardware/NN store/NN))
   ./.)(S
   Now/RB
   about/IN
@@ -441,4 +1403,288 @@
   (NP (NBAR stain/NN))
   on/IN
   (NP (NBAR American/JJ history/NN))
-  ./.)(S And/CC that/IN ``/`` The/DT (NP (NBAR Memo/NNP)) ./. ''/'')(S )
+  ./.)(S
+  Right/RB
+  now/RB
+  there/EX
+  is/VBZ
+  (NP (NBAR nothing/NN))
+  to/TO
+  do/VB
+  but/CC
+  wait/VB
+  for/IN
+  more/JJR
+  (NP (NBAR information/NN))
+  ./.
+  (NP (NBAR U.S./NNP intelligence/NN))
+  as/IN
+  I/PRP
+  said/VBD
+  the/DT
+  best/JJS
+  in/IN
+  the/DT
+  (NP (NBAR world/NN))
+  ,/,
+  (NP (NBAR FBI/NNP))
+  a/DT
+  (NP (NBAR first/JJ rate/NN organization/NN))
+  ./.
+  ``/``
+  Talking/VBG
+  (NP (NBAR Points/NNS))
+  ''/''
+  believes/VBZ
+  the/DT
+  (NP (NBAR perps/NN))
+  will/MD
+  be/VB
+  found/VBN
+  and/CC
+  brought/VBN
+  to/TO
+  (NP (NBAR justice/NN))
+  and/CC
+  executed/VBN
+  ./.
+  But/CC
+  if/IN
+  this/DT
+  is/VBZ
+  an/DT
+  (NP (NBAR international/JJ terror/NN attack/NN))
+  ,/,
+  the/DT
+  (NP (NBAR repercussions/NNS))
+  will/MD
+  be/VB
+  severe/JJ
+  ./.
+  And/CC
+  if/IN
+  it/PRP
+  's/VBZ
+  home-grown/JJ
+  ,/,
+  that/WDT
+  will/MD
+  be/VB
+  another/DT
+  (NP (NBAR stain/NN))
+  on/IN
+  (NP (NBAR American/JJ history/NN))
+  ./.)(S
+  Right/RB
+  now/RB
+  there/EX
+  is/VBZ
+  (NP (NBAR nothing/NN))
+  to/TO
+  do/VB
+  but/CC
+  wait/VB
+  for/IN
+  more/JJR
+  (NP (NBAR information/NN))
+  ./.
+  (NP (NBAR U.S./NNP intelligence/NN))
+  as/IN
+  I/PRP
+  said/VBD
+  the/DT
+  best/JJS
+  in/IN
+  the/DT
+  (NP (NBAR world/NN))
+  ,/,
+  (NP (NBAR FBI/NNP))
+  a/DT
+  (NP (NBAR first/JJ rate/NN organization/NN))
+  ./.
+  ``/``
+  Talking/VBG
+  (NP (NBAR Points/NNS))
+  ''/''
+  believes/VBZ
+  the/DT
+  (NP (NBAR perps/NN))
+  will/MD
+  be/VB
+  found/VBN
+  and/CC
+  brought/VBN
+  to/TO
+  (NP (NBAR justice/NN))
+  and/CC
+  executed/VBN
+  ./.
+  But/CC
+  if/IN
+  this/DT
+  is/VBZ
+  an/DT
+  (NP (NBAR international/JJ terror/NN attack/NN))
+  ,/,
+  the/DT
+  (NP (NBAR repercussions/NNS))
+  will/MD
+  be/VB
+  severe/JJ
+  ./.
+  And/CC
+  if/IN
+  it/PRP
+  's/VBZ
+  home-grown/JJ
+  ,/,
+  that/WDT
+  will/MD
+  be/VB
+  another/DT
+  (NP (NBAR stain/NN))
+  on/IN
+  (NP (NBAR American/JJ history/NN))
+  ./.)(S
+  Right/RB
+  now/RB
+  there/EX
+  is/VBZ
+  (NP (NBAR nothing/NN))
+  to/TO
+  do/VB
+  but/CC
+  wait/VB
+  for/IN
+  more/JJR
+  (NP (NBAR information/NN))
+  ./.
+  (NP (NBAR U.S./NNP intelligence/NN))
+  as/IN
+  I/PRP
+  said/VBD
+  the/DT
+  best/JJS
+  in/IN
+  the/DT
+  (NP (NBAR world/NN))
+  ,/,
+  (NP (NBAR FBI/NNP))
+  a/DT
+  (NP (NBAR first/JJ rate/NN organization/NN))
+  ./.
+  ``/``
+  Talking/VBG
+  (NP (NBAR Points/NNS))
+  ''/''
+  believes/VBZ
+  the/DT
+  (NP (NBAR perps/NN))
+  will/MD
+  be/VB
+  found/VBN
+  and/CC
+  brought/VBN
+  to/TO
+  (NP (NBAR justice/NN))
+  and/CC
+  executed/VBN
+  ./.
+  But/CC
+  if/IN
+  this/DT
+  is/VBZ
+  an/DT
+  (NP (NBAR international/JJ terror/NN attack/NN))
+  ,/,
+  the/DT
+  (NP (NBAR repercussions/NNS))
+  will/MD
+  be/VB
+  severe/JJ
+  ./.
+  And/CC
+  if/IN
+  it/PRP
+  's/VBZ
+  home-grown/JJ
+  ,/,
+  that/WDT
+  will/MD
+  be/VB
+  another/DT
+  (NP (NBAR stain/NN))
+  on/IN
+  (NP (NBAR American/JJ history/NN))
+  ./.)(S
+  Right/RB
+  now/RB
+  there/EX
+  is/VBZ
+  (NP (NBAR nothing/NN))
+  to/TO
+  do/VB
+  but/CC
+  wait/VB
+  for/IN
+  more/JJR
+  (NP (NBAR information/NN))
+  ./.
+  (NP (NBAR U.S./NNP intelligence/NN))
+  as/IN
+  I/PRP
+  said/VBD
+  the/DT
+  best/JJS
+  in/IN
+  the/DT
+  (NP (NBAR world/NN))
+  ,/,
+  (NP (NBAR FBI/NNP))
+  a/DT
+  (NP (NBAR first/JJ rate/NN organization/NN))
+  ./.
+  ``/``
+  Talking/VBG
+  (NP (NBAR Points/NNS))
+  ''/''
+  believes/VBZ
+  the/DT
+  (NP (NBAR perps/NN))
+  will/MD
+  be/VB
+  found/VBN
+  and/CC
+  brought/VBN
+  to/TO
+  (NP (NBAR justice/NN))
+  and/CC
+  executed/VBN
+  ./.
+  But/CC
+  if/IN
+  this/DT
+  is/VBZ
+  an/DT
+  (NP (NBAR international/JJ terror/NN attack/NN))
+  ,/,
+  the/DT
+  (NP (NBAR repercussions/NNS))
+  will/MD
+  be/VB
+  severe/JJ
+  ./.
+  And/CC
+  if/IN
+  it/PRP
+  's/VBZ
+  home-grown/JJ
+  ,/,
+  that/WDT
+  will/MD
+  be/VB
+  another/DT
+  (NP (NBAR stain/NN))
+  on/IN
+  (NP (NBAR American/JJ history/NN))
+  ./.)(S And/CC that/IN ``/`` The/DT (NP (NBAR Memo/NNP)) ./. ''/'')

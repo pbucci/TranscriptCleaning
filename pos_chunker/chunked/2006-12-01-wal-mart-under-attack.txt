@@ -1,4 +1,63 @@
-(S )(S )(S
+(S
+  (NP (NBAR BILL/NNP O'REILLY/NNP))
+  ,/,
+  (NP (NBAR HOST/NNP))
+  :/:
+  ``/``
+  (NP (NBAR Back/NNP))
+  of/IN
+  the/DT
+  (NP (NBAR Book/NNP))
+  ''/''
+  (NP (NBAR segment/NN tonight/NN))
+  ,/,
+  (NP (NBAR Wal-Mart/NNP))
+  ,/,
+  the/DT
+  (NP (NBAR nation/NN))
+  's/POS
+  largest/JJS
+  (NP (NBAR retailer/NN chain/NN store/NN))
+  ,/,
+  announced/VBD
+  that/IN
+  (NP (NBAR sales/NNS))
+  are/VBP
+  basically/RB
+  flat/JJ
+  and/CC
+  actually/RB
+  dropped/VBD
+  in/IN
+  (NP (NBAR November/NNP))
+  for/IN
+  the/DT
+  (NP (NBAR first/JJ time/NN))
+  in/IN
+  10/CD
+  (NP (NBAR years/NNS))
+  ./.
+  Now/RB
+  ,/,
+  this/DT
+  may/MD
+  be/VB
+  because/IN
+  there/EX
+  's/VBZ
+  a/DT
+  (NP (NBAR bitter/JJ dispute/NN))
+  between/IN
+  some/DT
+  (NP (NBAR labor/NN unions/NNS))
+  and/CC
+  (NP (NBAR Wal-Mart/NNP))
+  over/IN
+  the/DT
+  (NP (NBAR company/NN))
+  's/POS
+  (NP (NBAR policies/NNS))
+  ./.)(S
   (NP (NBAR BILL/NNP O'REILLY/NNP))
   ,/,
   (NP (NBAR HOST/NNP))
@@ -90,6 +149,40 @@
   ./.
   (NP (NBAR Salary/JJ caps/NNS))
   ./.)(S
+  (NP (NBAR CHARMAINE/NNP GIVENS/NNP))
+  ,/,
+  (NP (NBAR WAL-MART/NNP ASSOCIATE/NNP))
+  :/:
+  What/WP
+  are/VBP
+  (NP (NBAR Wal-Mart/NNP))
+  's/POS
+  (NP (NBAR values/NNS))
+  ?/.
+  I/PRP
+  'll/MD
+  tell/VB
+  you/PRP
+  ./.
+  (NP (NBAR Salary/JJ caps/NNS))
+  ./.)(S
+  (NP (NBAR CHARMAINE/NNP GIVENS/NNP))
+  ,/,
+  (NP (NBAR WAL-MART/NNP ASSOCIATE/NNP))
+  :/:
+  What/WP
+  are/VBP
+  (NP (NBAR Wal-Mart/NNP))
+  's/POS
+  (NP (NBAR values/NNS))
+  ?/.
+  I/PRP
+  'll/MD
+  tell/VB
+  you/PRP
+  ./.
+  (NP (NBAR Salary/JJ caps/NNS))
+  ./.)(S
   (NP (NBAR RAMIRO/NNP GONZALEZ/NNP))
   ,/,
   (NP (NBAR WAL-MART/JJ ASSOCIATE/NN))
@@ -151,6 +244,38 @@
   (NP (NBAR way/NN))
   ./.
   (NP (NBAR Never/NNP))
+  ./.)(S
+  (NP (NBAR MURRAY/NN))
+  :/:
+  (NP (NBAR Sam/NNP Walton/NNP))
+  would/MD
+  have/VB
+  never/RB
+  treated/VBN
+  us/PRP
+  this/DT
+  (NP (NBAR way/NN))
+  ./.
+  (NP (NBAR Never/NNP))
+  ./.)(S
+  (NP (NBAR GIVENS/NN))
+  :/:
+  There/EX
+  's/VBZ
+  $/$
+  11/CD
+  billion/CD
+  in/IN
+  (NP (NBAR profit/NN))
+  ./.
+  It/PRP
+  does/VBZ
+  n't/RB
+  need/VB
+  to/TO
+  be/VB
+  this/DT
+  (NP (NBAR way/NN))
   ./.)(S
   (NP (NBAR GIVENS/NN))
   :/:
@@ -252,6 +377,19 @@
   ./.
   Absolutely/RB
   ./.)(S
+  (NP (NBAR ELIZABETH/NNP MCDONALD/NNP))
+  ,/,
+  (NP (NBAR SENIOR/NNP EDITOR/NNP))
+  ,/,
+  (NP (NBAR FORBES/NNP))
+  :/:
+  Yes/UH
+  ,/,
+  they/PRP
+  have/VBP
+  ./.
+  Absolutely/RB
+  ./.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   And/CC
@@ -280,6 +418,90 @@
   (NP (NBAR brand/NN))
   anymore/RB
   ?/.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  And/CC
+  do/VB
+  you/PRP
+  think/VB
+  it/PRP
+  's/VBZ
+  taken/VBN
+  its/PRP$
+  (NP (NBAR toll/NN))
+  on/IN
+  the/DT
+  (NP (NBAR consumer/NN))
+  ?/.
+  Do/VBP
+  you/PRP
+  think/VB
+  the/DT
+  (NP (NBAR consumer/NN))
+  now/RB
+  does/VBZ
+  n't/RB
+  like/VB
+  the/DT
+  (NP (NBAR brand/NN))
+  anymore/RB
+  ?/.)(S
+  (NP (NBAR MCDONALD/NN))
+  :/:
+  (NP (NBAR Well/NNP))
+  ,/,
+  I/PRP
+  do/VBP
+  think/VB
+  it/PRP
+  is/VBZ
+  taking/VBG
+  its/PRP$
+  (NP (NBAR toll/NN))
+  on/IN
+  the/DT
+  (NP (NBAR consumer/NN))
+  ,/,
+  because/IN
+  the/DT
+  (NP (NBAR consumer/NN))
+  sees/VBZ
+  this/DT
+  commercial/JJ
+  and/CC
+  (NP (NBAR thinks/NNS))
+  ,/,
+  ``/``
+  Look/VB
+  ,/,
+  we/PRP
+  're/VBP
+  not/RB
+  going/VBG
+  to/TO
+  shop/VB
+  at/IN
+  a/DT
+  (NP (NBAR company/NN))
+  or/CC
+  (NP (NBAR store/NN))
+  ,/,
+  rather/RB
+  ,/,
+  that/DT
+  really/RB
+  is/VBZ
+  abusive/JJ
+  to/TO
+  their/PRP$
+  (NP (NBAR employees/NNS))
+  ./.
+  ''/''
+  That/WDT
+  's/VBZ
+  the/DT
+  (NP (NBAR message/NN))
+  ./.)(S
   (NP (NBAR MCDONALD/NN))
   :/:
   (NP (NBAR Well/NNP))
@@ -406,6 +628,96 @@
   to/TO
   the/DT
   (NP (NBAR unions/NNS))
+  ./.)(S
+  (NP (NBAR Look/NN))
+  ,/,
+  what/WP
+  's/VBZ
+  going/VBG
+  on/IN
+  here/RB
+  is/VBZ
+  that/IN
+  (NP (NBAR Wal-Mart/NNP))
+  is/VBZ
+  putting/VBG
+  a/DT
+  (NP (NBAR lot/NN))
+  of/IN
+  (NP (NBAR inefficient/JJ businesses/NNS))
+  out/IN
+  of/IN
+  (NP (NBAR business/NN))
+  ,/,
+  meaning/VBG
+  (NP (NBAR Calzore/NNP))
+  's/POS
+  ,/,
+  (NP (NBAR Ames/NNP))
+  ,/,
+  (NP (NBAR A/NNP))
+  &/CC
+  (NP (NBAR P/NNP))
+  ./.
+  Those/DT
+  (NP (NBAR businesses/NNS))
+  had/VBD
+  higher/JJR
+  (NP (NBAR union/NN workers/NNS))
+  ./.
+  Those/DT
+  (NP (NBAR union/NN workers/NNS))
+  were/VBD
+  paying/VBG
+  (NP (NBAR dues/NNS))
+  to/TO
+  the/DT
+  (NP (NBAR unions/NNS))
+  ./.)(S
+  (NP (NBAR Look/NN))
+  ,/,
+  what/WP
+  's/VBZ
+  going/VBG
+  on/IN
+  here/RB
+  is/VBZ
+  that/IN
+  (NP (NBAR Wal-Mart/NNP))
+  is/VBZ
+  putting/VBG
+  a/DT
+  (NP (NBAR lot/NN))
+  of/IN
+  (NP (NBAR inefficient/JJ businesses/NNS))
+  out/IN
+  of/IN
+  (NP (NBAR business/NN))
+  ,/,
+  meaning/VBG
+  (NP (NBAR Calzore/NNP))
+  's/POS
+  ,/,
+  (NP (NBAR Ames/NNP))
+  ,/,
+  (NP (NBAR A/NNP))
+  &/CC
+  (NP (NBAR P/NNP))
+  ./.
+  Those/DT
+  (NP (NBAR businesses/NNS))
+  had/VBD
+  higher/JJR
+  (NP (NBAR union/NN workers/NNS))
+  ./.
+  Those/DT
+  (NP (NBAR union/NN workers/NNS))
+  were/VBD
+  paying/VBG
+  (NP (NBAR dues/NNS))
+  to/TO
+  the/DT
+  (NP (NBAR unions/NNS))
   ./.)(S (NP (NBAR O'REILLY/NN)) :/: Right/RB ./.)(S
   (NP (NBAR MCDONALD/NNS))
   :/:
@@ -444,6 +756,89 @@
   like/IN
   this/DT
   ./.)(S
+  (NP (NBAR MCDONALD/NNS))
+  :/:
+  So/RB
+  of/IN
+  (NP (NBAR course/NN))
+  ,/,
+  the/DT
+  (NP (NBAR unions/NNS))
+  are/VBP
+  trying/VBG
+  (NP (NBAR —/NNP))
+  they/PRP
+  've/VBP
+  been/VBN
+  trying/VBG
+  for/IN
+  (NP (NBAR years/NNS))
+  to/TO
+  get/VB
+  (NP (NBAR Wal-Mart/NNP))
+  to/TO
+  unionize/VB
+  ,/,
+  and/CC
+  (NP (NBAR Wal-Mart/NNP))
+  wo/MD
+  n't/RB
+  ./.
+  That/DT
+  's/VBZ
+  why/WRB
+  you/PRP
+  see/VBP
+  (NP (NBAR attack/JJ commercials/NNS))
+  like/IN
+  this/DT
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  OK/JJ
+  ./.
+  But/CC
+  is/VBZ
+  there/RB
+  a/DT
+  (NP (NBAR legitimate/JJ point/NN))
+  that/IN
+  (NP (NBAR Wal-Mart/NNP))
+  is/VBZ
+  exploiting/VBG
+  their/PRP$
+  (NP (NBAR employees/NNS))
+  ?/.
+  Is/VBZ
+  there/RB
+  any/DT
+  (NP (NBAR legitimacy/NN))
+  to/TO
+  that/DT
+  ?/.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  OK/JJ
+  ./.
+  But/CC
+  is/VBZ
+  there/RB
+  a/DT
+  (NP (NBAR legitimate/JJ point/NN))
+  that/IN
+  (NP (NBAR Wal-Mart/NNP))
+  is/VBZ
+  exploiting/VBG
+  their/PRP$
+  (NP (NBAR employees/NNS))
+  ?/.
+  Is/VBZ
+  there/RB
+  any/DT
+  (NP (NBAR legitimacy/NN))
+  to/TO
+  that/DT
+  ?/.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   OK/JJ
@@ -506,6 +901,184 @@
   at/IN
   (NP (NBAR Wal-Mart/NNP))
   unobjectively/RB
+  ./.)(S
+  (NP (NBAR MCDONALD/NN))
+  :/:
+  The/DT
+  (NP (NBAR thing/NN))
+  of/IN
+  it/PRP
+  is/VBZ
+  ,/,
+  there/EX
+  's/VBZ
+  a/DT
+  (NP (NBAR lot/NN))
+  of/IN
+  (NP (NBAR knee-jerk/JJ journalism/NN))
+  ./.
+  I/PRP
+  mean/VBP
+  ,/,
+  the/DT
+  (NP (NBAR description/NN))
+  is/VBZ
+  that/IN
+  (NP (NBAR Wal-Mart/NNP))
+  is/VBZ
+  hot/JJ
+  molten/RB
+  evil/JJ
+  ./.
+  But/CC
+  you/PRP
+  have/VBP
+  to/TO
+  stand/VB
+  back/RB
+  and/CC
+  look/VB
+  at/IN
+  (NP (NBAR Wal-Mart/NNP))
+  unobjectively/RB
+  ./.)(S
+  (NP (NBAR MCDONALD/NN))
+  :/:
+  The/DT
+  (NP (NBAR thing/NN))
+  of/IN
+  it/PRP
+  is/VBZ
+  ,/,
+  there/EX
+  's/VBZ
+  a/DT
+  (NP (NBAR lot/NN))
+  of/IN
+  (NP (NBAR knee-jerk/JJ journalism/NN))
+  ./.
+  I/PRP
+  mean/VBP
+  ,/,
+  the/DT
+  (NP (NBAR description/NN))
+  is/VBZ
+  that/IN
+  (NP (NBAR Wal-Mart/NNP))
+  is/VBZ
+  hot/JJ
+  molten/RB
+  evil/JJ
+  ./.
+  But/CC
+  you/PRP
+  have/VBP
+  to/TO
+  stand/VB
+  back/RB
+  and/CC
+  look/VB
+  at/IN
+  (NP (NBAR Wal-Mart/NNP))
+  unobjectively/RB
+  ./.)(S
+  And/CC
+  that/DT
+  is/VBZ
+  that/IN
+  (NP (NBAR two-thirds/NNS))
+  of/IN
+  their/PRP$
+  (NP (NBAR employees/NNS))
+  are/VBP
+  (NP (NBAR college/NN students/NNS))
+  ,/,
+  the/DT
+  elderly/JJ
+  or/CC
+  (NP (NBAR second-family/JJ earners/NNS))
+  ,/,
+  meaning/VBG
+  that/IN
+  they/PRP
+  get/VBP
+  (NP (NBAR health/NN insurance/NN))
+  from/IN
+  (NP (NBAR other/JJ places/NNS))
+  ./.
+  So/RB
+  90/CD
+  (NP (NBAR percent/NN))
+  of/IN
+  (NP (NBAR Wal-Mart/NNP workers/NNS))
+  apparently/RB
+  do/VBP
+  have/VB
+  (NP (NBAR healthcare/NN coverage/NN))
+  ./.
+  So/IN
+  it/PRP
+  's/VBZ
+  not/RB
+  —/VB
+  it/PRP
+  is/VBZ
+  an/DT
+  (NP (NBAR attack/NN))
+  ,/,
+  and/CC
+  it/PRP
+  's/VBZ
+  unfair/JJ
+  ./.)(S
+  And/CC
+  that/DT
+  is/VBZ
+  that/IN
+  (NP (NBAR two-thirds/NNS))
+  of/IN
+  their/PRP$
+  (NP (NBAR employees/NNS))
+  are/VBP
+  (NP (NBAR college/NN students/NNS))
+  ,/,
+  the/DT
+  elderly/JJ
+  or/CC
+  (NP (NBAR second-family/JJ earners/NNS))
+  ,/,
+  meaning/VBG
+  that/IN
+  they/PRP
+  get/VBP
+  (NP (NBAR health/NN insurance/NN))
+  from/IN
+  (NP (NBAR other/JJ places/NNS))
+  ./.
+  So/RB
+  90/CD
+  (NP (NBAR percent/NN))
+  of/IN
+  (NP (NBAR Wal-Mart/NNP workers/NNS))
+  apparently/RB
+  do/VBP
+  have/VB
+  (NP (NBAR healthcare/NN coverage/NN))
+  ./.
+  So/IN
+  it/PRP
+  's/VBZ
+  not/RB
+  —/VB
+  it/PRP
+  is/VBZ
+  an/DT
+  (NP (NBAR attack/NN))
+  ,/,
+  and/CC
+  it/PRP
+  's/VBZ
+  unfair/JJ
   ./.)(S
   And/CC
   that/DT
@@ -611,6 +1184,123 @@
   of/IN
   (NP (NBAR health/NN care/NN coverage/NN))
   ./.)(S
+  By/IN
+  the/DT
+  (NP (NBAR way/NN))
+  ,/,
+  a/DT
+  (NP (NBAR lot/NN))
+  of/IN
+  (NP (NBAR grocery/NN stores/NNS))
+  were/VBD
+  not/RB
+  providing/VBG
+  (NP (NBAR healthcare/JJ coverage/NN))
+  for/IN
+  their/PRP$
+  (NP (NBAR workers/NNS))
+  ./.
+  So/RB
+  you/PRP
+  know/VBP
+  ,/,
+  these/DT
+  are/VBP
+  (NP (NBAR jobs/NNS))
+  such/JJ
+  as/IN
+  stocking/VBG
+  (NP (NBAR shelves/NNS))
+  or/CC
+  being/VBG
+  a/DT
+  (NP (NBAR cashier/NN))
+  or/CC
+  being/VBG
+  a/DT
+  (NP (NBAR greeter/NN))
+  at/IN
+  the/DT
+  (NP (NBAR door/NN))
+  ./.
+  It/PRP
+  's/VBZ
+  very/RB
+  hard/JJ
+  to/TO
+  find/VB
+  a/DT
+  (NP (NBAR job/NN))
+  that/WDT
+  will/MD
+  provide/VB
+  that/IN
+  (NP (NBAR kind/NN))
+  of/IN
+  (NP (NBAR health/NN care/NN coverage/NN))
+  ./.)(S
+  By/IN
+  the/DT
+  (NP (NBAR way/NN))
+  ,/,
+  a/DT
+  (NP (NBAR lot/NN))
+  of/IN
+  (NP (NBAR grocery/NN stores/NNS))
+  were/VBD
+  not/RB
+  providing/VBG
+  (NP (NBAR healthcare/JJ coverage/NN))
+  for/IN
+  their/PRP$
+  (NP (NBAR workers/NNS))
+  ./.
+  So/RB
+  you/PRP
+  know/VBP
+  ,/,
+  these/DT
+  are/VBP
+  (NP (NBAR jobs/NNS))
+  such/JJ
+  as/IN
+  stocking/VBG
+  (NP (NBAR shelves/NNS))
+  or/CC
+  being/VBG
+  a/DT
+  (NP (NBAR cashier/NN))
+  or/CC
+  being/VBG
+  a/DT
+  (NP (NBAR greeter/NN))
+  at/IN
+  the/DT
+  (NP (NBAR door/NN))
+  ./.
+  It/PRP
+  's/VBZ
+  very/RB
+  hard/JJ
+  to/TO
+  find/VB
+  a/DT
+  (NP (NBAR job/NN))
+  that/WDT
+  will/MD
+  provide/VB
+  that/IN
+  (NP (NBAR kind/NN))
+  of/IN
+  (NP (NBAR health/NN care/NN coverage/NN))
+  ./.)(S
+  (NP (NBAR Wal-Mart/NNP))
+  does/VBZ
+  provide/VB
+  (NP (NBAR healthcare/NN coverage/NN))
+  ./.
+  But/CC
+  .../:)(S
   (NP (NBAR Wal-Mart/NNP))
   does/VBZ
   provide/VB
@@ -640,6 +1330,96 @@
   lower/JJR
   (NP (NBAR price/NN))
   .../:)(S (NP (NBAR MCDONALD/NN)) :/: Right/RB ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  .../:
+  so/RB
+  that/IN
+  working/VBG
+  (NP (NBAR Americans/NNPS benefit/NN))
+  ,/,
+  because/IN
+  its/PRP$
+  (NP (NBAR keeps/NNS))
+  its/PRP$
+  overhead/JJ
+  down/RP
+  ./.
+  However/RB
+  ,/,
+  you/PRP
+  know/VBP
+  ,/,
+  as/RB
+  devastating/VBG
+  as/IN
+  that/DT
+  is/VBZ
+  ,/,
+  you/PRP
+  're/VBP
+  making/VBG
+  $/$
+  11/CD
+  billion/CD
+  in/IN
+  (NP (NBAR profit/NN))
+  ./.
+  Can/MD
+  you/PRP
+  kick/VB
+  back/RP
+  a/DT
+  little/JJ
+  to/TO
+  the/DT
+  (NP (NBAR folks/NNS))
+  ?/.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  .../:
+  so/RB
+  that/IN
+  working/VBG
+  (NP (NBAR Americans/NNPS benefit/NN))
+  ,/,
+  because/IN
+  its/PRP$
+  (NP (NBAR keeps/NNS))
+  its/PRP$
+  overhead/JJ
+  down/RP
+  ./.
+  However/RB
+  ,/,
+  you/PRP
+  know/VBP
+  ,/,
+  as/RB
+  devastating/VBG
+  as/IN
+  that/DT
+  is/VBZ
+  ,/,
+  you/PRP
+  're/VBP
+  making/VBG
+  $/$
+  11/CD
+  billion/CD
+  in/IN
+  (NP (NBAR profit/NN))
+  ./.
+  Can/MD
+  you/PRP
+  kick/VB
+  back/RP
+  a/DT
+  little/JJ
+  to/TO
+  the/DT
+  (NP (NBAR folks/NNS))
+  ?/.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   .../:
@@ -715,6 +1495,60 @@
   get/VB
   (NP (NBAR coverage/NN))
   ./.)(S
+  (NP (NBAR MCDONALD/NN))
+  :/:
+  The/DT
+  (NP (NBAR thing/NN))
+  of/IN
+  it/PRP
+  is/VBZ
+  (NP (NBAR healthcare/JJ coverage/NN))
+  is/VBZ
+  a/DT
+  (NP (NBAR problem/NN))
+  ./.
+  And/CC
+  these/DT
+  are/VBP
+  the/DT
+  (NP (NBAR exact/JJ people/NNS))
+  ,/,
+  you/PRP
+  know/VBP
+  ,/,
+  who/WP
+  work/VBP
+  at/IN
+  (NP (NBAR grocery/NN stores/NNS))
+  that/WDT
+  should/MD
+  get/VB
+  (NP (NBAR coverage/NN))
+  ./.)(S
+  But/CC
+  by/IN
+  the/DT
+  (NP (NBAR way/NN))
+  ,/,
+  (NP (NBAR Blue/NNP Cross/Blue/NNP Shield/NNP))
+  runs/VBZ
+  billion/CD
+  (NP (NBAR dollar/NN surpluses/NNS))
+  ./.
+  You/PRP
+  do/VBP
+  n't/RB
+  see/VB
+  them/PRP
+  giving/VBG
+  that/IN
+  (NP (NBAR money/NN))
+  back/RB
+  to/TO
+  lower/VB
+  their/PRP$
+  (NP (NBAR rates/NNS))
+  ./.)(S
   But/CC
   by/IN
   the/DT
@@ -758,6 +1592,77 @@
   these/DT
   (NP (NBAR attacks/NNS))
   ?/.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  All/DT
+  (NP (NBAR right/NN))
+  ./.
+  If/IN
+  you/PRP
+  were/VBD
+  running/VBG
+  (NP (NBAR Wal-Mart/NNP))
+  ,/,
+  would/MD
+  you/PRP
+  be/VB
+  concerned/VBN
+  about/IN
+  these/DT
+  (NP (NBAR attacks/NNS))
+  ?/.)(S
+  (NP (NBAR MCDONALD/NN))
+  :/:
+  Absolutely/RB
+  ./.
+  And/CC
+  what/WP
+  I/PRP
+  would/MD
+  do/VB
+  is/VBZ
+  immediately/RB
+  try/VB
+  to/TO
+  do/VB
+  (NP (NBAR something/NN))
+  about/IN
+  (NP (NBAR health/NN care/NN coverage/NN))
+  ./.
+  That/WDT
+  seems/VBZ
+  to/TO
+  be/VB
+  the/DT
+  most/RBS
+  (NP (NBAR serious/JJ issue/NN))
+  ./.)(S
+  (NP (NBAR MCDONALD/NN))
+  :/:
+  Absolutely/RB
+  ./.
+  And/CC
+  what/WP
+  I/PRP
+  would/MD
+  do/VB
+  is/VBZ
+  immediately/RB
+  try/VB
+  to/TO
+  do/VB
+  (NP (NBAR something/NN))
+  about/IN
+  (NP (NBAR health/NN care/NN coverage/NN))
+  ./.
+  That/WDT
+  seems/VBZ
+  to/TO
+  be/VB
+  the/DT
+  most/RBS
+  (NP (NBAR serious/JJ issue/NN))
+  ./.)(S
   (NP (NBAR MCDONALD/NN))
   :/:
   Absolutely/RB
@@ -813,6 +1718,66 @@
   getting/VBG
   pummeled/VBN
   ./.
+  ''/'')(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  All/DT
+  (NP (NBAR right/NN))
+  ./.
+  So/IN
+  you/PRP
+  would/MD
+  ?/.
+  You/PRP
+  'd/MD
+  look/VB
+  at/IN
+  it/PRP
+  ,/,
+  and/CC
+  you/PRP
+  'd/MD
+  say/VB
+  ,/,
+  ``/``
+  OK/UH
+  ,/,
+  our/PRP$
+  (NP (NBAR image/NN))
+  is/VBZ
+  getting/VBG
+  pummeled/VBN
+  ./.
+  ''/'')(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  All/DT
+  (NP (NBAR right/NN))
+  ./.
+  So/IN
+  you/PRP
+  would/MD
+  ?/.
+  You/PRP
+  'd/MD
+  look/VB
+  at/IN
+  it/PRP
+  ,/,
+  and/CC
+  you/PRP
+  'd/MD
+  say/VB
+  ,/,
+  ``/``
+  OK/UH
+  ,/,
+  our/PRP$
+  (NP (NBAR image/NN))
+  is/VBZ
+  getting/VBG
+  pummeled/VBN
+  ./.
   ''/'')(S (NP (NBAR MCDONALD/NN)) :/: Right/RB ./.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
@@ -834,6 +1799,46 @@
   (NP (NBAR little/JJ bit/NN))
   more/RBR
   ./.)(S
+  (NP (NBAR MCDONALD/NN))
+  :/:
+  Absolutely/RB
+  and/CC
+  maybe/RB
+  the/DT
+  (NP (NBAR unions/NNS))
+  will/MD
+  stand/VB
+  down/RP
+  ./.
+  I/PRP
+  doubt/VBP
+  it/PRP
+  ./.
+  They/PRP
+  're/VBP
+  in/IN
+  it/PRP
+  .../:)(S
+  (NP (NBAR MCDONALD/NN))
+  :/:
+  Absolutely/RB
+  and/CC
+  maybe/RB
+  the/DT
+  (NP (NBAR unions/NNS))
+  will/MD
+  stand/VB
+  down/RP
+  ./.
+  I/PRP
+  doubt/VBP
+  it/PRP
+  ./.
+  They/PRP
+  're/VBP
+  in/IN
+  it/PRP
+  .../:)(S
   (NP (NBAR MCDONALD/NN))
   :/:
   Absolutely/RB
@@ -953,6 +1958,165 @@
   (NP (NBAR FOX/NNP News/NNP))
   ./.
   ''/'')(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  (NP (NBAR Last/JJ question/NN))
+  ,/,
+  the/DT
+  (NP (NBAR FOX/NNP News/NNP Channel/NNP))
+  ,/,
+  interestingly/RB
+  enough/RB
+  ,/,
+  is/VBZ
+  parallel/JJ
+  ./.
+  We/PRP
+  've/VBP
+  been/VBN
+  attacked/VBN
+  for/IN
+  10/CD
+  (NP (NBAR years/NNS))
+  by/IN
+  our/PRP$
+  (NP (NBAR competitors/NNS))
+  and/CC
+  (NP (NBAR others/NNS))
+  who/WP
+  do/VBP
+  n't/RB
+  like/VB
+  the/DT
+  (NP (NBAR editorial/NN bent/NN))
+  ./.
+  And/CC
+  some/DT
+  of/IN
+  those/DT
+  (NP (NBAR attacks/NNS))
+  have/VBP
+  been/VBN
+  effective/JJ
+  in/IN
+  driving/VBG
+  (NP (NBAR people/NNS))
+  who/WP
+  do/VBP
+  n't/RB
+  know/VB
+  the/DT
+  (NP (NBAR channel/NN))
+  ,/,
+  who/WP
+  do/VBP
+  n't/RB
+  watch/VB
+  the/DT
+  (NP (NBAR channel/NN))
+  :/:
+  ``/``
+  Oh/UH
+  ,/,
+  that/DT
+  (NP (NBAR FOX/NNP News/NNP))
+  ./.
+  ''/'')(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  (NP (NBAR Last/JJ question/NN))
+  ,/,
+  the/DT
+  (NP (NBAR FOX/NNP News/NNP Channel/NNP))
+  ,/,
+  interestingly/RB
+  enough/RB
+  ,/,
+  is/VBZ
+  parallel/JJ
+  ./.
+  We/PRP
+  've/VBP
+  been/VBN
+  attacked/VBN
+  for/IN
+  10/CD
+  (NP (NBAR years/NNS))
+  by/IN
+  our/PRP$
+  (NP (NBAR competitors/NNS))
+  and/CC
+  (NP (NBAR others/NNS))
+  who/WP
+  do/VBP
+  n't/RB
+  like/VB
+  the/DT
+  (NP (NBAR editorial/NN bent/NN))
+  ./.
+  And/CC
+  some/DT
+  of/IN
+  those/DT
+  (NP (NBAR attacks/NNS))
+  have/VBP
+  been/VBN
+  effective/JJ
+  in/IN
+  driving/VBG
+  (NP (NBAR people/NNS))
+  who/WP
+  do/VBP
+  n't/RB
+  know/VB
+  the/DT
+  (NP (NBAR channel/NN))
+  ,/,
+  who/WP
+  do/VBP
+  n't/RB
+  watch/VB
+  the/DT
+  (NP (NBAR channel/NN))
+  :/:
+  ``/``
+  Oh/UH
+  ,/,
+  that/DT
+  (NP (NBAR FOX/NNP News/NNP))
+  ./.
+  ''/'')(S
+  And/CC
+  then/RB
+  when/WRB
+  you/PRP
+  say/VBP
+  what/WP
+  's/VBZ
+  wrong/JJ
+  with/IN
+  it/PRP
+  ,/,
+  they/PRP
+  go/VBP
+  ,/,
+  ``/``
+  I/PRP
+  do/VBP
+  n't/RB
+  watch/VB
+  it/PRP
+  ./.
+  ''/''
+  You/PRP
+  know/VBP
+  ,/,
+  that/DT
+  (NP (NBAR kind/NN))
+  of/IN
+  a/DT
+  (NP (NBAR thing/NN))
+  ./.)(S
   And/CC
   then/RB
   when/WRB
@@ -1062,6 +2226,242 @@
   be/VB
   (NP (NBAR problems/NNS))
   ./.)(S
+  (NP (NBAR MCDONALD/NNS))
+  :/:
+  Yes/UH
+  ,/,
+  there/EX
+  will/MD
+  be/VB
+  a/DT
+  (NP (NBAR danger/NN))
+  ./.
+  When/WRB
+  (NP (NBAR commercials/NNS))
+  like/IN
+  this/DT
+  are/VBP
+  out/JJ
+  and/CC
+  (NP (NBAR people/NNS))
+  see/VBP
+  it/PRP
+  ,/,
+  they/PRP
+  second-guess/VBP
+  themselves/PRP
+  and/CC
+  they/PRP
+  say/VBP
+  ,/,
+  ``/``
+  Wait/VBP
+  a/DT
+  second/JJ
+  ./.
+  What/WP
+  is/VBZ
+  this/DT
+  (NP (NBAR brand/NN))
+  doing/VBG
+  to/TO
+  its/PRP$
+  (NP (NBAR workers/NNS))
+  ?/.
+  ''/''
+  Because/IN
+  (NP (NBAR people/NNS))
+  really/RB
+  do/VBP
+  n't/RB
+  want/VB
+  to/TO
+  shop/VB
+  at/IN
+  a/DT
+  (NP (NBAR company/NN))
+  where/WRB
+  there/EX
+  might/MD
+  be/VB
+  (NP (NBAR problems/NNS))
+  ./.)(S
+  (NP (NBAR MCDONALD/NNS))
+  :/:
+  Yes/UH
+  ,/,
+  there/EX
+  will/MD
+  be/VB
+  a/DT
+  (NP (NBAR danger/NN))
+  ./.
+  When/WRB
+  (NP (NBAR commercials/NNS))
+  like/IN
+  this/DT
+  are/VBP
+  out/JJ
+  and/CC
+  (NP (NBAR people/NNS))
+  see/VBP
+  it/PRP
+  ,/,
+  they/PRP
+  second-guess/VBP
+  themselves/PRP
+  and/CC
+  they/PRP
+  say/VBP
+  ,/,
+  ``/``
+  Wait/VBP
+  a/DT
+  second/JJ
+  ./.
+  What/WP
+  is/VBZ
+  this/DT
+  (NP (NBAR brand/NN))
+  doing/VBG
+  to/TO
+  its/PRP$
+  (NP (NBAR workers/NNS))
+  ?/.
+  ''/''
+  Because/IN
+  (NP (NBAR people/NNS))
+  really/RB
+  do/VBP
+  n't/RB
+  want/VB
+  to/TO
+  shop/VB
+  at/IN
+  a/DT
+  (NP (NBAR company/NN))
+  where/WRB
+  there/EX
+  might/MD
+  be/VB
+  (NP (NBAR problems/NNS))
+  ./.)(S
+  (NP (NBAR MCDONALD/NNS))
+  :/:
+  Yes/UH
+  ,/,
+  there/EX
+  will/MD
+  be/VB
+  a/DT
+  (NP (NBAR danger/NN))
+  ./.
+  When/WRB
+  (NP (NBAR commercials/NNS))
+  like/IN
+  this/DT
+  are/VBP
+  out/JJ
+  and/CC
+  (NP (NBAR people/NNS))
+  see/VBP
+  it/PRP
+  ,/,
+  they/PRP
+  second-guess/VBP
+  themselves/PRP
+  and/CC
+  they/PRP
+  say/VBP
+  ,/,
+  ``/``
+  Wait/VBP
+  a/DT
+  second/JJ
+  ./.
+  What/WP
+  is/VBZ
+  this/DT
+  (NP (NBAR brand/NN))
+  doing/VBG
+  to/TO
+  its/PRP$
+  (NP (NBAR workers/NNS))
+  ?/.
+  ''/''
+  Because/IN
+  (NP (NBAR people/NNS))
+  really/RB
+  do/VBP
+  n't/RB
+  want/VB
+  to/TO
+  shop/VB
+  at/IN
+  a/DT
+  (NP (NBAR company/NN))
+  where/WRB
+  there/EX
+  might/MD
+  be/VB
+  (NP (NBAR problems/NNS))
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  And/CC
+  there/EX
+  's/VBZ
+  no/DT
+  (NP (NBAR —/JJ right/NN))
+  ./.
+  They/PRP
+  do/VBP
+  n't/RB
+  want/VB
+  to/TO
+  hurt/VB
+  the/DT
+  (NP (NBAR folks/NNS))
+  ./.
+  It/PRP
+  's/VBZ
+  no/DT
+  (NP (NBAR accident/NN))
+  these/DT
+  (NP (NBAR commercials/NNS))
+  are/VBP
+  running/VBG
+  around/RB
+  (NP (NBAR Christmastime/NNP))
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  And/CC
+  there/EX
+  's/VBZ
+  no/DT
+  (NP (NBAR —/JJ right/NN))
+  ./.
+  They/PRP
+  do/VBP
+  n't/RB
+  want/VB
+  to/TO
+  hurt/VB
+  the/DT
+  (NP (NBAR folks/NNS))
+  ./.
+  It/PRP
+  's/VBZ
+  no/DT
+  (NP (NBAR accident/NN))
+  these/DT
+  (NP (NBAR commercials/NNS))
+  are/VBP
+  running/VBG
+  around/RB
+  (NP (NBAR Christmastime/NNP))
+  ./.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   And/CC
@@ -1109,6 +2509,66 @@
   (NP (NBAR Vicious/JJ war/NN))
   ./.
   (NP (NBAR Interesting/NNP war/NN))
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  Right/RB
+  ./.
+  They/PRP
+  're/VBP
+  trying/VBG
+  —/RP
+  the/DT
+  (NP (NBAR unions/NNS))
+  are/VBP
+  trying/VBG
+  to/TO
+  hurt/VB
+  them/PRP
+  ./.
+  (NP (NBAR Vicious/JJ war/NN))
+  ./.
+  (NP (NBAR Interesting/NNP war/NN))
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  Right/RB
+  ./.
+  They/PRP
+  're/VBP
+  trying/VBG
+  —/RP
+  the/DT
+  (NP (NBAR unions/NNS))
+  are/VBP
+  trying/VBG
+  to/TO
+  hurt/VB
+  them/PRP
+  ./.
+  (NP (NBAR Vicious/JJ war/NN))
+  ./.
+  (NP (NBAR Interesting/NNP war/NN))
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  Right/RB
+  ./.
+  They/PRP
+  're/VBP
+  trying/VBG
+  —/RP
+  the/DT
+  (NP (NBAR unions/NNS))
+  are/VBP
+  trying/VBG
+  to/TO
+  hurt/VB
+  them/PRP
+  ./.
+  (NP (NBAR Vicious/JJ war/NN))
+  ./.
+  (NP (NBAR Interesting/NNP war/NN))
   ./.)(S (NP (NBAR MCDONALD/NNS)) :/: Yes/UH ./.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
@@ -1123,4 +2583,18 @@
   see/VB
   you/PRP
   again/RB
-  ./.)(S )(S )
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  (NP (NBAR Elizabeth/NNP))
+  ,/,
+  (NP (NBAR thanks/NNS))
+  very/RB
+  much/RB
+  ./.
+  Good/JJ
+  to/TO
+  see/VB
+  you/PRP
+  again/RB
+  ./.)

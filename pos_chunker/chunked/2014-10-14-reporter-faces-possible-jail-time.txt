@@ -1,4 +1,4 @@
-(S )(S
+(S
   (NP (NBAR O'REILLY/NN))
   :/:
   ``/``
@@ -28,6 +28,71 @@
   (NP (NBAR secrets/NNS))
   about/IN
   (NP (NBAR NSA/NNP surveillance/NN))
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  ``/``
+  (NP (NBAR Personal/NNP Story/NNP))
+  ''/''
+  (NP (NBAR segment/NN tonight/NN))
+  ./.
+  Both/CC
+  the/DT
+  (NP (NBAR Obama/NNP administration/NN))
+  and/CC
+  the/DT
+  (NP (NBAR Bush/NNP administration/NN))
+  before/IN
+  believed/VBN
+  ``/``
+  (NP (NBAR New/NNP York/NNP Times/NNP))
+  ''/''
+  (NP (NBAR journalist/NN))
+  ,/,
+  (NP (NBAR James/NNP Risen/NNP))
+  ,/,
+  violated/VBD
+  (NP (NBAR national/JJ security/NN))
+  by/IN
+  publishing/VBG
+  (NP (NBAR secrets/NNS))
+  about/IN
+  (NP (NBAR NSA/NNP surveillance/NN))
+  ./.)(S
+  That/DT
+  came/VBD
+  about/RB
+  because/IN
+  of/IN
+  the/DT
+  2006/CD
+  (NP (NBAR book/NN))
+  ,/,
+  ``/``
+  (NP (NBAR State/NNP))
+  of/IN
+  (NP (NBAR War/NNP))
+  ,/,
+  ''/''
+  in/IN
+  which/WDT
+  (NP (NBAR Mr./NNP Risen/NNP))
+  said/VBD
+  an/DT
+  (NP (NBAR anonymous/JJ government/NN sources/NNS))
+  which/WDT
+  the/DT
+  (NP (NBAR feds/NNS))
+  want/VBP
+  him/PRP
+  reveal/VB
+  ./.
+  (NP (NBAR Hears/NNP))
+  what/WP
+  I/PRP
+  said/VBD
+  back/RB
+  then/RB
   ./.)(S
   That/DT
   came/VBD
@@ -107,6 +172,107 @@
   the/DT
   (NP (NBAR primary/JJ reason/NN))
   ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  (NP (NBAR Risen/NNP flat-out/JJ states/NNS President/NNP Bush/NNP))
+  broke/VBD
+  the/DT
+  (NP (NBAR law/NN))
+  by/IN
+  allowing/VBG
+  the/DT
+  (NP (NBAR National/NNP Security/NNP Agency/NNP))
+  to/TO
+  listen/VB
+  to/TO
+  (NP (NBAR calls/NNS))
+  made/VBN
+  by/IN
+  (NP (NBAR Americans/NNPS))
+  ./.
+  (NP (NBAR Risen/NNP))
+  ,/,
+  however/RB
+  ,/,
+  downplays/VBZ
+  the/DT
+  (NP (NBAR nature/NN))
+  of/IN
+  the/DT
+  (NP (NBAR calls/NNS))
+  --/:
+  that/IN
+  they/PRP
+  were/VBD
+  reportedly/RB
+  made/VBN
+  to/TO
+  (NP (NBAR overseas/JJ people/NNS))
+  ./.
+  And/CC
+  (NP (NBAR al-Qaeda/JJ surveillance/NN))
+  was/VBD
+  the/DT
+  (NP (NBAR primary/JJ reason/NN))
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  (NP (NBAR Risen/NNP flat-out/JJ states/NNS President/NNP Bush/NNP))
+  broke/VBD
+  the/DT
+  (NP (NBAR law/NN))
+  by/IN
+  allowing/VBG
+  the/DT
+  (NP (NBAR National/NNP Security/NNP Agency/NNP))
+  to/TO
+  listen/VB
+  to/TO
+  (NP (NBAR calls/NNS))
+  made/VBN
+  by/IN
+  (NP (NBAR Americans/NNPS))
+  ./.
+  (NP (NBAR Risen/NNP))
+  ,/,
+  however/RB
+  ,/,
+  downplays/VBZ
+  the/DT
+  (NP (NBAR nature/NN))
+  of/IN
+  the/DT
+  (NP (NBAR calls/NNS))
+  --/:
+  that/IN
+  they/PRP
+  were/VBD
+  reportedly/RB
+  made/VBN
+  to/TO
+  (NP (NBAR overseas/JJ people/NNS))
+  ./.
+  And/CC
+  (NP (NBAR al-Qaeda/JJ surveillance/NN))
+  was/VBD
+  the/DT
+  (NP (NBAR primary/JJ reason/NN))
+  ./.)(S
+  Again/RB
+  ,/,
+  this/DT
+  (NP (NBAR NSA/NNP deal/NN))
+  is/VBZ
+  largely/RB
+  undefined/JJ
+  ./.
+  There/EX
+  are/VBP
+  (NP (NBAR good/JJ arguments/NNS))
+  on/IN
+  both/DT
+  (NP (NBAR sides/NNS))
+  ./.)(S
   Again/RB
   ,/,
   this/DT
@@ -122,6 +288,38 @@
   both/DT
   (NP (NBAR sides/NNS))
   ./.)(S (/( (NP (NBAR END/NNP VIDEO/NNP CLIP/NNP)) )/))(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  Now/RB
+  ,/,
+  (NP (NBAR Mr./NNP Risen/NNP))
+  has/VBZ
+  a/DT
+  (NP (NBAR new/JJ book/NN))
+  called/VBN
+  ,/,
+  ``/``
+  Pay/VB
+  Any/DT
+  (NP (NBAR Price/NNP))
+  --/:
+  (NP (NBAR Greed/NNP))
+  ,/,
+  (NP (NBAR Power/NNP))
+  and/CC
+  (NP (NBAR Endless/NNP War/NNP))
+  ,/,
+  ''/''
+  which/WDT
+  comes/VBZ
+  out/RP
+  (NP (NBAR tomorrow/NN))
+  ./.
+  He/PRP
+  joins/VBZ
+  us/PRP
+  now/RB
+  ./.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   Now/RB
@@ -180,6 +378,42 @@
     (NBAR NEW/NNP YORK/NNP TIMES/NNP INVESTIGATIVE/NNP REPORTER/NNP))
   :/:
   (NP (NBAR Uh-huh/NN))
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  Why/WRB
+  does/VBZ
+  n't/RB
+  the/DT
+  (NP (NBAR Obama/NNP administration/NN))
+  and/CC
+  the/DT
+  (NP (NBAR Bush/NNP administration/NN))
+  before/RB
+  --/:
+  why/WRB
+  do/VBP
+  n't/RB
+  they/PRP
+  get/VB
+  the/DT
+  (NP (NBAR warrants/NNS))
+  to/TO
+  listen/VB
+  ./.
+  Because/IN
+  they/PRP
+  're/VBP
+  easy/JJ
+  to/TO
+  get/VB
+  from/IN
+  the/DT
+  (NP (NBAR FISA/NNP Court/NNP))
+  ,/,
+  are/VBP
+  they/PRP
+  not/RB
   ./.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
@@ -304,6 +538,111 @@
   already/RB
   doing/VBG
   ./.)(S
+  That/DT
+  was/VBD
+  their/PRP$
+  (NP (NBAR argument/NN))
+  ./.
+  But/CC
+  since/IN
+  then/RB
+  ,/,
+  there/EX
+  's/VBZ
+  been/VBN
+  (NP (NBAR new/JJ laws/NNS))
+  after/IN
+  our/PRP$
+  (NP (NBAR stories/NNS))
+  came/VBD
+  out/RP
+  that/IN
+  allowed/VBN
+  basically/RB
+  --/:
+  (NP (NBAR legislation/NN))
+  that/WDT
+  allowed/VBD
+  them/PRP
+  to/TO
+  basically/RB
+  do/VB
+  what/WP
+  they/PRP
+  were/VBD
+  already/RB
+  doing/VBG
+  ./.)(S
+  Now/RB
+  ,/,
+  the/DT
+  (NP (NBAR Obama/NNP administration/NN))
+  has/VBZ
+  expanded/VBN
+  it/PRP
+  exponentially/RB
+  with/IN
+  all/PDT
+  the/DT
+  (NP (NBAR social/JJ media/NNS))
+  ,/,
+  (NP (NBAR Facebook/NNP))
+  and/CC
+  (NP (NBAR Twitter/NNP))
+  ./.
+  They/PRP
+  grabbed/VBD
+  all/DT
+  of/IN
+  that/DT
+  ./.
+  And/CC
+  so/RB
+  ,/,
+  now/RB
+  ,/,
+  the/DT
+  (NP (NBAR NSA/NNP))
+  has/VBZ
+  much/RB
+  more/JJR
+  (NP (NBAR digital/JJ information/NN))
+  --/:)(S
+  Now/RB
+  ,/,
+  the/DT
+  (NP (NBAR Obama/NNP administration/NN))
+  has/VBZ
+  expanded/VBN
+  it/PRP
+  exponentially/RB
+  with/IN
+  all/PDT
+  the/DT
+  (NP (NBAR social/JJ media/NNS))
+  ,/,
+  (NP (NBAR Facebook/NNP))
+  and/CC
+  (NP (NBAR Twitter/NNP))
+  ./.
+  They/PRP
+  grabbed/VBD
+  all/DT
+  of/IN
+  that/DT
+  ./.
+  And/CC
+  so/RB
+  ,/,
+  now/RB
+  ,/,
+  the/DT
+  (NP (NBAR NSA/NNP))
+  has/VBZ
+  much/RB
+  more/JJR
+  (NP (NBAR digital/JJ information/NN))
+  --/:)(S
   Now/RB
   ,/,
   the/DT
@@ -407,7 +746,114 @@
   it/PRP
   ,/,
   (NP (NBAR OK/NNP))
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  OK/JJ
+  ,/,
+  now/RB
+  all/DT
+  of/IN
+  this/DT
+  is/VBZ
+  centered/VBN
+  around/IN
+  one/CD
+  (NP (NBAR thing/NN))
+  ./.
+  And/CC
+  correct/VB
+  me/PRP
+  if/IN
+  I/PRP
+  'm/VBP
+  wrong/JJ
+  because/IN
+  I/PRP
+  have/VBP
+  n't/RB
+  read/VB
+  your/PRP$
+  (NP (NBAR new/JJ book/NN))
+  ./.
+  I/PRP
+  just/RB
+  got/VBD
+  it/PRP
+  ,/,
+  (NP (NBAR OK/NNP))
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  OK/JJ
+  ,/,
+  now/RB
+  all/DT
+  of/IN
+  this/DT
+  is/VBZ
+  centered/VBN
+  around/IN
+  one/CD
+  (NP (NBAR thing/NN))
+  ./.
+  And/CC
+  correct/VB
+  me/PRP
+  if/IN
+  I/PRP
+  'm/VBP
+  wrong/JJ
+  because/IN
+  I/PRP
+  have/VBP
+  n't/RB
+  read/VB
+  your/PRP$
+  (NP (NBAR new/JJ book/NN))
+  ./.
+  I/PRP
+  just/RB
+  got/VBD
+  it/PRP
+  ,/,
+  (NP (NBAR OK/NNP))
   ./.)(S (NP (NBAR RISEN/NN)) :/: (NP (NBAR OK/NN)) ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  It/PRP
+  's/VBZ
+  centered/VBN
+  around/IN
+  both/DT
+  (NP (NBAR administrations/NNS))
+  ,/,
+  saying/VBG
+  ,/,
+  ``/``
+  We/PRP
+  need/VBP
+  to/TO
+  monitor/VB
+  what/WP
+  the/DT
+  (NP (NBAR terrorists/NNS))
+  are/VBP
+  doing/VBG
+  ./.
+  That/DT
+  's/VBZ
+  why/WRB
+  we/PRP
+  're/VBP
+  doing/VBG
+  this/DT
+  with/IN
+  all/DT
+  of/IN
+  our/PRP$
+  (NP (NBAR Intelligence/NN agencies/NNS))
+  ./.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   It/PRP
@@ -485,6 +931,82 @@
   last/JJ
   13/CD
   (NP (NBAR years/NNS))
+  ./.)(S
+  (NP (NBAR RISEN/NN))
+  :/:
+  That/DT
+  's/VBZ
+  their/PRP$
+  (NP (NBAR argument/NN))
+  ./.
+  But/CC
+  I/PRP
+  think/VBP
+  you/PRP
+  --/:
+  if/IN
+  you/PRP
+  look/VBP
+  at/IN
+  the/DT
+  (NP (NBAR details/NNS))
+  of/IN
+  the/DT
+  (NP (NBAR way/NN))
+  in/IN
+  which/WDT
+  we/PRP
+  fought/VBD
+  the/DT
+  (NP (NBAR war/NN))
+  on/IN
+  (NP (NBAR terror/NN))
+  ,/,
+  we/PRP
+  've/VBP
+  given/VBN
+  the/DT
+  (NP (NBAR government/NN way/NN))
+  too/RB
+  (NP (NBAR much/JJ power/NN))
+  over/IN
+  the/DT
+  last/JJ
+  13/CD
+  (NP (NBAR years/NNS))
+  ./.)(S
+  We/PRP
+  've/VBP
+  poured/VBN
+  (NP (NBAR hundreds/NNS))
+  of/IN
+  (NP (NBAR billions/NNS))
+  of/IN
+  (NP (NBAR dollars/NNS))
+  into/IN
+  this/DT
+  ./.
+  At/IN
+  the/DT
+  (NP (NBAR same/JJ time/NN))
+  ,/,
+  we/PRP
+  got/VBD
+  rid/JJ
+  of/IN
+  a/DT
+  (NP (NBAR lot/NN))
+  of/IN
+  the/DT
+  (NP (NBAR regulations/NNS))
+  and/CC
+  (NP (NBAR rules/NNS))
+  governing/VBG
+  the/DT
+  (NP (NBAR way/NN))
+  we/PRP
+  handle/VBP
+  (NP (NBAR Intelligence/NNP))
   ./.)(S
   We/PRP
   've/VBP
@@ -588,6 +1110,94 @@
   got/VBD
   involved/VBN
   ./.)(S
+  And/CC
+  so/RB
+  ,/,
+  that/WDT
+  led/VBD
+  to/TO
+  a/DT
+  (NP (NBAR lot/NN))
+  of/IN
+  (NP (NBAR unintended/JJ consequences/NNS))
+  in/IN
+  the/DT
+  (NP (NBAR way/NN))
+  in/IN
+  which/WDT
+  we/PRP
+  fought/VBD
+  the/DT
+  (NP (NBAR war/NN))
+  on/IN
+  (NP (NBAR terror/NN))
+  ./.
+  And/CC
+  we/PRP
+  have/VBP
+  --/:
+  if/IN
+  you/PRP
+  look/VBP
+  at/IN
+  all/DT
+  of/IN
+  the/DT
+  (NP (NBAR countries/NNS))
+  in/IN
+  which/WDT
+  we/PRP
+  've/VBP
+  had/VBD
+  combat/VBN
+  (NP (NBAR operations/NNS))
+  since/IN
+  9/11/CD
+  ,/,
+  I/PRP
+  think/VBP
+  it/PRP
+  would/MD
+  be/VB
+  difficult/JJ
+  to/TO
+  say/VB
+  that/IN
+  any/DT
+  one/CD
+  of/IN
+  those/DT
+  (NP (NBAR countries/NNS))
+  is/VBZ
+  doing/VBG
+  better/JJR
+  than/IN
+  they/PRP
+  were/VBD
+  before/IN
+  we/PRP
+  got/VBD
+  involved/VBN
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  (NP (NBAR OK./NNP Let/NNP))
+  's/POS
+  (NP (NBAR put/NN))
+  that/IN
+  aside/RB
+  though/IN
+  ./.
+  It/PRP
+  's/VBZ
+  (NP (NBAR intent/NN))
+  that/IN
+  I/PRP
+  want/VBP
+  to/TO
+  know/VB
+  about/RB
+  --/:)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   (NP (NBAR OK./NNP Let/NNP))
@@ -607,6 +1217,13 @@
   know/VB
   about/RB
   --/:)(S (NP (NBAR RISEN/NN)) :/: (NP (NBAR Sure/NN)) ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  --/:
+  (NP (NBAR tonight/NN))
+  ./.
+  (NP (NBAR Intent/NN))
+  ./.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   --/:
@@ -637,6 +1254,23 @@
   on/IN
   (NP (NBAR civilian/JJ conversations/NNS))
   ./.)(S
+  (NP (NBAR RISEN/NN))
+  :/:
+  I/PRP
+  do/VBP
+  n't/RB
+  think/VB
+  that/DT
+  was/VBD
+  the/DT
+  (NP (NBAR intent/NN))
+  ./.
+  I/PRP
+  think/VBP
+  the/DT
+  (NP (NBAR intent/NN))
+  was/VBD
+  --/:)(S
   (NP (NBAR RISEN/NN))
   :/:
   I/PRP
@@ -685,6 +1319,84 @@
   your/PRP$
   (NP (NBAR opinion/NN))
   ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  All/DT
+  (NP (NBAR right/NN))
+  ./.
+  So/RB
+  ,/,
+  there/EX
+  's/VBZ
+  no/DT
+  (NP (NBAR intent/NN))
+  to/TO
+  do/VB
+  wrong/RB
+  ./.
+  It/PRP
+  's/VBZ
+  just/RB
+  misguided/VBN
+  in/IN
+  the/DT
+  (NP (NBAR way/NN))
+  they/PRP
+  carry/VBP
+  out/RP
+  (NP (NBAR national/JJ security/NN))
+  ,/,
+  in/IN
+  your/PRP$
+  (NP (NBAR opinion/NN))
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  All/DT
+  (NP (NBAR right/NN))
+  ./.
+  So/RB
+  ,/,
+  there/EX
+  's/VBZ
+  no/DT
+  (NP (NBAR intent/NN))
+  to/TO
+  do/VB
+  wrong/RB
+  ./.
+  It/PRP
+  's/VBZ
+  just/RB
+  misguided/VBN
+  in/IN
+  the/DT
+  (NP (NBAR way/NN))
+  they/PRP
+  carry/VBP
+  out/RP
+  (NP (NBAR national/JJ security/NN))
+  ,/,
+  in/IN
+  your/PRP$
+  (NP (NBAR opinion/NN))
+  ./.)(S
+  (NP (NBAR RISEN/NN))
+  :/:
+  Yes/UH
+  ./.
+  And/CC
+  I/PRP
+  think/VBP
+  that/IN
+  the/DT
+  (NP (NBAR problem/NN))
+  was/VBD
+  where/WRB
+  there/EX
+  was/VBD
+  (NP (NBAR little/JJ oversight/NN))
+  --/:)(S
   (NP (NBAR RISEN/NN))
   :/:
   Yes/UH
@@ -701,6 +1413,38 @@
   was/VBD
   (NP (NBAR little/JJ oversight/NN))
   --/:)(S (NP (NBAR O'REILLY/NN)) :/: Sure/JJ ./.)(S
+  (NP (NBAR RISEN/NN))
+  :/:
+  --/:
+  when/WRB
+  they/PRP
+  try/VBP
+  to/TO
+  do/VB
+  it/PRP
+  in/IN
+  secret/JJ
+  ./.
+  And/CC
+  so/RB
+  ,/,
+  when/WRB
+  you/PRP
+  have/VBP
+  a/DT
+  secret/JJ
+  --/:
+  a/DT
+  (NP (NBAR lot/NN secrecy/NN))
+  ,/,
+  you/PRP
+  're/VBP
+  going/VBG
+  to/TO
+  lead/VB
+  to/TO
+  (NP (NBAR abuses/NNS))
+  ./.)(S
   (NP (NBAR RISEN/NN))
   :/:
   --/:
@@ -796,6 +1540,90 @@
   (NP (NBAR matter/NN))
   ,/,
   right/RB
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  Now/RB
+  ,/,
+  let/VB
+  's/POS
+  get/VB
+  to/TO
+  you/PRP
+  ./.
+  So/RB
+  ,/,
+  they/PRP
+  want/VBP
+  you/PRP
+  --/:
+  they/PRP
+  ,/,
+  the/DT
+  (NP (NBAR Obama/NNP administration/NN))
+  now/RB
+  ,/,
+  to/TO
+  tell/VB
+  them/PRP
+  who/WP
+  gave/VBD
+  you/PRP
+  all/PDT
+  this/DT
+  (NP (NBAR inside/JJ stuff/NN))
+  ./.
+  That/DT
+  's/VBZ
+  the/DT
+  (NP (NBAR crux/NN))
+  of/IN
+  the/DT
+  (NP (NBAR matter/NN))
+  ,/,
+  right/RB
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  Now/RB
+  ,/,
+  let/VB
+  's/POS
+  get/VB
+  to/TO
+  you/PRP
+  ./.
+  So/RB
+  ,/,
+  they/PRP
+  want/VBP
+  you/PRP
+  --/:
+  they/PRP
+  ,/,
+  the/DT
+  (NP (NBAR Obama/NNP administration/NN))
+  now/RB
+  ,/,
+  to/TO
+  tell/VB
+  them/PRP
+  who/WP
+  gave/VBD
+  you/PRP
+  all/PDT
+  this/DT
+  (NP (NBAR inside/JJ stuff/NN))
+  ./.
+  That/DT
+  's/VBZ
+  the/DT
+  (NP (NBAR crux/NN))
+  of/IN
+  the/DT
+  (NP (NBAR matter/NN))
+  ,/,
+  right/RB
   ./.)(S (NP (NBAR RISEN/NN)) :/: Right/RB ./.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
@@ -805,6 +1633,38 @@
   (NP (NBAR legal/JJ case/NN))
   now/RB
   ./.)(S
+  (NP (NBAR RISEN/NN))
+  :/:
+  It/PRP
+  's/VBZ
+  (NP (NBAR kind/NN))
+  of/IN
+  --/:
+  it/PRP
+  's/VBZ
+  going/VBG
+  to/TO
+  a/DT
+  (NP (NBAR trial/NN))
+  in/IN
+  (NP (NBAR January/NNP))
+  ./.
+  And/CC
+  they/PRP
+  've/VBP
+  indicated/VBN
+  that/IN
+  they/PRP
+  're/VBP
+  going/VBG
+  to/TO
+  subpoena/VB
+  me/PRP
+  again/RB
+  shortly/RB
+  ,/,
+  so/RB
+  --/:)(S
   (NP (NBAR RISEN/NN))
   :/:
   It/PRP
@@ -872,7 +1732,40 @@
   --/:
   in/IN
   (NP (NBAR Washington/NNP))
+  ?/.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  All/DT
+  (NP (NBAR right/NN))
+  ./.
+  Where/WRB
+  is/VBZ
+  the/DT
+  (NP (NBAR trial/NN))
+  --/:
+  in/IN
+  (NP (NBAR Washington/NNP))
   ?/.)(S (NP (NBAR RISEN/NN)) :/: (NP (NBAR Virginia/NNP)) ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  In/IN
+  (NP (NBAR Virginia/NNP))
+  ./.
+  All/DT
+  right/JJ
+  ,/,
+  so/IN
+  they/PRP
+  're/VBP
+  going/VBG
+  to/TO
+  subpoena/VB
+  you/PRP
+  and/CC
+  ask/VB
+  you/PRP
+  again/RB
+  --/:)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   In/IN
@@ -998,6 +1891,41 @@
   ''/''
   all/DT
   (NP (NBAR right/NN))
+  ./.)(S
+  He/PRP
+  's/VBZ
+  already/RB
+  a/DT
+  (NP (NBAR problem/NN))
+  with/IN
+  us/PRP
+  ./.
+  So/RB
+  ,/,
+  you/PRP
+  're/VBP
+  going/VBG
+  to/TO
+  go/VB
+  on/IN
+  (NP (NBAR trial/NN))
+  and/CC
+  you/PRP
+  're/VBP
+  going/VBG
+  to/TO
+  say/VB
+  ,/,
+  ``/``
+  I/PRP
+  'm/VBP
+  not/RB
+  telling/VBG
+  you/PRP
+  ,/,
+  ''/''
+  all/DT
+  (NP (NBAR right/NN))
   ./.)(S (NP (NBAR RISEN/NN)) :/: Right/RB ,/, right/RB ./.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
@@ -1018,6 +1946,40 @@
   telling/VBG
   you/PRP
   ./.)(S
+  (NP (NBAR RISEN/NN))
+  :/:
+  Well/RB
+  ,/,
+  we/PRP
+  do/VBP
+  n't/RB
+  know/VB
+  ./.
+  We/PRP
+  do/VBP
+  n't/RB
+  know/VB
+  ./.
+  The/DT
+  (NP (NBAR government/NN))
+  --/:)(S
+  (NP (NBAR RISEN/NN))
+  :/:
+  Well/RB
+  ,/,
+  we/PRP
+  do/VBP
+  n't/RB
+  know/VB
+  ./.
+  We/PRP
+  do/VBP
+  n't/RB
+  know/VB
+  ./.
+  The/DT
+  (NP (NBAR government/NN))
+  --/:)(S
   (NP (NBAR RISEN/NN))
   :/:
   Well/RB
@@ -1125,6 +2087,51 @@
   what/WP
   he/PRP
   was/VBD
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  All/DT
+  (NP (NBAR right/NN))
+  ./.
+  Because/IN
+  this/DT
+  is/VBZ
+  all/DT
+  centered/VBN
+  around/IN
+  like/IN
+  the/DT
+  (NP (NBAR WikiLeaks/NNP stuff/NN))
+  and/CC
+  (NP (NBAR Assange/NNP))
+  --/:
+  you/PRP
+  know/VBP
+  ,/,
+  it/PRP
+  's/VBZ
+  almost/RB
+  the/DT
+  (NP (NBAR same/JJ thing/NN))
+  ,/,
+  is/VBZ
+  that/IN
+  (NP (NBAR leaks/NNS))
+  from/IN
+  the/DT
+  (NP (NBAR National/NNP Security/NNP Agencies/NNPS))
+  ,/,
+  to/TO
+  (NP (NBAR journalists/NNS))
+  and/CC
+  the/DT
+  (NP (NBAR sciences/NNS))
+  ,/,
+  that/DT
+  's/VBZ
+  what/WP
+  he/PRP
+  was/VBD
   ./.)(S (NP (NBAR RISEN/NN)) :/: Right/RB ./.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
@@ -1163,6 +2170,35 @@
   (NP (NBAR charges/NNS))
   at/IN
   you/PRP
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  That/DT
+  's/VBZ
+  the/DT
+  (NP (NBAR Assange/NNP argument/NN))
+  ./.
+  And/CC
+  some/DT
+  of/IN
+  them/PRP
+  level/VBP
+  those/DT
+  (NP (NBAR charges/NNS))
+  at/IN
+  you/PRP
+  ./.)(S
+  (NP (NBAR RISEN/NN))
+  :/:
+  Sure/JJ
+  ./.
+  That/DT
+  's/VBZ
+  always/RB
+  the/DT
+  (NP (NBAR argument/NN))
+  they/PRP
+  used/VBD
   ./.)(S
   (NP (NBAR RISEN/NN))
   :/:
@@ -1225,6 +2261,69 @@
   really/RB
   (NP (NBAR affected/JJ national/JJ security/NN))
   ./.)(S
+  (NP (NBAR RISEN/NN))
+  :/:
+  I/PRP
+  do/VBP
+  n't/RB
+  believe/VB
+  so/RB
+  ./.
+  I/PRP
+  do/VBP
+  n't/RB
+  think/VB
+  you/PRP
+  can/MD
+  point/VB
+  to/TO
+  (NP (NBAR anything/NN))
+  that/WDT
+  's/VBZ
+  been/VBN
+  done/VBN
+  ,/,
+  written/VBN
+  in/IN
+  the/DT
+  (NP (NBAR press/NN))
+  in/IN
+  the/DT
+  last/JJ
+  10/CD
+  (NP (NBAR years/NNS))
+  that/WDT
+  's/VBZ
+  really/RB
+  (NP (NBAR affected/JJ national/JJ security/NN))
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  All/DT
+  (NP (NBAR right/NN))
+  ./.
+  Do/VBP
+  you/PRP
+  --/:
+  if/IN
+  you/PRP
+  go/VBP
+  to/TO
+  (NP (NBAR jail/NN))
+  ,/,
+  then/RB
+  you/PRP
+  'd/MD
+  be/VB
+  free/JJ
+  to/TO
+  write/VB
+  another/DT
+  (NP (NBAR book/NN))
+  ,/,
+  you/PRP
+  know/VBP
+  --/:)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   All/DT
@@ -1294,7 +2393,141 @@
   (NP (NBAR Rosen/NNP))
   is/VBZ
   (NP (NBAR OK/NNP))
+  ./.)(S
+  But/CC
+  we/PRP
+  do/VBP
+  n't/RB
+  want/VB
+  you/PRP
+  to/TO
+  go/VB
+  to/TO
+  jail/VB
+  ./.
+  I/PRP
+  have/VBP
+  to/TO
+  say/VB
+  that/IN
+  ./.
+  I/PRP
+  mean/VBP
+  ,/,
+  you/PRP
+  know/VBP
+  ,/,
+  (NP (NBAR Rosen/NNP))
+  is/VBZ
+  (NP (NBAR OK/NNP))
+  ./.)(S
+  But/CC
+  we/PRP
+  do/VBP
+  n't/RB
+  want/VB
+  you/PRP
+  to/TO
+  go/VB
+  to/TO
+  jail/VB
+  ./.
+  I/PRP
+  have/VBP
+  to/TO
+  say/VB
+  that/IN
+  ./.
+  I/PRP
+  mean/VBP
+  ,/,
+  you/PRP
+  know/VBP
+  ,/,
+  (NP (NBAR Rosen/NNP))
+  is/VBZ
+  (NP (NBAR OK/NNP))
   ./.)(S (/( (NP (NBAR LAUGHTER/NNP)) )/))(S
+  They/PRP
+  can/MD
+  send/VB
+  him/PRP
+  to/TO
+  jail/VB
+  anytime/RB
+  they/PRP
+  want/VBP
+  ./.
+  But/CC
+  you/PRP
+  're/VBP
+  doing/VBG
+  you/PRP
+  're/VBP
+  (NP (NBAR job/NN))
+  ./.
+  And/CC
+  if/IN
+  I/PRP
+  were/VBD
+  you/PRP
+  ,/,
+  I/PRP
+  probably/RB
+  would/MD
+  have/VB
+  done/VBN
+  the/DT
+  same/JJ
+  ,/,
+  I/PRP
+  have/VBP
+  to/TO
+  say/VB
+  ,/,
+  as/IN
+  a/DT
+  --/:)(S
+  They/PRP
+  can/MD
+  send/VB
+  him/PRP
+  to/TO
+  jail/VB
+  anytime/RB
+  they/PRP
+  want/VBP
+  ./.
+  But/CC
+  you/PRP
+  're/VBP
+  doing/VBG
+  you/PRP
+  're/VBP
+  (NP (NBAR job/NN))
+  ./.
+  And/CC
+  if/IN
+  I/PRP
+  were/VBD
+  you/PRP
+  ,/,
+  I/PRP
+  probably/RB
+  would/MD
+  have/VB
+  done/VBN
+  the/DT
+  same/JJ
+  ,/,
+  I/PRP
+  have/VBP
+  to/TO
+  say/VB
+  ,/,
+  as/IN
+  a/DT
+  --/:)(S
   They/PRP
   can/MD
   send/VB
@@ -1384,6 +2617,24 @@
   (NP (NBAR press/NN))
   right/RB
   now/RB
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  No/DT
+  ,/,
+  not/RB
+  ./.
+  There/EX
+  's/VBZ
+  a/DT
+  (NP (NBAR lot/NN))
+  of/IN
+  (NP (NBAR corruption/NN))
+  in/IN
+  the/DT
+  (NP (NBAR press/NN))
+  right/RB
+  now/RB
   ./.)(S (/( (NP (NBAR LAUGHTER/NNP)) )/))(S
   But/CC
   any/DT
@@ -1417,4 +2668,23 @@
   coming/VBG
   on/IN
   in/IN
-  ./.)(S (NP (NBAR RISEN/NN)) :/: Thanks/VB very/RB much/RB ./.)(S )(S )
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  All/DT
+  (NP (NBAR right/NN))
+  ,/,
+  (NP (NBAR good/JJ luck/NN))
+  with/IN
+  the/DT
+  (NP (NBAR book/NN))
+  ,/,
+  (NP (NBAR Mr./NNP Risen/NNP))
+  ./.
+  We/PRP
+  appreciate/VBP
+  you/PRP
+  coming/VBG
+  on/IN
+  in/IN
+  ./.)(S (NP (NBAR RISEN/NN)) :/: Thanks/VB very/RB much/RB ./.)

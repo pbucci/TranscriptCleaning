@@ -48,4 +48,4 @@ def parse_in_dir(dir):
     return True
 
 # remember trailing slash here
-parse_in_dir('../pos_tagger/pos_tagged_transcripts/')
+parse_in_dir('../pos_tagger_no_paragraphs/pos_tagged_transcripts/')

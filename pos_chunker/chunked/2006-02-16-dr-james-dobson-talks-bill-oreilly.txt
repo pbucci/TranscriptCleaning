@@ -1,4 +1,39 @@
-(S )(S )(S
+(S
+  (NP (NBAR BILL/NNP O'REILLY/NNP))
+  ,/,
+  (NP (NBAR HOST/NNP))
+  :/:
+  In/IN
+  the/DT
+  ``/``
+  (NP (NBAR Personal/NNP Story/NNP))
+  ''/''
+  (NP (NBAR segment/NN tonight/NN))
+  ,/,
+  does/VBZ
+  (NP
+    (NBAR
+      conservative/JJ
+      Christian/JJ
+      leader/NN
+      Dr./NNP
+      James/NNP
+      Dobson/NNP
+      support/NN
+      legislation/NN))
+  that/WDT
+  might/MD
+  help/VB
+  gay/VB
+  (NP (NBAR Americans/NNPS))
+  ?/.
+  Well/RB
+  ,/,
+  let/VB
+  's/POS
+  ask/VB
+  him/PRP
+  ./.)(S
   (NP (NBAR BILL/NNP O'REILLY/NNP))
   ,/,
   (NP (NBAR HOST/NNP))
@@ -55,6 +90,107 @@
   (NP (NBAR Fire/NNP))
   ./.
   ''/'')(S
+  He/PRP
+  joins/VBZ
+  us/PRP
+  now/RB
+  from/IN
+  (NP (NBAR Colorado/NNP Springs/NNP))
+  ./.
+  The/DT
+  (NP (NBAR doctor/NN))
+  is/VBZ
+  the/DT
+  (NP (NBAR author/NN))
+  of/IN
+  the/DT
+  (NP (NBAR book/NN))
+  ``/``
+  (NP (NBAR Marriage/NNP))
+  Under/IN
+  (NP (NBAR Fire/NNP))
+  ./.
+  ''/'')(S
+  So/RB
+  ,/,
+  I/PRP
+  think/VBP
+  you/PRP
+  —/VBP
+  I/PRP
+  think/VBP
+  your/PRP$
+  (NP (NBAR position/NN))
+  is/VBZ
+  like/IN
+  my/PRP$
+  (NP (NBAR position/NN))
+  ./.
+  (NP (NBAR People/NNS))
+  who/WP
+  ca/MD
+  n't/RB
+  get/VB
+  married/VBN
+  in/IN
+  (NP (NBAR America/NNP))
+  should/MD
+  have/VB
+  the/DT
+  (NP (NBAR same/JJ rights/NNS))
+  in/IN
+  (NP (NBAR hospital/NN visitation/NN))
+  ,/,
+  (NP (NBAR financial/JJ areas/NNS))
+  ./.
+  Is/VBZ
+  that/IN
+  what/WP
+  it/PRP
+  's/VBZ
+  all/DT
+  about/IN
+  ?/.)(S
+  So/RB
+  ,/,
+  I/PRP
+  think/VBP
+  you/PRP
+  —/VBP
+  I/PRP
+  think/VBP
+  your/PRP$
+  (NP (NBAR position/NN))
+  is/VBZ
+  like/IN
+  my/PRP$
+  (NP (NBAR position/NN))
+  ./.
+  (NP (NBAR People/NNS))
+  who/WP
+  ca/MD
+  n't/RB
+  get/VB
+  married/VBN
+  in/IN
+  (NP (NBAR America/NNP))
+  should/MD
+  have/VB
+  the/DT
+  (NP (NBAR same/JJ rights/NNS))
+  in/IN
+  (NP (NBAR hospital/NN visitation/NN))
+  ,/,
+  (NP (NBAR financial/JJ areas/NNS))
+  ./.
+  Is/VBZ
+  that/IN
+  what/WP
+  it/PRP
+  's/VBZ
+  all/DT
+  about/IN
+  ?/.)(S
   So/RB
   ,/,
   I/PRP
@@ -119,6 +255,222 @@
   having/VBG
   me/PRP
   on/IN
+  ./.)(S
+  There/EX
+  is/VBZ
+  ,/,
+  here/RB
+  in/IN
+  (NP (NBAR Colorado/NNP))
+  ,/,
+  a/DT
+  (NP (NBAR bill/NN))
+  to/TO
+  create/VB
+  (NP (NBAR civil/JJ unions/NNS))
+  for/IN
+  (NP (NBAR homosexuals/NNS))
+  ./.
+  We/PRP
+  think/VBP
+  that/DT
+  's/VBZ
+  a/DT
+  very/RB
+  (NP (NBAR bad/JJ idea/NN))
+  ./.
+  And/CC
+  ,/,
+  yet/RB
+  ,/,
+  the/DT
+  (NP (NBAR Democrats/NNPS))
+  in/IN
+  the/DT
+  (NP (NBAR state/NN legislature/NN))
+  have/VBP
+  the/DT
+  (NP (NBAR majority/NN))
+  in/IN
+  both/DT
+  (NP (NBAR houses/NNS))
+  ./.
+  And/CC
+  this/DT
+  could/MD
+  very/RB
+  easily/RB
+  (NP (NBAR pass/NN))
+  ./.
+  We/PRP
+  're/VBP
+  very/RB
+  much/RB
+  opposed/VBN
+  to/TO
+  it/PRP
+  ./.)(S
+  There/EX
+  is/VBZ
+  ,/,
+  here/RB
+  in/IN
+  (NP (NBAR Colorado/NNP))
+  ,/,
+  a/DT
+  (NP (NBAR bill/NN))
+  to/TO
+  create/VB
+  (NP (NBAR civil/JJ unions/NNS))
+  for/IN
+  (NP (NBAR homosexuals/NNS))
+  ./.
+  We/PRP
+  think/VBP
+  that/DT
+  's/VBZ
+  a/DT
+  very/RB
+  (NP (NBAR bad/JJ idea/NN))
+  ./.
+  And/CC
+  ,/,
+  yet/RB
+  ,/,
+  the/DT
+  (NP (NBAR Democrats/NNPS))
+  in/IN
+  the/DT
+  (NP (NBAR state/NN legislature/NN))
+  have/VBP
+  the/DT
+  (NP (NBAR majority/NN))
+  in/IN
+  both/DT
+  (NP (NBAR houses/NNS))
+  ./.
+  And/CC
+  this/DT
+  could/MD
+  very/RB
+  easily/RB
+  (NP (NBAR pass/NN))
+  ./.
+  We/PRP
+  're/VBP
+  very/RB
+  much/RB
+  opposed/VBN
+  to/TO
+  it/PRP
+  ./.)(S
+  There/EX
+  is/VBZ
+  ,/,
+  here/RB
+  in/IN
+  (NP (NBAR Colorado/NNP))
+  ,/,
+  a/DT
+  (NP (NBAR bill/NN))
+  to/TO
+  create/VB
+  (NP (NBAR civil/JJ unions/NNS))
+  for/IN
+  (NP (NBAR homosexuals/NNS))
+  ./.
+  We/PRP
+  think/VBP
+  that/DT
+  's/VBZ
+  a/DT
+  very/RB
+  (NP (NBAR bad/JJ idea/NN))
+  ./.
+  And/CC
+  ,/,
+  yet/RB
+  ,/,
+  the/DT
+  (NP (NBAR Democrats/NNPS))
+  in/IN
+  the/DT
+  (NP (NBAR state/NN legislature/NN))
+  have/VBP
+  the/DT
+  (NP (NBAR majority/NN))
+  in/IN
+  both/DT
+  (NP (NBAR houses/NNS))
+  ./.
+  And/CC
+  this/DT
+  could/MD
+  very/RB
+  easily/RB
+  (NP (NBAR pass/NN))
+  ./.
+  We/PRP
+  're/VBP
+  very/RB
+  much/RB
+  opposed/VBN
+  to/TO
+  it/PRP
+  ./.)(S
+  There/EX
+  is/VBZ
+  ,/,
+  here/RB
+  in/IN
+  (NP (NBAR Colorado/NNP))
+  ,/,
+  a/DT
+  (NP (NBAR bill/NN))
+  to/TO
+  create/VB
+  (NP (NBAR civil/JJ unions/NNS))
+  for/IN
+  (NP (NBAR homosexuals/NNS))
+  ./.
+  We/PRP
+  think/VBP
+  that/DT
+  's/VBZ
+  a/DT
+  very/RB
+  (NP (NBAR bad/JJ idea/NN))
+  ./.
+  And/CC
+  ,/,
+  yet/RB
+  ,/,
+  the/DT
+  (NP (NBAR Democrats/NNPS))
+  in/IN
+  the/DT
+  (NP (NBAR state/NN legislature/NN))
+  have/VBP
+  the/DT
+  (NP (NBAR majority/NN))
+  in/IN
+  both/DT
+  (NP (NBAR houses/NNS))
+  ./.
+  And/CC
+  this/DT
+  could/MD
+  very/RB
+  easily/RB
+  (NP (NBAR pass/NN))
+  ./.
+  We/PRP
+  're/VBP
+  very/RB
+  much/RB
+  opposed/VBN
+  to/TO
+  it/PRP
   ./.)(S
   There/EX
   is/VBZ
@@ -264,6 +616,366 @@
   based/VBN
   on/IN
   .../:)(S
+  In/IN
+  (NP (NBAR —/NNP))
+  in/IN
+  (NP (NBAR contrast/NN))
+  ,/,
+  there/EX
+  's/VBZ
+  another/DT
+  (NP (NBAR bill/NN))
+  that/IN
+  our/PRP$
+  (NP (NBAR conservative/JJ legislators/NNS))
+  have/VBP
+  asked/VBN
+  us/PRP
+  to/TO
+  support/VB
+  (NP (NBAR —/NNS))
+  and/CC
+  we/PRP
+  agree/VBP
+  with/IN
+  it/PRP
+  (NP (NBAR —/NNP))
+  which/WDT
+  is/VBZ
+  not/RB
+  based/VBN
+  on/IN
+  (NP (NBAR sexual/JJ behavior/NN))
+  ./.
+  It/PRP
+  's/VBZ
+  based/VBN
+  on/IN
+  (NP (NBAR human/JJ need/NN))
+  ,/,
+  so/RB
+  ,/,
+  that/IN
+  if/IN
+  you/PRP
+  have/VBP
+  two/CD
+  (NP (NBAR sisters/NNS))
+  who/WP
+  are/VBP
+  80/CD
+  or/CC
+  82/CD
+  (NP (NBAR years/NNS))
+  of/IN
+  (NP (NBAR age/NN))
+  ,/,
+  they/PRP
+  can/MD
+  get/VB
+  (NP (NBAR benefits/NNS))
+  ./.
+  They/PRP
+  can/MD
+  authorize/VB
+  (NP (NBAR medical/JJ care/NN))
+  for/IN
+  one/CD
+  another/DT
+  ./.
+  Or/CC
+  a/DT
+  (NP (NBAR grandfather/NN))
+  and/CC
+  a/DT
+  (NP (NBAR retarded/JJ child/NN))
+  ,/,
+  or/CC
+  any/DT
+  (NP (NBAR combination/NN thereof/NN))
+  in/IN
+  the/DT
+  (NP (NBAR state/NN))
+  can/MD
+  get/VB
+  (NP (NBAR benefits/NNS))
+  ./.
+  It/PRP
+  's/VBZ
+  not/RB
+  based/VBN
+  on/IN
+  .../:)(S
+  In/IN
+  (NP (NBAR —/NNP))
+  in/IN
+  (NP (NBAR contrast/NN))
+  ,/,
+  there/EX
+  's/VBZ
+  another/DT
+  (NP (NBAR bill/NN))
+  that/IN
+  our/PRP$
+  (NP (NBAR conservative/JJ legislators/NNS))
+  have/VBP
+  asked/VBN
+  us/PRP
+  to/TO
+  support/VB
+  (NP (NBAR —/NNS))
+  and/CC
+  we/PRP
+  agree/VBP
+  with/IN
+  it/PRP
+  (NP (NBAR —/NNP))
+  which/WDT
+  is/VBZ
+  not/RB
+  based/VBN
+  on/IN
+  (NP (NBAR sexual/JJ behavior/NN))
+  ./.
+  It/PRP
+  's/VBZ
+  based/VBN
+  on/IN
+  (NP (NBAR human/JJ need/NN))
+  ,/,
+  so/RB
+  ,/,
+  that/IN
+  if/IN
+  you/PRP
+  have/VBP
+  two/CD
+  (NP (NBAR sisters/NNS))
+  who/WP
+  are/VBP
+  80/CD
+  or/CC
+  82/CD
+  (NP (NBAR years/NNS))
+  of/IN
+  (NP (NBAR age/NN))
+  ,/,
+  they/PRP
+  can/MD
+  get/VB
+  (NP (NBAR benefits/NNS))
+  ./.
+  They/PRP
+  can/MD
+  authorize/VB
+  (NP (NBAR medical/JJ care/NN))
+  for/IN
+  one/CD
+  another/DT
+  ./.
+  Or/CC
+  a/DT
+  (NP (NBAR grandfather/NN))
+  and/CC
+  a/DT
+  (NP (NBAR retarded/JJ child/NN))
+  ,/,
+  or/CC
+  any/DT
+  (NP (NBAR combination/NN thereof/NN))
+  in/IN
+  the/DT
+  (NP (NBAR state/NN))
+  can/MD
+  get/VB
+  (NP (NBAR benefits/NNS))
+  ./.
+  It/PRP
+  's/VBZ
+  not/RB
+  based/VBN
+  on/IN
+  .../:)(S
+  In/IN
+  (NP (NBAR —/NNP))
+  in/IN
+  (NP (NBAR contrast/NN))
+  ,/,
+  there/EX
+  's/VBZ
+  another/DT
+  (NP (NBAR bill/NN))
+  that/IN
+  our/PRP$
+  (NP (NBAR conservative/JJ legislators/NNS))
+  have/VBP
+  asked/VBN
+  us/PRP
+  to/TO
+  support/VB
+  (NP (NBAR —/NNS))
+  and/CC
+  we/PRP
+  agree/VBP
+  with/IN
+  it/PRP
+  (NP (NBAR —/NNP))
+  which/WDT
+  is/VBZ
+  not/RB
+  based/VBN
+  on/IN
+  (NP (NBAR sexual/JJ behavior/NN))
+  ./.
+  It/PRP
+  's/VBZ
+  based/VBN
+  on/IN
+  (NP (NBAR human/JJ need/NN))
+  ,/,
+  so/RB
+  ,/,
+  that/IN
+  if/IN
+  you/PRP
+  have/VBP
+  two/CD
+  (NP (NBAR sisters/NNS))
+  who/WP
+  are/VBP
+  80/CD
+  or/CC
+  82/CD
+  (NP (NBAR years/NNS))
+  of/IN
+  (NP (NBAR age/NN))
+  ,/,
+  they/PRP
+  can/MD
+  get/VB
+  (NP (NBAR benefits/NNS))
+  ./.
+  They/PRP
+  can/MD
+  authorize/VB
+  (NP (NBAR medical/JJ care/NN))
+  for/IN
+  one/CD
+  another/DT
+  ./.
+  Or/CC
+  a/DT
+  (NP (NBAR grandfather/NN))
+  and/CC
+  a/DT
+  (NP (NBAR retarded/JJ child/NN))
+  ,/,
+  or/CC
+  any/DT
+  (NP (NBAR combination/NN thereof/NN))
+  in/IN
+  the/DT
+  (NP (NBAR state/NN))
+  can/MD
+  get/VB
+  (NP (NBAR benefits/NNS))
+  ./.
+  It/PRP
+  's/VBZ
+  not/RB
+  based/VBN
+  on/IN
+  .../:)(S
+  In/IN
+  (NP (NBAR —/NNP))
+  in/IN
+  (NP (NBAR contrast/NN))
+  ,/,
+  there/EX
+  's/VBZ
+  another/DT
+  (NP (NBAR bill/NN))
+  that/IN
+  our/PRP$
+  (NP (NBAR conservative/JJ legislators/NNS))
+  have/VBP
+  asked/VBN
+  us/PRP
+  to/TO
+  support/VB
+  (NP (NBAR —/NNS))
+  and/CC
+  we/PRP
+  agree/VBP
+  with/IN
+  it/PRP
+  (NP (NBAR —/NNP))
+  which/WDT
+  is/VBZ
+  not/RB
+  based/VBN
+  on/IN
+  (NP (NBAR sexual/JJ behavior/NN))
+  ./.
+  It/PRP
+  's/VBZ
+  based/VBN
+  on/IN
+  (NP (NBAR human/JJ need/NN))
+  ,/,
+  so/RB
+  ,/,
+  that/IN
+  if/IN
+  you/PRP
+  have/VBP
+  two/CD
+  (NP (NBAR sisters/NNS))
+  who/WP
+  are/VBP
+  80/CD
+  or/CC
+  82/CD
+  (NP (NBAR years/NNS))
+  of/IN
+  (NP (NBAR age/NN))
+  ,/,
+  they/PRP
+  can/MD
+  get/VB
+  (NP (NBAR benefits/NNS))
+  ./.
+  They/PRP
+  can/MD
+  authorize/VB
+  (NP (NBAR medical/JJ care/NN))
+  for/IN
+  one/CD
+  another/DT
+  ./.
+  Or/CC
+  a/DT
+  (NP (NBAR grandfather/NN))
+  and/CC
+  a/DT
+  (NP (NBAR retarded/JJ child/NN))
+  ,/,
+  or/CC
+  any/DT
+  (NP (NBAR combination/NN thereof/NN))
+  in/IN
+  the/DT
+  (NP (NBAR state/NN))
+  can/MD
+  get/VB
+  (NP (NBAR benefits/NNS))
+  ./.
+  It/PRP
+  's/VBZ
+  not/RB
+  based/VBN
+  on/IN
+  .../:)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   But/CC
@@ -289,6 +1001,315 @@
   ./.
   Correct/VB
   ?/.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  But/CC
+  it/PRP
+  's/VBZ
+  the/DT
+  (NP (NBAR same/JJ thing/NN))
+  —/VBD
+  it/PRP
+  's/VBZ
+  the/DT
+  (NP (NBAR same/JJ bill/NN))
+  ,/,
+  it/PRP
+  just/RB
+  takes/VBZ
+  the/DT
+  (NP (NBAR sexual/JJ description/NN))
+  out/IN
+  of/IN
+  the/DT
+  (NP (NBAR bill/NN))
+  ./.
+  Correct/VB
+  ?/.)(S
+  (NP (NBAR DOBSON/NN))
+  :/:
+  Well/RB
+  ,/,
+  see/VB
+  ,/,
+  (NP (NBAR Bill/NNP))
+  ,/,
+  contrary/JJ
+  to/TO
+  the/DT
+  (NP (NBAR propaganda/NN))
+  that/WDT
+  's/VBZ
+  out/RP
+  there/RB
+  ,/,
+  we/PRP
+  believe/VBP
+  in/IN
+  (NP (NBAR equality/NN))
+  under/IN
+  the/DT
+  (NP (NBAR law/NN))
+  ./.
+  And/CC
+  we/PRP
+  do/VBP
+  n't/RB
+  believe/VB
+  that/IN
+  you/PRP
+  set/VBP
+  (NP (NBAR aside/JJ people/NNS))
+  and/CC
+  not/RB
+  allow/VB
+  them/PRP
+  the/DT
+  (NP (NBAR same/JJ benefits/NNS))
+  ./.
+  But/CC
+  (NP (NBAR homosexuality/NN))
+  is/VBZ
+  not/RB
+  mentioned/VBN
+  in/IN
+  (NP (NBAR S.B/NNP))
+  ./.
+  166/CD
+  at/IN
+  all/DT
+  because/IN
+  it/PRP
+  is/VBZ
+  —/JJ
+  you/PRP
+  ca/MD
+  n't/RB
+  qualify/VB
+  it/PRP
+  by/IN
+  (NP (NBAR sexuality/NN))
+  ./.
+  You/PRP
+  qualify/VBP
+  for/IN
+  it/PRP
+  by/IN
+  (NP (NBAR sexuality/NN))
+  ./.)(S
+  (NP (NBAR DOBSON/NN))
+  :/:
+  Well/RB
+  ,/,
+  see/VB
+  ,/,
+  (NP (NBAR Bill/NNP))
+  ,/,
+  contrary/JJ
+  to/TO
+  the/DT
+  (NP (NBAR propaganda/NN))
+  that/WDT
+  's/VBZ
+  out/RP
+  there/RB
+  ,/,
+  we/PRP
+  believe/VBP
+  in/IN
+  (NP (NBAR equality/NN))
+  under/IN
+  the/DT
+  (NP (NBAR law/NN))
+  ./.
+  And/CC
+  we/PRP
+  do/VBP
+  n't/RB
+  believe/VB
+  that/IN
+  you/PRP
+  set/VBP
+  (NP (NBAR aside/JJ people/NNS))
+  and/CC
+  not/RB
+  allow/VB
+  them/PRP
+  the/DT
+  (NP (NBAR same/JJ benefits/NNS))
+  ./.
+  But/CC
+  (NP (NBAR homosexuality/NN))
+  is/VBZ
+  not/RB
+  mentioned/VBN
+  in/IN
+  (NP (NBAR S.B/NNP))
+  ./.
+  166/CD
+  at/IN
+  all/DT
+  because/IN
+  it/PRP
+  is/VBZ
+  —/JJ
+  you/PRP
+  ca/MD
+  n't/RB
+  qualify/VB
+  it/PRP
+  by/IN
+  (NP (NBAR sexuality/NN))
+  ./.
+  You/PRP
+  qualify/VBP
+  for/IN
+  it/PRP
+  by/IN
+  (NP (NBAR sexuality/NN))
+  ./.)(S
+  (NP (NBAR DOBSON/NN))
+  :/:
+  Well/RB
+  ,/,
+  see/VB
+  ,/,
+  (NP (NBAR Bill/NNP))
+  ,/,
+  contrary/JJ
+  to/TO
+  the/DT
+  (NP (NBAR propaganda/NN))
+  that/WDT
+  's/VBZ
+  out/RP
+  there/RB
+  ,/,
+  we/PRP
+  believe/VBP
+  in/IN
+  (NP (NBAR equality/NN))
+  under/IN
+  the/DT
+  (NP (NBAR law/NN))
+  ./.
+  And/CC
+  we/PRP
+  do/VBP
+  n't/RB
+  believe/VB
+  that/IN
+  you/PRP
+  set/VBP
+  (NP (NBAR aside/JJ people/NNS))
+  and/CC
+  not/RB
+  allow/VB
+  them/PRP
+  the/DT
+  (NP (NBAR same/JJ benefits/NNS))
+  ./.
+  But/CC
+  (NP (NBAR homosexuality/NN))
+  is/VBZ
+  not/RB
+  mentioned/VBN
+  in/IN
+  (NP (NBAR S.B/NNP))
+  ./.
+  166/CD
+  at/IN
+  all/DT
+  because/IN
+  it/PRP
+  is/VBZ
+  —/JJ
+  you/PRP
+  ca/MD
+  n't/RB
+  qualify/VB
+  it/PRP
+  by/IN
+  (NP (NBAR sexuality/NN))
+  ./.
+  You/PRP
+  qualify/VBP
+  for/IN
+  it/PRP
+  by/IN
+  (NP (NBAR sexuality/NN))
+  ./.)(S
+  (NP (NBAR DOBSON/NN))
+  :/:
+  Well/RB
+  ,/,
+  see/VB
+  ,/,
+  (NP (NBAR Bill/NNP))
+  ,/,
+  contrary/JJ
+  to/TO
+  the/DT
+  (NP (NBAR propaganda/NN))
+  that/WDT
+  's/VBZ
+  out/RP
+  there/RB
+  ,/,
+  we/PRP
+  believe/VBP
+  in/IN
+  (NP (NBAR equality/NN))
+  under/IN
+  the/DT
+  (NP (NBAR law/NN))
+  ./.
+  And/CC
+  we/PRP
+  do/VBP
+  n't/RB
+  believe/VB
+  that/IN
+  you/PRP
+  set/VBP
+  (NP (NBAR aside/JJ people/NNS))
+  and/CC
+  not/RB
+  allow/VB
+  them/PRP
+  the/DT
+  (NP (NBAR same/JJ benefits/NNS))
+  ./.
+  But/CC
+  (NP (NBAR homosexuality/NN))
+  is/VBZ
+  not/RB
+  mentioned/VBN
+  in/IN
+  (NP (NBAR S.B/NNP))
+  ./.
+  166/CD
+  at/IN
+  all/DT
+  because/IN
+  it/PRP
+  is/VBZ
+  —/JJ
+  you/PRP
+  ca/MD
+  n't/RB
+  qualify/VB
+  it/PRP
+  by/IN
+  (NP (NBAR sexuality/NN))
+  ./.
+  You/PRP
+  qualify/VBP
+  for/IN
+  it/PRP
+  by/IN
+  (NP (NBAR sexuality/NN))
+  ./.)(S
   (NP (NBAR DOBSON/NN))
   :/:
   Well/RB
@@ -416,6 +1437,118 @@
   ./.
   Now/RB
   .../:)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  (NP (NBAR Listen/NNP))
+  ,/,
+  I/PRP
+  agree/VBP
+  with/IN
+  you/PRP
+  ./.
+  I/PRP
+  've/VBP
+  been/VBN
+  saying/VBG
+  this/DT
+  for/IN
+  (NP (NBAR years/NNS))
+  ,/,
+  that/IN
+  the/DT
+  (NP (NBAR solution/NN))
+  to/TO
+  this/DT
+  (NP (NBAR problem/NN))
+  as/RB
+  far/RB
+  as/IN
+  (NP (NBAR rights/NNS))
+  are/VBP
+  concerned/VBN
+  in/IN
+  (NP (NBAR other/JJ areas/NNS))
+  than/IN
+  (NP (NBAR marriage/NN))
+  is/VBZ
+  to/TO
+  have/VB
+  (NP (NBAR partnerships/NNS))
+  for/IN
+  (NP (NBAR anybody/NN))
+  ,/,
+  including/VBG
+  (NP (NBAR gays/NNS))
+  ,/,
+  can/MD
+  enter/VB
+  into/IN
+  that/DT
+  give/VBP
+  them/PRP
+  the/DT
+  (NP (NBAR same/JJ rights/NNS))
+  as/IN
+  (NP (NBAR married/JJ couples/NNS))
+  ./.
+  Now/RB
+  .../:)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  (NP (NBAR Listen/NNP))
+  ,/,
+  I/PRP
+  agree/VBP
+  with/IN
+  you/PRP
+  ./.
+  I/PRP
+  've/VBP
+  been/VBN
+  saying/VBG
+  this/DT
+  for/IN
+  (NP (NBAR years/NNS))
+  ,/,
+  that/IN
+  the/DT
+  (NP (NBAR solution/NN))
+  to/TO
+  this/DT
+  (NP (NBAR problem/NN))
+  as/RB
+  far/RB
+  as/IN
+  (NP (NBAR rights/NNS))
+  are/VBP
+  concerned/VBN
+  in/IN
+  (NP (NBAR other/JJ areas/NNS))
+  than/IN
+  (NP (NBAR marriage/NN))
+  is/VBZ
+  to/TO
+  have/VB
+  (NP (NBAR partnerships/NNS))
+  for/IN
+  (NP (NBAR anybody/NN))
+  ,/,
+  including/VBG
+  (NP (NBAR gays/NNS))
+  ,/,
+  can/MD
+  enter/VB
+  into/IN
+  that/DT
+  give/VBP
+  them/PRP
+  the/DT
+  (NP (NBAR same/JJ rights/NNS))
+  as/IN
+  (NP (NBAR married/JJ couples/NNS))
+  ./.
+  Now/RB
+  .../:)(S
   (NP (NBAR DOBSON/NN))
   :/:
   (NP (NBAR Bill/NNP))
@@ -438,6 +1571,17 @@
   You/PRP
   can/MD
   .../:)(S
+  (NP (NBAR DOBSON/NN))
+  :/:
+  (NP (NBAR Everybody/NN))
+  has/VBZ
+  those/DT
+  (NP (NBAR rights/NNS))
+  anyway/RB
+  ./.
+  You/PRP
+  can/MD
+  .../:)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   But/CC
@@ -445,6 +1589,28 @@
   do/VBP
   n't/RB
   though/VB
+  ./.)(S
+  (NP (NBAR DOBSON/NN))
+  :/:
+  You/PRP
+  can/MD
+  establish/VB
+  that/IN
+  with/IN
+  a/DT
+  (NP (NBAR legal/JJ contract/NN))
+  ./.
+  So/IN
+  all/PDT
+  it/PRP
+  does/VBZ
+  is/VBZ
+  put/VBN
+  that/IN
+  (NP (NBAR legal/JJ right/NN))
+  into/IN
+  the/DT
+  (NP (NBAR law/NN))
   ./.)(S
   (NP (NBAR DOBSON/NN))
   :/:
@@ -496,6 +1662,134 @@
   to/TO
   do/VB
   ./.)(S
+  But/CC
+  ,/,
+  (NP (NBAR look/NN))
+  ,/,
+  say/VBP
+  I/PRP
+  'm/VBP
+  —/JJ
+  say/VBP
+  I/PRP
+  'm/VBP
+  a/DT
+  (NP (NBAR gay/NN guy/NN))
+  and/CC
+  I/PRP
+  want/VBP
+  to/TO
+  get/VB
+  married/JJ
+  and/CC
+  I/PRP
+  said/VBD
+  ,/,
+  ``/``
+  (NP (NBAR Listen/NNP))
+  ,/,
+  (NP (NBAR doctor/NN))
+  ,/,
+  you/PRP
+  're/VBP
+  a/DT
+  Christian/JJ
+  and/CC
+  you/PRP
+  follow/VBP
+  (NP (NBAR Jesus/NNP))
+  ./.
+  And/CC
+  my/PRP$
+  (NP (NBAR basic/JJ human/JJ rights/NNS))
+  are/VBP
+  being/VBG
+  violated/VBN
+  because/IN
+  I/PRP
+  ca/MD
+  n't/RB
+  marry/VB
+  my/PRP$
+  (NP (NBAR partner/NN))
+  ./.
+  And/CC
+  your/PRP$
+  (NP (NBAR —/NN))
+  you/PRP
+  know/VBP
+  ,/,
+  this/DT
+  is/VBZ
+  against/IN
+  the/DT
+  (NP (NBAR Constitution/NN))
+  ./.
+  ''/'')(S
+  But/CC
+  ,/,
+  (NP (NBAR look/NN))
+  ,/,
+  say/VBP
+  I/PRP
+  'm/VBP
+  —/JJ
+  say/VBP
+  I/PRP
+  'm/VBP
+  a/DT
+  (NP (NBAR gay/NN guy/NN))
+  and/CC
+  I/PRP
+  want/VBP
+  to/TO
+  get/VB
+  married/JJ
+  and/CC
+  I/PRP
+  said/VBD
+  ,/,
+  ``/``
+  (NP (NBAR Listen/NNP))
+  ,/,
+  (NP (NBAR doctor/NN))
+  ,/,
+  you/PRP
+  're/VBP
+  a/DT
+  Christian/JJ
+  and/CC
+  you/PRP
+  follow/VBP
+  (NP (NBAR Jesus/NNP))
+  ./.
+  And/CC
+  my/PRP$
+  (NP (NBAR basic/JJ human/JJ rights/NNS))
+  are/VBP
+  being/VBG
+  violated/VBN
+  because/IN
+  I/PRP
+  ca/MD
+  n't/RB
+  marry/VB
+  my/PRP$
+  (NP (NBAR partner/NN))
+  ./.
+  And/CC
+  your/PRP$
+  (NP (NBAR —/NN))
+  you/PRP
+  know/VBP
+  ,/,
+  this/DT
+  is/VBZ
+  against/IN
+  the/DT
+  (NP (NBAR Constitution/NN))
+  ./.
+  ''/'')(S
   But/CC
   ,/,
   (NP (NBAR look/NN))
@@ -640,6 +1934,346 @@
   a/DT
   (NP (NBAR father/NN))
   ./.)(S
+  (NP (NBAR DOBSON/NN))
+  :/:
+  (NP (NBAR Bill/NNP))
+  ,/,
+  while/IN
+  (NP (NBAR people/NNS))
+  have/VBP
+  the/DT
+  (NP (NBAR right/NN))
+  to/TO
+  equality/VB
+  under/IN
+  the/DT
+  (NP (NBAR law/NN))
+  ,/,
+  they/PRP
+  do/VBP
+  not/RB
+  have/VB
+  the/DT
+  (NP (NBAR right/NN))
+  to/TO
+  define/VB
+  (NP (NBAR marriage/NN))
+  ./.
+  (NP (NBAR Redefine/NNP marriage/NN))
+  ./.
+  For/IN
+  5,000/CD
+  (NP (NBAR years/NNS))
+  in/IN
+  every/DT
+  (NP (NBAR continent/NN))
+  on/IN
+  (NP (NBAR earth/NN))
+  ,/,
+  (NP (NBAR marriage/NN))
+  has/VBZ
+  been/VBN
+  the/DT
+  (NP (NBAR standard/NN))
+  between/IN
+  a/DT
+  (NP (NBAR man/NN))
+  and/CC
+  a/DT
+  (NP (NBAR woman/NN))
+  ./.
+  Why/WRB
+  ?/.
+  Because/IN
+  of/IN
+  (NP (NBAR children/NNS))
+  ./.
+  Because/IN
+  it/PRP
+  is/VBZ
+  best/RBS
+  for/IN
+  (NP (NBAR children/NNS))
+  to/TO
+  have/VB
+  a/DT
+  (NP (NBAR mother/NN))
+  and/CC
+  a/DT
+  (NP (NBAR father/NN))
+  ./.)(S
+  (NP (NBAR DOBSON/NN))
+  :/:
+  (NP (NBAR Bill/NNP))
+  ,/,
+  while/IN
+  (NP (NBAR people/NNS))
+  have/VBP
+  the/DT
+  (NP (NBAR right/NN))
+  to/TO
+  equality/VB
+  under/IN
+  the/DT
+  (NP (NBAR law/NN))
+  ,/,
+  they/PRP
+  do/VBP
+  not/RB
+  have/VB
+  the/DT
+  (NP (NBAR right/NN))
+  to/TO
+  define/VB
+  (NP (NBAR marriage/NN))
+  ./.
+  (NP (NBAR Redefine/NNP marriage/NN))
+  ./.
+  For/IN
+  5,000/CD
+  (NP (NBAR years/NNS))
+  in/IN
+  every/DT
+  (NP (NBAR continent/NN))
+  on/IN
+  (NP (NBAR earth/NN))
+  ,/,
+  (NP (NBAR marriage/NN))
+  has/VBZ
+  been/VBN
+  the/DT
+  (NP (NBAR standard/NN))
+  between/IN
+  a/DT
+  (NP (NBAR man/NN))
+  and/CC
+  a/DT
+  (NP (NBAR woman/NN))
+  ./.
+  Why/WRB
+  ?/.
+  Because/IN
+  of/IN
+  (NP (NBAR children/NNS))
+  ./.
+  Because/IN
+  it/PRP
+  is/VBZ
+  best/RBS
+  for/IN
+  (NP (NBAR children/NNS))
+  to/TO
+  have/VB
+  a/DT
+  (NP (NBAR mother/NN))
+  and/CC
+  a/DT
+  (NP (NBAR father/NN))
+  ./.)(S
+  (NP (NBAR DOBSON/NN))
+  :/:
+  (NP (NBAR Bill/NNP))
+  ,/,
+  while/IN
+  (NP (NBAR people/NNS))
+  have/VBP
+  the/DT
+  (NP (NBAR right/NN))
+  to/TO
+  equality/VB
+  under/IN
+  the/DT
+  (NP (NBAR law/NN))
+  ,/,
+  they/PRP
+  do/VBP
+  not/RB
+  have/VB
+  the/DT
+  (NP (NBAR right/NN))
+  to/TO
+  define/VB
+  (NP (NBAR marriage/NN))
+  ./.
+  (NP (NBAR Redefine/NNP marriage/NN))
+  ./.
+  For/IN
+  5,000/CD
+  (NP (NBAR years/NNS))
+  in/IN
+  every/DT
+  (NP (NBAR continent/NN))
+  on/IN
+  (NP (NBAR earth/NN))
+  ,/,
+  (NP (NBAR marriage/NN))
+  has/VBZ
+  been/VBN
+  the/DT
+  (NP (NBAR standard/NN))
+  between/IN
+  a/DT
+  (NP (NBAR man/NN))
+  and/CC
+  a/DT
+  (NP (NBAR woman/NN))
+  ./.
+  Why/WRB
+  ?/.
+  Because/IN
+  of/IN
+  (NP (NBAR children/NNS))
+  ./.
+  Because/IN
+  it/PRP
+  is/VBZ
+  best/RBS
+  for/IN
+  (NP (NBAR children/NNS))
+  to/TO
+  have/VB
+  a/DT
+  (NP (NBAR mother/NN))
+  and/CC
+  a/DT
+  (NP (NBAR father/NN))
+  ./.)(S
+  (NP (NBAR DOBSON/NN))
+  :/:
+  (NP (NBAR Bill/NNP))
+  ,/,
+  while/IN
+  (NP (NBAR people/NNS))
+  have/VBP
+  the/DT
+  (NP (NBAR right/NN))
+  to/TO
+  equality/VB
+  under/IN
+  the/DT
+  (NP (NBAR law/NN))
+  ,/,
+  they/PRP
+  do/VBP
+  not/RB
+  have/VB
+  the/DT
+  (NP (NBAR right/NN))
+  to/TO
+  define/VB
+  (NP (NBAR marriage/NN))
+  ./.
+  (NP (NBAR Redefine/NNP marriage/NN))
+  ./.
+  For/IN
+  5,000/CD
+  (NP (NBAR years/NNS))
+  in/IN
+  every/DT
+  (NP (NBAR continent/NN))
+  on/IN
+  (NP (NBAR earth/NN))
+  ,/,
+  (NP (NBAR marriage/NN))
+  has/VBZ
+  been/VBN
+  the/DT
+  (NP (NBAR standard/NN))
+  between/IN
+  a/DT
+  (NP (NBAR man/NN))
+  and/CC
+  a/DT
+  (NP (NBAR woman/NN))
+  ./.
+  Why/WRB
+  ?/.
+  Because/IN
+  of/IN
+  (NP (NBAR children/NNS))
+  ./.
+  Because/IN
+  it/PRP
+  is/VBZ
+  best/RBS
+  for/IN
+  (NP (NBAR children/NNS))
+  to/TO
+  have/VB
+  a/DT
+  (NP (NBAR mother/NN))
+  and/CC
+  a/DT
+  (NP (NBAR father/NN))
+  ./.)(S
+  (NP (NBAR DOBSON/NN))
+  :/:
+  (NP (NBAR Bill/NNP))
+  ,/,
+  while/IN
+  (NP (NBAR people/NNS))
+  have/VBP
+  the/DT
+  (NP (NBAR right/NN))
+  to/TO
+  equality/VB
+  under/IN
+  the/DT
+  (NP (NBAR law/NN))
+  ,/,
+  they/PRP
+  do/VBP
+  not/RB
+  have/VB
+  the/DT
+  (NP (NBAR right/NN))
+  to/TO
+  define/VB
+  (NP (NBAR marriage/NN))
+  ./.
+  (NP (NBAR Redefine/NNP marriage/NN))
+  ./.
+  For/IN
+  5,000/CD
+  (NP (NBAR years/NNS))
+  in/IN
+  every/DT
+  (NP (NBAR continent/NN))
+  on/IN
+  (NP (NBAR earth/NN))
+  ,/,
+  (NP (NBAR marriage/NN))
+  has/VBZ
+  been/VBN
+  the/DT
+  (NP (NBAR standard/NN))
+  between/IN
+  a/DT
+  (NP (NBAR man/NN))
+  and/CC
+  a/DT
+  (NP (NBAR woman/NN))
+  ./.
+  Why/WRB
+  ?/.
+  Because/IN
+  of/IN
+  (NP (NBAR children/NNS))
+  ./.
+  Because/IN
+  it/PRP
+  is/VBZ
+  best/RBS
+  for/IN
+  (NP (NBAR children/NNS))
+  to/TO
+  have/VB
+  a/DT
+  (NP (NBAR mother/NN))
+  and/CC
+  a/DT
+  (NP (NBAR father/NN))
+  ./.)(S
   We/PRP
   —/VBP
   you/PRP
@@ -673,6 +2307,20 @@
   how/WRB
   does/VBZ
   .../:)(S
+  (NP (NBAR DOBSON/NN))
+  :/:
+  Because/IN
+  it/PRP
+  's/VBZ
+  not/RB
+  a/DT
+  (NP (NBAR good/JJ idea/NN))
+  ./.
+  It/PRP
+  's/VBZ
+  a/DT
+  (NP (NBAR bad/JJ idea/NN))
+  ./.)(S
   (NP (NBAR DOBSON/NN))
   :/:
   Because/IN
@@ -728,6 +2376,138 @@
   hurt/VBN
   (NP (NBAR traditional/JJ marriage/NN))
   ?/.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  (NP (NBAR Whoa/NNP))
+  ,/,
+  (NP (NBAR whoa/NN))
+  ,/,
+  here/RB
+  's/VBZ
+  the/DT
+  (NP (NBAR last/JJ question/NN))
+  ./.
+  Why/WRB
+  would/MD
+  it/PRP
+  hurt/VB
+  (NP (NBAR traditional/JJ marriage/NN))
+  ,/,
+  which/WDT
+  would/MD
+  still/RB
+  rule/VB
+  and/CC
+  reign/VB
+  ,/,
+  because/IN
+  94/CD
+  (NP (NBAR percent/NN))
+  of/IN
+  (NP (NBAR people/NNS))
+  are/VBP
+  (NP (NBAR homosexual/JJ —/NNP))
+  are/VBP
+  heterosexual/JJ
+  ./.
+  Why/WRB
+  would/MD
+  gay/VB
+  (NP (NBAR marriage/NN))
+  hurt/VBN
+  (NP (NBAR traditional/JJ marriage/NN))
+  ?/.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  (NP (NBAR Whoa/NNP))
+  ,/,
+  (NP (NBAR whoa/NN))
+  ,/,
+  here/RB
+  's/VBZ
+  the/DT
+  (NP (NBAR last/JJ question/NN))
+  ./.
+  Why/WRB
+  would/MD
+  it/PRP
+  hurt/VB
+  (NP (NBAR traditional/JJ marriage/NN))
+  ,/,
+  which/WDT
+  would/MD
+  still/RB
+  rule/VB
+  and/CC
+  reign/VB
+  ,/,
+  because/IN
+  94/CD
+  (NP (NBAR percent/NN))
+  of/IN
+  (NP (NBAR people/NNS))
+  are/VBP
+  (NP (NBAR homosexual/JJ —/NNP))
+  are/VBP
+  heterosexual/JJ
+  ./.
+  Why/WRB
+  would/MD
+  gay/VB
+  (NP (NBAR marriage/NN))
+  hurt/VBN
+  (NP (NBAR traditional/JJ marriage/NN))
+  ?/.)(S
+  (NP (NBAR DOBSON/NN))
+  :/:
+  That/DT
+  is/VBZ
+  what/WP
+  I/PRP
+  talk/VBP
+  about/IN
+  in/IN
+  my/PRP$
+  (NP (NBAR book/NN))
+  ``/``
+  (NP (NBAR Marriage/NNP))
+  Under/IN
+  (NP (NBAR Fire/NNP))
+  ,/,
+  ''/''
+  because/IN
+  if/IN
+  you/PRP
+  look/VBP
+  at/IN
+  the/DT
+  (NP (NBAR countries/NNS))
+  that/WDT
+  have/VBP
+  created/VBN
+  (NP (NBAR something/NN))
+  akin/JJ
+  to/TO
+  (NP (NBAR same-sex/JJ marriage/NN))
+  or/CC
+  (NP (NBAR civil/JJ unions/NNS))
+  ,/,
+  it/PRP
+  (NP (NBAR damages/NNS marriage/NN))
+  tremendously/RB
+  ./.
+  (NP (NBAR Homosexual/JJ activists/NNS))
+  do/VBP
+  n't/RB
+  want/VB
+  to/TO
+  admit/VB
+  this/DT
+  ,/,
+  but/CC
+  it/PRP
+  does/VBZ
+  ./.)(S
   (NP (NBAR DOBSON/NN))
   :/:
   That/DT
@@ -843,6 +2623,263 @@
   of/IN
   (NP (NBAR wedlock/NN))
   ./.)(S
+  In/IN
+  (NP (NBAR Norway/NNP))
+  and/CC
+  the/DT
+  (NP (NBAR Scandinavian/JJ countries/NNS))
+  and/CC
+  the/DT
+  (NP (NBAR other/JJ places/NNS))
+  where/WRB
+  this/DT
+  is/VBZ
+  tried/VBN
+  ,/,
+  marriage/VB
+  essentially/RB
+  (NP (NBAR disappears/NNS))
+  ./.
+  In/IN
+  some/DT
+  of/IN
+  those/DT
+  (NP (NBAR countries/NNS))
+  ,/,
+  in/IN
+  (NP (NBAR Norway/NNP))
+  and/CC
+  elsewhere/RB
+  ,/,
+  60/CD
+  (NP (NBAR percent/NN))
+  of/IN
+  the/DT
+  (NP (NBAR children/NNS))
+  are/VBP
+  born/VBN
+  out/IN
+  of/IN
+  (NP (NBAR wedlock/NN))
+  ./.
+  If/IN
+  you/PRP
+  confuse/VBP
+  the/DT
+  (NP (NBAR idea/NN))
+  of/IN
+  what/WP
+  (NP (NBAR marriage/NN))
+  is/VBZ
+  for/IN
+  (NP (NBAR young/JJ people/NNS))
+  ,/,
+  they/PRP
+  simply/RB
+  do/VBP
+  n't/RB
+  get/VB
+  married/VBN
+  ./.
+  They/PRP
+  live/VBP
+  together/RB
+  out/IN
+  of/IN
+  (NP (NBAR wedlock/NN))
+  ./.)(S
+  In/IN
+  (NP (NBAR Norway/NNP))
+  and/CC
+  the/DT
+  (NP (NBAR Scandinavian/JJ countries/NNS))
+  and/CC
+  the/DT
+  (NP (NBAR other/JJ places/NNS))
+  where/WRB
+  this/DT
+  is/VBZ
+  tried/VBN
+  ,/,
+  marriage/VB
+  essentially/RB
+  (NP (NBAR disappears/NNS))
+  ./.
+  In/IN
+  some/DT
+  of/IN
+  those/DT
+  (NP (NBAR countries/NNS))
+  ,/,
+  in/IN
+  (NP (NBAR Norway/NNP))
+  and/CC
+  elsewhere/RB
+  ,/,
+  60/CD
+  (NP (NBAR percent/NN))
+  of/IN
+  the/DT
+  (NP (NBAR children/NNS))
+  are/VBP
+  born/VBN
+  out/IN
+  of/IN
+  (NP (NBAR wedlock/NN))
+  ./.
+  If/IN
+  you/PRP
+  confuse/VBP
+  the/DT
+  (NP (NBAR idea/NN))
+  of/IN
+  what/WP
+  (NP (NBAR marriage/NN))
+  is/VBZ
+  for/IN
+  (NP (NBAR young/JJ people/NNS))
+  ,/,
+  they/PRP
+  simply/RB
+  do/VBP
+  n't/RB
+  get/VB
+  married/VBN
+  ./.
+  They/PRP
+  live/VBP
+  together/RB
+  out/IN
+  of/IN
+  (NP (NBAR wedlock/NN))
+  ./.)(S
+  In/IN
+  (NP (NBAR Norway/NNP))
+  and/CC
+  the/DT
+  (NP (NBAR Scandinavian/JJ countries/NNS))
+  and/CC
+  the/DT
+  (NP (NBAR other/JJ places/NNS))
+  where/WRB
+  this/DT
+  is/VBZ
+  tried/VBN
+  ,/,
+  marriage/VB
+  essentially/RB
+  (NP (NBAR disappears/NNS))
+  ./.
+  In/IN
+  some/DT
+  of/IN
+  those/DT
+  (NP (NBAR countries/NNS))
+  ,/,
+  in/IN
+  (NP (NBAR Norway/NNP))
+  and/CC
+  elsewhere/RB
+  ,/,
+  60/CD
+  (NP (NBAR percent/NN))
+  of/IN
+  the/DT
+  (NP (NBAR children/NNS))
+  are/VBP
+  born/VBN
+  out/IN
+  of/IN
+  (NP (NBAR wedlock/NN))
+  ./.
+  If/IN
+  you/PRP
+  confuse/VBP
+  the/DT
+  (NP (NBAR idea/NN))
+  of/IN
+  what/WP
+  (NP (NBAR marriage/NN))
+  is/VBZ
+  for/IN
+  (NP (NBAR young/JJ people/NNS))
+  ,/,
+  they/PRP
+  simply/RB
+  do/VBP
+  n't/RB
+  get/VB
+  married/VBN
+  ./.
+  They/PRP
+  live/VBP
+  together/RB
+  out/IN
+  of/IN
+  (NP (NBAR wedlock/NN))
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  Well/RB
+  ,/,
+  (NP (NBAR sir/NN))
+  ,/,
+  (NP (NBAR look/NN))
+  at/IN
+  the/DT
+  (NP (NBAR stats/NNS))
+  ./.
+  I/PRP
+  think/VBP
+  it/PRP
+  was/VBD
+  in/IN
+  (NP (NBAR Sweden/NNP))
+  ,/,
+  the/DT
+  (NP (NBAR stats/NNS))
+  in/IN
+  (NP (NBAR Sweden/NNP prove/NN))
+  that/WDT
+  ./.
+  And/CC
+  it/PRP
+  's/VBZ
+  a/DT
+  very/RB
+  (NP (NBAR interesting/JJ debate/NN))
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  Well/RB
+  ,/,
+  (NP (NBAR sir/NN))
+  ,/,
+  (NP (NBAR look/NN))
+  at/IN
+  the/DT
+  (NP (NBAR stats/NNS))
+  ./.
+  I/PRP
+  think/VBP
+  it/PRP
+  was/VBD
+  in/IN
+  (NP (NBAR Sweden/NNP))
+  ,/,
+  the/DT
+  (NP (NBAR stats/NNS))
+  in/IN
+  (NP (NBAR Sweden/NNP prove/NN))
+  that/WDT
+  ./.
+  And/CC
+  it/PRP
+  's/VBZ
+  a/DT
+  very/RB
+  (NP (NBAR interesting/JJ debate/NN))
+  ./.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   Well/RB
@@ -888,6 +2925,20 @@
   coming/VBG
   on/IN
   ./.)(S
+  (NP (NBAR Doctor/NN))
+  ,/,
+  it/PRP
+  's/VBZ
+  always/RB
+  a/DT
+  (NP (NBAR pleasure/NN))
+  ./.
+  (NP (NBAR Thank/NNP))
+  you/PRP
+  for/IN
+  coming/VBG
+  on/IN
+  ./.)(S
   (NP (NBAR DOBSON/NN))
   :/:
   (NP (NBAR Nice/NNP))
@@ -895,4 +2946,4 @@
   talk/VB
   to/TO
   you/PRP
-  ./.)(S )(S )
+  ./.)

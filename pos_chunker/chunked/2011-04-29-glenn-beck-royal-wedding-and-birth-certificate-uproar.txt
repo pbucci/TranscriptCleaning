@@ -1,4 +1,4 @@
-(S )(S )(S
+(S
   (NP (NBAR BILL/NNP O'REILLY/NNP))
   ,/,
   (NP (NBAR HOST/NNP))
@@ -35,7 +35,44 @@
   Roll/VB
   the/DT
   (NP (NBAR tape/NN))
-  ./.)(S )(S (/( (NP (NBAR BEGIN/NNP VIDEOTAPE/NNP)) )/))(S )(S
+  ./.)(S
+  (NP (NBAR BILL/NNP O'REILLY/NNP))
+  ,/,
+  (NP (NBAR HOST/NNP))
+  :/:
+  In/IN
+  the/DT
+  ``/``
+  At/IN
+  (NP (NBAR Your/NNP Beck/NNP))
+  and/CC
+  (NP (NBAR Call/NNP))
+  ''/''
+  (NP (NBAR segment/NN tonight/NN))
+  ,/,
+  two/CD
+  (NP (NBAR hot/JJ topics/NNS))
+  for/IN
+  the/DT
+  (NP (NBAR G-man/NNP))
+  :/:
+  what/WP
+  he/PRP
+  thinks/VBZ
+  about/IN
+  the/DT
+  (NP (NBAR birth/NN certificate/NN stuff/NN))
+  and/CC
+  his/PRP$
+  (NP (NBAR take/NN))
+  on/IN
+  the/DT
+  (NP (NBAR royal/NN wedding/NN))
+  ./.
+  Roll/VB
+  the/DT
+  (NP (NBAR tape/NN))
+  ./.)(S (/( (NP (NBAR BEGIN/NNP VIDEOTAPE/NNP)) )/))(S
   (NP (NBAR O'REILLY/NN))
   :/:
   (NP (NBAR OK/NN))
@@ -66,13 +103,106 @@
   you/PRP
   watch/VB
   it/PRP
-  ?/.)(S )(S
+  ?/.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  (NP (NBAR OK/NN))
+  ,/,
+  here/RB
+  's/POS
+  (NP (NBAR Beck/NNP))
+  ./.
+  Two/CD
+  billion/CD
+  (NP (NBAR people/NNS))
+  estimated/VBN
+  to/TO
+  have/VB
+  watched/VBN
+  the/DT
+  (NP (NBAR royal/NN wedding/NN today/NN))
+  ./.
+  Two/CD
+  billion/CD
+  with/IN
+  a/DT
+  ``/``
+  (NP (NBAR B/NNP))
+  ./.
+  ''/''
+  (NP (NBAR Did/NNP))
+  you/PRP
+  watch/VB
+  it/PRP
+  ?/.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  (NP (NBAR OK/NN))
+  ,/,
+  here/RB
+  's/POS
+  (NP (NBAR Beck/NNP))
+  ./.
+  Two/CD
+  billion/CD
+  (NP (NBAR people/NNS))
+  estimated/VBN
+  to/TO
+  have/VB
+  watched/VBN
+  the/DT
+  (NP (NBAR royal/NN wedding/NN today/NN))
+  ./.
+  Two/CD
+  billion/CD
+  with/IN
+  a/DT
+  ``/``
+  (NP (NBAR B/NNP))
+  ./.
+  ''/''
+  (NP (NBAR Did/NNP))
+  you/PRP
+  watch/VB
+  it/PRP
+  ?/.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  (NP (NBAR OK/NN))
+  ,/,
+  here/RB
+  's/POS
+  (NP (NBAR Beck/NNP))
+  ./.
+  Two/CD
+  billion/CD
+  (NP (NBAR people/NNS))
+  estimated/VBN
+  to/TO
+  have/VB
+  watched/VBN
+  the/DT
+  (NP (NBAR royal/NN wedding/NN today/NN))
+  ./.
+  Two/CD
+  billion/CD
+  with/IN
+  a/DT
+  ``/``
+  (NP (NBAR B/NNP))
+  ./.
+  ''/''
+  (NP (NBAR Did/NNP))
+  you/PRP
+  watch/VB
+  it/PRP
+  ?/.)(S
   (NP (NBAR GLENN/NNP BECK/NNP))
   ,/,
   (NP (NBAR FOX/NNP NEWS/NNP ANCHOR/NNP))
   :/:
   (NP (NBAR Me/NN))
-  ?/.)(S )(S (NP (NBAR O'REILLY/NN)) :/: You/PRP ./.)(S )(S (NP (NBAR BECK/NNS)) :/: Watch/VB it/PRP ?/.)(S (NP (NBAR O'REILLY/NN)) :/: Yes/UH ./.)(S
+  ?/.)(S (NP (NBAR O'REILLY/NN)) :/: You/PRP ./.)(S (NP (NBAR BECK/NNS)) :/: Watch/VB it/PRP ?/.)(S (NP (NBAR O'REILLY/NN)) :/: Yes/UH ./.)(S
   (NP (NBAR BECK/NN))
   :/:
   Oh/UH
@@ -113,6 +243,26 @@
   the/DT
   (NP (NBAR horses/NNS))
   ./.)(S
+  (NP (NBAR BECK/NN))
+  :/:
+  Oh/UH
+  my/PRP$
+  (NP (NBAR gosh/NN))
+  ./.
+  And/CC
+  the/DT
+  --/:
+  walking/VBG
+  down/RP
+  the/DT
+  (NP (NBAR aisle/NN))
+  and/CC
+  the/DT
+  (NP (NBAR pageantry/NN))
+  and/CC
+  the/DT
+  (NP (NBAR horses/NNS))
+  ./.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   (NP (NBAR Did/NNP))
@@ -121,7 +271,7 @@
   it/PRP
   ,/,
   (NP (NBAR Beck/NNP))
-  ?/.)(S )(S
+  ?/.)(S
   (NP (NBAR BECK/NNS))
   :/:
   No/DT
@@ -148,7 +298,115 @@
   for/IN
   (NP (NBAR security/NN))
   ?/.
-  (NP (NBAR Hey…/NNP)))(S )(S
+  (NP (NBAR Hey…/NNP)))(S
+  (NP (NBAR BECK/NNS))
+  :/:
+  No/DT
+  ./.
+  I/PRP
+  do/VBP
+  n't/RB
+  care/VB
+  at/IN
+  all/DT
+  ./.
+  (NP (NBAR Nope/NNP))
+  ,/,
+  not/RB
+  at/IN
+  all/DT
+  ./.
+  I/PRP
+  did/VBD
+  --/:
+  $/$
+  33/CD
+  million/CD
+  for/IN
+  (NP (NBAR security/NN))
+  ?/.
+  (NP (NBAR Hey…/NNP)))(S
+  (NP (NBAR BECK/NNS))
+  :/:
+  No/DT
+  ./.
+  I/PRP
+  do/VBP
+  n't/RB
+  care/VB
+  at/IN
+  all/DT
+  ./.
+  (NP (NBAR Nope/NNP))
+  ,/,
+  not/RB
+  at/IN
+  all/DT
+  ./.
+  I/PRP
+  did/VBD
+  --/:
+  $/$
+  33/CD
+  million/CD
+  for/IN
+  (NP (NBAR security/NN))
+  ?/.
+  (NP (NBAR Hey…/NNP)))(S
+  (NP (NBAR BECK/NNS))
+  :/:
+  No/DT
+  ./.
+  I/PRP
+  do/VBP
+  n't/RB
+  care/VB
+  at/IN
+  all/DT
+  ./.
+  (NP (NBAR Nope/NNP))
+  ,/,
+  not/RB
+  at/IN
+  all/DT
+  ./.
+  I/PRP
+  did/VBD
+  --/:
+  $/$
+  33/CD
+  million/CD
+  for/IN
+  (NP (NBAR security/NN))
+  ?/.
+  (NP (NBAR Hey…/NNP)))(S
+  (NP (NBAR BECK/NNS))
+  :/:
+  No/DT
+  ./.
+  I/PRP
+  do/VBP
+  n't/RB
+  care/VB
+  at/IN
+  all/DT
+  ./.
+  (NP (NBAR Nope/NNP))
+  ,/,
+  not/RB
+  at/IN
+  all/DT
+  ./.
+  I/PRP
+  did/VBD
+  --/:
+  $/$
+  33/CD
+  million/CD
+  for/IN
+  (NP (NBAR security/NN))
+  ?/.
+  (NP (NBAR Hey…/NNP)))(S
   (NP (NBAR O'REILLY/NN))
   :/:
   That/DT
@@ -159,7 +417,18 @@
   ./.
   Come/VB
   on/IN
-  ./.)(S )(S
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  That/DT
+  's/VBZ
+  what/WP
+  you/PRP
+  pay/VBP
+  ./.
+  Come/VB
+  on/IN
+  ./.)(S
   (NP (NBAR BECK/NN))
   :/:
   It/PRP
@@ -171,7 +440,7 @@
   for/IN
   the/DT
   (NP (NBAR wedding/NN))
-  ./.)(S )(S
+  ./.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   (NP (NBAR Beck/NNP))
@@ -203,7 +472,24 @@
   throwing/VBG
   it/PRP
   off/RP
-  ./.)(S )(S
+  ./.)(S
+  (NP (NBAR BECK/NN))
+  :/:
+  Really/RB
+  ,/,
+  the/DT
+  one/CD
+  not/RB
+  watching/VBG
+  the/DT
+  (NP (NBAR royals/NNS))
+  wedding/VBG
+  ?/.
+  I/PRP
+  'm/VBP
+  the/DT
+  (NP (NBAR snob/NN))
+  ?/.)(S
   (NP (NBAR BECK/NN))
   :/:
   Really/RB
@@ -231,7 +517,503 @@
   use/VBP
   with/IN
   (NP (NBAR Harvard/NNP))
-  ./.)(S )(S
+  ./.)(S
+  (NP (NBAR BECK/NNS))
+  :/:
+  Yes/UH
+  ,/,
+  it/PRP
+  is/VBZ
+  ./.
+  Well/RB
+  ,/,
+  it/PRP
+  's/VBZ
+  the/DT
+  (NP (NBAR same/JJ group/NN))
+  of/IN
+  (NP (NBAR people/NNS))
+  really/RB
+  ,/,
+  (NP (NBAR Bill/NNP))
+  ./.
+  (NP (NBAR Uh-oh/NNP))
+  ./.
+  Wait/VB
+  a/DT
+  (NP (NBAR minute/NN))
+  ./.
+  I/PRP
+  might/MD
+  be/VB
+  in/IN
+  (NP (NBAR trouble/NN))
+  on/IN
+  that/DT
+  ./.
+  He/PRP
+  went/VBD
+  to/TO
+  (NP (NBAR Harvard/NNP))
+  ./.
+  I/PRP
+  think/VBP
+  it/PRP
+  's/VBZ
+  a/DT
+  (NP (NBAR ridiculous/JJ waste/NN))
+  of/IN
+  (NP (NBAR time/NN))
+  ./.
+  I/PRP
+  mean/VBP
+  ,/,
+  I/PRP
+  'm/VBP
+  happy/JJ
+  for/IN
+  them/PRP
+  ./.
+  I/PRP
+  think/VBP
+  it/PRP
+  's/VBZ
+  great/JJ
+  ./.)(S
+  (NP (NBAR BECK/NNS))
+  :/:
+  Yes/UH
+  ,/,
+  it/PRP
+  is/VBZ
+  ./.
+  Well/RB
+  ,/,
+  it/PRP
+  's/VBZ
+  the/DT
+  (NP (NBAR same/JJ group/NN))
+  of/IN
+  (NP (NBAR people/NNS))
+  really/RB
+  ,/,
+  (NP (NBAR Bill/NNP))
+  ./.
+  (NP (NBAR Uh-oh/NNP))
+  ./.
+  Wait/VB
+  a/DT
+  (NP (NBAR minute/NN))
+  ./.
+  I/PRP
+  might/MD
+  be/VB
+  in/IN
+  (NP (NBAR trouble/NN))
+  on/IN
+  that/DT
+  ./.
+  He/PRP
+  went/VBD
+  to/TO
+  (NP (NBAR Harvard/NNP))
+  ./.
+  I/PRP
+  think/VBP
+  it/PRP
+  's/VBZ
+  a/DT
+  (NP (NBAR ridiculous/JJ waste/NN))
+  of/IN
+  (NP (NBAR time/NN))
+  ./.
+  I/PRP
+  mean/VBP
+  ,/,
+  I/PRP
+  'm/VBP
+  happy/JJ
+  for/IN
+  them/PRP
+  ./.
+  I/PRP
+  think/VBP
+  it/PRP
+  's/VBZ
+  great/JJ
+  ./.)(S
+  (NP (NBAR BECK/NNS))
+  :/:
+  Yes/UH
+  ,/,
+  it/PRP
+  is/VBZ
+  ./.
+  Well/RB
+  ,/,
+  it/PRP
+  's/VBZ
+  the/DT
+  (NP (NBAR same/JJ group/NN))
+  of/IN
+  (NP (NBAR people/NNS))
+  really/RB
+  ,/,
+  (NP (NBAR Bill/NNP))
+  ./.
+  (NP (NBAR Uh-oh/NNP))
+  ./.
+  Wait/VB
+  a/DT
+  (NP (NBAR minute/NN))
+  ./.
+  I/PRP
+  might/MD
+  be/VB
+  in/IN
+  (NP (NBAR trouble/NN))
+  on/IN
+  that/DT
+  ./.
+  He/PRP
+  went/VBD
+  to/TO
+  (NP (NBAR Harvard/NNP))
+  ./.
+  I/PRP
+  think/VBP
+  it/PRP
+  's/VBZ
+  a/DT
+  (NP (NBAR ridiculous/JJ waste/NN))
+  of/IN
+  (NP (NBAR time/NN))
+  ./.
+  I/PRP
+  mean/VBP
+  ,/,
+  I/PRP
+  'm/VBP
+  happy/JJ
+  for/IN
+  them/PRP
+  ./.
+  I/PRP
+  think/VBP
+  it/PRP
+  's/VBZ
+  great/JJ
+  ./.)(S
+  (NP (NBAR BECK/NNS))
+  :/:
+  Yes/UH
+  ,/,
+  it/PRP
+  is/VBZ
+  ./.
+  Well/RB
+  ,/,
+  it/PRP
+  's/VBZ
+  the/DT
+  (NP (NBAR same/JJ group/NN))
+  of/IN
+  (NP (NBAR people/NNS))
+  really/RB
+  ,/,
+  (NP (NBAR Bill/NNP))
+  ./.
+  (NP (NBAR Uh-oh/NNP))
+  ./.
+  Wait/VB
+  a/DT
+  (NP (NBAR minute/NN))
+  ./.
+  I/PRP
+  might/MD
+  be/VB
+  in/IN
+  (NP (NBAR trouble/NN))
+  on/IN
+  that/DT
+  ./.
+  He/PRP
+  went/VBD
+  to/TO
+  (NP (NBAR Harvard/NNP))
+  ./.
+  I/PRP
+  think/VBP
+  it/PRP
+  's/VBZ
+  a/DT
+  (NP (NBAR ridiculous/JJ waste/NN))
+  of/IN
+  (NP (NBAR time/NN))
+  ./.
+  I/PRP
+  mean/VBP
+  ,/,
+  I/PRP
+  'm/VBP
+  happy/JJ
+  for/IN
+  them/PRP
+  ./.
+  I/PRP
+  think/VBP
+  it/PRP
+  's/VBZ
+  great/JJ
+  ./.)(S
+  (NP (NBAR BECK/NNS))
+  :/:
+  Yes/UH
+  ,/,
+  it/PRP
+  is/VBZ
+  ./.
+  Well/RB
+  ,/,
+  it/PRP
+  's/VBZ
+  the/DT
+  (NP (NBAR same/JJ group/NN))
+  of/IN
+  (NP (NBAR people/NNS))
+  really/RB
+  ,/,
+  (NP (NBAR Bill/NNP))
+  ./.
+  (NP (NBAR Uh-oh/NNP))
+  ./.
+  Wait/VB
+  a/DT
+  (NP (NBAR minute/NN))
+  ./.
+  I/PRP
+  might/MD
+  be/VB
+  in/IN
+  (NP (NBAR trouble/NN))
+  on/IN
+  that/DT
+  ./.
+  He/PRP
+  went/VBD
+  to/TO
+  (NP (NBAR Harvard/NNP))
+  ./.
+  I/PRP
+  think/VBP
+  it/PRP
+  's/VBZ
+  a/DT
+  (NP (NBAR ridiculous/JJ waste/NN))
+  of/IN
+  (NP (NBAR time/NN))
+  ./.
+  I/PRP
+  mean/VBP
+  ,/,
+  I/PRP
+  'm/VBP
+  happy/JJ
+  for/IN
+  them/PRP
+  ./.
+  I/PRP
+  think/VBP
+  it/PRP
+  's/VBZ
+  great/JJ
+  ./.)(S
+  (NP (NBAR BECK/NNS))
+  :/:
+  Yes/UH
+  ,/,
+  it/PRP
+  is/VBZ
+  ./.
+  Well/RB
+  ,/,
+  it/PRP
+  's/VBZ
+  the/DT
+  (NP (NBAR same/JJ group/NN))
+  of/IN
+  (NP (NBAR people/NNS))
+  really/RB
+  ,/,
+  (NP (NBAR Bill/NNP))
+  ./.
+  (NP (NBAR Uh-oh/NNP))
+  ./.
+  Wait/VB
+  a/DT
+  (NP (NBAR minute/NN))
+  ./.
+  I/PRP
+  might/MD
+  be/VB
+  in/IN
+  (NP (NBAR trouble/NN))
+  on/IN
+  that/DT
+  ./.
+  He/PRP
+  went/VBD
+  to/TO
+  (NP (NBAR Harvard/NNP))
+  ./.
+  I/PRP
+  think/VBP
+  it/PRP
+  's/VBZ
+  a/DT
+  (NP (NBAR ridiculous/JJ waste/NN))
+  of/IN
+  (NP (NBAR time/NN))
+  ./.
+  I/PRP
+  mean/VBP
+  ,/,
+  I/PRP
+  'm/VBP
+  happy/JJ
+  for/IN
+  them/PRP
+  ./.
+  I/PRP
+  think/VBP
+  it/PRP
+  's/VBZ
+  great/JJ
+  ./.)(S
+  (NP (NBAR BECK/NNS))
+  :/:
+  Yes/UH
+  ,/,
+  it/PRP
+  is/VBZ
+  ./.
+  Well/RB
+  ,/,
+  it/PRP
+  's/VBZ
+  the/DT
+  (NP (NBAR same/JJ group/NN))
+  of/IN
+  (NP (NBAR people/NNS))
+  really/RB
+  ,/,
+  (NP (NBAR Bill/NNP))
+  ./.
+  (NP (NBAR Uh-oh/NNP))
+  ./.
+  Wait/VB
+  a/DT
+  (NP (NBAR minute/NN))
+  ./.
+  I/PRP
+  might/MD
+  be/VB
+  in/IN
+  (NP (NBAR trouble/NN))
+  on/IN
+  that/DT
+  ./.
+  He/PRP
+  went/VBD
+  to/TO
+  (NP (NBAR Harvard/NNP))
+  ./.
+  I/PRP
+  think/VBP
+  it/PRP
+  's/VBZ
+  a/DT
+  (NP (NBAR ridiculous/JJ waste/NN))
+  of/IN
+  (NP (NBAR time/NN))
+  ./.
+  I/PRP
+  mean/VBP
+  ,/,
+  I/PRP
+  'm/VBP
+  happy/JJ
+  for/IN
+  them/PRP
+  ./.
+  I/PRP
+  think/VBP
+  it/PRP
+  's/VBZ
+  great/JJ
+  ./.)(S
+  (NP (NBAR BECK/NNS))
+  :/:
+  Yes/UH
+  ,/,
+  it/PRP
+  is/VBZ
+  ./.
+  Well/RB
+  ,/,
+  it/PRP
+  's/VBZ
+  the/DT
+  (NP (NBAR same/JJ group/NN))
+  of/IN
+  (NP (NBAR people/NNS))
+  really/RB
+  ,/,
+  (NP (NBAR Bill/NNP))
+  ./.
+  (NP (NBAR Uh-oh/NNP))
+  ./.
+  Wait/VB
+  a/DT
+  (NP (NBAR minute/NN))
+  ./.
+  I/PRP
+  might/MD
+  be/VB
+  in/IN
+  (NP (NBAR trouble/NN))
+  on/IN
+  that/DT
+  ./.
+  He/PRP
+  went/VBD
+  to/TO
+  (NP (NBAR Harvard/NNP))
+  ./.
+  I/PRP
+  think/VBP
+  it/PRP
+  's/VBZ
+  a/DT
+  (NP (NBAR ridiculous/JJ waste/NN))
+  of/IN
+  (NP (NBAR time/NN))
+  ./.
+  I/PRP
+  mean/VBP
+  ,/,
+  I/PRP
+  'm/VBP
+  happy/JJ
+  for/IN
+  them/PRP
+  ./.
+  I/PRP
+  think/VBP
+  it/PRP
+  's/VBZ
+  great/JJ
+  ./.)(S
   (NP (NBAR BECK/NNS))
   :/:
   Yes/UH
@@ -302,7 +1084,16 @@
   on/IN
   a/DT
   (NP (NBAR humanitarian/JJ basis/NN))
-  ./.)(S )(S (NP (NBAR BECK/NNS)) :/: Yes/UH ./. And/CC .../:)(S )(S
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  (NP (NBAR Right/NNP))
+  ./.
+  (NP (NBAR Just/NNP))
+  on/IN
+  a/DT
+  (NP (NBAR humanitarian/JJ basis/NN))
+  ./.)(S (NP (NBAR BECK/NNS)) :/: Yes/UH ./. And/CC .../:)(S (NP (NBAR BECK/NNS)) :/: Yes/UH ./. And/CC .../:)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   Send/VB
@@ -376,18 +1167,483 @@
   talking/VBG
   about/IN
   ?/.)(S
+  (NP (NBAR BECK/NN))
+  :/:
+  The/DT
+  (NP (NBAR princess/NN))
+  and/CC
+  the/DT
+  (NP (NBAR pea/NN))
+  and/CC
+  all/DT
+  of/IN
+  that/DT
+  ./.
+  I/PRP
+  loved/VBD
+  that/IN
+  when/WRB
+  she/PRP
+  was/VBD
+  doing/VBG
+  it/PRP
+  ./.
+  Is/VBZ
+  she/PRP
+  the/DT
+  most/RBS
+  (NP (NBAR perfect/JJ princess/NN))
+  ever/RB
+  ?/.
+  I/PRP
+  saw/VBD
+  this/DT
+  on/IN
+  some/DT
+  (NP (NBAR show/NN))
+  ./.
+  I/PRP
+  hope/VBP
+  it/PRP
+  was/VBD
+  n't/RB
+  your/PRP$
+  (NP (NBAR show/NN))
+  ./.
+  Is/VBZ
+  she/PRP
+  the/DT
+  most/RBS
+  (NP (NBAR perfect/JJ princess/NN))
+  ever/RB
+  ?/.
+  I/PRP
+  'm/VBP
+  like/IN
+  ,/,
+  the/DT
+  most/RBS
+  perfect/JJ
+  ?/.
+  What/WP
+  are/VBP
+  you/PRP
+  talking/VBG
+  about/IN
+  ?/.)(S
+  (NP (NBAR BECK/NN))
+  :/:
+  The/DT
+  (NP (NBAR princess/NN))
+  and/CC
+  the/DT
+  (NP (NBAR pea/NN))
+  and/CC
+  all/DT
+  of/IN
+  that/DT
+  ./.
+  I/PRP
+  loved/VBD
+  that/IN
+  when/WRB
+  she/PRP
+  was/VBD
+  doing/VBG
+  it/PRP
+  ./.
+  Is/VBZ
+  she/PRP
+  the/DT
+  most/RBS
+  (NP (NBAR perfect/JJ princess/NN))
+  ever/RB
+  ?/.
+  I/PRP
+  saw/VBD
+  this/DT
+  on/IN
+  some/DT
+  (NP (NBAR show/NN))
+  ./.
+  I/PRP
+  hope/VBP
+  it/PRP
+  was/VBD
+  n't/RB
+  your/PRP$
+  (NP (NBAR show/NN))
+  ./.
+  Is/VBZ
+  she/PRP
+  the/DT
+  most/RBS
+  (NP (NBAR perfect/JJ princess/NN))
+  ever/RB
+  ?/.
+  I/PRP
+  'm/VBP
+  like/IN
+  ,/,
+  the/DT
+  most/RBS
+  perfect/JJ
+  ?/.
+  What/WP
+  are/VBP
+  you/PRP
+  talking/VBG
+  about/IN
+  ?/.)(S
+  (NP (NBAR BECK/NN))
+  :/:
+  The/DT
+  (NP (NBAR princess/NN))
+  and/CC
+  the/DT
+  (NP (NBAR pea/NN))
+  and/CC
+  all/DT
+  of/IN
+  that/DT
+  ./.
+  I/PRP
+  loved/VBD
+  that/IN
+  when/WRB
+  she/PRP
+  was/VBD
+  doing/VBG
+  it/PRP
+  ./.
+  Is/VBZ
+  she/PRP
+  the/DT
+  most/RBS
+  (NP (NBAR perfect/JJ princess/NN))
+  ever/RB
+  ?/.
+  I/PRP
+  saw/VBD
+  this/DT
+  on/IN
+  some/DT
+  (NP (NBAR show/NN))
+  ./.
+  I/PRP
+  hope/VBP
+  it/PRP
+  was/VBD
+  n't/RB
+  your/PRP$
+  (NP (NBAR show/NN))
+  ./.
+  Is/VBZ
+  she/PRP
+  the/DT
+  most/RBS
+  (NP (NBAR perfect/JJ princess/NN))
+  ever/RB
+  ?/.
+  I/PRP
+  'm/VBP
+  like/IN
+  ,/,
+  the/DT
+  most/RBS
+  perfect/JJ
+  ?/.
+  What/WP
+  are/VBP
+  you/PRP
+  talking/VBG
+  about/IN
+  ?/.)(S
+  (NP (NBAR BECK/NN))
+  :/:
+  The/DT
+  (NP (NBAR princess/NN))
+  and/CC
+  the/DT
+  (NP (NBAR pea/NN))
+  and/CC
+  all/DT
+  of/IN
+  that/DT
+  ./.
+  I/PRP
+  loved/VBD
+  that/IN
+  when/WRB
+  she/PRP
+  was/VBD
+  doing/VBG
+  it/PRP
+  ./.
+  Is/VBZ
+  she/PRP
+  the/DT
+  most/RBS
+  (NP (NBAR perfect/JJ princess/NN))
+  ever/RB
+  ?/.
+  I/PRP
+  saw/VBD
+  this/DT
+  on/IN
+  some/DT
+  (NP (NBAR show/NN))
+  ./.
+  I/PRP
+  hope/VBP
+  it/PRP
+  was/VBD
+  n't/RB
+  your/PRP$
+  (NP (NBAR show/NN))
+  ./.
+  Is/VBZ
+  she/PRP
+  the/DT
+  most/RBS
+  (NP (NBAR perfect/JJ princess/NN))
+  ever/RB
+  ?/.
+  I/PRP
+  'm/VBP
+  like/IN
+  ,/,
+  the/DT
+  most/RBS
+  perfect/JJ
+  ?/.
+  What/WP
+  are/VBP
+  you/PRP
+  talking/VBG
+  about/IN
+  ?/.)(S
+  (NP (NBAR BECK/NN))
+  :/:
+  The/DT
+  (NP (NBAR princess/NN))
+  and/CC
+  the/DT
+  (NP (NBAR pea/NN))
+  and/CC
+  all/DT
+  of/IN
+  that/DT
+  ./.
+  I/PRP
+  loved/VBD
+  that/IN
+  when/WRB
+  she/PRP
+  was/VBD
+  doing/VBG
+  it/PRP
+  ./.
+  Is/VBZ
+  she/PRP
+  the/DT
+  most/RBS
+  (NP (NBAR perfect/JJ princess/NN))
+  ever/RB
+  ?/.
+  I/PRP
+  saw/VBD
+  this/DT
+  on/IN
+  some/DT
+  (NP (NBAR show/NN))
+  ./.
+  I/PRP
+  hope/VBP
+  it/PRP
+  was/VBD
+  n't/RB
+  your/PRP$
+  (NP (NBAR show/NN))
+  ./.
+  Is/VBZ
+  she/PRP
+  the/DT
+  most/RBS
+  (NP (NBAR perfect/JJ princess/NN))
+  ever/RB
+  ?/.
+  I/PRP
+  'm/VBP
+  like/IN
+  ,/,
+  the/DT
+  most/RBS
+  perfect/JJ
+  ?/.
+  What/WP
+  are/VBP
+  you/PRP
+  talking/VBG
+  about/IN
+  ?/.)(S
+  (NP (NBAR BECK/NN))
+  :/:
+  The/DT
+  (NP (NBAR princess/NN))
+  and/CC
+  the/DT
+  (NP (NBAR pea/NN))
+  and/CC
+  all/DT
+  of/IN
+  that/DT
+  ./.
+  I/PRP
+  loved/VBD
+  that/IN
+  when/WRB
+  she/PRP
+  was/VBD
+  doing/VBG
+  it/PRP
+  ./.
+  Is/VBZ
+  she/PRP
+  the/DT
+  most/RBS
+  (NP (NBAR perfect/JJ princess/NN))
+  ever/RB
+  ?/.
+  I/PRP
+  saw/VBD
+  this/DT
+  on/IN
+  some/DT
+  (NP (NBAR show/NN))
+  ./.
+  I/PRP
+  hope/VBP
+  it/PRP
+  was/VBD
+  n't/RB
+  your/PRP$
+  (NP (NBAR show/NN))
+  ./.
+  Is/VBZ
+  she/PRP
+  the/DT
+  most/RBS
+  (NP (NBAR perfect/JJ princess/NN))
+  ever/RB
+  ?/.
+  I/PRP
+  'm/VBP
+  like/IN
+  ,/,
+  the/DT
+  most/RBS
+  perfect/JJ
+  ?/.
+  What/WP
+  are/VBP
+  you/PRP
+  talking/VBG
+  about/IN
+  ?/.)(S
+  (NP (NBAR BECK/NN))
+  :/:
+  The/DT
+  (NP (NBAR princess/NN))
+  and/CC
+  the/DT
+  (NP (NBAR pea/NN))
+  and/CC
+  all/DT
+  of/IN
+  that/DT
+  ./.
+  I/PRP
+  loved/VBD
+  that/IN
+  when/WRB
+  she/PRP
+  was/VBD
+  doing/VBG
+  it/PRP
+  ./.
+  Is/VBZ
+  she/PRP
+  the/DT
+  most/RBS
+  (NP (NBAR perfect/JJ princess/NN))
+  ever/RB
+  ?/.
+  I/PRP
+  saw/VBD
+  this/DT
+  on/IN
+  some/DT
+  (NP (NBAR show/NN))
+  ./.
+  I/PRP
+  hope/VBP
+  it/PRP
+  was/VBD
+  n't/RB
+  your/PRP$
+  (NP (NBAR show/NN))
+  ./.
+  Is/VBZ
+  she/PRP
+  the/DT
+  most/RBS
+  (NP (NBAR perfect/JJ princess/NN))
+  ever/RB
+  ?/.
+  I/PRP
+  'm/VBP
+  like/IN
+  ,/,
+  the/DT
+  most/RBS
+  perfect/JJ
+  ?/.
+  What/WP
+  are/VBP
+  you/PRP
+  talking/VBG
+  about/IN
+  ?/.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   (NP (NBAR Answer/NNP))
   my/PRP$
   (NP (NBAR question/NN))
-  ./.)(S )(S (NP (NBAR BECK/NNS)) :/: Yes/UH ./.)(S
+  ./.)(S (NP (NBAR BECK/NNS)) :/: Yes/UH ./.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   (NP (NBAR Millions/NNS))
   of/IN
   (NP (NBAR Americans/NNPS))
   .../:)(S (NP (NBAR BECK/NNS)) :/: (NP (NBAR Millions/NNS)) ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  .../:
+  watched/VBN
+  ./.
+  You/PRP
+  are/VBP
+  saying/VBG
+  --/:
+  is/VBZ
+  n't/RB
+  that/IN
+  a/DT
+  (NP (NBAR snobby/JJ thing/NN))
+  ,/,
+  (NP (NBAR approach/NN))
+  ?/.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   .../:
@@ -442,7 +1698,159 @@
   watching/VBG
   it/PRP
   as/IN
-  (NP (NBAR entertainment…/NN)))(S )(S
+  (NP (NBAR entertainment…/NN)))(S
+  (NP (NBAR BECK/NNS))
+  :/:
+  No/DT
+  ./.
+  I/PRP
+  think/VBP
+  that/DT
+  's/VBZ
+  a/DT
+  (NP (NBAR common-sense/JJ approach/NN))
+  ./.
+  That/DT
+  's/VBZ
+  the/DT
+  (NP (NBAR kind/NN))
+  of/IN
+  why/WRB
+  are/VBP
+  you/PRP
+  watching/VBG
+  it/PRP
+  ?/.
+  How/WRB
+  does/VBZ
+  it/PRP
+  affect/VB
+  your/PRP$
+  (NP (NBAR life/NN))
+  ?/.
+  Now/RB
+  ,/,
+  if/IN
+  you/PRP
+  're/VBP
+  watching/VBG
+  it/PRP
+  as/IN
+  (NP (NBAR entertainment…/NN)))(S
+  (NP (NBAR BECK/NNS))
+  :/:
+  No/DT
+  ./.
+  I/PRP
+  think/VBP
+  that/DT
+  's/VBZ
+  a/DT
+  (NP (NBAR common-sense/JJ approach/NN))
+  ./.
+  That/DT
+  's/VBZ
+  the/DT
+  (NP (NBAR kind/NN))
+  of/IN
+  why/WRB
+  are/VBP
+  you/PRP
+  watching/VBG
+  it/PRP
+  ?/.
+  How/WRB
+  does/VBZ
+  it/PRP
+  affect/VB
+  your/PRP$
+  (NP (NBAR life/NN))
+  ?/.
+  Now/RB
+  ,/,
+  if/IN
+  you/PRP
+  're/VBP
+  watching/VBG
+  it/PRP
+  as/IN
+  (NP (NBAR entertainment…/NN)))(S
+  (NP (NBAR BECK/NNS))
+  :/:
+  No/DT
+  ./.
+  I/PRP
+  think/VBP
+  that/DT
+  's/VBZ
+  a/DT
+  (NP (NBAR common-sense/JJ approach/NN))
+  ./.
+  That/DT
+  's/VBZ
+  the/DT
+  (NP (NBAR kind/NN))
+  of/IN
+  why/WRB
+  are/VBP
+  you/PRP
+  watching/VBG
+  it/PRP
+  ?/.
+  How/WRB
+  does/VBZ
+  it/PRP
+  affect/VB
+  your/PRP$
+  (NP (NBAR life/NN))
+  ?/.
+  Now/RB
+  ,/,
+  if/IN
+  you/PRP
+  're/VBP
+  watching/VBG
+  it/PRP
+  as/IN
+  (NP (NBAR entertainment…/NN)))(S
+  (NP (NBAR BECK/NNS))
+  :/:
+  No/DT
+  ./.
+  I/PRP
+  think/VBP
+  that/DT
+  's/VBZ
+  a/DT
+  (NP (NBAR common-sense/JJ approach/NN))
+  ./.
+  That/DT
+  's/VBZ
+  the/DT
+  (NP (NBAR kind/NN))
+  of/IN
+  why/WRB
+  are/VBP
+  you/PRP
+  watching/VBG
+  it/PRP
+  ?/.
+  How/WRB
+  does/VBZ
+  it/PRP
+  affect/VB
+  your/PRP$
+  (NP (NBAR life/NN))
+  ?/.
+  Now/RB
+  ,/,
+  if/IN
+  you/PRP
+  're/VBP
+  watching/VBG
+  it/PRP
+  as/IN
+  (NP (NBAR entertainment…/NN)))(S
   (NP (NBAR O'REILLY/NN))
   :/:
   That/DT
@@ -450,6 +1858,24 @@
   what/WP
   it/PRP
   is/VBZ
+  ./.)(S
+  (NP (NBAR BECK/NNS))
+  :/:
+  Yes/UH
+  ,/,
+  you/PRP
+  're/VBP
+  doing/VBG
+  that/IN
+  ,/,
+  that/DT
+  's/VBZ
+  great/JJ
+  ./.
+  But/CC
+  I/PRP
+  --/:
+  no/DT
   ./.)(S
   (NP (NBAR BECK/NNS))
   :/:
@@ -482,6 +1908,309 @@
   ,/,
   elevated/VBD
   ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  A/DT
+  (NP (NBAR little/JJ glamour/NN))
+  ,/,
+  right/RB
+  ?/.
+  (NP (NBAR Commoner/NNP))
+  ,/,
+  (NP (NBAR Ms./NNP Middleton/NNP))
+  ,/,
+  elevated/VBD
+  ./.)(S
+  (NP (NBAR BECK/NN))
+  :/:
+  (NP (NBAR Commoner/NN))
+  ./.
+  She/PRP
+  's/VBZ
+  a/DT
+  (NP (NBAR commoner/NN))
+  ./.
+  (NP (NBAR Was/NNP))
+  she/PRP
+  ,/,
+  like/IN
+  ,/,
+  in/IN
+  a/DT
+  (NP (NBAR sooty/JJ dress/NN))
+  before/IN
+  ?/.
+  (NP (NBAR Was/NNP))
+  she/PRP
+  like/IN
+  ,/,
+  ``/``
+  I/PRP
+  've/VBP
+  got/VBN
+  to/TO
+  sift/VB
+  some/DT
+  (NP (NBAR ashes/NNS))
+  ./.
+  I/PRP
+  've/VBP
+  got/VBN
+  some/DT
+  (NP (NBAR soot/NN))
+  on/IN
+  my/PRP$
+  (NP (NBAR face/NN))
+  right/RB
+  now/RB
+  ,/,
+  I/PRP
+  does/VBZ
+  ./.
+  I/PRP
+  'm/VBP
+  going/VBG
+  to/TO
+  learn/VB
+  to/TO
+  talk/VB
+  like/IN
+  a/DT
+  (NP (NBAR lady/NN))
+  ./.
+  ''/'')(S
+  (NP (NBAR BECK/NN))
+  :/:
+  (NP (NBAR Commoner/NN))
+  ./.
+  She/PRP
+  's/VBZ
+  a/DT
+  (NP (NBAR commoner/NN))
+  ./.
+  (NP (NBAR Was/NNP))
+  she/PRP
+  ,/,
+  like/IN
+  ,/,
+  in/IN
+  a/DT
+  (NP (NBAR sooty/JJ dress/NN))
+  before/IN
+  ?/.
+  (NP (NBAR Was/NNP))
+  she/PRP
+  like/IN
+  ,/,
+  ``/``
+  I/PRP
+  've/VBP
+  got/VBN
+  to/TO
+  sift/VB
+  some/DT
+  (NP (NBAR ashes/NNS))
+  ./.
+  I/PRP
+  've/VBP
+  got/VBN
+  some/DT
+  (NP (NBAR soot/NN))
+  on/IN
+  my/PRP$
+  (NP (NBAR face/NN))
+  right/RB
+  now/RB
+  ,/,
+  I/PRP
+  does/VBZ
+  ./.
+  I/PRP
+  'm/VBP
+  going/VBG
+  to/TO
+  learn/VB
+  to/TO
+  talk/VB
+  like/IN
+  a/DT
+  (NP (NBAR lady/NN))
+  ./.
+  ''/'')(S
+  (NP (NBAR BECK/NN))
+  :/:
+  (NP (NBAR Commoner/NN))
+  ./.
+  She/PRP
+  's/VBZ
+  a/DT
+  (NP (NBAR commoner/NN))
+  ./.
+  (NP (NBAR Was/NNP))
+  she/PRP
+  ,/,
+  like/IN
+  ,/,
+  in/IN
+  a/DT
+  (NP (NBAR sooty/JJ dress/NN))
+  before/IN
+  ?/.
+  (NP (NBAR Was/NNP))
+  she/PRP
+  like/IN
+  ,/,
+  ``/``
+  I/PRP
+  've/VBP
+  got/VBN
+  to/TO
+  sift/VB
+  some/DT
+  (NP (NBAR ashes/NNS))
+  ./.
+  I/PRP
+  've/VBP
+  got/VBN
+  some/DT
+  (NP (NBAR soot/NN))
+  on/IN
+  my/PRP$
+  (NP (NBAR face/NN))
+  right/RB
+  now/RB
+  ,/,
+  I/PRP
+  does/VBZ
+  ./.
+  I/PRP
+  'm/VBP
+  going/VBG
+  to/TO
+  learn/VB
+  to/TO
+  talk/VB
+  like/IN
+  a/DT
+  (NP (NBAR lady/NN))
+  ./.
+  ''/'')(S
+  (NP (NBAR BECK/NN))
+  :/:
+  (NP (NBAR Commoner/NN))
+  ./.
+  She/PRP
+  's/VBZ
+  a/DT
+  (NP (NBAR commoner/NN))
+  ./.
+  (NP (NBAR Was/NNP))
+  she/PRP
+  ,/,
+  like/IN
+  ,/,
+  in/IN
+  a/DT
+  (NP (NBAR sooty/JJ dress/NN))
+  before/IN
+  ?/.
+  (NP (NBAR Was/NNP))
+  she/PRP
+  like/IN
+  ,/,
+  ``/``
+  I/PRP
+  've/VBP
+  got/VBN
+  to/TO
+  sift/VB
+  some/DT
+  (NP (NBAR ashes/NNS))
+  ./.
+  I/PRP
+  've/VBP
+  got/VBN
+  some/DT
+  (NP (NBAR soot/NN))
+  on/IN
+  my/PRP$
+  (NP (NBAR face/NN))
+  right/RB
+  now/RB
+  ,/,
+  I/PRP
+  does/VBZ
+  ./.
+  I/PRP
+  'm/VBP
+  going/VBG
+  to/TO
+  learn/VB
+  to/TO
+  talk/VB
+  like/IN
+  a/DT
+  (NP (NBAR lady/NN))
+  ./.
+  ''/'')(S
+  (NP (NBAR BECK/NN))
+  :/:
+  (NP (NBAR Commoner/NN))
+  ./.
+  She/PRP
+  's/VBZ
+  a/DT
+  (NP (NBAR commoner/NN))
+  ./.
+  (NP (NBAR Was/NNP))
+  she/PRP
+  ,/,
+  like/IN
+  ,/,
+  in/IN
+  a/DT
+  (NP (NBAR sooty/JJ dress/NN))
+  before/IN
+  ?/.
+  (NP (NBAR Was/NNP))
+  she/PRP
+  like/IN
+  ,/,
+  ``/``
+  I/PRP
+  've/VBP
+  got/VBN
+  to/TO
+  sift/VB
+  some/DT
+  (NP (NBAR ashes/NNS))
+  ./.
+  I/PRP
+  've/VBP
+  got/VBN
+  some/DT
+  (NP (NBAR soot/NN))
+  on/IN
+  my/PRP$
+  (NP (NBAR face/NN))
+  right/RB
+  now/RB
+  ,/,
+  I/PRP
+  does/VBZ
+  ./.
+  I/PRP
+  'm/VBP
+  going/VBG
+  to/TO
+  learn/VB
+  to/TO
+  talk/VB
+  like/IN
+  a/DT
+  (NP (NBAR lady/NN))
+  ./.
+  ''/'')(S
   (NP (NBAR BECK/NN))
   :/:
   (NP (NBAR Commoner/NN))
@@ -584,7 +2313,95 @@
   for/IN
   the/DT
   (NP (NBAR birds/NNS))
-  ?/.)(S )(S
+  ?/.)(S
+  (NP (NBAR BECK/NN))
+  :/:
+  She/PRP
+  was/VBD
+  out/RP
+  selling/VBG
+  (NP (NBAR flowers/NNS))
+  ./.
+  Shilling/VBG
+  ?/.
+  You/PRP
+  have/VBP
+  a/DT
+  (NP (NBAR shilling/NN))
+  ?/.
+  (NP (NBAR Tuppence/NNP))
+  ?/.
+  (NP (NBAR Tuppence/NN))
+  for/IN
+  the/DT
+  (NP (NBAR birds/NNS))
+  ?/.)(S
+  (NP (NBAR BECK/NN))
+  :/:
+  She/PRP
+  was/VBD
+  out/RP
+  selling/VBG
+  (NP (NBAR flowers/NNS))
+  ./.
+  Shilling/VBG
+  ?/.
+  You/PRP
+  have/VBP
+  a/DT
+  (NP (NBAR shilling/NN))
+  ?/.
+  (NP (NBAR Tuppence/NNP))
+  ?/.
+  (NP (NBAR Tuppence/NN))
+  for/IN
+  the/DT
+  (NP (NBAR birds/NNS))
+  ?/.)(S
+  (NP (NBAR BECK/NN))
+  :/:
+  She/PRP
+  was/VBD
+  out/RP
+  selling/VBG
+  (NP (NBAR flowers/NNS))
+  ./.
+  Shilling/VBG
+  ?/.
+  You/PRP
+  have/VBP
+  a/DT
+  (NP (NBAR shilling/NN))
+  ?/.
+  (NP (NBAR Tuppence/NNP))
+  ?/.
+  (NP (NBAR Tuppence/NN))
+  for/IN
+  the/DT
+  (NP (NBAR birds/NNS))
+  ?/.)(S
+  (NP (NBAR BECK/NN))
+  :/:
+  She/PRP
+  was/VBD
+  out/RP
+  selling/VBG
+  (NP (NBAR flowers/NNS))
+  ./.
+  Shilling/VBG
+  ?/.
+  You/PRP
+  have/VBP
+  a/DT
+  (NP (NBAR shilling/NN))
+  ?/.
+  (NP (NBAR Tuppence/NNP))
+  ?/.
+  (NP (NBAR Tuppence/NN))
+  for/IN
+  the/DT
+  (NP (NBAR birds/NNS))
+  ?/.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   What/WP
@@ -594,7 +2411,61 @@
   'm/VBP
   getting/VBG
   at/IN
-  .../:)(S )(S (NP (NBAR BECK/NNS)) :/: Yes/UH ./.)(S
+  .../:)(S (NP (NBAR BECK/NNS)) :/: Yes/UH ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  .../:
+  is/VBZ
+  that/IN
+  you/PRP
+  do/VBP
+  n't/RB
+  have/VB
+  a/DT
+  (NP (NBAR lot/NN))
+  of/IN
+  (NP (NBAR respect/NN))
+  for/IN
+  (NP (NBAR British/JJ society/NN))
+  ./.
+  You/PRP
+  just/RB
+  do/VBP
+  n't/RB
+  ./.
+  You/PRP
+  do/VBP
+  n't/RB
+  like/VB
+  it/PRP
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  .../:
+  is/VBZ
+  that/IN
+  you/PRP
+  do/VBP
+  n't/RB
+  have/VB
+  a/DT
+  (NP (NBAR lot/NN))
+  of/IN
+  (NP (NBAR respect/NN))
+  for/IN
+  (NP (NBAR British/JJ society/NN))
+  ./.
+  You/PRP
+  just/RB
+  do/VBP
+  n't/RB
+  ./.
+  You/PRP
+  do/VBP
+  n't/RB
+  like/VB
+  it/PRP
+  ./.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   .../:
@@ -643,14 +2514,58 @@
   mean/VBP
   ,/,
   really/RB
-  ./.)(S )(S
+  ./.)(S
+  (NP (NBAR BECK/NNS))
+  :/:
+  No/DT
+  ,/,
+  I/PRP
+  --/:
+  what/WP
+  are/VBP
+  you/PRP
+  doing/VBG
+  ?/.
+  The/DT
+  (NP (NBAR world/NN))
+  is/VBZ
+  on/IN
+  (NP (NBAR fire/NN))
+  ./.
+  I/PRP
+  mean/VBP
+  ,/,
+  really/RB
+  ./.)(S
+  (NP (NBAR BECK/NNS))
+  :/:
+  No/DT
+  ,/,
+  I/PRP
+  --/:
+  what/WP
+  are/VBP
+  you/PRP
+  doing/VBG
+  ?/.
+  The/DT
+  (NP (NBAR world/NN))
+  is/VBZ
+  on/IN
+  (NP (NBAR fire/NN))
+  ./.
+  I/PRP
+  mean/VBP
+  ,/,
+  really/RB
+  ./.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   We/PRP
   need/VBP
   some/DT
   (NP (NBAR escapism/NN))
-  ./.)(S )(S (NP (NBAR BECK/NN)) :/: Do/VBP we/PRP ?/.)(S )(S (NP (NBAR O'REILLY/NN)) :/: I/PRP think/VBP so/RB ./.)(S (NP (NBAR BECK/NNS)) :/: Yes/UH ./.)(S )(S
+  ./.)(S (NP (NBAR BECK/NN)) :/: Do/VBP we/PRP ?/.)(S (NP (NBAR O'REILLY/NN)) :/: I/PRP think/VBP so/RB ./.)(S (NP (NBAR BECK/NNS)) :/: Yes/UH ./.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   Yes/UH
@@ -681,7 +2596,69 @@
   into/IN
   the/DT
   (NP (NBAR birther/JJ thing/NN))
-  ./.)(S )(S
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  Yes/UH
+  ,/,
+  because/IN
+  the/DT
+  (NP (NBAR world/NN))
+  is/VBZ
+  on/IN
+  (NP (NBAR fire/NN))
+  ./.
+  We/PRP
+  need/VBP
+  some/DT
+  (NP (NBAR relief/NN))
+  ./.
+  And/CC
+  then/RB
+  I/PRP
+  'm/VBP
+  going/VBG
+  to/TO
+  --/:
+  that/DT
+  's/VBZ
+  a/DT
+  (NP (NBAR segue/NN))
+  into/IN
+  the/DT
+  (NP (NBAR birther/JJ thing/NN))
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  Yes/UH
+  ,/,
+  because/IN
+  the/DT
+  (NP (NBAR world/NN))
+  is/VBZ
+  on/IN
+  (NP (NBAR fire/NN))
+  ./.
+  We/PRP
+  need/VBP
+  some/DT
+  (NP (NBAR relief/NN))
+  ./.
+  And/CC
+  then/RB
+  I/PRP
+  'm/VBP
+  going/VBG
+  to/TO
+  --/:
+  that/DT
+  's/VBZ
+  a/DT
+  (NP (NBAR segue/NN))
+  into/IN
+  the/DT
+  (NP (NBAR birther/JJ thing/NN))
+  ./.)(S
   (NP (NBAR BECK/NNS))
   :/:
   (NP (NBAR Did/NNP))
@@ -720,7 +2697,85 @@
   is/VBZ
   (NP (NBAR John/NNP Galt/NNP))
   ?/.
-  ''/'')(S (NP (NBAR O'REILLY/NN)) :/: Who/WP ?/.)(S )(S
+  ''/'')(S
+  (NP (NBAR BECK/NNS))
+  :/:
+  (NP (NBAR Did/NNP))
+  you/PRP
+  watch/VBP
+  --/:
+  let/VB
+  me/PRP
+  ask/VB
+  you/PRP
+  this/DT
+  ./.
+  (NP (NBAR Did/NNP))
+  you/PRP
+  watch/VBP
+  (NP (NBAR John/NNP Galt/NNP))
+  ?/.
+  (NP (NBAR Did/NNP))
+  you/PRP
+  watch/VBP
+  --/:
+  what/WP
+  's/VBZ
+  the/DT
+  (NP (NBAR name/NN))
+  of/IN
+  that/DT
+  (NP (NBAR movie/NN))
+  with/IN
+  ,/,
+  you/PRP
+  know/VBP
+  ,/,
+  ``/``
+  Who/WP
+  is/VBZ
+  (NP (NBAR John/NNP Galt/NNP))
+  ?/.
+  ''/'')(S
+  (NP (NBAR BECK/NNS))
+  :/:
+  (NP (NBAR Did/NNP))
+  you/PRP
+  watch/VBP
+  --/:
+  let/VB
+  me/PRP
+  ask/VB
+  you/PRP
+  this/DT
+  ./.
+  (NP (NBAR Did/NNP))
+  you/PRP
+  watch/VBP
+  (NP (NBAR John/NNP Galt/NNP))
+  ?/.
+  (NP (NBAR Did/NNP))
+  you/PRP
+  watch/VBP
+  --/:
+  what/WP
+  's/VBZ
+  the/DT
+  (NP (NBAR name/NN))
+  of/IN
+  that/DT
+  (NP (NBAR movie/NN))
+  with/IN
+  ,/,
+  you/PRP
+  know/VBP
+  ,/,
+  ``/``
+  Who/WP
+  is/VBZ
+  (NP (NBAR John/NNP Galt/NNP))
+  ?/.
+  ''/'')(S (NP (NBAR O'REILLY/NN)) :/: Who/WP ?/.)(S
   (NP (NBAR BECK/NN))
   :/:
   (NP (NBAR John/NNP))
@@ -737,7 +2792,24 @@
   should/MD
   have/VB
   known/VBN
-  ./.)(S )(S (NP (NBAR O'REILLY/NN)) :/: (NP (NBAR John/NNP Galt/NNP)) ?/.)(S
+  ./.)(S
+  (NP (NBAR BECK/NN))
+  :/:
+  (NP (NBAR John/NNP))
+  --/:
+  you/PRP
+  do/VBP
+  not/RB
+  know/VB
+  who/WP
+  (NP (NBAR John/NNP Galt/NNP))
+  is/VBZ
+  ?/.
+  I/PRP
+  should/MD
+  have/VB
+  known/VBN
+  ./.)(S (NP (NBAR O'REILLY/NN)) :/: (NP (NBAR John/NNP Galt/NNP)) ?/.)(S
   (NP (NBAR BECK/NN))
   :/:
   ``/``
@@ -750,7 +2822,7 @@
   Atlas/VBP
   Shrugged/VBN
   ''/''
-  ?/.)(S )(S
+  ?/.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   (NP (NBAR Jeez/NNP))
@@ -764,7 +2836,21 @@
   back/RB
   to/TO
   (NP (NBAR Ayn/NNP Rand/NNP))
-  ?/.)(S )(S
+  ?/.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  (NP (NBAR Jeez/NNP))
+  ,/,
+  all/DT
+  (NP (NBAR right/NN))
+  ./.
+  Are/VBP
+  you/PRP
+  coming/VBG
+  back/RB
+  to/TO
+  (NP (NBAR Ayn/NNP Rand/NNP))
+  ?/.)(S
   (NP (NBAR BECK/NN))
   :/:
   Have/VBP
@@ -889,6 +2975,301 @@
   ,/,
   right/RB
   ?/.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  All/DT
+  (NP (NBAR right/NN))
+  ,/,
+  let/VB
+  me/PRP
+  make/VB
+  this/DT
+  (NP (NBAR transition/NN))
+  again/RB
+  ./.
+  All/DT
+  right/JJ
+  ./.
+  So/IN
+  the/DT
+  (NP (NBAR world/NN))
+  is/VBZ
+  on/IN
+  (NP (NBAR fire/NN))
+  ./.
+  We/PRP
+  need/VBP
+  (NP (NBAR relief/NN))
+  from/IN
+  it/PRP
+  ,/,
+  so/IN
+  we/PRP
+  watch/VBP
+  the/DT
+  (NP (NBAR royal/NN wedding/NN))
+  ./.
+  How/WRB
+  about/IN
+  the/DT
+  (NP (NBAR birth/NN certificate/NN thing/NN))
+  ?/.
+  That/DT
+  's/VBZ
+  another/DT
+  (NP (NBAR thing/NN))
+  where/WRB
+  (NP (NBAR people/NNS))
+  got/VBD
+  fascinated/VBN
+  by/IN
+  this/DT
+  (NP (NBAR Trump/NNP mano-a-mano/NN))
+  with/IN
+  (NP (NBAR President/NNP Obama/NNP))
+  ,/,
+  right/RB
+  ?/.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  All/DT
+  (NP (NBAR right/NN))
+  ,/,
+  let/VB
+  me/PRP
+  make/VB
+  this/DT
+  (NP (NBAR transition/NN))
+  again/RB
+  ./.
+  All/DT
+  right/JJ
+  ./.
+  So/IN
+  the/DT
+  (NP (NBAR world/NN))
+  is/VBZ
+  on/IN
+  (NP (NBAR fire/NN))
+  ./.
+  We/PRP
+  need/VBP
+  (NP (NBAR relief/NN))
+  from/IN
+  it/PRP
+  ,/,
+  so/IN
+  we/PRP
+  watch/VBP
+  the/DT
+  (NP (NBAR royal/NN wedding/NN))
+  ./.
+  How/WRB
+  about/IN
+  the/DT
+  (NP (NBAR birth/NN certificate/NN thing/NN))
+  ?/.
+  That/DT
+  's/VBZ
+  another/DT
+  (NP (NBAR thing/NN))
+  where/WRB
+  (NP (NBAR people/NNS))
+  got/VBD
+  fascinated/VBN
+  by/IN
+  this/DT
+  (NP (NBAR Trump/NNP mano-a-mano/NN))
+  with/IN
+  (NP (NBAR President/NNP Obama/NNP))
+  ,/,
+  right/RB
+  ?/.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  All/DT
+  (NP (NBAR right/NN))
+  ,/,
+  let/VB
+  me/PRP
+  make/VB
+  this/DT
+  (NP (NBAR transition/NN))
+  again/RB
+  ./.
+  All/DT
+  right/JJ
+  ./.
+  So/IN
+  the/DT
+  (NP (NBAR world/NN))
+  is/VBZ
+  on/IN
+  (NP (NBAR fire/NN))
+  ./.
+  We/PRP
+  need/VBP
+  (NP (NBAR relief/NN))
+  from/IN
+  it/PRP
+  ,/,
+  so/IN
+  we/PRP
+  watch/VBP
+  the/DT
+  (NP (NBAR royal/NN wedding/NN))
+  ./.
+  How/WRB
+  about/IN
+  the/DT
+  (NP (NBAR birth/NN certificate/NN thing/NN))
+  ?/.
+  That/DT
+  's/VBZ
+  another/DT
+  (NP (NBAR thing/NN))
+  where/WRB
+  (NP (NBAR people/NNS))
+  got/VBD
+  fascinated/VBN
+  by/IN
+  this/DT
+  (NP (NBAR Trump/NNP mano-a-mano/NN))
+  with/IN
+  (NP (NBAR President/NNP Obama/NNP))
+  ,/,
+  right/RB
+  ?/.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  All/DT
+  (NP (NBAR right/NN))
+  ,/,
+  let/VB
+  me/PRP
+  make/VB
+  this/DT
+  (NP (NBAR transition/NN))
+  again/RB
+  ./.
+  All/DT
+  right/JJ
+  ./.
+  So/IN
+  the/DT
+  (NP (NBAR world/NN))
+  is/VBZ
+  on/IN
+  (NP (NBAR fire/NN))
+  ./.
+  We/PRP
+  need/VBP
+  (NP (NBAR relief/NN))
+  from/IN
+  it/PRP
+  ,/,
+  so/IN
+  we/PRP
+  watch/VBP
+  the/DT
+  (NP (NBAR royal/NN wedding/NN))
+  ./.
+  How/WRB
+  about/IN
+  the/DT
+  (NP (NBAR birth/NN certificate/NN thing/NN))
+  ?/.
+  That/DT
+  's/VBZ
+  another/DT
+  (NP (NBAR thing/NN))
+  where/WRB
+  (NP (NBAR people/NNS))
+  got/VBD
+  fascinated/VBN
+  by/IN
+  this/DT
+  (NP (NBAR Trump/NNP mano-a-mano/NN))
+  with/IN
+  (NP (NBAR President/NNP Obama/NNP))
+  ,/,
+  right/RB
+  ?/.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  All/DT
+  (NP (NBAR right/NN))
+  ,/,
+  let/VB
+  me/PRP
+  make/VB
+  this/DT
+  (NP (NBAR transition/NN))
+  again/RB
+  ./.
+  All/DT
+  right/JJ
+  ./.
+  So/IN
+  the/DT
+  (NP (NBAR world/NN))
+  is/VBZ
+  on/IN
+  (NP (NBAR fire/NN))
+  ./.
+  We/PRP
+  need/VBP
+  (NP (NBAR relief/NN))
+  from/IN
+  it/PRP
+  ,/,
+  so/IN
+  we/PRP
+  watch/VBP
+  the/DT
+  (NP (NBAR royal/NN wedding/NN))
+  ./.
+  How/WRB
+  about/IN
+  the/DT
+  (NP (NBAR birth/NN certificate/NN thing/NN))
+  ?/.
+  That/DT
+  's/VBZ
+  another/DT
+  (NP (NBAR thing/NN))
+  where/WRB
+  (NP (NBAR people/NNS))
+  got/VBD
+  fascinated/VBN
+  by/IN
+  this/DT
+  (NP (NBAR Trump/NNP mano-a-mano/NN))
+  with/IN
+  (NP (NBAR President/NNP Obama/NNP))
+  ,/,
+  right/RB
+  ?/.)(S
+  BECK/IN
+  :/:
+  I/PRP
+  ca/MD
+  n't/RB
+  figure/VB
+  that/DT
+  one/CD
+  (NP (NBAR out/NN))
+  ./.
+  Are/VBP
+  you/PRP
+  looking/VBG
+  for/IN
+  (NP (NBAR answers/NNS))
+  on/IN
+  this/DT
+  from/IN
+  me/PRP
+  ?/.)(S
   BECK/IN
   :/:
   I/PRP
@@ -936,12 +3317,26 @@
   the/DT
   most/RBS
   .../:)(S
+  BECK/IN
+  :/:
+  I/PRP
+  do/VBP
+  n't/RB
+  know/VB
+  why/WRB
+  either/DT
+  ./.
+  This/DT
+  is/VBZ
+  the/DT
+  most/RBS
+  .../:)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   I/PRP
   get/VBP
   (NP (NBAR blank/JJ answers/NNS))
-  ./.)(S )(S
+  ./.)(S
   BECK/IN
   :/:
   I/PRP
@@ -961,7 +3356,27 @@
   one/CD
   ,/,
   (NP (NBAR Bill/NNP))
-  ./.)(S )(S
+  ./.)(S
+  BECK/IN
+  :/:
+  I/PRP
+  realize/VBP
+  how/WRB
+  stupid/JJ
+  I/PRP
+  really/RB
+  am/VBP
+  ./.
+  I/PRP
+  have/VBP
+  no/DT
+  (NP (NBAR idea/NN))
+  on/IN
+  this/DT
+  one/CD
+  ,/,
+  (NP (NBAR Bill/NNP))
+  ./.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   You/PRP
@@ -973,7 +3388,7 @@
   ,/,
   did/VBD
   you/PRP
-  ?/.)(S )(S
+  ?/.)(S
   (NP (NBAR BECK/NNS))
   :/:
   (NP (NBAR Look/NNP))
@@ -986,7 +3401,20 @@
   in/IN
   97/CD
   (NP (NBAR years/NNS))
-  ./.)(S )(S
+  ./.)(S
+  (NP (NBAR BECK/NNS))
+  :/:
+  (NP (NBAR Look/NNP))
+  ./.
+  The/DT
+  (NP (NBAR Fed/NNP))
+  gives/VBZ
+  its/PRP$
+  (NP (NBAR first/JJ press/NN conference/NN))
+  in/IN
+  97/CD
+  (NP (NBAR years/NNS))
+  ./.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   And/CC
@@ -999,7 +3427,7 @@
   Yet/CC
   ,/,
   (NP (NBAR nobody/NN cares/NNS))
-  ./.)(S (NP (NBAR O'REILLY/NN)) :/: (NP (NBAR Nobody/NN)) ./.)(S )(S
+  ./.)(S (NP (NBAR O'REILLY/NN)) :/: (NP (NBAR Nobody/NN)) ./.)(S
   (NP (NBAR BECK/NNS))
   :/:
   They/PRP
@@ -1016,7 +3444,24 @@
   (NP (NBAR money/NN))
   is/VBZ
   being/VBG
-  printed…/JJ)(S )(S
+  printed…/JJ)(S
+  (NP (NBAR BECK/NNS))
+  :/:
+  They/PRP
+  're/VBP
+  printing/VBG
+  (NP (NBAR money/NN))
+  like/IN
+  (NP (NBAR toilet/JJ paper/NN))
+  now/RB
+  ./.
+  I/PRP
+  mean/VBP
+  ,/,
+  (NP (NBAR money/NN))
+  is/VBZ
+  being/VBG
+  printed…/JJ)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   (NP (NBAR Bernanke/NNP))
@@ -1027,7 +3472,7 @@
   to/TO
   stop/VB
   doing/VBG
-  (NP (NBAR that…/NNS)))(S )(S
+  (NP (NBAR that…/NNS)))(S
   (NP (NBAR BECK/NN))
   :/:
   Oh/UH
@@ -1037,7 +3482,20 @@
   going/VBG
   to/TO
   work/VB
-  ./.)(S )(S
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  (NP (NBAR …to/NN))
+  strengthen/VBP
+  the/DT
+  (NP (NBAR dollar/NN))
+  ./.
+  See/VB
+  ,/,
+  I/PRP
+  paid/VBD
+  (NP (NBAR attention/NN))
+  ./.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   (NP (NBAR …to/NN))
@@ -1079,7 +3537,65 @@
   up/RP
   right/RB
   nicely/RB
-  ./.)(S )(S
+  ./.)(S
+  (NP (NBAR BECK/NN))
+  :/:
+  He/PRP
+  's/VBZ
+  going/VBG
+  to/TO
+  strengthen/VB
+  the/DT
+  (NP (NBAR dollar/NN))
+  ./.
+  And/CC
+  I/PRP
+  've/VBP
+  got/VBD
+  a/DT
+  (NP (NBAR silly/JJ little/JJ dress/NN))
+  ,/,
+  too/RB
+  ./.
+  This/DT
+  (NP (NBAR princess/NN))
+  is/VBZ
+  going/VBG
+  to/TO
+  clean/VB
+  up/RP
+  right/RB
+  nicely/RB
+  ./.)(S
+  (NP (NBAR BECK/NN))
+  :/:
+  He/PRP
+  's/VBZ
+  going/VBG
+  to/TO
+  strengthen/VB
+  the/DT
+  (NP (NBAR dollar/NN))
+  ./.
+  And/CC
+  I/PRP
+  've/VBP
+  got/VBD
+  a/DT
+  (NP (NBAR silly/JJ little/JJ dress/NN))
+  ,/,
+  too/RB
+  ./.
+  This/DT
+  (NP (NBAR princess/NN))
+  is/VBZ
+  going/VBG
+  to/TO
+  clean/VB
+  up/RP
+  right/RB
+  nicely/RB
+  ./.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   How/WRB
@@ -1089,7 +3605,19 @@
   on/IN
   the/DT
   (NP (NBAR set/NN))
-  ?/.)(S )(S
+  ?/.)(S
+  (NP (NBAR BECK/NN))
+  :/:
+  It/PRP
+  's/VBZ
+  ridiculous/JJ
+  ./.
+  So/IN
+  that/DT
+  's/VBZ
+  going/VBG
+  on/IN
+  ./.)(S
   (NP (NBAR BECK/NN))
   :/:
   It/PRP
@@ -1115,23 +3643,73 @@
   we/PRP
   talking/VBG
   about/IN
-  ?/.)(S )(S
+  ?/.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   The/DT
   (NP (NBAR birth/NN certificate/NN))
-  .../:)(S )(S
+  .../:)(S
   (NP (NBAR BECK/NN))
   :/:
   The/DT
   (NP (NBAR birth/NN certificate/NN))
-  ./.)(S )(S
+  ./.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   .../:
   and/CC
   the/DT
   (NP (NBAR wedding/NN))
+  ./.)(S
+  (NP (NBAR BECK/NNS))
+  :/:
+  Like/IN
+  that/DT
+  's/VBZ
+  going/VBG
+  to/TO
+  make/VB
+  any/DT
+  (NP (NBAR difference/NN))
+  at/IN
+  all/DT
+  ./.
+  And/CC
+  I/PRP
+  saw/VBD
+  (NP (NBAR Donald/NNP Trump/NNP))
+  ./.
+  Now/RB
+  look/VBP
+  ,/,
+  I/PRP
+  love/VBP
+  (NP (NBAR Donald/NNP Trump/NNP))
+  ./.)(S
+  (NP (NBAR BECK/NNS))
+  :/:
+  Like/IN
+  that/DT
+  's/VBZ
+  going/VBG
+  to/TO
+  make/VB
+  any/DT
+  (NP (NBAR difference/NN))
+  at/IN
+  all/DT
+  ./.
+  And/CC
+  I/PRP
+  saw/VBD
+  (NP (NBAR Donald/NNP Trump/NNP))
+  ./.
+  Now/RB
+  look/VBP
+  ,/,
+  I/PRP
+  love/VBP
+  (NP (NBAR Donald/NNP Trump/NNP))
   ./.)(S
   (NP (NBAR BECK/NNS))
   :/:
@@ -1262,7 +3840,756 @@
   to/TO
   that/DT
   (NP (NBAR 'do/NN))
-  ./.)(S )(S
+  ./.)(S
+  (NP (NBAR BECK/NNS))
+  :/:
+  No/DT
+  ,/,
+  no/DT
+  ./.
+  He/PRP
+  's/VBZ
+  a/DT
+  very/RB
+  (NP (NBAR smart/JJ man/NN))
+  ./.
+  He/PRP
+  gets/VBZ
+  (NP (NBAR things/NNS))
+  done/VBN
+  here/RB
+  in/IN
+  (NP (NBAR New/NNP York/NNP))
+  ,/,
+  and/CC
+  I/PRP
+  do/VBP
+  n't/RB
+  think/VB
+  he/PRP
+  has/VBZ
+  to/TO
+  have/VB
+  (NP (NBAR anybody/NN))
+  offed/VBN
+  to/TO
+  do/VB
+  it/PRP
+  ,/,
+  which/WDT
+  is/VBZ
+  not/RB
+  the/DT
+  (NP (NBAR New/NNP York/NNP way/NN))
+  ./.
+  He/PRP
+  gets/VBZ
+  (NP (NBAR things/NNS))
+  done/VBN
+  in/IN
+  (NP (NBAR New/NNP York/NNP))
+  ./.
+  I/PRP
+  have/VBP
+  respect/VBN
+  for/IN
+  him/PRP
+  for/IN
+  what/WP
+  he/PRP
+  does/VBZ
+  ./.
+  And/CC
+  I/PRP
+  think/VBP
+  he/PRP
+  's/VBZ
+  a/DT
+  very/RB
+  (NP (NBAR entertaining/JJ man/NN))
+  ,/,
+  very/RB
+  smart/JJ
+  ./.
+  I/PRP
+  will/MD
+  tell/VB
+  you/PRP
+  that/IN
+  I/PRP
+  would/MD
+  vote/VB
+  for/IN
+  him/PRP
+  for/IN
+  (NP (NBAR president/NN))
+  for/IN
+  just/RB
+  this/DT
+  (NP (NBAR reason/NN))
+  :/:
+  (NP (NBAR Marine/NNP One/NNP))
+  ./.
+  I/PRP
+  'd/MD
+  like/VB
+  to/TO
+  see/VB
+  that/IN
+  (NP (NBAR helicopter/NN))
+  go/VBP
+  and/CC
+  see/VBP
+  what/WP
+  happens/VBZ
+  to/TO
+  that/DT
+  (NP (NBAR 'do/NN))
+  ./.)(S
+  (NP (NBAR BECK/NNS))
+  :/:
+  No/DT
+  ,/,
+  no/DT
+  ./.
+  He/PRP
+  's/VBZ
+  a/DT
+  very/RB
+  (NP (NBAR smart/JJ man/NN))
+  ./.
+  He/PRP
+  gets/VBZ
+  (NP (NBAR things/NNS))
+  done/VBN
+  here/RB
+  in/IN
+  (NP (NBAR New/NNP York/NNP))
+  ,/,
+  and/CC
+  I/PRP
+  do/VBP
+  n't/RB
+  think/VB
+  he/PRP
+  has/VBZ
+  to/TO
+  have/VB
+  (NP (NBAR anybody/NN))
+  offed/VBN
+  to/TO
+  do/VB
+  it/PRP
+  ,/,
+  which/WDT
+  is/VBZ
+  not/RB
+  the/DT
+  (NP (NBAR New/NNP York/NNP way/NN))
+  ./.
+  He/PRP
+  gets/VBZ
+  (NP (NBAR things/NNS))
+  done/VBN
+  in/IN
+  (NP (NBAR New/NNP York/NNP))
+  ./.
+  I/PRP
+  have/VBP
+  respect/VBN
+  for/IN
+  him/PRP
+  for/IN
+  what/WP
+  he/PRP
+  does/VBZ
+  ./.
+  And/CC
+  I/PRP
+  think/VBP
+  he/PRP
+  's/VBZ
+  a/DT
+  very/RB
+  (NP (NBAR entertaining/JJ man/NN))
+  ,/,
+  very/RB
+  smart/JJ
+  ./.
+  I/PRP
+  will/MD
+  tell/VB
+  you/PRP
+  that/IN
+  I/PRP
+  would/MD
+  vote/VB
+  for/IN
+  him/PRP
+  for/IN
+  (NP (NBAR president/NN))
+  for/IN
+  just/RB
+  this/DT
+  (NP (NBAR reason/NN))
+  :/:
+  (NP (NBAR Marine/NNP One/NNP))
+  ./.
+  I/PRP
+  'd/MD
+  like/VB
+  to/TO
+  see/VB
+  that/IN
+  (NP (NBAR helicopter/NN))
+  go/VBP
+  and/CC
+  see/VBP
+  what/WP
+  happens/VBZ
+  to/TO
+  that/DT
+  (NP (NBAR 'do/NN))
+  ./.)(S
+  (NP (NBAR BECK/NNS))
+  :/:
+  No/DT
+  ,/,
+  no/DT
+  ./.
+  He/PRP
+  's/VBZ
+  a/DT
+  very/RB
+  (NP (NBAR smart/JJ man/NN))
+  ./.
+  He/PRP
+  gets/VBZ
+  (NP (NBAR things/NNS))
+  done/VBN
+  here/RB
+  in/IN
+  (NP (NBAR New/NNP York/NNP))
+  ,/,
+  and/CC
+  I/PRP
+  do/VBP
+  n't/RB
+  think/VB
+  he/PRP
+  has/VBZ
+  to/TO
+  have/VB
+  (NP (NBAR anybody/NN))
+  offed/VBN
+  to/TO
+  do/VB
+  it/PRP
+  ,/,
+  which/WDT
+  is/VBZ
+  not/RB
+  the/DT
+  (NP (NBAR New/NNP York/NNP way/NN))
+  ./.
+  He/PRP
+  gets/VBZ
+  (NP (NBAR things/NNS))
+  done/VBN
+  in/IN
+  (NP (NBAR New/NNP York/NNP))
+  ./.
+  I/PRP
+  have/VBP
+  respect/VBN
+  for/IN
+  him/PRP
+  for/IN
+  what/WP
+  he/PRP
+  does/VBZ
+  ./.
+  And/CC
+  I/PRP
+  think/VBP
+  he/PRP
+  's/VBZ
+  a/DT
+  very/RB
+  (NP (NBAR entertaining/JJ man/NN))
+  ,/,
+  very/RB
+  smart/JJ
+  ./.
+  I/PRP
+  will/MD
+  tell/VB
+  you/PRP
+  that/IN
+  I/PRP
+  would/MD
+  vote/VB
+  for/IN
+  him/PRP
+  for/IN
+  (NP (NBAR president/NN))
+  for/IN
+  just/RB
+  this/DT
+  (NP (NBAR reason/NN))
+  :/:
+  (NP (NBAR Marine/NNP One/NNP))
+  ./.
+  I/PRP
+  'd/MD
+  like/VB
+  to/TO
+  see/VB
+  that/IN
+  (NP (NBAR helicopter/NN))
+  go/VBP
+  and/CC
+  see/VBP
+  what/WP
+  happens/VBZ
+  to/TO
+  that/DT
+  (NP (NBAR 'do/NN))
+  ./.)(S
+  (NP (NBAR BECK/NNS))
+  :/:
+  No/DT
+  ,/,
+  no/DT
+  ./.
+  He/PRP
+  's/VBZ
+  a/DT
+  very/RB
+  (NP (NBAR smart/JJ man/NN))
+  ./.
+  He/PRP
+  gets/VBZ
+  (NP (NBAR things/NNS))
+  done/VBN
+  here/RB
+  in/IN
+  (NP (NBAR New/NNP York/NNP))
+  ,/,
+  and/CC
+  I/PRP
+  do/VBP
+  n't/RB
+  think/VB
+  he/PRP
+  has/VBZ
+  to/TO
+  have/VB
+  (NP (NBAR anybody/NN))
+  offed/VBN
+  to/TO
+  do/VB
+  it/PRP
+  ,/,
+  which/WDT
+  is/VBZ
+  not/RB
+  the/DT
+  (NP (NBAR New/NNP York/NNP way/NN))
+  ./.
+  He/PRP
+  gets/VBZ
+  (NP (NBAR things/NNS))
+  done/VBN
+  in/IN
+  (NP (NBAR New/NNP York/NNP))
+  ./.
+  I/PRP
+  have/VBP
+  respect/VBN
+  for/IN
+  him/PRP
+  for/IN
+  what/WP
+  he/PRP
+  does/VBZ
+  ./.
+  And/CC
+  I/PRP
+  think/VBP
+  he/PRP
+  's/VBZ
+  a/DT
+  very/RB
+  (NP (NBAR entertaining/JJ man/NN))
+  ,/,
+  very/RB
+  smart/JJ
+  ./.
+  I/PRP
+  will/MD
+  tell/VB
+  you/PRP
+  that/IN
+  I/PRP
+  would/MD
+  vote/VB
+  for/IN
+  him/PRP
+  for/IN
+  (NP (NBAR president/NN))
+  for/IN
+  just/RB
+  this/DT
+  (NP (NBAR reason/NN))
+  :/:
+  (NP (NBAR Marine/NNP One/NNP))
+  ./.
+  I/PRP
+  'd/MD
+  like/VB
+  to/TO
+  see/VB
+  that/IN
+  (NP (NBAR helicopter/NN))
+  go/VBP
+  and/CC
+  see/VBP
+  what/WP
+  happens/VBZ
+  to/TO
+  that/DT
+  (NP (NBAR 'do/NN))
+  ./.)(S
+  (NP (NBAR BECK/NNS))
+  :/:
+  No/DT
+  ,/,
+  no/DT
+  ./.
+  He/PRP
+  's/VBZ
+  a/DT
+  very/RB
+  (NP (NBAR smart/JJ man/NN))
+  ./.
+  He/PRP
+  gets/VBZ
+  (NP (NBAR things/NNS))
+  done/VBN
+  here/RB
+  in/IN
+  (NP (NBAR New/NNP York/NNP))
+  ,/,
+  and/CC
+  I/PRP
+  do/VBP
+  n't/RB
+  think/VB
+  he/PRP
+  has/VBZ
+  to/TO
+  have/VB
+  (NP (NBAR anybody/NN))
+  offed/VBN
+  to/TO
+  do/VB
+  it/PRP
+  ,/,
+  which/WDT
+  is/VBZ
+  not/RB
+  the/DT
+  (NP (NBAR New/NNP York/NNP way/NN))
+  ./.
+  He/PRP
+  gets/VBZ
+  (NP (NBAR things/NNS))
+  done/VBN
+  in/IN
+  (NP (NBAR New/NNP York/NNP))
+  ./.
+  I/PRP
+  have/VBP
+  respect/VBN
+  for/IN
+  him/PRP
+  for/IN
+  what/WP
+  he/PRP
+  does/VBZ
+  ./.
+  And/CC
+  I/PRP
+  think/VBP
+  he/PRP
+  's/VBZ
+  a/DT
+  very/RB
+  (NP (NBAR entertaining/JJ man/NN))
+  ,/,
+  very/RB
+  smart/JJ
+  ./.
+  I/PRP
+  will/MD
+  tell/VB
+  you/PRP
+  that/IN
+  I/PRP
+  would/MD
+  vote/VB
+  for/IN
+  him/PRP
+  for/IN
+  (NP (NBAR president/NN))
+  for/IN
+  just/RB
+  this/DT
+  (NP (NBAR reason/NN))
+  :/:
+  (NP (NBAR Marine/NNP One/NNP))
+  ./.
+  I/PRP
+  'd/MD
+  like/VB
+  to/TO
+  see/VB
+  that/IN
+  (NP (NBAR helicopter/NN))
+  go/VBP
+  and/CC
+  see/VBP
+  what/WP
+  happens/VBZ
+  to/TO
+  that/DT
+  (NP (NBAR 'do/NN))
+  ./.)(S
+  (NP (NBAR BECK/NNS))
+  :/:
+  No/DT
+  ,/,
+  no/DT
+  ./.
+  He/PRP
+  's/VBZ
+  a/DT
+  very/RB
+  (NP (NBAR smart/JJ man/NN))
+  ./.
+  He/PRP
+  gets/VBZ
+  (NP (NBAR things/NNS))
+  done/VBN
+  here/RB
+  in/IN
+  (NP (NBAR New/NNP York/NNP))
+  ,/,
+  and/CC
+  I/PRP
+  do/VBP
+  n't/RB
+  think/VB
+  he/PRP
+  has/VBZ
+  to/TO
+  have/VB
+  (NP (NBAR anybody/NN))
+  offed/VBN
+  to/TO
+  do/VB
+  it/PRP
+  ,/,
+  which/WDT
+  is/VBZ
+  not/RB
+  the/DT
+  (NP (NBAR New/NNP York/NNP way/NN))
+  ./.
+  He/PRP
+  gets/VBZ
+  (NP (NBAR things/NNS))
+  done/VBN
+  in/IN
+  (NP (NBAR New/NNP York/NNP))
+  ./.
+  I/PRP
+  have/VBP
+  respect/VBN
+  for/IN
+  him/PRP
+  for/IN
+  what/WP
+  he/PRP
+  does/VBZ
+  ./.
+  And/CC
+  I/PRP
+  think/VBP
+  he/PRP
+  's/VBZ
+  a/DT
+  very/RB
+  (NP (NBAR entertaining/JJ man/NN))
+  ,/,
+  very/RB
+  smart/JJ
+  ./.
+  I/PRP
+  will/MD
+  tell/VB
+  you/PRP
+  that/IN
+  I/PRP
+  would/MD
+  vote/VB
+  for/IN
+  him/PRP
+  for/IN
+  (NP (NBAR president/NN))
+  for/IN
+  just/RB
+  this/DT
+  (NP (NBAR reason/NN))
+  :/:
+  (NP (NBAR Marine/NNP One/NNP))
+  ./.
+  I/PRP
+  'd/MD
+  like/VB
+  to/TO
+  see/VB
+  that/IN
+  (NP (NBAR helicopter/NN))
+  go/VBP
+  and/CC
+  see/VBP
+  what/WP
+  happens/VBZ
+  to/TO
+  that/DT
+  (NP (NBAR 'do/NN))
+  ./.)(S
+  (NP (NBAR BECK/NNS))
+  :/:
+  No/DT
+  ,/,
+  no/DT
+  ./.
+  He/PRP
+  's/VBZ
+  a/DT
+  very/RB
+  (NP (NBAR smart/JJ man/NN))
+  ./.
+  He/PRP
+  gets/VBZ
+  (NP (NBAR things/NNS))
+  done/VBN
+  here/RB
+  in/IN
+  (NP (NBAR New/NNP York/NNP))
+  ,/,
+  and/CC
+  I/PRP
+  do/VBP
+  n't/RB
+  think/VB
+  he/PRP
+  has/VBZ
+  to/TO
+  have/VB
+  (NP (NBAR anybody/NN))
+  offed/VBN
+  to/TO
+  do/VB
+  it/PRP
+  ,/,
+  which/WDT
+  is/VBZ
+  not/RB
+  the/DT
+  (NP (NBAR New/NNP York/NNP way/NN))
+  ./.
+  He/PRP
+  gets/VBZ
+  (NP (NBAR things/NNS))
+  done/VBN
+  in/IN
+  (NP (NBAR New/NNP York/NNP))
+  ./.
+  I/PRP
+  have/VBP
+  respect/VBN
+  for/IN
+  him/PRP
+  for/IN
+  what/WP
+  he/PRP
+  does/VBZ
+  ./.
+  And/CC
+  I/PRP
+  think/VBP
+  he/PRP
+  's/VBZ
+  a/DT
+  very/RB
+  (NP (NBAR entertaining/JJ man/NN))
+  ,/,
+  very/RB
+  smart/JJ
+  ./.
+  I/PRP
+  will/MD
+  tell/VB
+  you/PRP
+  that/IN
+  I/PRP
+  would/MD
+  vote/VB
+  for/IN
+  him/PRP
+  for/IN
+  (NP (NBAR president/NN))
+  for/IN
+  just/RB
+  this/DT
+  (NP (NBAR reason/NN))
+  :/:
+  (NP (NBAR Marine/NNP One/NNP))
+  ./.
+  I/PRP
+  'd/MD
+  like/VB
+  to/TO
+  see/VB
+  that/IN
+  (NP (NBAR helicopter/NN))
+  go/VBP
+  and/CC
+  see/VBP
+  what/WP
+  happens/VBZ
+  to/TO
+  that/DT
+  (NP (NBAR 'do/NN))
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  See/VB
+  ,/,
+  you/PRP
+  're/VBP
+  mocking/VBG
+  him/PRP
+  ./.
+  You/PRP
+  're/VBP
+  mocking/VBG
+  (NP (NBAR Trump/NNP))
+  ./.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   See/VB
@@ -1321,6 +4648,50 @@
   swoop/VB
   up/RP
   ./.)(S
+  (NP (NBAR BECK/NNS))
+  :/:
+  No/DT
+  ./.
+  (NP (NBAR America/NNP))
+  --/:
+  (NP (NBAR America/NNP))
+  ,/,
+  would/MD
+  n't/RB
+  that/IN
+  be/VB
+  worth/JJ
+  voting/VBG
+  for/IN
+  him/PRP
+  for/IN
+  just/RB
+  to/TO
+  see/VB
+  what/WP
+  ,/,
+  how/WRB
+  does/VBZ
+  that/IN
+  (NP (NBAR hair/NN))
+  --/:
+  because/IN
+  we/PRP
+  'd/MD
+  know/VB
+  the/DT
+  (NP (NBAR mechanics/NNS))
+  of/IN
+  it/PRP
+  ,/,
+  because/IN
+  it/PRP
+  would/MD
+  start/VB
+  to/TO
+  swoop/VB
+  up/RP
+  ./.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   I/PRP
@@ -1333,7 +4704,80 @@
   's/POS
   just/RB
   (NP (NBAR review/NN))
-  ./.)(S (NP (NBAR BECK/NNS)) :/: Yes/UH ./.)(S )(S
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  I/PRP
+  just/RB
+  want/VBP
+  to/TO
+  review/VB
+  ./.
+  (NP (NBAR Let/NNP))
+  's/POS
+  just/RB
+  (NP (NBAR review/NN))
+  ./.)(S (NP (NBAR BECK/NNS)) :/: Yes/UH ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  (NP (NBAR Beck/NNP))
+  has/VBZ
+  been/VBN
+  on/IN
+  here/RB
+  ,/,
+  what/WP
+  ,/,
+  five/CD
+  (NP (NBAR minutes/NNS))
+  ?/.
+  So/RB
+  far/RB
+  he/PRP
+  's/VBZ
+  (NP (NBAR mocked/JJ poor/JJ Kate/NNP Middleton/NNP))
+  ./.
+  She/PRP
+  's/VBZ
+  selling/VBG
+  (NP (NBAR dresses/NNS))
+  and/CC
+  has/VBZ
+  (NP (NBAR soot/NN))
+  on/IN
+  her/PRP$
+  (NP (NBAR face/NN))
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  (NP (NBAR Beck/NNP))
+  has/VBZ
+  been/VBN
+  on/IN
+  here/RB
+  ,/,
+  what/WP
+  ,/,
+  five/CD
+  (NP (NBAR minutes/NNS))
+  ?/.
+  So/RB
+  far/RB
+  he/PRP
+  's/VBZ
+  (NP (NBAR mocked/JJ poor/JJ Kate/NNP Middleton/NNP))
+  ./.
+  She/PRP
+  's/VBZ
+  selling/VBG
+  (NP (NBAR dresses/NNS))
+  and/CC
+  has/VBZ
+  (NP (NBAR soot/NN))
+  on/IN
+  her/PRP$
+  (NP (NBAR face/NN))
+  ./.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   (NP (NBAR Beck/NNP))
@@ -1418,6 +4862,66 @@
   'm/VBP
   done/VBN
   ./.)(S
+  (NP (NBAR BECK/NN))
+  :/:
+  And/CC
+  I/PRP
+  believe/VBP
+  I/PRP
+  got/VBD
+  one/CD
+  or/CC
+  two/CD
+  (NP (NBAR jabs/NNS))
+  in/IN
+  it/PRP
+  at/IN
+  you/PRP
+  ,/,
+  too/RB
+  ./.
+  It/PRP
+  's/VBZ
+  been/VBN
+  a/DT
+  (NP (NBAR good/JJ night/NN))
+  ./.
+  (NP (NBAR America/NNP))
+  ,/,
+  I/PRP
+  'm/VBP
+  done/VBN
+  ./.)(S
+  (NP (NBAR BECK/NN))
+  :/:
+  And/CC
+  I/PRP
+  believe/VBP
+  I/PRP
+  got/VBD
+  one/CD
+  or/CC
+  two/CD
+  (NP (NBAR jabs/NNS))
+  in/IN
+  it/PRP
+  at/IN
+  you/PRP
+  ,/,
+  too/RB
+  ./.
+  It/PRP
+  's/VBZ
+  been/VBN
+  a/DT
+  (NP (NBAR good/JJ night/NN))
+  ./.
+  (NP (NBAR America/NNP))
+  ,/,
+  I/PRP
+  'm/VBP
+  done/VBN
+  ./.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   (NP (NBAR Thank/NNP God/NNP))
@@ -1428,4 +4932,15 @@
   out/IN
   of/IN
   here/RB
-  ./.)(S (/( (NP (NBAR END/NNP VIDEOTAPE/NNP)) )/))(S )(S )
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  (NP (NBAR Thank/NNP God/NNP))
+  ./.
+  (NP (NBAR Let/NNP))
+  's/POS
+  get/VB
+  out/IN
+  of/IN
+  here/RB
+  ./.)(S (/( (NP (NBAR END/NNP VIDEOTAPE/NNP)) )/))

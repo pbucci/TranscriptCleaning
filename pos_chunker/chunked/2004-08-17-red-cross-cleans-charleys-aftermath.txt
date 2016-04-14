@@ -1,4 +1,44 @@
-(S )(S )(S
+(S
+  (NP (NBAR JOHN/NNP GIBSON/NNP))
+  ,/,
+  (NP (NBAR GUEST/NNP HOST/NNP))
+  :/:
+  In/IN
+  the/DT
+  (NP (NBAR aftermath/NN))
+  of/IN
+  (NP (NBAR Hurricane/NNP Charley/NNP))
+  (/(
+  (NP (NBAR search/NN))
+  )/)
+  ,/,
+  at/IN
+  least/JJS
+  16/CD
+  (NP (NBAR people/NNS))
+  are/VBP
+  dead/JJ
+  ,/,
+  (NP (NBAR thousands/NNS homeless/NN))
+  and/CC
+  about/IN
+  a/DT
+  million/CD
+  (NP (NBAR Floridians/NNPS))
+  still/RB
+  without/IN
+  (NP (NBAR power/NN))
+  ./.
+  And/CC
+  (NP (NBAR insurers/NNS))
+  are/VBP
+  estimating/VBG
+  $/$
+  5/CD
+  billion/CD
+  in/IN
+  (NP (NBAR losses/NNS))
+  ./.)(S
   (NP (NBAR JOHN/NNP GIBSON/NNP))
   ,/,
   (NP (NBAR GUEST/NNP HOST/NNP))
@@ -91,6 +131,180 @@
   for/IN
   (NP (NBAR accuweather.com/NN))
   ./.)(S
+  Joining/VBG
+  us/PRP
+  now/RB
+  from/IN
+  (NP (NBAR Punta/NNP Gorda/NNP))
+  ,/,
+  (NP (NBAR Fla./NNP))
+  ,/,
+  is/VBZ
+  (NP (NBAR Michael/NNP Spencer/NNP))
+  ,/,
+  a/DT
+  (NP (NBAR spokesman/NN))
+  for/IN
+  the/DT
+  (NP (NBAR Red/NNP Cross/NNP))
+  ./.
+  And/CC
+  from/IN
+  (NP (NBAR State/NNP College/NNP))
+  ,/,
+  (NP (NBAR Penn./NNP))
+  ,/,
+  (NP (NBAR Joe/NNP Bastardi/NNP))
+  ,/,
+  the/DT
+  (NP (NBAR chief/JJ hurricane/NN forecaster/NN))
+  for/IN
+  (NP (NBAR accuweather.com/NN))
+  ./.)(S
+  Let/VB
+  me/PRP
+  go/VB
+  to/TO
+  (NP (NBAR Michael/NNP))
+  first/RB
+  ./.
+  So/IN
+  the/DT
+  (NP (NBAR situation/NN))
+  ,/,
+  (NP (NBAR Michael/NNP))
+  ,/,
+  down/RB
+  there/RB
+  for/IN
+  the/DT
+  (NP (NBAR people/NNS))
+  —/VBP
+  all/PDT
+  those/DT
+  (NP (NBAR people/NNS))
+  are/VBP
+  homeless/JJ
+  ./.
+  Their/PRP$
+  (NP (NBAR mobile/JJ homes/NNS))
+  have/VBP
+  been/VBN
+  torn/VBN
+  up/RP
+  and/CC
+  ca/MD
+  n't/RB
+  live/VB
+  in/IN
+  them/PRP
+  ,/,
+  obviously/RB
+  is/VBZ
+  what/WP
+  ?/.
+  Are/VBP
+  they/PRP
+  living/VBG
+  in/IN
+  (NP (NBAR tents/NNS))
+  ?/.)(S
+  Let/VB
+  me/PRP
+  go/VB
+  to/TO
+  (NP (NBAR Michael/NNP))
+  first/RB
+  ./.
+  So/IN
+  the/DT
+  (NP (NBAR situation/NN))
+  ,/,
+  (NP (NBAR Michael/NNP))
+  ,/,
+  down/RB
+  there/RB
+  for/IN
+  the/DT
+  (NP (NBAR people/NNS))
+  —/VBP
+  all/PDT
+  those/DT
+  (NP (NBAR people/NNS))
+  are/VBP
+  homeless/JJ
+  ./.
+  Their/PRP$
+  (NP (NBAR mobile/JJ homes/NNS))
+  have/VBP
+  been/VBN
+  torn/VBN
+  up/RP
+  and/CC
+  ca/MD
+  n't/RB
+  live/VB
+  in/IN
+  them/PRP
+  ,/,
+  obviously/RB
+  is/VBZ
+  what/WP
+  ?/.
+  Are/VBP
+  they/PRP
+  living/VBG
+  in/IN
+  (NP (NBAR tents/NNS))
+  ?/.)(S
+  Let/VB
+  me/PRP
+  go/VB
+  to/TO
+  (NP (NBAR Michael/NNP))
+  first/RB
+  ./.
+  So/IN
+  the/DT
+  (NP (NBAR situation/NN))
+  ,/,
+  (NP (NBAR Michael/NNP))
+  ,/,
+  down/RB
+  there/RB
+  for/IN
+  the/DT
+  (NP (NBAR people/NNS))
+  —/VBP
+  all/PDT
+  those/DT
+  (NP (NBAR people/NNS))
+  are/VBP
+  homeless/JJ
+  ./.
+  Their/PRP$
+  (NP (NBAR mobile/JJ homes/NNS))
+  have/VBP
+  been/VBN
+  torn/VBN
+  up/RP
+  and/CC
+  ca/MD
+  n't/RB
+  live/VB
+  in/IN
+  them/PRP
+  ,/,
+  obviously/RB
+  is/VBZ
+  what/WP
+  ?/.
+  Are/VBP
+  they/PRP
+  living/VBG
+  in/IN
+  (NP (NBAR tents/NNS))
+  ?/.)(S
   Let/VB
   me/PRP
   go/VB
@@ -202,6 +416,132 @@
   a/DT
   (NP (NBAR hot/JJ meal/NN))
   ./.)(S
+  (NP (NBAR MICHAEL/NNP SPENCER/NNP))
+  ,/,
+  (NP (NBAR RED/NNP CROSS/NNP SPOKESMAN/NNP))
+  :/:
+  (NP (NBAR No/NN))
+  ,/,
+  actually/RB
+  ,/,
+  they/PRP
+  're/VBP
+  staying/VBG
+  in/IN
+  (NP (NBAR Red/NNP Cross/NNP))
+  (/(
+  (NP (NBAR search/NN))
+  )/)
+  (NP (NBAR shelters/NNS))
+  for/IN
+  the/DT
+  most/JJS
+  (NP (NBAR part/NN))
+  ./.
+  (NP (NBAR Many/JJ people/NNS))
+  are/VBP
+  returning/VBG
+  (NP (NBAR home/NN))
+  during/IN
+  the/DT
+  (NP (NBAR day/NN))
+  to/TO
+  begin/VB
+  their/PRP$
+  (NP (NBAR clean-up/JJ efforts/NNS))
+  and/CC
+  to/TO
+  try/VB
+  to/TO
+  put/VB
+  their/PRP$
+  (NP (NBAR lives/NNS))
+  back/RB
+  together/RB
+  ./.
+  And/CC
+  then/RB
+  at/IN
+  (NP (NBAR night/NN))
+  ,/,
+  they/PRP
+  're/VBP
+  heading/VBG
+  back/RB
+  to/TO
+  a/DT
+  (NP (NBAR shelter/NN))
+  where/WRB
+  they/PRP
+  have/VBP
+  (NP (NBAR air/NN conditioning/NN))
+  ,/,
+  a/DT
+  (NP (NBAR hot/JJ meal/NN))
+  ./.)(S
+  (NP (NBAR MICHAEL/NNP SPENCER/NNP))
+  ,/,
+  (NP (NBAR RED/NNP CROSS/NNP SPOKESMAN/NNP))
+  :/:
+  (NP (NBAR No/NN))
+  ,/,
+  actually/RB
+  ,/,
+  they/PRP
+  're/VBP
+  staying/VBG
+  in/IN
+  (NP (NBAR Red/NNP Cross/NNP))
+  (/(
+  (NP (NBAR search/NN))
+  )/)
+  (NP (NBAR shelters/NNS))
+  for/IN
+  the/DT
+  most/JJS
+  (NP (NBAR part/NN))
+  ./.
+  (NP (NBAR Many/JJ people/NNS))
+  are/VBP
+  returning/VBG
+  (NP (NBAR home/NN))
+  during/IN
+  the/DT
+  (NP (NBAR day/NN))
+  to/TO
+  begin/VB
+  their/PRP$
+  (NP (NBAR clean-up/JJ efforts/NNS))
+  and/CC
+  to/TO
+  try/VB
+  to/TO
+  put/VB
+  their/PRP$
+  (NP (NBAR lives/NNS))
+  back/RB
+  together/RB
+  ./.
+  And/CC
+  then/RB
+  at/IN
+  (NP (NBAR night/NN))
+  ,/,
+  they/PRP
+  're/VBP
+  heading/VBG
+  back/RB
+  to/TO
+  a/DT
+  (NP (NBAR shelter/NN))
+  where/WRB
+  they/PRP
+  have/VBP
+  (NP (NBAR air/NN conditioning/NN))
+  ,/,
+  a/DT
+  (NP (NBAR hot/JJ meal/NN))
+  ./.)(S
   (NP (NBAR GIBSON/NN))
   :/:
   So/CC
@@ -212,6 +552,96 @@
   this/DT
   (NP (NBAR situation/NN))
   ?/.)(S
+  (NP (NBAR SPENCER/NN))
+  :/:
+  I/PRP
+  'm/VBP
+  not/RB
+  sure/JJ
+  how/WRB
+  many/JJ
+  stayed/VBN
+  in/IN
+  (NP (NBAR last/JJ night/NN))
+  ,/,
+  but/CC
+  I/PRP
+  know/VBP
+  it/PRP
+  is/VBZ
+  into/IN
+  the/DT
+  (NP (NBAR thousands/NNS))
+  ./.
+  So/RB
+  far/RB
+  ,/,
+  we/PRP
+  've/VBP
+  set/VBN
+  up/RP
+  seven/CD
+  (NP (NBAR kitchens/NNS))
+  in/IN
+  the/DT
+  hardest/JJS
+  (NP (NBAR hit/JJ area/NN))
+  ./.
+  And/CC
+  we/PRP
+  're/VBP
+  serving/VBG
+  about/IN
+  100,000/CD
+  (NP (NBAR meals/NNS))
+  a/DT
+  (NP (NBAR day/NN))
+  ./.)(S
+  (NP (NBAR SPENCER/NN))
+  :/:
+  I/PRP
+  'm/VBP
+  not/RB
+  sure/JJ
+  how/WRB
+  many/JJ
+  stayed/VBN
+  in/IN
+  (NP (NBAR last/JJ night/NN))
+  ,/,
+  but/CC
+  I/PRP
+  know/VBP
+  it/PRP
+  is/VBZ
+  into/IN
+  the/DT
+  (NP (NBAR thousands/NNS))
+  ./.
+  So/RB
+  far/RB
+  ,/,
+  we/PRP
+  've/VBP
+  set/VBN
+  up/RP
+  seven/CD
+  (NP (NBAR kitchens/NNS))
+  in/IN
+  the/DT
+  hardest/JJS
+  (NP (NBAR hit/JJ area/NN))
+  ./.
+  And/CC
+  we/PRP
+  're/VBP
+  serving/VBG
+  about/IN
+  100,000/CD
+  (NP (NBAR meals/NNS))
+  a/DT
+  (NP (NBAR day/NN))
+  ./.)(S
   (NP (NBAR SPENCER/NN))
   :/:
   I/PRP
@@ -343,6 +773,282 @@
   visiting/VBG
   (NP (NBAR redcross.org/NN))
   ./.)(S
+  (NP (NBAR SPENCER/NN))
+  :/:
+  Right/RB
+  ./.
+  Our/PRP$
+  (NP (NBAR disaster/NN relief/NN fund/NN))
+  is/VBZ
+  what/WP
+  allowed/VBD
+  us/PRP
+  to/TO
+  be/VB
+  here/RB
+  ,/,
+  even/RB
+  before/IN
+  the/DT
+  (NP (NBAR first/JJ dollar/NN))
+  was/VBD
+  raised/VBN
+  ./.
+  The/DT
+  (NP (NBAR guys/NNS))
+  here/RB
+  before/IN
+  the/DT
+  (NP (NBAR storm/NN))
+  ,/,
+  it/PRP
+  's/VBZ
+  what/WP
+  's/VBZ
+  going/VBG
+  to/TO
+  keep/VB
+  us/PRP
+  here/RB
+  for/IN
+  (NP (NBAR weeks/NNS))
+  ./.
+  And/CC
+  so/RB
+  what/WP
+  's/VBZ
+  going/VBG
+  to/TO
+  help/VB
+  us/PRP
+  as/IN
+  we/PRP
+  head/VBP
+  into/IN
+  the/DT
+  busiest/JJS
+  (NP (NBAR part/NN))
+  of/IN
+  the/DT
+  (NP (NBAR hurricane/NN season/NN))
+  ./.
+  (NP (NBAR People/NNS))
+  can/MD
+  donate/VB
+  by/IN
+  calling/VBG
+  1-800-HELP-NOW/JJ
+  or/CC
+  visiting/VBG
+  (NP (NBAR redcross.org/NN))
+  ./.)(S
+  (NP (NBAR SPENCER/NN))
+  :/:
+  Right/RB
+  ./.
+  Our/PRP$
+  (NP (NBAR disaster/NN relief/NN fund/NN))
+  is/VBZ
+  what/WP
+  allowed/VBD
+  us/PRP
+  to/TO
+  be/VB
+  here/RB
+  ,/,
+  even/RB
+  before/IN
+  the/DT
+  (NP (NBAR first/JJ dollar/NN))
+  was/VBD
+  raised/VBN
+  ./.
+  The/DT
+  (NP (NBAR guys/NNS))
+  here/RB
+  before/IN
+  the/DT
+  (NP (NBAR storm/NN))
+  ,/,
+  it/PRP
+  's/VBZ
+  what/WP
+  's/VBZ
+  going/VBG
+  to/TO
+  keep/VB
+  us/PRP
+  here/RB
+  for/IN
+  (NP (NBAR weeks/NNS))
+  ./.
+  And/CC
+  so/RB
+  what/WP
+  's/VBZ
+  going/VBG
+  to/TO
+  help/VB
+  us/PRP
+  as/IN
+  we/PRP
+  head/VBP
+  into/IN
+  the/DT
+  busiest/JJS
+  (NP (NBAR part/NN))
+  of/IN
+  the/DT
+  (NP (NBAR hurricane/NN season/NN))
+  ./.
+  (NP (NBAR People/NNS))
+  can/MD
+  donate/VB
+  by/IN
+  calling/VBG
+  1-800-HELP-NOW/JJ
+  or/CC
+  visiting/VBG
+  (NP (NBAR redcross.org/NN))
+  ./.)(S
+  (NP (NBAR SPENCER/NN))
+  :/:
+  Right/RB
+  ./.
+  Our/PRP$
+  (NP (NBAR disaster/NN relief/NN fund/NN))
+  is/VBZ
+  what/WP
+  allowed/VBD
+  us/PRP
+  to/TO
+  be/VB
+  here/RB
+  ,/,
+  even/RB
+  before/IN
+  the/DT
+  (NP (NBAR first/JJ dollar/NN))
+  was/VBD
+  raised/VBN
+  ./.
+  The/DT
+  (NP (NBAR guys/NNS))
+  here/RB
+  before/IN
+  the/DT
+  (NP (NBAR storm/NN))
+  ,/,
+  it/PRP
+  's/VBZ
+  what/WP
+  's/VBZ
+  going/VBG
+  to/TO
+  keep/VB
+  us/PRP
+  here/RB
+  for/IN
+  (NP (NBAR weeks/NNS))
+  ./.
+  And/CC
+  so/RB
+  what/WP
+  's/VBZ
+  going/VBG
+  to/TO
+  help/VB
+  us/PRP
+  as/IN
+  we/PRP
+  head/VBP
+  into/IN
+  the/DT
+  busiest/JJS
+  (NP (NBAR part/NN))
+  of/IN
+  the/DT
+  (NP (NBAR hurricane/NN season/NN))
+  ./.
+  (NP (NBAR People/NNS))
+  can/MD
+  donate/VB
+  by/IN
+  calling/VBG
+  1-800-HELP-NOW/JJ
+  or/CC
+  visiting/VBG
+  (NP (NBAR redcross.org/NN))
+  ./.)(S
+  (NP (NBAR SPENCER/NN))
+  :/:
+  Right/RB
+  ./.
+  Our/PRP$
+  (NP (NBAR disaster/NN relief/NN fund/NN))
+  is/VBZ
+  what/WP
+  allowed/VBD
+  us/PRP
+  to/TO
+  be/VB
+  here/RB
+  ,/,
+  even/RB
+  before/IN
+  the/DT
+  (NP (NBAR first/JJ dollar/NN))
+  was/VBD
+  raised/VBN
+  ./.
+  The/DT
+  (NP (NBAR guys/NNS))
+  here/RB
+  before/IN
+  the/DT
+  (NP (NBAR storm/NN))
+  ,/,
+  it/PRP
+  's/VBZ
+  what/WP
+  's/VBZ
+  going/VBG
+  to/TO
+  keep/VB
+  us/PRP
+  here/RB
+  for/IN
+  (NP (NBAR weeks/NNS))
+  ./.
+  And/CC
+  so/RB
+  what/WP
+  's/VBZ
+  going/VBG
+  to/TO
+  help/VB
+  us/PRP
+  as/IN
+  we/PRP
+  head/VBP
+  into/IN
+  the/DT
+  busiest/JJS
+  (NP (NBAR part/NN))
+  of/IN
+  the/DT
+  (NP (NBAR hurricane/NN season/NN))
+  ./.
+  (NP (NBAR People/NNS))
+  can/MD
+  donate/VB
+  by/IN
+  calling/VBG
+  1-800-HELP-NOW/JJ
+  or/CC
+  visiting/VBG
+  (NP (NBAR redcross.org/NN))
+  ./.)(S
   (NP (NBAR GIBSON/NN))
   :/:
   All/DT
@@ -372,6 +1078,103 @@
   in/IN
   (NP (NBAR store/NN))
   ?/.)(S
+  (NP (NBAR GIBSON/NN))
+  :/:
+  All/DT
+  (NP (NBAR right/NN))
+  ,/,
+  (NP (NBAR Michael/NNP))
+  ,/,
+  now/RB
+  let/VB
+  me/PRP
+  turn/VB
+  to/TO
+  (NP (NBAR Joe/NNP))
+  a/DT
+  second/JJ
+  ./.
+  You/PRP
+  are/VBP
+  the/DT
+  (NP (NBAR chief/JJ hurricane/NN forecaster/NN))
+  for/IN
+  (NP (NBAR accuweather.com/NN))
+  ./.
+  So/IN
+  what/WP
+  's/VBZ
+  in/IN
+  (NP (NBAR store/NN))
+  ?/.)(S
+  (NP (NBAR GIBSON/NN))
+  :/:
+  All/DT
+  (NP (NBAR right/NN))
+  ,/,
+  (NP (NBAR Michael/NNP))
+  ,/,
+  now/RB
+  let/VB
+  me/PRP
+  turn/VB
+  to/TO
+  (NP (NBAR Joe/NNP))
+  a/DT
+  second/JJ
+  ./.
+  You/PRP
+  are/VBP
+  the/DT
+  (NP (NBAR chief/JJ hurricane/NN forecaster/NN))
+  for/IN
+  (NP (NBAR accuweather.com/NN))
+  ./.
+  So/IN
+  what/WP
+  's/VBZ
+  in/IN
+  (NP (NBAR store/NN))
+  ?/.)(S
+  (NP (NBAR JOE/NNP BASTARDI/NNP))
+  ,/,
+  (NP (NBAR ACCUWEATHER.COM/NNP))
+  :/:
+  Well/RB
+  ,/,
+  first/RB
+  of/IN
+  all/DT
+  ,/,
+  it/PRP
+  's/VBZ
+  not/RB
+  just/RB
+  (NP (NBAR forecasters/NNS))
+  say/VBP
+  now/RB
+  ./.
+  (NP (NBAR Accuweather.com/NNP))
+  had/VBD
+  a/DT
+  forecast/VBN
+  out/RP
+  before/IN
+  the/DT
+  (NP (NBAR season/NN))
+  began/VBD
+  ,/,
+  warning/VBG
+  (NP (NBAR people/NNS))
+  about/IN
+  this/DT
+  (NP (NBAR season/NN))
+  being/VBG
+  a/DT
+  particularly/RB
+  nasty/JJ
+  one/CD
+  ./.)(S
   (NP (NBAR JOE/NNP BASTARDI/NNP))
   ,/,
   (NP (NBAR ACCUWEATHER.COM/NNP))
@@ -455,6 +1258,264 @@
   's/POS
   very/RB
   active/JJ
+  ./.)(S
+  Back/RB
+  in/IN
+  the/DT
+  (NP (NBAR '40/NN))
+  's/POS
+  and/CC
+  '50s/POS
+  as/RB
+  far/RB
+  as/IN
+  our/PRP$
+  (NP (NBAR climatological/JJ pattern/NN))
+  ,/,
+  there/EX
+  were/VBD
+  (NP (NBAR huge/JJ hurricanes/NNS))
+  that/WDT
+  hit/VBD
+  the/DT
+  (NP (NBAR United/NNP States/NNPS))
+  ./.
+  And/CC
+  all/DT
+  my/PRP$
+  (NP (NBAR research/NN))
+  indicates/VBZ
+  that/IN
+  (NP (NBAR September/NNP))
+  is/VBZ
+  going/VBG
+  to/TO
+  be/VB
+  a/DT
+  very/RB
+  (NP (NBAR active/JJ month/NN))
+  ./.
+  The/DT
+  (NP (NBAR rest/NN))
+  of/IN
+  the/DT
+  (NP (NBAR hurricane/NN season/NN))
+  's/POS
+  very/RB
+  active/JJ
+  ./.)(S
+  Back/RB
+  in/IN
+  the/DT
+  (NP (NBAR '40/NN))
+  's/POS
+  and/CC
+  '50s/POS
+  as/RB
+  far/RB
+  as/IN
+  our/PRP$
+  (NP (NBAR climatological/JJ pattern/NN))
+  ,/,
+  there/EX
+  were/VBD
+  (NP (NBAR huge/JJ hurricanes/NNS))
+  that/WDT
+  hit/VBD
+  the/DT
+  (NP (NBAR United/NNP States/NNPS))
+  ./.
+  And/CC
+  all/DT
+  my/PRP$
+  (NP (NBAR research/NN))
+  indicates/VBZ
+  that/IN
+  (NP (NBAR September/NNP))
+  is/VBZ
+  going/VBG
+  to/TO
+  be/VB
+  a/DT
+  very/RB
+  (NP (NBAR active/JJ month/NN))
+  ./.
+  The/DT
+  (NP (NBAR rest/NN))
+  of/IN
+  the/DT
+  (NP (NBAR hurricane/NN season/NN))
+  's/POS
+  very/RB
+  active/JJ
+  ./.)(S
+  Our/PRP$
+  (NP (NBAR pre-season/JJ forecast/NN))
+  ,/,
+  (NP (NBAR John/NNP))
+  ,/,
+  called/VBN
+  for/IN
+  the/DT
+  (NP (NBAR Florida/NNP coast/NN))
+  to/TO
+  be/VB
+  hit/VBN
+  ./.
+  And/CC
+  the/DT
+  (NP (NBAR ranking/NN))
+  we/PRP
+  had/VBD
+  was/VBD
+  that/IN
+  we/PRP
+  're/VBP
+  the/DT
+  (NP (NBAR number/NN))
+  one/CD
+  (NP (NBAR area/NN))
+  between/IN
+  (NP (NBAR Apalachicola/NNP))
+  and/CC
+  (NP (NBAR Key/NNP West/NNP))
+  (/(
+  (NP (NBAR search/NN))
+  )/)
+  to/TO
+  be/VB
+  hit/VBN
+  ./.
+  We/PRP
+  had/VBD
+  the/DT
+  (NP (NBAR Carolinas/NNPS hit/NN))
+  ./.
+  And/CC
+  of/IN
+  (NP (NBAR course/NN))
+  ,/,
+  we/PRP
+  've/VBP
+  already/RB
+  had/VBD
+  two/CD
+  (NP (NBAR storm/NN hits/NNS))
+  in/IN
+  the/DT
+  (NP (NBAR Carolinas/NNPS))
+  ./.)(S
+  Our/PRP$
+  (NP (NBAR pre-season/JJ forecast/NN))
+  ,/,
+  (NP (NBAR John/NNP))
+  ,/,
+  called/VBN
+  for/IN
+  the/DT
+  (NP (NBAR Florida/NNP coast/NN))
+  to/TO
+  be/VB
+  hit/VBN
+  ./.
+  And/CC
+  the/DT
+  (NP (NBAR ranking/NN))
+  we/PRP
+  had/VBD
+  was/VBD
+  that/IN
+  we/PRP
+  're/VBP
+  the/DT
+  (NP (NBAR number/NN))
+  one/CD
+  (NP (NBAR area/NN))
+  between/IN
+  (NP (NBAR Apalachicola/NNP))
+  and/CC
+  (NP (NBAR Key/NNP West/NNP))
+  (/(
+  (NP (NBAR search/NN))
+  )/)
+  to/TO
+  be/VB
+  hit/VBN
+  ./.
+  We/PRP
+  had/VBD
+  the/DT
+  (NP (NBAR Carolinas/NNPS hit/NN))
+  ./.
+  And/CC
+  of/IN
+  (NP (NBAR course/NN))
+  ,/,
+  we/PRP
+  've/VBP
+  already/RB
+  had/VBD
+  two/CD
+  (NP (NBAR storm/NN hits/NNS))
+  in/IN
+  the/DT
+  (NP (NBAR Carolinas/NNPS))
+  ./.)(S
+  Our/PRP$
+  (NP (NBAR pre-season/JJ forecast/NN))
+  ,/,
+  (NP (NBAR John/NNP))
+  ,/,
+  called/VBN
+  for/IN
+  the/DT
+  (NP (NBAR Florida/NNP coast/NN))
+  to/TO
+  be/VB
+  hit/VBN
+  ./.
+  And/CC
+  the/DT
+  (NP (NBAR ranking/NN))
+  we/PRP
+  had/VBD
+  was/VBD
+  that/IN
+  we/PRP
+  're/VBP
+  the/DT
+  (NP (NBAR number/NN))
+  one/CD
+  (NP (NBAR area/NN))
+  between/IN
+  (NP (NBAR Apalachicola/NNP))
+  and/CC
+  (NP (NBAR Key/NNP West/NNP))
+  (/(
+  (NP (NBAR search/NN))
+  )/)
+  to/TO
+  be/VB
+  hit/VBN
+  ./.
+  We/PRP
+  had/VBD
+  the/DT
+  (NP (NBAR Carolinas/NNPS hit/NN))
+  ./.
+  And/CC
+  of/IN
+  (NP (NBAR course/NN))
+  ,/,
+  we/PRP
+  've/VBP
+  already/RB
+  had/VBD
+  two/CD
+  (NP (NBAR storm/NN hits/NNS))
+  in/IN
+  the/DT
+  (NP (NBAR Carolinas/NNPS))
   ./.)(S
   Our/PRP$
   (NP (NBAR pre-season/JJ forecast/NN))
@@ -569,6 +1630,96 @@
   in/IN
   (NP (NBAR Florida/NNP))
   ./.)(S
+  Let/VB
+  's/POS
+  keep/VB
+  in/IN
+  (NP (NBAR mind/NN))
+  that/WDT
+  (NP (NBAR Karen/NNP))
+  on/IN
+  (NP (NBAR Bermuda/NNP))
+  a/DT
+  (NP (NBAR couple/NN years/NNS))
+  ago/RB
+  and/CC
+  (NP (NBAR Claudette/NNP))
+  are/VBP
+  firing/VBG
+  warning/VBG
+  (NP (NBAR shots/NNS))
+  ./.
+  And/CC
+  that/DT
+  is/VBZ
+  ,/,
+  both/DT
+  those/DT
+  (NP (NBAR storms/NNS))
+  were/VBD
+  intensifying/VBG
+  as/IN
+  they/PRP
+  reached/VBD
+  (NP (NBAR landfall/NN))
+  ,/,
+  just/RB
+  as/IN
+  (NP (NBAR Alex/NNP))
+  did/VBD
+  with/IN
+  (NP (NBAR Hatteras/NNP))
+  ,/,
+  which/WDT
+  was/VBD
+  a/DT
+  very/RB
+  (NP (NBAR bad/JJ storm/NN))
+  at/IN
+  (NP (NBAR Hatteras/NNP))
+  and/CC
+  (NP (NBAR Charley/NNP))
+  did/VBD
+  as/IN
+  it/PRP
+  came/VBD
+  ashore/RB
+  in/IN
+  (NP (NBAR Florida/NNP))
+  ./.)(S
+  (NP (NBAR Storms/NNS))
+  that/WDT
+  intensify/VBP
+  upon/IN
+  (NP (NBAR landfall/NN))
+  we/PRP
+  think/VBP
+  this/DT
+  (NP (NBAR season/NN))
+  has/VBZ
+  that/IN
+  (NP (NBAR signature/NN))
+  are/VBP
+  the/DT
+  (NP (NBAR ones/NNS))
+  that/WDT
+  are/VBP
+  the/DT
+  worst/JJS
+  (NP (NBAR storms/NNS))
+  ./.
+  And/CC
+  there/EX
+  's/VBZ
+  a/DT
+  (NP (NBAR lot/NN))
+  of/IN
+  (NP (NBAR hurricane/NN season/NN))
+  in/IN
+  (NP (NBAR front/NN))
+  of/IN
+  us/PRP
+  ./.)(S
   (NP (NBAR Storms/NNS))
   that/WDT
   intensify/VBP
@@ -637,6 +1788,41 @@
   (NP (NBAR preseason/NN forecast/NN))
   was/VBD
   ./.)(S
+  I/PRP
+  'm/VBP
+  working/VBG
+  right/RB
+  now/RB
+  on/IN
+  our/PRP$
+  (NP (NBAR update/NN))
+  ,/,
+  which/WDT
+  is/VBZ
+  going/VBG
+  to/TO
+  be/VB
+  out/RP
+  (NP (NBAR next/JJ week/NN))
+  ,/,
+  strangely/RB
+  enough/JJ
+  ./.
+  And/CC
+  I/PRP
+  just/RB
+  do/VBP
+  n't/RB
+  see/VB
+  any/DT
+  backing/VBG
+  down/RP
+  from/IN
+  what/WP
+  our/PRP$
+  (NP (NBAR preseason/NN forecast/NN))
+  was/VBD
+  ./.)(S
   (NP (NBAR GIBSON/NN))
   :/:
   (NP (NBAR Joe/NNP))
@@ -667,6 +1853,237 @@
   any/DT
   (NP (NBAR other/JJ season/NN))
   ?/.)(S
+  (NP (NBAR GIBSON/NN))
+  :/:
+  (NP (NBAR Joe/NNP))
+  ,/,
+  you/PRP
+  know/VBP
+  ,/,
+  at/IN
+  the/DT
+  (NP (NBAR risk/NN))
+  of/IN
+  making/VBG
+  it/PRP
+  sound/JJ
+  like/IN
+  (NP (NBAR Mr./NNP Wizard/NNP))
+  ,/,
+  why/WRB
+  ?/.
+  Why/WRB
+  would/MD
+  this/DT
+  (NP (NBAR season/NN))
+  be/VB
+  any/DT
+  worse/JJR
+  than/IN
+  any/DT
+  (NP (NBAR other/JJ season/NN))
+  ?/.)(S
+  (NP (NBAR BASTARDI/NN))
+  :/:
+  Well/RB
+  ,/,
+  first/RB
+  of/IN
+  all/RB
+  ,/,
+  we/PRP
+  've/VBP
+  been/VBN
+  living/VBG
+  on/IN
+  (NP (NBAR borrowed/JJ time/NN))
+  ./.
+  See/VB
+  ,/,
+  a/DT
+  (NP (NBAR lot/NN))
+  of/IN
+  (NP (NBAR folks/NNS))
+  a/DT
+  (NP (NBAR couple/NN))
+  of/IN
+  (NP (NBAR years/NNS))
+  ago/RB
+  did/VBD
+  n't/RB
+  realize/VB
+  if/IN
+  (NP (NBAR Lily/NNP))
+  and/CC
+  (NP (NBAR Isadore/NNP))
+  had/VBD
+  done/VBN
+  what/WP
+  their/PRP$
+  (NP (NBAR three-day/JJ forecast/NN))
+  had/VBD
+  done/VBN
+  ,/,
+  that/WDT
+  would/MD
+  have/VB
+  been/VBN
+  the/DT
+  worst/JJS
+  (NP (NBAR forecast/NN))
+  on/IN
+  (NP (NBAR record/NN))
+  ./.
+  Fortunately/RB
+  ,/,
+  (NP (NBAR Isadore/NNP))
+  went/VBD
+  and/CC
+  the/DT
+  (NP (NBAR Yucatan/NNP))
+  weakened/VBD
+  ./.
+  And/CC
+  Lily/RB
+  weakened/VBD
+  rapidly/RB
+  upon/IN
+  (NP (NBAR landfall/NN))
+  ./.)(S
+  (NP (NBAR BASTARDI/NN))
+  :/:
+  Well/RB
+  ,/,
+  first/RB
+  of/IN
+  all/RB
+  ,/,
+  we/PRP
+  've/VBP
+  been/VBN
+  living/VBG
+  on/IN
+  (NP (NBAR borrowed/JJ time/NN))
+  ./.
+  See/VB
+  ,/,
+  a/DT
+  (NP (NBAR lot/NN))
+  of/IN
+  (NP (NBAR folks/NNS))
+  a/DT
+  (NP (NBAR couple/NN))
+  of/IN
+  (NP (NBAR years/NNS))
+  ago/RB
+  did/VBD
+  n't/RB
+  realize/VB
+  if/IN
+  (NP (NBAR Lily/NNP))
+  and/CC
+  (NP (NBAR Isadore/NNP))
+  had/VBD
+  done/VBN
+  what/WP
+  their/PRP$
+  (NP (NBAR three-day/JJ forecast/NN))
+  had/VBD
+  done/VBN
+  ,/,
+  that/WDT
+  would/MD
+  have/VB
+  been/VBN
+  the/DT
+  worst/JJS
+  (NP (NBAR forecast/NN))
+  on/IN
+  (NP (NBAR record/NN))
+  ./.
+  Fortunately/RB
+  ,/,
+  (NP (NBAR Isadore/NNP))
+  went/VBD
+  and/CC
+  the/DT
+  (NP (NBAR Yucatan/NNP))
+  weakened/VBD
+  ./.
+  And/CC
+  Lily/RB
+  weakened/VBD
+  rapidly/RB
+  upon/IN
+  (NP (NBAR landfall/NN))
+  ./.)(S
+  (NP (NBAR BASTARDI/NN))
+  :/:
+  Well/RB
+  ,/,
+  first/RB
+  of/IN
+  all/RB
+  ,/,
+  we/PRP
+  've/VBP
+  been/VBN
+  living/VBG
+  on/IN
+  (NP (NBAR borrowed/JJ time/NN))
+  ./.
+  See/VB
+  ,/,
+  a/DT
+  (NP (NBAR lot/NN))
+  of/IN
+  (NP (NBAR folks/NNS))
+  a/DT
+  (NP (NBAR couple/NN))
+  of/IN
+  (NP (NBAR years/NNS))
+  ago/RB
+  did/VBD
+  n't/RB
+  realize/VB
+  if/IN
+  (NP (NBAR Lily/NNP))
+  and/CC
+  (NP (NBAR Isadore/NNP))
+  had/VBD
+  done/VBN
+  what/WP
+  their/PRP$
+  (NP (NBAR three-day/JJ forecast/NN))
+  had/VBD
+  done/VBN
+  ,/,
+  that/WDT
+  would/MD
+  have/VB
+  been/VBN
+  the/DT
+  worst/JJS
+  (NP (NBAR forecast/NN))
+  on/IN
+  (NP (NBAR record/NN))
+  ./.
+  Fortunately/RB
+  ,/,
+  (NP (NBAR Isadore/NNP))
+  went/VBD
+  and/CC
+  the/DT
+  (NP (NBAR Yucatan/NNP))
+  weakened/VBD
+  ./.
+  And/CC
+  Lily/RB
+  weakened/VBD
+  rapidly/RB
+  upon/IN
+  (NP (NBAR landfall/NN))
+  ./.)(S
   (NP (NBAR BASTARDI/NN))
   :/:
   Well/RB
@@ -856,6 +2273,727 @@
   of/IN
   (NP (NBAR October/NNP))
   ./.)(S
+  But/CC
+  even/RB
+  two/CD
+  (NP (NBAR years/NNS))
+  ago/RB
+  ,/,
+  we/PRP
+  had/VBD
+  an/DT
+  (NP (NBAR unheard/NN))
+  of/IN
+  (NP (NBAR event/NN))
+  ./.
+  Two/CD
+  (NP (NBAR category/NN))
+  4/CD
+  (NP (NBAR hurricanes/NNS))
+  in/IN
+  the/DT
+  (NP (NBAR Gulf/NNP))
+  of/IN
+  (NP (NBAR Mexico/NNP))
+  within/IN
+  10/CD
+  (NP (NBAR days/NNS))
+  of/IN
+  each/DT
+  other/JJ
+  ,/,
+  (NP (NBAR John/NNP))
+  ./.
+  So/IN
+  we/PRP
+  are/VBP
+  back/RB
+  in/IN
+  the/DT
+  (NP (NBAR —/NNP))
+  well/RB
+  ,/,
+  I/PRP
+  want/VBP
+  to/TO
+  stress/VB
+  this/DT
+  —/VBZ
+  the/DT
+  (NP (NBAR climate/NN))
+  runs/VBZ
+  in/IN
+  (NP (NBAR cycles/NNS))
+  ./.
+  We/PRP
+  are/VBP
+  back/RB
+  in/IN
+  the/DT
+  (NP (NBAR '40/NN))
+  's/POS
+  ,/,
+  '50/PRP
+  's/VBZ
+  ,/,
+  and/CC
+  (NP (NBAR early/JJ '60/NN))
+  's/POS
+  as/RB
+  far/RB
+  as/IN
+  our/PRP$
+  (NP (NBAR climate/NN pattern/NN))
+  goes/VBZ
+  ./.
+  And/CC
+  I/PRP
+  'll/MD
+  tell/VB
+  you/PRP
+  what/WP
+  ,/,
+  those/DT
+  (NP (NBAR years/NNS))
+  there/RB
+  were/VBD
+  a/DT
+  (NP (NBAR lot/NN))
+  of/IN
+  (NP (NBAR big/JJ hurricanes/NNS))
+  on/IN
+  the/DT
+  (NP (NBAR East/NNP Coast/NNP))
+  and/CC
+  the/DT
+  (NP (NBAR Gulf/NNP))
+  of/IN
+  (NP (NBAR Mexico/NNP))
+  ./.
+  1954/CD
+  ,/,
+  the/DT
+  (NP (NBAR United/NNP States/NNPS))
+  was/VBD
+  hit/VBN
+  by/IN
+  three/CD
+  (NP (NBAR category/NN))
+  3/CD
+  (NP (NBAR hurricanes/NNS))
+  within/IN
+  a/DT
+  (NP (NBAR month/NN))
+  and/CC
+  a/DT
+  (NP (NBAR half/JJ period/NN))
+  from/IN
+  (NP (NBAR September/NNP))
+  into/IN
+  the/DT
+  (NP (NBAR middle/JJ part/NN))
+  of/IN
+  (NP (NBAR October/NNP))
+  ./.)(S
+  But/CC
+  even/RB
+  two/CD
+  (NP (NBAR years/NNS))
+  ago/RB
+  ,/,
+  we/PRP
+  had/VBD
+  an/DT
+  (NP (NBAR unheard/NN))
+  of/IN
+  (NP (NBAR event/NN))
+  ./.
+  Two/CD
+  (NP (NBAR category/NN))
+  4/CD
+  (NP (NBAR hurricanes/NNS))
+  in/IN
+  the/DT
+  (NP (NBAR Gulf/NNP))
+  of/IN
+  (NP (NBAR Mexico/NNP))
+  within/IN
+  10/CD
+  (NP (NBAR days/NNS))
+  of/IN
+  each/DT
+  other/JJ
+  ,/,
+  (NP (NBAR John/NNP))
+  ./.
+  So/IN
+  we/PRP
+  are/VBP
+  back/RB
+  in/IN
+  the/DT
+  (NP (NBAR —/NNP))
+  well/RB
+  ,/,
+  I/PRP
+  want/VBP
+  to/TO
+  stress/VB
+  this/DT
+  —/VBZ
+  the/DT
+  (NP (NBAR climate/NN))
+  runs/VBZ
+  in/IN
+  (NP (NBAR cycles/NNS))
+  ./.
+  We/PRP
+  are/VBP
+  back/RB
+  in/IN
+  the/DT
+  (NP (NBAR '40/NN))
+  's/POS
+  ,/,
+  '50/PRP
+  's/VBZ
+  ,/,
+  and/CC
+  (NP (NBAR early/JJ '60/NN))
+  's/POS
+  as/RB
+  far/RB
+  as/IN
+  our/PRP$
+  (NP (NBAR climate/NN pattern/NN))
+  goes/VBZ
+  ./.
+  And/CC
+  I/PRP
+  'll/MD
+  tell/VB
+  you/PRP
+  what/WP
+  ,/,
+  those/DT
+  (NP (NBAR years/NNS))
+  there/RB
+  were/VBD
+  a/DT
+  (NP (NBAR lot/NN))
+  of/IN
+  (NP (NBAR big/JJ hurricanes/NNS))
+  on/IN
+  the/DT
+  (NP (NBAR East/NNP Coast/NNP))
+  and/CC
+  the/DT
+  (NP (NBAR Gulf/NNP))
+  of/IN
+  (NP (NBAR Mexico/NNP))
+  ./.
+  1954/CD
+  ,/,
+  the/DT
+  (NP (NBAR United/NNP States/NNPS))
+  was/VBD
+  hit/VBN
+  by/IN
+  three/CD
+  (NP (NBAR category/NN))
+  3/CD
+  (NP (NBAR hurricanes/NNS))
+  within/IN
+  a/DT
+  (NP (NBAR month/NN))
+  and/CC
+  a/DT
+  (NP (NBAR half/JJ period/NN))
+  from/IN
+  (NP (NBAR September/NNP))
+  into/IN
+  the/DT
+  (NP (NBAR middle/JJ part/NN))
+  of/IN
+  (NP (NBAR October/NNP))
+  ./.)(S
+  But/CC
+  even/RB
+  two/CD
+  (NP (NBAR years/NNS))
+  ago/RB
+  ,/,
+  we/PRP
+  had/VBD
+  an/DT
+  (NP (NBAR unheard/NN))
+  of/IN
+  (NP (NBAR event/NN))
+  ./.
+  Two/CD
+  (NP (NBAR category/NN))
+  4/CD
+  (NP (NBAR hurricanes/NNS))
+  in/IN
+  the/DT
+  (NP (NBAR Gulf/NNP))
+  of/IN
+  (NP (NBAR Mexico/NNP))
+  within/IN
+  10/CD
+  (NP (NBAR days/NNS))
+  of/IN
+  each/DT
+  other/JJ
+  ,/,
+  (NP (NBAR John/NNP))
+  ./.
+  So/IN
+  we/PRP
+  are/VBP
+  back/RB
+  in/IN
+  the/DT
+  (NP (NBAR —/NNP))
+  well/RB
+  ,/,
+  I/PRP
+  want/VBP
+  to/TO
+  stress/VB
+  this/DT
+  —/VBZ
+  the/DT
+  (NP (NBAR climate/NN))
+  runs/VBZ
+  in/IN
+  (NP (NBAR cycles/NNS))
+  ./.
+  We/PRP
+  are/VBP
+  back/RB
+  in/IN
+  the/DT
+  (NP (NBAR '40/NN))
+  's/POS
+  ,/,
+  '50/PRP
+  's/VBZ
+  ,/,
+  and/CC
+  (NP (NBAR early/JJ '60/NN))
+  's/POS
+  as/RB
+  far/RB
+  as/IN
+  our/PRP$
+  (NP (NBAR climate/NN pattern/NN))
+  goes/VBZ
+  ./.
+  And/CC
+  I/PRP
+  'll/MD
+  tell/VB
+  you/PRP
+  what/WP
+  ,/,
+  those/DT
+  (NP (NBAR years/NNS))
+  there/RB
+  were/VBD
+  a/DT
+  (NP (NBAR lot/NN))
+  of/IN
+  (NP (NBAR big/JJ hurricanes/NNS))
+  on/IN
+  the/DT
+  (NP (NBAR East/NNP Coast/NNP))
+  and/CC
+  the/DT
+  (NP (NBAR Gulf/NNP))
+  of/IN
+  (NP (NBAR Mexico/NNP))
+  ./.
+  1954/CD
+  ,/,
+  the/DT
+  (NP (NBAR United/NNP States/NNPS))
+  was/VBD
+  hit/VBN
+  by/IN
+  three/CD
+  (NP (NBAR category/NN))
+  3/CD
+  (NP (NBAR hurricanes/NNS))
+  within/IN
+  a/DT
+  (NP (NBAR month/NN))
+  and/CC
+  a/DT
+  (NP (NBAR half/JJ period/NN))
+  from/IN
+  (NP (NBAR September/NNP))
+  into/IN
+  the/DT
+  (NP (NBAR middle/JJ part/NN))
+  of/IN
+  (NP (NBAR October/NNP))
+  ./.)(S
+  But/CC
+  even/RB
+  two/CD
+  (NP (NBAR years/NNS))
+  ago/RB
+  ,/,
+  we/PRP
+  had/VBD
+  an/DT
+  (NP (NBAR unheard/NN))
+  of/IN
+  (NP (NBAR event/NN))
+  ./.
+  Two/CD
+  (NP (NBAR category/NN))
+  4/CD
+  (NP (NBAR hurricanes/NNS))
+  in/IN
+  the/DT
+  (NP (NBAR Gulf/NNP))
+  of/IN
+  (NP (NBAR Mexico/NNP))
+  within/IN
+  10/CD
+  (NP (NBAR days/NNS))
+  of/IN
+  each/DT
+  other/JJ
+  ,/,
+  (NP (NBAR John/NNP))
+  ./.
+  So/IN
+  we/PRP
+  are/VBP
+  back/RB
+  in/IN
+  the/DT
+  (NP (NBAR —/NNP))
+  well/RB
+  ,/,
+  I/PRP
+  want/VBP
+  to/TO
+  stress/VB
+  this/DT
+  —/VBZ
+  the/DT
+  (NP (NBAR climate/NN))
+  runs/VBZ
+  in/IN
+  (NP (NBAR cycles/NNS))
+  ./.
+  We/PRP
+  are/VBP
+  back/RB
+  in/IN
+  the/DT
+  (NP (NBAR '40/NN))
+  's/POS
+  ,/,
+  '50/PRP
+  's/VBZ
+  ,/,
+  and/CC
+  (NP (NBAR early/JJ '60/NN))
+  's/POS
+  as/RB
+  far/RB
+  as/IN
+  our/PRP$
+  (NP (NBAR climate/NN pattern/NN))
+  goes/VBZ
+  ./.
+  And/CC
+  I/PRP
+  'll/MD
+  tell/VB
+  you/PRP
+  what/WP
+  ,/,
+  those/DT
+  (NP (NBAR years/NNS))
+  there/RB
+  were/VBD
+  a/DT
+  (NP (NBAR lot/NN))
+  of/IN
+  (NP (NBAR big/JJ hurricanes/NNS))
+  on/IN
+  the/DT
+  (NP (NBAR East/NNP Coast/NNP))
+  and/CC
+  the/DT
+  (NP (NBAR Gulf/NNP))
+  of/IN
+  (NP (NBAR Mexico/NNP))
+  ./.
+  1954/CD
+  ,/,
+  the/DT
+  (NP (NBAR United/NNP States/NNPS))
+  was/VBD
+  hit/VBN
+  by/IN
+  three/CD
+  (NP (NBAR category/NN))
+  3/CD
+  (NP (NBAR hurricanes/NNS))
+  within/IN
+  a/DT
+  (NP (NBAR month/NN))
+  and/CC
+  a/DT
+  (NP (NBAR half/JJ period/NN))
+  from/IN
+  (NP (NBAR September/NNP))
+  into/IN
+  the/DT
+  (NP (NBAR middle/JJ part/NN))
+  of/IN
+  (NP (NBAR October/NNP))
+  ./.)(S
+  But/CC
+  even/RB
+  two/CD
+  (NP (NBAR years/NNS))
+  ago/RB
+  ,/,
+  we/PRP
+  had/VBD
+  an/DT
+  (NP (NBAR unheard/NN))
+  of/IN
+  (NP (NBAR event/NN))
+  ./.
+  Two/CD
+  (NP (NBAR category/NN))
+  4/CD
+  (NP (NBAR hurricanes/NNS))
+  in/IN
+  the/DT
+  (NP (NBAR Gulf/NNP))
+  of/IN
+  (NP (NBAR Mexico/NNP))
+  within/IN
+  10/CD
+  (NP (NBAR days/NNS))
+  of/IN
+  each/DT
+  other/JJ
+  ,/,
+  (NP (NBAR John/NNP))
+  ./.
+  So/IN
+  we/PRP
+  are/VBP
+  back/RB
+  in/IN
+  the/DT
+  (NP (NBAR —/NNP))
+  well/RB
+  ,/,
+  I/PRP
+  want/VBP
+  to/TO
+  stress/VB
+  this/DT
+  —/VBZ
+  the/DT
+  (NP (NBAR climate/NN))
+  runs/VBZ
+  in/IN
+  (NP (NBAR cycles/NNS))
+  ./.
+  We/PRP
+  are/VBP
+  back/RB
+  in/IN
+  the/DT
+  (NP (NBAR '40/NN))
+  's/POS
+  ,/,
+  '50/PRP
+  's/VBZ
+  ,/,
+  and/CC
+  (NP (NBAR early/JJ '60/NN))
+  's/POS
+  as/RB
+  far/RB
+  as/IN
+  our/PRP$
+  (NP (NBAR climate/NN pattern/NN))
+  goes/VBZ
+  ./.
+  And/CC
+  I/PRP
+  'll/MD
+  tell/VB
+  you/PRP
+  what/WP
+  ,/,
+  those/DT
+  (NP (NBAR years/NNS))
+  there/RB
+  were/VBD
+  a/DT
+  (NP (NBAR lot/NN))
+  of/IN
+  (NP (NBAR big/JJ hurricanes/NNS))
+  on/IN
+  the/DT
+  (NP (NBAR East/NNP Coast/NNP))
+  and/CC
+  the/DT
+  (NP (NBAR Gulf/NNP))
+  of/IN
+  (NP (NBAR Mexico/NNP))
+  ./.
+  1954/CD
+  ,/,
+  the/DT
+  (NP (NBAR United/NNP States/NNPS))
+  was/VBD
+  hit/VBN
+  by/IN
+  three/CD
+  (NP (NBAR category/NN))
+  3/CD
+  (NP (NBAR hurricanes/NNS))
+  within/IN
+  a/DT
+  (NP (NBAR month/NN))
+  and/CC
+  a/DT
+  (NP (NBAR half/JJ period/NN))
+  from/IN
+  (NP (NBAR September/NNP))
+  into/IN
+  the/DT
+  (NP (NBAR middle/JJ part/NN))
+  of/IN
+  (NP (NBAR October/NNP))
+  ./.)(S
+  And/CC
+  you/PRP
+  had/VBD
+  (NP (NBAR Connie/NNP))
+  and/CC
+  (NP (NBAR Diane/NNP))
+  in/IN
+  (NP (NBAR '55/NNP))
+  ./.
+  You/PRP
+  had/VBD
+  the/DT
+  (NP (NBAR big/JJ hurricanes/NNS))
+  in/IN
+  the/DT
+  (NP (NBAR '40/NN))
+  's/POS
+  ./.
+  That/DT
+  's/VBZ
+  where/WRB
+  we/PRP
+  are/VBP
+  now/RB
+  ./.
+  The/DT
+  (NP (NBAR climate/NN))
+  runs/VBZ
+  in/IN
+  (NP (NBAR cycles/NNS))
+  ,/,
+  so/RB
+  get/VB
+  used/VBN
+  to/TO
+  it/PRP
+  ./.)(S
+  And/CC
+  you/PRP
+  had/VBD
+  (NP (NBAR Connie/NNP))
+  and/CC
+  (NP (NBAR Diane/NNP))
+  in/IN
+  (NP (NBAR '55/NNP))
+  ./.
+  You/PRP
+  had/VBD
+  the/DT
+  (NP (NBAR big/JJ hurricanes/NNS))
+  in/IN
+  the/DT
+  (NP (NBAR '40/NN))
+  's/POS
+  ./.
+  That/DT
+  's/VBZ
+  where/WRB
+  we/PRP
+  are/VBP
+  now/RB
+  ./.
+  The/DT
+  (NP (NBAR climate/NN))
+  runs/VBZ
+  in/IN
+  (NP (NBAR cycles/NNS))
+  ,/,
+  so/RB
+  get/VB
+  used/VBN
+  to/TO
+  it/PRP
+  ./.)(S
+  And/CC
+  you/PRP
+  had/VBD
+  (NP (NBAR Connie/NNP))
+  and/CC
+  (NP (NBAR Diane/NNP))
+  in/IN
+  (NP (NBAR '55/NNP))
+  ./.
+  You/PRP
+  had/VBD
+  the/DT
+  (NP (NBAR big/JJ hurricanes/NNS))
+  in/IN
+  the/DT
+  (NP (NBAR '40/NN))
+  's/POS
+  ./.
+  That/DT
+  's/VBZ
+  where/WRB
+  we/PRP
+  are/VBP
+  now/RB
+  ./.
+  The/DT
+  (NP (NBAR climate/NN))
+  runs/VBZ
+  in/IN
+  (NP (NBAR cycles/NNS))
+  ,/,
+  so/RB
+  get/VB
+  used/VBN
+  to/TO
+  it/PRP
+  ./.)(S
   And/CC
   you/PRP
   had/VBD
@@ -933,6 +3071,328 @@
   for/IN
   a/DT
   (NP (NBAR long/JJ season/NN))
+  ./.)(S
+  (NP (NBAR GIBSON/NN))
+  :/:
+  All/DT
+  (NP (NBAR right/NN))
+  ./.
+  Well/UH
+  ,/,
+  let/VB
+  me/PRP
+  turn/VB
+  back/RB
+  to/TO
+  (NP (NBAR Michael/NNP Spencer/NNP))
+  ,/,
+  who/WP
+  ought/MD
+  to/TO
+  have/VB
+  the/DT
+  (NP (NBAR blood/NN))
+  draining/VBG
+  from/IN
+  his/PRP$
+  (NP (NBAR face/NN))
+  after/IN
+  hearing/VBG
+  that/DT
+  ./.
+  (NP (NBAR Michael/NNP))
+  ,/,
+  according/VBG
+  to/TO
+  (NP (NBAR Joe/NNP))
+  ,/,
+  you/PRP
+  're/VBP
+  in/IN
+  for/IN
+  a/DT
+  (NP (NBAR long/JJ season/NN))
+  ./.)(S
+  (NP (NBAR GIBSON/NN))
+  :/:
+  All/DT
+  (NP (NBAR right/NN))
+  ./.
+  Well/UH
+  ,/,
+  let/VB
+  me/PRP
+  turn/VB
+  back/RB
+  to/TO
+  (NP (NBAR Michael/NNP Spencer/NNP))
+  ,/,
+  who/WP
+  ought/MD
+  to/TO
+  have/VB
+  the/DT
+  (NP (NBAR blood/NN))
+  draining/VBG
+  from/IN
+  his/PRP$
+  (NP (NBAR face/NN))
+  after/IN
+  hearing/VBG
+  that/DT
+  ./.
+  (NP (NBAR Michael/NNP))
+  ,/,
+  according/VBG
+  to/TO
+  (NP (NBAR Joe/NNP))
+  ,/,
+  you/PRP
+  're/VBP
+  in/IN
+  for/IN
+  a/DT
+  (NP (NBAR long/JJ season/NN))
+  ./.)(S
+  (NP (NBAR SPENCER/NN))
+  :/:
+  This/DT
+  is/VBZ
+  a/DT
+  very/RB
+  ,/,
+  very/RB
+  (NP (NBAR scary/JJ thing/NN))
+  ./.
+  We/PRP
+  're/VBP
+  not/RB
+  even/RB
+  in/IN
+  the/DT
+  busiest/JJS
+  (NP (NBAR part/NN))
+  of/IN
+  (NP (NBAR hurricane/NN season/NN))
+  yet/RB
+  and/CC
+  we/PRP
+  've/VBP
+  already/RB
+  had/VBD
+  this/DT
+  (NP (NBAR massive/JJ storm/NN))
+  that/WDT
+  has/VBZ
+  just/RB
+  ripped/VBN
+  apart/RB
+  (NP (NBAR thousands/NNS))
+  upon/IN
+  (NP (NBAR thousands/NNS))
+  of/IN
+  (NP (NBAR lives/NNS))
+  ./.
+  And/CC
+  as/IN
+  we/PRP
+  head/VBP
+  into/IN
+  the/DT
+  busiest/JJS
+  (NP (NBAR part/NN))
+  of/IN
+  the/DT
+  (NP (NBAR storm/NN season/NN))
+  ,/,
+  we/PRP
+  have/VBP
+  to/TO
+  have/VB
+  a/DT
+  (NP (NBAR healthy/JJ disaster/NN relief/NN fund/NN))
+  or/CC
+  we/PRP
+  're/VBP
+  not/RB
+  going/VBG
+  to/TO
+  be/VB
+  able/JJ
+  to/TO
+  respond/VB
+  to/TO
+  these/DT
+  (NP (NBAR storms/NNS))
+  ./.
+  So/IN
+  it/PRP
+  's/VBZ
+  so/RB
+  important/JJ
+  that/IN
+  (NP (NBAR people/NNS))
+  donate/VBP
+  ./.)(S
+  (NP (NBAR SPENCER/NN))
+  :/:
+  This/DT
+  is/VBZ
+  a/DT
+  very/RB
+  ,/,
+  very/RB
+  (NP (NBAR scary/JJ thing/NN))
+  ./.
+  We/PRP
+  're/VBP
+  not/RB
+  even/RB
+  in/IN
+  the/DT
+  busiest/JJS
+  (NP (NBAR part/NN))
+  of/IN
+  (NP (NBAR hurricane/NN season/NN))
+  yet/RB
+  and/CC
+  we/PRP
+  've/VBP
+  already/RB
+  had/VBD
+  this/DT
+  (NP (NBAR massive/JJ storm/NN))
+  that/WDT
+  has/VBZ
+  just/RB
+  ripped/VBN
+  apart/RB
+  (NP (NBAR thousands/NNS))
+  upon/IN
+  (NP (NBAR thousands/NNS))
+  of/IN
+  (NP (NBAR lives/NNS))
+  ./.
+  And/CC
+  as/IN
+  we/PRP
+  head/VBP
+  into/IN
+  the/DT
+  busiest/JJS
+  (NP (NBAR part/NN))
+  of/IN
+  the/DT
+  (NP (NBAR storm/NN season/NN))
+  ,/,
+  we/PRP
+  have/VBP
+  to/TO
+  have/VB
+  a/DT
+  (NP (NBAR healthy/JJ disaster/NN relief/NN fund/NN))
+  or/CC
+  we/PRP
+  're/VBP
+  not/RB
+  going/VBG
+  to/TO
+  be/VB
+  able/JJ
+  to/TO
+  respond/VB
+  to/TO
+  these/DT
+  (NP (NBAR storms/NNS))
+  ./.
+  So/IN
+  it/PRP
+  's/VBZ
+  so/RB
+  important/JJ
+  that/IN
+  (NP (NBAR people/NNS))
+  donate/VBP
+  ./.)(S
+  (NP (NBAR SPENCER/NN))
+  :/:
+  This/DT
+  is/VBZ
+  a/DT
+  very/RB
+  ,/,
+  very/RB
+  (NP (NBAR scary/JJ thing/NN))
+  ./.
+  We/PRP
+  're/VBP
+  not/RB
+  even/RB
+  in/IN
+  the/DT
+  busiest/JJS
+  (NP (NBAR part/NN))
+  of/IN
+  (NP (NBAR hurricane/NN season/NN))
+  yet/RB
+  and/CC
+  we/PRP
+  've/VBP
+  already/RB
+  had/VBD
+  this/DT
+  (NP (NBAR massive/JJ storm/NN))
+  that/WDT
+  has/VBZ
+  just/RB
+  ripped/VBN
+  apart/RB
+  (NP (NBAR thousands/NNS))
+  upon/IN
+  (NP (NBAR thousands/NNS))
+  of/IN
+  (NP (NBAR lives/NNS))
+  ./.
+  And/CC
+  as/IN
+  we/PRP
+  head/VBP
+  into/IN
+  the/DT
+  busiest/JJS
+  (NP (NBAR part/NN))
+  of/IN
+  the/DT
+  (NP (NBAR storm/NN season/NN))
+  ,/,
+  we/PRP
+  have/VBP
+  to/TO
+  have/VB
+  a/DT
+  (NP (NBAR healthy/JJ disaster/NN relief/NN fund/NN))
+  or/CC
+  we/PRP
+  're/VBP
+  not/RB
+  going/VBG
+  to/TO
+  be/VB
+  able/JJ
+  to/TO
+  respond/VB
+  to/TO
+  these/DT
+  (NP (NBAR storms/NNS))
+  ./.
+  So/IN
+  it/PRP
+  's/VBZ
+  so/RB
+  important/JJ
+  that/IN
+  (NP (NBAR people/NNS))
+  donate/VBP
   ./.)(S
   (NP (NBAR SPENCER/NN))
   :/:
@@ -1069,6 +3529,166 @@
   in/IN
   them/PRP
   ?/.)(S
+  (NP (NBAR GIBSON/NN))
+  :/:
+  (NP (NBAR Michael/NNP))
+  ,/,
+  let/VB
+  me/PRP
+  ask/VB
+  you/PRP
+  (NP (NBAR something/NN))
+  before/IN
+  we/PRP
+  go/VBP
+  ./.
+  We/PRP
+  just/RB
+  got/VBD
+  a/DT
+  (NP (NBAR few/JJ seconds/NNS))
+  ./.
+  I/PRP
+  mean/VBP
+  ,/,
+  when/WRB
+  you/PRP
+  see/VBP
+  this/DT
+  (NP (NBAR kind/NN))
+  of/IN
+  (NP (NBAR damage/NN))
+  ,/,
+  are/VBP
+  you/PRP
+  saying/VBG
+  to/TO
+  the/DT
+  (NP (NBAR local/JJ county/NN officials/NNS))
+  you/PRP
+  ca/MD
+  n't/RB
+  let/VB
+  (NP (NBAR people/NNS))
+  put/VB
+  up/RP
+  (NP (NBAR buildings/NNS))
+  as/RB
+  fragile/RB
+  as/IN
+  this/DT
+  and/CC
+  try/VB
+  to/TO
+  live/VB
+  in/IN
+  them/PRP
+  ?/.)(S
+  (NP (NBAR GIBSON/NN))
+  :/:
+  (NP (NBAR Michael/NNP))
+  ,/,
+  let/VB
+  me/PRP
+  ask/VB
+  you/PRP
+  (NP (NBAR something/NN))
+  before/IN
+  we/PRP
+  go/VBP
+  ./.
+  We/PRP
+  just/RB
+  got/VBD
+  a/DT
+  (NP (NBAR few/JJ seconds/NNS))
+  ./.
+  I/PRP
+  mean/VBP
+  ,/,
+  when/WRB
+  you/PRP
+  see/VBP
+  this/DT
+  (NP (NBAR kind/NN))
+  of/IN
+  (NP (NBAR damage/NN))
+  ,/,
+  are/VBP
+  you/PRP
+  saying/VBG
+  to/TO
+  the/DT
+  (NP (NBAR local/JJ county/NN officials/NNS))
+  you/PRP
+  ca/MD
+  n't/RB
+  let/VB
+  (NP (NBAR people/NNS))
+  put/VB
+  up/RP
+  (NP (NBAR buildings/NNS))
+  as/RB
+  fragile/RB
+  as/IN
+  this/DT
+  and/CC
+  try/VB
+  to/TO
+  live/VB
+  in/IN
+  them/PRP
+  ?/.)(S
+  (NP (NBAR SPENCER/NN))
+  :/:
+  We/PRP
+  are/VBP
+  working/VBG
+  with/IN
+  our/PRP$
+  (NP (NBAR government/NN partners/NNS))
+  to/TO
+  do/VB
+  some/DT
+  (NP (NBAR mitigation/NN))
+  and/CC
+  make/VB
+  sure/JJ
+  that/IN
+  if/IN
+  another/DT
+  (NP (NBAR storm/NN))
+  were/VBD
+  to/TO
+  hit/VB
+  ,/,
+  that/IN
+  we/PRP
+  can/MD
+  help/VB
+  them/PRP
+  rebuild/VB
+  in/IN
+  a/DT
+  (NP (NBAR way/NN))
+  that/IN
+  the/DT
+  (NP (NBAR damage/NN))
+  wo/MD
+  n't/RB
+  be/VB
+  so/RB
+  bad/JJ
+  ./.
+  But/CC
+  the/DT
+  most/RBS
+  (NP (NBAR important/JJ thing/NN people/NNS))
+  can/MD
+  do/VB
+  is/VBZ
+  evacuate/VB
+  ./.)(S
   (NP (NBAR SPENCER/NN))
   :/:
   We/PRP
@@ -1137,4 +3757,61 @@
   ./.
   And/CC
   (NP (NBAR good/JJ luck/NN))
-  ./.)(S )(S )
+  ./.)(S
+  (NP (NBAR GIBSON/NN))
+  :/:
+  All/DT
+  (NP (NBAR right/NN))
+  ./.
+  (NP (NBAR Michael/NNP))
+  and/CC
+  (NP (NBAR Joe/NNP))
+  ,/,
+  thanks/VBZ
+  a/DT
+  (NP (NBAR lot/NN))
+  ./.
+  Appreciate/VB
+  it/PRP
+  ./.
+  And/CC
+  (NP (NBAR good/JJ luck/NN))
+  ./.)(S
+  (NP (NBAR GIBSON/NN))
+  :/:
+  All/DT
+  (NP (NBAR right/NN))
+  ./.
+  (NP (NBAR Michael/NNP))
+  and/CC
+  (NP (NBAR Joe/NNP))
+  ,/,
+  thanks/VBZ
+  a/DT
+  (NP (NBAR lot/NN))
+  ./.
+  Appreciate/VB
+  it/PRP
+  ./.
+  And/CC
+  (NP (NBAR good/JJ luck/NN))
+  ./.)(S
+  (NP (NBAR GIBSON/NN))
+  :/:
+  All/DT
+  (NP (NBAR right/NN))
+  ./.
+  (NP (NBAR Michael/NNP))
+  and/CC
+  (NP (NBAR Joe/NNP))
+  ,/,
+  thanks/VBZ
+  a/DT
+  (NP (NBAR lot/NN))
+  ./.
+  Appreciate/VB
+  it/PRP
+  ./.
+  And/CC
+  (NP (NBAR good/JJ luck/NN))
+  ./.)

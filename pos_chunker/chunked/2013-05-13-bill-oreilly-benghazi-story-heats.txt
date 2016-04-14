@@ -1,4 +1,51 @@
-(S )(S By/IN (NP (NBAR Bill/NNP O'Reilly/NNP)))(S
+(S By/IN (NP (NBAR Bill/NNP O'Reilly/NNP)))(S
+  If/IN
+  there/EX
+  is/VBZ
+  one/CD
+  (NP (NBAR guy/NN))
+  you/PRP
+  would/MD
+  not/RB
+  want/VB
+  to/TO
+  be/VB
+  (NP (NBAR today/NN))
+  ,/,
+  it/PRP
+  was/VBD
+  (NP (NBAR White/NNP House/NNP spokesman/NN Jay/NNP Carney/NNP))
+  ./.
+  The/DT
+  (NP (NBAR press/NN))
+  grilling/VBG
+  him/PRP
+  over/IN
+  (NP (NBAR charges/NNS))
+  that/IN
+  the/DT
+  (NP (NBAR White/NNP House/NNP))
+  altered/VBD
+  the/DT
+  (NP (NBAR initial/JJ CIA/NNP reporting/NN))
+  of/IN
+  the/DT
+  (NP (NBAR Benghazi/NNP terror/NN attack/NN))
+  to/TO
+  downplay/VB
+  the/DT
+  (NP (NBAR organized/JJ terrorism/NN angle/NN))
+  playing/VBG
+  up/RP
+  the/DT
+  (NP
+    (NBAR
+      spontaneous/JJ
+      anti-/JJ
+      American/JJ
+      demonstration/NN
+      angle/NN))
+  ./.)(S
   If/IN
   there/EX
   is/VBZ
@@ -194,6 +241,104 @@
   to/TO
   it/PRP
   ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  Now/RB
+  ,/,
+  (NP (NBAR Mr./NNP Carney/NNP))
+  gave/VBD
+  (NP (NBAR long/JJ rambling/NN answers/NNS))
+  to/TO
+  the/DT
+  (NP (NBAR questions/NNS))
+  but/CC
+  he/PRP
+  was/VBD
+  clear/JJ
+  ./.
+  The/DT
+  (NP (NBAR White/NNP House/NNP))
+  did/VBD
+  (NP (NBAR nothing/NN wrong/NN))
+  ,/,
+  (NP (NBAR Ambassador/NNP Rice/NNP))
+  did/VBD
+  (NP (NBAR nothing/NN wrong/NN))
+  and/CC
+  the/DT
+  (NP (NBAR whole/JJ controversy/NN))
+  is/VBZ
+  being/VBG
+  generated/VBN
+  by/IN
+  (NP (NBAR Republicans/NNPS))
+  for/IN
+  (NP (NBAR political/JJ reasons/NNS))
+  ./.
+  And/CC
+  that/DT
+  's/VBZ
+  his/PRP$
+  (NP (NBAR story/NN))
+  and/CC
+  as/IN
+  they/PRP
+  say/VBP
+  he/PRP
+  is/VBZ
+  sticking/VBG
+  to/TO
+  it/PRP
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  Now/RB
+  ,/,
+  (NP (NBAR Mr./NNP Carney/NNP))
+  gave/VBD
+  (NP (NBAR long/JJ rambling/NN answers/NNS))
+  to/TO
+  the/DT
+  (NP (NBAR questions/NNS))
+  but/CC
+  he/PRP
+  was/VBD
+  clear/JJ
+  ./.
+  The/DT
+  (NP (NBAR White/NNP House/NNP))
+  did/VBD
+  (NP (NBAR nothing/NN wrong/NN))
+  ,/,
+  (NP (NBAR Ambassador/NNP Rice/NNP))
+  did/VBD
+  (NP (NBAR nothing/NN wrong/NN))
+  and/CC
+  the/DT
+  (NP (NBAR whole/JJ controversy/NN))
+  is/VBZ
+  being/VBG
+  generated/VBN
+  by/IN
+  (NP (NBAR Republicans/NNPS))
+  for/IN
+  (NP (NBAR political/JJ reasons/NNS))
+  ./.
+  And/CC
+  that/DT
+  's/VBZ
+  his/PRP$
+  (NP (NBAR story/NN))
+  and/CC
+  as/IN
+  they/PRP
+  say/VBP
+  he/PRP
+  is/VBZ
+  sticking/VBG
+  to/TO
+  it/PRP
+  ./.)(S
   But/CC
   (NP (NBAR ABC/NNP News/NNP))
   is/VBZ
@@ -245,6 +390,219 @@
   was/VBD
   the/DT
   (NP (NBAR primary/JJ editing/NN force/NN))
+  ./.)(S
+  But/CC
+  (NP (NBAR ABC/NNP News/NNP))
+  is/VBZ
+  reporting/VBG
+  that/IN
+  there/EX
+  were/VBD
+  12/CD
+  (NP (NBAR different/JJ versions/NNS))
+  of/IN
+  talking/VBG
+  (NP (NBAR points/NNS))
+  on/IN
+  (NP (NBAR Benghazi/NNP))
+  ./.
+  And/CC
+  the/DT
+  (NP (NBAR final/JJ version/NN))
+  put/VBD
+  out/RP
+  to/TO
+  the/DT
+  (NP (NBAR public/NN))
+  eliminated/VBD
+  (NP (NBAR references/NNS))
+  to/TO
+  al/VB
+  (NP (NBAR Qaeda/NNP))
+  and/CC
+  (NP (NBAR affiliate/JJ terrorist/JJ organizations/NNS))
+  ./.
+  (NP (NBAR Mr./NNP Carney/NNP))
+  said/VBD
+  that/IN
+  the/DT
+  (NP (NBAR White/NNP House/NNP involvement/NN))
+  in/IN
+  those/DT
+  (NP (NBAR revisions/NNS))
+  was/VBD
+  very/RB
+  minor/JJ
+  ./.
+  Plying/VBG
+  the/DT
+  (NP (NBAR State/NNP Department/NNP))
+  under/IN
+  (NP (NBAR Hillary/NNP Clinton/NNP))
+  was/VBD
+  the/DT
+  (NP (NBAR primary/JJ editing/NN force/NN))
+  ./.)(S
+  But/CC
+  (NP (NBAR ABC/NNP News/NNP))
+  is/VBZ
+  reporting/VBG
+  that/IN
+  there/EX
+  were/VBD
+  12/CD
+  (NP (NBAR different/JJ versions/NNS))
+  of/IN
+  talking/VBG
+  (NP (NBAR points/NNS))
+  on/IN
+  (NP (NBAR Benghazi/NNP))
+  ./.
+  And/CC
+  the/DT
+  (NP (NBAR final/JJ version/NN))
+  put/VBD
+  out/RP
+  to/TO
+  the/DT
+  (NP (NBAR public/NN))
+  eliminated/VBD
+  (NP (NBAR references/NNS))
+  to/TO
+  al/VB
+  (NP (NBAR Qaeda/NNP))
+  and/CC
+  (NP (NBAR affiliate/JJ terrorist/JJ organizations/NNS))
+  ./.
+  (NP (NBAR Mr./NNP Carney/NNP))
+  said/VBD
+  that/IN
+  the/DT
+  (NP (NBAR White/NNP House/NNP involvement/NN))
+  in/IN
+  those/DT
+  (NP (NBAR revisions/NNS))
+  was/VBD
+  very/RB
+  minor/JJ
+  ./.
+  Plying/VBG
+  the/DT
+  (NP (NBAR State/NNP Department/NNP))
+  under/IN
+  (NP (NBAR Hillary/NNP Clinton/NNP))
+  was/VBD
+  the/DT
+  (NP (NBAR primary/JJ editing/NN force/NN))
+  ./.)(S
+  But/CC
+  (NP (NBAR ABC/NNP News/NNP))
+  is/VBZ
+  reporting/VBG
+  that/IN
+  there/EX
+  were/VBD
+  12/CD
+  (NP (NBAR different/JJ versions/NNS))
+  of/IN
+  talking/VBG
+  (NP (NBAR points/NNS))
+  on/IN
+  (NP (NBAR Benghazi/NNP))
+  ./.
+  And/CC
+  the/DT
+  (NP (NBAR final/JJ version/NN))
+  put/VBD
+  out/RP
+  to/TO
+  the/DT
+  (NP (NBAR public/NN))
+  eliminated/VBD
+  (NP (NBAR references/NNS))
+  to/TO
+  al/VB
+  (NP (NBAR Qaeda/NNP))
+  and/CC
+  (NP (NBAR affiliate/JJ terrorist/JJ organizations/NNS))
+  ./.
+  (NP (NBAR Mr./NNP Carney/NNP))
+  said/VBD
+  that/IN
+  the/DT
+  (NP (NBAR White/NNP House/NNP involvement/NN))
+  in/IN
+  those/DT
+  (NP (NBAR revisions/NNS))
+  was/VBD
+  very/RB
+  minor/JJ
+  ./.
+  Plying/VBG
+  the/DT
+  (NP (NBAR State/NNP Department/NNP))
+  under/IN
+  (NP (NBAR Hillary/NNP Clinton/NNP))
+  was/VBD
+  the/DT
+  (NP (NBAR primary/JJ editing/NN force/NN))
+  ./.)(S
+  The/DT
+  (NP (NBAR State/NNP))
+  says/VBZ
+  they/PRP
+  did/VBD
+  n't/RB
+  want/VB
+  to/TO
+  highlight/VB
+  al/RP
+  (NP (NBAR Qaeda/NNP involvement/NN))
+  because/IN
+  it/PRP
+  might/MD
+  impede/VB
+  the/DT
+  (NP (NBAR investigation/NN))
+  ,/,
+  a/DT
+  fairly/RB
+  (NP (NBAR incredible/JJ assertion/NN))
+  ./.
+  What/WP
+  (NP (NBAR Jay/NNP Carney/NNP))
+  attempted/VBD
+  to/TO
+  do/VB
+  (NP (NBAR today/NN))
+  was/VBD
+  to/TO
+  convince/VB
+  the/DT
+  (NP (NBAR world/NN))
+  that/IN
+  there/EX
+  was/VBD
+  (NP (NBAR initial/JJ confusion/NN))
+  about/IN
+  who/WP
+  attacked/VBD
+  the/DT
+  (NP (NBAR American/JJ Ambassador/NNP))
+  and/CC
+  killed/VBD
+  him/PRP
+  and/CC
+  that/IN
+  the/DT
+  (NP (NBAR White/NNP House/NNP))
+  was/VBD
+  acting/VBG
+  responsibly/RB
+  in/IN
+  avoiding/VBG
+  placing/VBG
+  (NP (NBAR direct/JJ blame/NN))
   ./.)(S
   The/DT
   (NP (NBAR State/NNP))
@@ -371,4 +729,73 @@
   that/DT
   's/VBZ
   necessary/JJ
-  ./.)(S And/CC that/DT 's/VBZ ``/`` The/DT (NP (NBAR Memo/NNP)) ./. ''/'')(S )
+  ./.)(S
+  The/DT
+  (NP (NBAR fact/NN))
+  remains/VBZ
+  that/IN
+  (NP (NBAR Ambassador/NNP Rice/NNP))
+  did/VBD
+  (NP (NBAR place/NN blame/NN))
+  for/IN
+  the/DT
+  (NP (NBAR attack/NN))
+  on/IN
+  the/DT
+  (NP (NBAR anti-Islamic/JJ video/NN))
+  released/VBN
+  in/IN
+  the/DT
+  (NP (NBAR USA/NNP))
+  ,/,
+  that/WDT
+  was/VBD
+  her/PRP
+  (NP (NBAR primary/JJ focus/NN))
+  ./.
+  So/RB
+  summing/VBG
+  up/RP
+  ,/,
+  no/DT
+  (NP (NBAR admission/NN))
+  of/IN
+  (NP (NBAR wrongdoing/NN))
+  by/IN
+  the/DT
+  (NP (NBAR Obama/NNP administration/NN))
+  ,/,
+  (NP (NBAR charges/NNS))
+  that/IN
+  the/DT
+  (NP (NBAR Benghazi/NNP controversy/NN))
+  is/VBZ
+  politically/RB
+  motivated/JJ
+  and/CC
+  no/DT
+  (NP (NBAR release/NN))
+  of/IN
+  (NP (NBAR e-mails/NNS))
+  that/WDT
+  might/MD
+  clarify/VB
+  the/DT
+  (NP (NBAR situation/NN))
+  ;/:
+  the/DT
+  (NP (NBAR White/NNP House/NNP))
+  saying/VBG
+  some/DT
+  (NP (NBAR Congress/NNP people/NNS))
+  have/VBP
+  seen/VBN
+  them/PRP
+  and/CC
+  that/DT
+  's/VBZ
+  all/DT
+  that/DT
+  's/VBZ
+  necessary/JJ
+  ./.)(S And/CC that/DT 's/VBZ ``/`` The/DT (NP (NBAR Memo/NNP)) ./. ''/'')

@@ -1,4 +1,36 @@
-(S )(S )(S )(S
+(S
+  (NP (NBAR BILL/NNP O'REILLY/NNP))
+  :/:
+  ``/``
+  (NP (NBAR Factor/NN Followup/NNP))
+  ''/''
+  (NP (NBAR segment/NN tonight/NN))
+  ./.
+  (NP (NBAR Last/JJ week/NN))
+  ,/,
+  we/PRP
+  criticized/VBD
+  (NP (NBAR Speaker/NNP))
+  of/IN
+  the/DT
+  (NP (NBAR House/NNP))
+  ,/,
+  (NP (NBAR Mark/NNP Ferrandino/NNP))
+  ,/,
+  for/IN
+  not/RB
+  allowing/VBG
+  the/DT
+  (NP (NBAR legislature/NN))
+  out/IN
+  there/RB
+  to/TO
+  vote/VB
+  on/IN
+  (NP (NBAR Jessica/NNP))
+  's/POS
+  (NP (NBAR Law/NNP))
+  ./.)(S
   (NP (NBAR BILL/NNP O'REILLY/NNP))
   :/:
   ``/``
@@ -95,6 +127,67 @@
   the/DT
   (NP (NBAR cases/NNS))
   ./.)(S
+  (NP (NBAR MARK/NNP FERRANDINO/NNP))
+  ,/,
+  (NP (NBAR SPEAKER/NNP))
+  ,/,
+  (NP (NBAR COLORADO/NNP HOUSE/NNP OF/NNP REPRESENTATIVES/NNP))
+  ,/,
+  (/(
+  (NP (NBAR D/NNP))
+  )/)
+  :/:
+  Specifically/RB
+  ,/,
+  I/PRP
+  still/RB
+  do/VBP
+  not/RB
+  know/VB
+  the/DT
+  (NP (NBAR specifics/NNS))
+  of/IN
+  the/DT
+  (NP (NBAR cases/NNS))
+  you/PRP
+  're/VBP
+  talking/VBG
+  about/IN
+  ./.
+  I/PRP
+  'm/VBP
+  happy/JJ
+  to/TO
+  look/VB
+  at/IN
+  them/PRP
+  if/IN
+  you/PRP
+  can/MD
+  look/VB
+  at/IN
+  the/DT
+  (NP (NBAR cases/NNS))
+  ./.)(S
+  And/CC
+  if/IN
+  we/PRP
+  need/VBP
+  to/TO
+  toughen/VB
+  the/DT
+  (NP (NBAR laws/NNS))
+  in/IN
+  (NP (NBAR Colorado/NNP))
+  ,/,
+  we/PRP
+  should/MD
+  and/CC
+  we/PRP
+  will/MD
+  ./.
+  But/CC
+  --/:)(S
   And/CC
   if/IN
   we/PRP
@@ -234,6 +327,35 @@
   ''/''
   (NP (NBAR unquote/NN))
   ./.)(S
+  ``/``
+  O'Reilly/RB
+  fear-mongering/JJ
+  should/MD
+  offend/VB
+  all/DT
+  (NP (NBAR Coloradans/NNPS))
+  ./.
+  He/PRP
+  was/VBD
+  saying/VBG
+  'gay/PRP
+  ,/,
+  '/''
+  but/CC
+  what/WP
+  he/PRP
+  wanted/VBD
+  his/PRP$
+  (NP (NBAR listeners/NNS))
+  to/TO
+  hear/VB
+  was/VBD
+  'pervert-pedophile/JJ
+  '/''
+  ,/,
+  ''/''
+  (NP (NBAR unquote/NN))
+  ./.)(S
   Joining/VBG
   us/PRP
   now/RB
@@ -257,6 +379,99 @@
   (NP (NBAR Editorial/NN Page/NNP))
   ,/,
   (NP (NBAR Curtis/NNP Hubbard/NNP))
+  ./.)(S
+  So/RB
+  ,/,
+  you/PRP
+  've/VBP
+  got/VBN
+  a/DT
+  (NP (NBAR nerve/NN))
+  calling/VBG
+  me/PRP
+  a/DT
+  (NP (NBAR homophobe/NN))
+  ./.
+  (NP (NBAR Number/NNP))
+  one/CD
+  ,/,
+  you/PRP
+  ca/MD
+  n't/RB
+  back/VB
+  it/PRP
+  up/RP
+  ./.
+  Your/PRP$
+  (NP (NBAR editorial/NN))
+  is/VBZ
+  (NP (NBAR libelous/JJ speculation/NN))
+  ./.
+  Is/VBZ
+  it/PRP
+  not/RB
+  ./.)(S
+  So/RB
+  ,/,
+  you/PRP
+  've/VBP
+  got/VBN
+  a/DT
+  (NP (NBAR nerve/NN))
+  calling/VBG
+  me/PRP
+  a/DT
+  (NP (NBAR homophobe/NN))
+  ./.
+  (NP (NBAR Number/NNP))
+  one/CD
+  ,/,
+  you/PRP
+  ca/MD
+  n't/RB
+  back/VB
+  it/PRP
+  up/RP
+  ./.
+  Your/PRP$
+  (NP (NBAR editorial/NN))
+  is/VBZ
+  (NP (NBAR libelous/JJ speculation/NN))
+  ./.
+  Is/VBZ
+  it/PRP
+  not/RB
+  ./.)(S
+  So/RB
+  ,/,
+  you/PRP
+  've/VBP
+  got/VBN
+  a/DT
+  (NP (NBAR nerve/NN))
+  calling/VBG
+  me/PRP
+  a/DT
+  (NP (NBAR homophobe/NN))
+  ./.
+  (NP (NBAR Number/NNP))
+  one/CD
+  ,/,
+  you/PRP
+  ca/MD
+  n't/RB
+  back/VB
+  it/PRP
+  up/RP
+  ./.
+  Your/PRP$
+  (NP (NBAR editorial/NN))
+  is/VBZ
+  (NP (NBAR libelous/JJ speculation/NN))
+  ./.
+  Is/VBZ
+  it/PRP
+  not/RB
   ./.)(S
   So/RB
   ,/,
@@ -340,6 +555,123 @@
   of/IN
   the/DT
   (NP (NBAR editorial/NN board/NN))
+  ./.)(S
+  (NP (NBAR CURTIS/NNP HUBBARD/NNP))
+  ,/,
+  (NP (NBAR EDITOR/NNP))
+  ,/,
+  (NP (NBAR THE/NNP DENVER/NNP POST/NNP EDITORIAL/NNP PAGE/NNP))
+  :/:
+  Let/VB
+  me/PRP
+  correct/VB
+  you/PRP
+  on/IN
+  a/DT
+  (NP (NBAR couple/NN))
+  of/IN
+  (NP (NBAR things/NNS))
+  just/RB
+  to/TO
+  start/VB
+  ./.
+  (NP (NBAR Number/NNP))
+  one/CD
+  ,/,
+  it/PRP
+  's/VBZ
+  not/RB
+  an/DT
+  (NP (NBAR editorial/NN))
+  ./.
+  It/PRP
+  's/VBZ
+  my/PRP$
+  (NP (NBAR column/NN))
+  that/IN
+  appears/VBZ
+  each/DT
+  (NP (NBAR week/NN))
+  ,/,
+  (NP (NBAR Sundays/NNP))
+  ,/,
+  so/IN
+  it/PRP
+  's/VBZ
+  my/PRP$
+  (NP (NBAR opinion/NN))
+  ,/,
+  not/RB
+  the/DT
+  (NP (NBAR opinion/NN))
+  of/IN
+  the/DT
+  (NP (NBAR editorial/NN board/NN))
+  ./.)(S
+  (NP (NBAR CURTIS/NNP HUBBARD/NNP))
+  ,/,
+  (NP (NBAR EDITOR/NNP))
+  ,/,
+  (NP (NBAR THE/NNP DENVER/NNP POST/NNP EDITORIAL/NNP PAGE/NNP))
+  :/:
+  Let/VB
+  me/PRP
+  correct/VB
+  you/PRP
+  on/IN
+  a/DT
+  (NP (NBAR couple/NN))
+  of/IN
+  (NP (NBAR things/NNS))
+  just/RB
+  to/TO
+  start/VB
+  ./.
+  (NP (NBAR Number/NNP))
+  one/CD
+  ,/,
+  it/PRP
+  's/VBZ
+  not/RB
+  an/DT
+  (NP (NBAR editorial/NN))
+  ./.
+  It/PRP
+  's/VBZ
+  my/PRP$
+  (NP (NBAR column/NN))
+  that/IN
+  appears/VBZ
+  each/DT
+  (NP (NBAR week/NN))
+  ,/,
+  (NP (NBAR Sundays/NNP))
+  ,/,
+  so/IN
+  it/PRP
+  's/VBZ
+  my/PRP$
+  (NP (NBAR opinion/NN))
+  ,/,
+  not/RB
+  the/DT
+  (NP (NBAR opinion/NN))
+  of/IN
+  the/DT
+  (NP (NBAR editorial/NN board/NN))
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  All/DT
+  (NP (NBAR right/NN))
+  ./.
+  But/CC
+  you/PRP
+  're/VBP
+  the/DT
+  (NP (NBAR editorial/JJ page/NN editor/NN))
+  ,/,
+  (NP (NBAR correct/NN))
   ./.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
@@ -428,6 +760,62 @@
   that/DT
   (NP (NBAR description/NN))
   ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  (NP (NBAR OK./NNP))
+  And/CC
+  why/WRB
+  did/VBD
+  I/PRP
+  bring/VB
+  up/RP
+  that/IN
+  he/PRP
+  was/VBD
+  openly/RB
+  gay/JJ
+  ./.
+  What/WP
+  was/VBD
+  the/DT
+  (NP (NBAR context/NN))
+  of/IN
+  that/DT
+  (NP (NBAR description/NN))
+  ./.)(S
+  (NP (NBAR HUBBARD/NN))
+  :/:
+  You/PRP
+  were/VBD
+  trying/VBG
+  to/TO
+  figure/VB
+  why/WRB
+  he/PRP
+  opposed/VBD
+  (NP (NBAR Jessica/NNP))
+  's/POS
+  (NP (NBAR Law/NNP))
+  ./.
+  And/CC
+  my/PRP$
+  (NP (NBAR question/NN))
+  back/RB
+  to/TO
+  you/PRP
+  is/VBZ
+  ,/,
+  what/WP
+  does/VBZ
+  his/PRP$
+  (NP (NBAR sexuality/NN))
+  have/VBP
+  to/TO
+  do/VB
+  with/IN
+  his/PRP$
+  (NP (NBAR opposition/NN))
+  ./.)(S
   (NP (NBAR HUBBARD/NN))
   :/:
   You/PRP
@@ -484,6 +872,54 @@
   it/PRP
   on/IN
   (NP (NBAR television/NN))
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  (NP (NBAR Did/NNP))
+  you/PRP
+  see/VBP
+  the/DT
+  (NP (NBAR report/NN))
+  ./.
+  (NP (NBAR Did/NNP))
+  you/PRP
+  see/VBP
+  the/DT
+  (NP (NBAR report/NN))
+  that/IN
+  we/PRP
+  did/VBD
+  ./.
+  Did/VB
+  you/PRP
+  see/VB
+  it/PRP
+  on/IN
+  (NP (NBAR television/NN))
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  (NP (NBAR Did/NNP))
+  you/PRP
+  see/VBP
+  the/DT
+  (NP (NBAR report/NN))
+  ./.
+  (NP (NBAR Did/NNP))
+  you/PRP
+  see/VBP
+  the/DT
+  (NP (NBAR report/NN))
+  that/IN
+  we/PRP
+  did/VBD
+  ./.
+  Did/VB
+  you/PRP
+  see/VB
+  it/PRP
+  on/IN
+  (NP (NBAR television/NN))
   ./.)(S (NP (NBAR HUBBARD/NN)) :/: I/PRP did/VBD ./.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
@@ -492,6 +928,18 @@
   the/DT
   (NP (NBAR transcript/NN))
   ./.)(S (NP (NBAR HUBBARD/NN)) :/: I/PRP did/VBD ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  (NP (NBAR Did/NNP))
+  you/PRP
+  see/VBP
+  the/DT
+  (NP (NBAR report/NN))
+  ./.
+  OK/UH
+  ,/,
+  good/JJ
+  ./.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   (NP (NBAR Did/NNP))
@@ -515,6 +963,30 @@
   to/TO
   make/VB
   --/:)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  All/DT
+  (NP (NBAR right/NN))
+  ,/,
+  so/RB
+  here/RB
+  --/:
+  I/PRP
+  'm/VBP
+  going/VBG
+  to/TO
+  answer/VB
+  your/PRP$
+  (NP (NBAR question/NN))
+  ./.
+  I/PRP
+  'm/VBP
+  going/VBG
+  to/TO
+  answer/VB
+  your/PRP$
+  (NP (NBAR question/NN))
+  ./.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   All/DT
@@ -571,6 +1043,80 @@
   his/PRP$
   (NP (NBAR priorities/NNS))
   are/VBP
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  I/PRP
+  described/VBD
+  (NP (NBAR Ferrandino/NNP))
+  to/TO
+  the/DT
+  (NP (NBAR audience/NN))
+  because/IN
+  the/DT
+  (NP (NBAR audience/NN))
+  does/VBZ
+  n't/RB
+  know/VB
+  who/WP
+  the/DT
+  (NP (NBAR heck/NN))
+  he/PRP
+  is/VBZ
+  ./.
+  And/CC
+  I/PRP
+  did/VBD
+  it/PRP
+  in/IN
+  the/DT
+  (NP (NBAR context/NN))
+  of/IN
+  what/WP
+  his/PRP$
+  (NP (NBAR priorities/NNS))
+  are/VBP
+  ./.)(S
+  His/PRP$
+  (NP (NBAR priorities/NNS))
+  are/VBP
+  (NP (NBAR civil/JJ unions/NNS))
+  ,/,
+  all/DT
+  (NP (NBAR right/NN))
+  ,/,
+  which/WDT
+  you/PRP
+  (NP (NBAR guys/NNS))
+  are/VBP
+  going/VBG
+  to/TO
+  have/VB
+  pretty/RB
+  soon/RB
+  out/IN
+  there/RB
+  ,/,
+  and/CC
+  legalizing/VBG
+  (NP (NBAR marijuana/NN))
+  ,/,
+  which/WDT
+  you/PRP
+  already/RB
+  have/VBP
+  out/RP
+  there/RB
+  ./.
+  And/CC
+  he/PRP
+  's/VBZ
+  a/DT
+  (NP (NBAR gay/JJ marriage/NN proponent/NN))
+  ,/,
+  as/IN
+  you/PRP
+  know/VBP
   ./.)(S
   His/PRP$
   (NP (NBAR priorities/NNS))
@@ -672,6 +1218,49 @@
   the/DT
   (NP (NBAR tape/NN))
   ./.)(S
+  (NP (NBAR HUBBARD/NN))
+  :/:
+  But/CC
+  ,/,
+  (NP (NBAR Bill/NNP))
+  ,/,
+  you/PRP
+  did/VBD
+  n't/RB
+  introduce/VB
+  them/PRP
+  as/IN
+  his/PRP$
+  (NP (NBAR priorities/NNS))
+  ./.
+  And/CC
+  you/PRP
+  can/MD
+  go/VB
+  back/RB
+  and/CC
+  (NP (NBAR look/NN))
+  at/IN
+  the/DT
+  (NP (NBAR tape/NN))
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  I/PRP
+  did/VBD
+  absolutely/RB
+  ./.
+  I/PRP
+  said/VBD
+  ,/,
+  this/DT
+  is/VBZ
+  what/WP
+  the/DT
+  (NP (NBAR guy/NN))
+  is/VBZ
+  promoting/VBG
+  ./.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   I/PRP
@@ -753,6 +1342,50 @@
   I/PRP
   described/VBD
   --/:)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  Oh/UH
+  ,/,
+  no/DT
+  ,/,
+  I/PRP
+  did/VBD
+  n't/RB
+  ./.
+  I/PRP
+  did/VBD
+  n't/RB
+  say/VB
+  (NP (NBAR anything/NN))
+  at/IN
+  the/DT
+  (NP (NBAR time/NN))
+  ./.
+  I/PRP
+  described/VBD
+  --/:)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  Oh/UH
+  ,/,
+  no/DT
+  ,/,
+  I/PRP
+  did/VBD
+  n't/RB
+  ./.
+  I/PRP
+  did/VBD
+  n't/RB
+  say/VB
+  (NP (NBAR anything/NN))
+  at/IN
+  the/DT
+  (NP (NBAR time/NN))
+  ./.
+  I/PRP
+  described/VBD
+  --/:)(S
   (NP (NBAR HUBBARD/NN))
   :/:
   My/PRP$
@@ -764,6 +1397,94 @@
   are/VBP
   not/RB
   related/VBN
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  --/:
+  I/PRP
+  described/VBD
+  who/WP
+  he/PRP
+  was/VBD
+  ,/,
+  who/WP
+  he/PRP
+  says/VBZ
+  he/PRP
+  is/VBZ
+  ,/,
+  all/DT
+  (NP (NBAR right/NN))
+  ./.
+  And/CC
+  that/DT
+  's/VBZ
+  it/PRP
+  ./.
+  I/PRP
+  made/VBD
+  no/DT
+  (NP (NBAR correlation/NN))
+  between/IN
+  him/PRP
+  being/VBG
+  ,/,
+  (NP (NBAR quote/NN))
+  ,/,
+  (NP (NBAR unquote/NN))
+  ,/,
+  ``/``
+  openly/RB
+  gay/JJ
+  ''/''
+  and/CC
+  (NP (NBAR Jessica/NNP))
+  's/POS
+  (NP (NBAR Law/NNP))
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  --/:
+  I/PRP
+  described/VBD
+  who/WP
+  he/PRP
+  was/VBD
+  ,/,
+  who/WP
+  he/PRP
+  says/VBZ
+  he/PRP
+  is/VBZ
+  ,/,
+  all/DT
+  (NP (NBAR right/NN))
+  ./.
+  And/CC
+  that/DT
+  's/VBZ
+  it/PRP
+  ./.
+  I/PRP
+  made/VBD
+  no/DT
+  (NP (NBAR correlation/NN))
+  between/IN
+  him/PRP
+  being/VBG
+  ,/,
+  (NP (NBAR quote/NN))
+  ,/,
+  (NP (NBAR unquote/NN))
+  ,/,
+  ``/``
+  openly/RB
+  gay/JJ
+  ''/''
+  and/CC
+  (NP (NBAR Jessica/NNP))
+  's/POS
+  (NP (NBAR Law/NNP))
   ./.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
@@ -873,6 +1594,96 @@
   are/VBP
   ridiculous/JJ
   ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  (NP (NBAR Listen/NNP))
+  ,/,
+  he/PRP
+  's/VBZ
+  protecting/VBG
+  the/DT
+  (NP (NBAR trial/NN lawyers/NNS))
+  ./.
+  That/DT
+  's/VBZ
+  who/WP
+  he/PRP
+  's/VBZ
+  protecting/VBG
+  ./.
+  So/RB
+  ,/,
+  you/PRP
+  are/VBP
+  ridiculous/JJ
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  (NP (NBAR Listen/NNP))
+  ,/,
+  he/PRP
+  's/VBZ
+  protecting/VBG
+  the/DT
+  (NP (NBAR trial/NN lawyers/NNS))
+  ./.
+  That/DT
+  's/VBZ
+  who/WP
+  he/PRP
+  's/VBZ
+  protecting/VBG
+  ./.
+  So/RB
+  ,/,
+  you/PRP
+  are/VBP
+  ridiculous/JJ
+  ./.)(S
+  You/PRP
+  're/VBP
+  a/DT
+  (NP (NBAR ridiculous/JJ person/NN))
+  ,/,
+  and/CC
+  a/DT
+  (NP (NBAR journalist/NN))
+  ?/.
+  This/DT
+  is/VBZ
+  disgraceful/JJ
+  ./.
+  To/TO
+  say/VB
+  that/IN
+  I/PRP
+  described/VBD
+  him/PRP
+  as/IN
+  a/DT
+  --/:)(S
+  You/PRP
+  're/VBP
+  a/DT
+  (NP (NBAR ridiculous/JJ person/NN))
+  ,/,
+  and/CC
+  a/DT
+  (NP (NBAR journalist/NN))
+  ?/.
+  This/DT
+  is/VBZ
+  disgraceful/JJ
+  ./.
+  To/TO
+  say/VB
+  that/IN
+  I/PRP
+  described/VBD
+  him/PRP
+  as/IN
+  a/DT
+  --/:)(S
   You/PRP
   're/VBP
   a/DT
@@ -910,6 +1721,44 @@
   (NP (NBAR Bill/NNP))
   ,/,
   --/:)(S (NP (NBAR O'REILLY/NN)) :/: You/PRP are/VBP ./.)(S
+  (NP (NBAR HUBBARD/NN))
+  :/:
+  --/:
+  because/IN
+  no/DT
+  (NP (NBAR one/NN))
+  here/RB
+  ,/,
+  other/JJ
+  than/IN
+  (NP (NBAR Representative/JJ Sablan/NNP))
+  (/(
+  (NP (NBAR ph/NN))
+  )/)
+  ,/,
+  no/DT
+  (NP (NBAR one/NN))
+  in/IN
+  (NP (NBAR law/NN enforcement/NN))
+  ,/,
+  no/DT
+  (NP (NBAR one/NN))
+  in/IN
+  the/DT
+  (NP (NBAR justice/NN system/NN))
+  in/IN
+  (NP (NBAR Colorado/NNP))
+  were/VBD
+  supporting/VBG
+  this/DT
+  (NP (NBAR bill/NN))
+  ./.
+  And/CC
+  the/DT
+  (NP (NBAR fact/NN))
+  still/RB
+  remains/VBZ
+  --/:)(S
   (NP (NBAR HUBBARD/NN))
   :/:
   --/:
@@ -1002,6 +1851,54 @@
   help/VB
   you/PRP
   ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  OK/JJ
+  ./.
+  I/PRP
+  already/RB
+  explained/VBD
+  that/IN
+  to/TO
+  you/PRP
+  ./.
+  If/IN
+  you/PRP
+  ca/MD
+  n't/RB
+  grasp/VB
+  it/PRP
+  ,/,
+  I/PRP
+  ca/MD
+  n't/RB
+  help/VB
+  you/PRP
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  OK/JJ
+  ./.
+  I/PRP
+  already/RB
+  explained/VBD
+  that/IN
+  to/TO
+  you/PRP
+  ./.
+  If/IN
+  you/PRP
+  ca/MD
+  n't/RB
+  grasp/VB
+  it/PRP
+  ,/,
+  I/PRP
+  ca/MD
+  n't/RB
+  help/VB
+  you/PRP
+  ./.)(S
   You/PRP
   saying/VBG
   that/IN
@@ -1035,6 +1932,167 @@
   any/DT
   (NP (NBAR column/NN))
   ./.)(S
+  You/PRP
+  saying/VBG
+  that/IN
+  I/PRP
+  described/VBD
+  him/PRP
+  as/IN
+  openly/RB
+  (NP (NBAR gay/NN))
+  ,/,
+  which/WDT
+  is/VBZ
+  true/JJ
+  ,/,
+  equates/VBZ
+  to/TO
+  me/PRP
+  calling/VBG
+  him/PRP
+  a/DT
+  (NP (NBAR pervert-pedophile/NN))
+  is/VBZ
+  a/DT
+  (NP (NBAR disgrace/NN))
+  ./.
+  It/PRP
+  's/VBZ
+  a/DT
+  (NP (NBAR disgrace/NN))
+  in/IN
+  any/DT
+  (NP (NBAR column/NN))
+  ./.)(S
+  It/PRP
+  's/VBZ
+  a/DT
+  (NP (NBAR smear/NN))
+  ./.
+  You/PRP
+  're/VBP
+  a/DT
+  (NP (NBAR smear/JJ merchant/NN))
+  ./.
+  That/DT
+  's/VBZ
+  what/WP
+  you/PRP
+  do/VBP
+  ./.
+  You/PRP
+  ca/MD
+  n't/RB
+  back/VB
+  it/PRP
+  up/RP
+  ./.
+  Now/RB
+  ,/,
+  do/VBP
+  you/PRP
+  support/VB
+  (NP (NBAR Jessica/NNP))
+  's/POS
+  (NP (NBAR Law/NNP))
+  --/:)(S
+  It/PRP
+  's/VBZ
+  a/DT
+  (NP (NBAR smear/NN))
+  ./.
+  You/PRP
+  're/VBP
+  a/DT
+  (NP (NBAR smear/JJ merchant/NN))
+  ./.
+  That/DT
+  's/VBZ
+  what/WP
+  you/PRP
+  do/VBP
+  ./.
+  You/PRP
+  ca/MD
+  n't/RB
+  back/VB
+  it/PRP
+  up/RP
+  ./.
+  Now/RB
+  ,/,
+  do/VBP
+  you/PRP
+  support/VB
+  (NP (NBAR Jessica/NNP))
+  's/POS
+  (NP (NBAR Law/NNP))
+  --/:)(S
+  It/PRP
+  's/VBZ
+  a/DT
+  (NP (NBAR smear/NN))
+  ./.
+  You/PRP
+  're/VBP
+  a/DT
+  (NP (NBAR smear/JJ merchant/NN))
+  ./.
+  That/DT
+  's/VBZ
+  what/WP
+  you/PRP
+  do/VBP
+  ./.
+  You/PRP
+  ca/MD
+  n't/RB
+  back/VB
+  it/PRP
+  up/RP
+  ./.
+  Now/RB
+  ,/,
+  do/VBP
+  you/PRP
+  support/VB
+  (NP (NBAR Jessica/NNP))
+  's/POS
+  (NP (NBAR Law/NNP))
+  --/:)(S
+  It/PRP
+  's/VBZ
+  a/DT
+  (NP (NBAR smear/NN))
+  ./.
+  You/PRP
+  're/VBP
+  a/DT
+  (NP (NBAR smear/JJ merchant/NN))
+  ./.
+  That/DT
+  's/VBZ
+  what/WP
+  you/PRP
+  do/VBP
+  ./.
+  You/PRP
+  ca/MD
+  n't/RB
+  back/VB
+  it/PRP
+  up/RP
+  ./.
+  Now/RB
+  ,/,
+  do/VBP
+  you/PRP
+  support/VB
+  (NP (NBAR Jessica/NNP))
+  's/POS
+  (NP (NBAR Law/NNP))
+  --/:)(S
   It/PRP
   's/VBZ
   a/DT
@@ -1108,6 +2166,68 @@
   ,/,
   (NP (NBAR little/JJ column/NN))
   ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  No/UH
+  ,/,
+  you/PRP
+  ca/MD
+  n't/RB
+  ./.
+  You/PRP
+  ca/MD
+  n't/RB
+  back/VB
+  it/PRP
+  up/RP
+  at/IN
+  all/DT
+  ./.
+  If/IN
+  you/PRP
+  could/MD
+  ,/,
+  you/PRP
+  would/MD
+  have/VB
+  put/VBN
+  in/IN
+  your/PRP$
+  (NP (NBAR vile/NN))
+  ,/,
+  (NP (NBAR little/JJ column/NN))
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  No/UH
+  ,/,
+  you/PRP
+  ca/MD
+  n't/RB
+  ./.
+  You/PRP
+  ca/MD
+  n't/RB
+  back/VB
+  it/PRP
+  up/RP
+  at/IN
+  all/DT
+  ./.
+  If/IN
+  you/PRP
+  could/MD
+  ,/,
+  you/PRP
+  would/MD
+  have/VB
+  put/VBN
+  in/IN
+  your/PRP$
+  (NP (NBAR vile/NN))
+  ,/,
+  (NP (NBAR little/JJ column/NN))
+  ./.)(S
   All/DT
   you/PRP
   did/VBD
@@ -1135,6 +2255,165 @@
   're/VBP
   a/DT
   (NP (NBAR smear/JJ merchant/NN))
+  ./.)(S
+  All/DT
+  you/PRP
+  did/VBD
+  was/VBD
+  make/VB
+  this/DT
+  (NP (NBAR giant/JJ leap/NN))
+  ./.
+  That/DT
+  's/VBZ
+  your/PRP$
+  (NP (NBAR opinion/NN))
+  ,/,
+  fine/JJ
+  ./.
+  And/CC
+  your/PRP$
+  (NP (NBAR opinion/NN))
+  is/VBZ
+  your/PRP$
+  (NP (NBAR opinion/NN))
+  ./.
+  But/CC
+  you/PRP
+  're/VBP
+  a/DT
+  (NP (NBAR smear/JJ merchant/NN))
+  ./.)(S
+  All/DT
+  you/PRP
+  did/VBD
+  was/VBD
+  make/VB
+  this/DT
+  (NP (NBAR giant/JJ leap/NN))
+  ./.
+  That/DT
+  's/VBZ
+  your/PRP$
+  (NP (NBAR opinion/NN))
+  ,/,
+  fine/JJ
+  ./.
+  And/CC
+  your/PRP$
+  (NP (NBAR opinion/NN))
+  is/VBZ
+  your/PRP$
+  (NP (NBAR opinion/NN))
+  ./.
+  But/CC
+  you/PRP
+  're/VBP
+  a/DT
+  (NP (NBAR smear/JJ merchant/NN))
+  ./.)(S
+  All/DT
+  you/PRP
+  did/VBD
+  was/VBD
+  make/VB
+  this/DT
+  (NP (NBAR giant/JJ leap/NN))
+  ./.
+  That/DT
+  's/VBZ
+  your/PRP$
+  (NP (NBAR opinion/NN))
+  ,/,
+  fine/JJ
+  ./.
+  And/CC
+  your/PRP$
+  (NP (NBAR opinion/NN))
+  is/VBZ
+  your/PRP$
+  (NP (NBAR opinion/NN))
+  ./.
+  But/CC
+  you/PRP
+  're/VBP
+  a/DT
+  (NP (NBAR smear/JJ merchant/NN))
+  ./.)(S
+  That/DT
+  's/VBZ
+  a/DT
+  (NP (NBAR smear/NN))
+  ./.
+  That/DT
+  's/VBZ
+  what/WP
+  you/PRP
+  do/VBP
+  ./.
+  Now/RB
+  ,/,
+  do/VBP
+  you/PRP
+  oppose/VBP
+  (NP (NBAR Jessica/NNP))
+  's/POS
+  (NP (NBAR Law/NNP))
+  ./.
+  Do/VBP
+  you/PRP
+  oppose/VB
+  it/PRP
+  ./.)(S
+  That/DT
+  's/VBZ
+  a/DT
+  (NP (NBAR smear/NN))
+  ./.
+  That/DT
+  's/VBZ
+  what/WP
+  you/PRP
+  do/VBP
+  ./.
+  Now/RB
+  ,/,
+  do/VBP
+  you/PRP
+  oppose/VBP
+  (NP (NBAR Jessica/NNP))
+  's/POS
+  (NP (NBAR Law/NNP))
+  ./.
+  Do/VBP
+  you/PRP
+  oppose/VB
+  it/PRP
+  ./.)(S
+  That/DT
+  's/VBZ
+  a/DT
+  (NP (NBAR smear/NN))
+  ./.
+  That/DT
+  's/VBZ
+  what/WP
+  you/PRP
+  do/VBP
+  ./.
+  Now/RB
+  ,/,
+  do/VBP
+  you/PRP
+  oppose/VBP
+  (NP (NBAR Jessica/NNP))
+  's/POS
+  (NP (NBAR Law/NNP))
+  ./.
+  Do/VBP
+  you/PRP
+  oppose/VB
+  it/PRP
   ./.)(S
   That/DT
   's/VBZ
@@ -1218,6 +2497,92 @@
   ,/,
   ''/''
   --/:)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  No/UH
+  ,/,
+  no/DT
+  ,/,
+  no/DT
+  ./.
+  That/DT
+  's/VBZ
+  the/DT
+  (NP (NBAR question/NN))
+  because/IN
+  that/DT
+  's/VBZ
+  what/WP
+  we/PRP
+  are/VBP
+  doing/VBG
+  in/IN
+  (NP (NBAR Colorado/NNP))
+  ./.
+  (NP (NBAR Do/NNP))
+  you/PRP
+  ,/,
+  as/IN
+  the/DT
+  (NP (NBAR editorial/NN page/NN editor/NN))
+  of/IN
+  ``/``
+  The/DT
+  (NP (NBAR Denver/NNP Post/NNP))
+  ,/,
+  ''/''
+  --/:)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  No/UH
+  ,/,
+  no/DT
+  ,/,
+  no/DT
+  ./.
+  That/DT
+  's/VBZ
+  the/DT
+  (NP (NBAR question/NN))
+  because/IN
+  that/DT
+  's/VBZ
+  what/WP
+  we/PRP
+  are/VBP
+  doing/VBG
+  in/IN
+  (NP (NBAR Colorado/NNP))
+  ./.
+  (NP (NBAR Do/NNP))
+  you/PRP
+  ,/,
+  as/IN
+  the/DT
+  (NP (NBAR editorial/NN page/NN editor/NN))
+  of/IN
+  ``/``
+  The/DT
+  (NP (NBAR Denver/NNP Post/NNP))
+  ,/,
+  ''/''
+  --/:)(S
+  (NP (NBAR HUBBARD/NN))
+  :/:
+  No/UH
+  ,/,
+  but/CC
+  what/WP
+  is/VBZ
+  my/PRP$
+  (NP (NBAR column/NN))
+  about/IN
+  ./.
+  My/PRP$
+  (NP (NBAR column/NN))
+  was/VBD
+  about/RB
+  --/:)(S
   (NP (NBAR HUBBARD/NN))
   :/:
   No/UH
@@ -1293,6 +2658,57 @@
   know/VB
   about/IN
   it/PRP
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  You/PRP
+  do/VBP
+  n't/RB
+  know/VB
+  enough/RB
+  about/IN
+  it/PRP
+  ./.
+  So/RB
+  ,/,
+  you/PRP
+  write/VBP
+  a/DT
+  (NP (NBAR column/NN))
+  about/IN
+  our/PRP$
+  (NP (NBAR reporting/NN))
+  and/CC
+  you/PRP
+  do/VBP
+  n't/RB
+  know/VB
+  about/IN
+  it/PRP
+  ./.)(S
+  (NP (NBAR HUBBARD/NN))
+  :/:
+  I/PRP
+  did/VBD
+  n't/RB
+  write/VB
+  about/IN
+  (NP (NBAR Jessica/NNP))
+  's/POS
+  (NP (NBAR Law/NNP))
+  ,/,
+  (NP (NBAR Bill/NNP))
+  ./.
+  I/PRP
+  wrote/VBD
+  a/DT
+  (NP (NBAR column/NN))
+  about/IN
+  your/PRP$
+  (NP (NBAR comments/NNS))
+  on/IN
+  his/PRP$
+  (NP (NBAR sexuality/NN))
   ./.)(S
   (NP (NBAR HUBBARD/NN))
   :/:
@@ -1477,6 +2893,94 @@
   (NP (NBAR Law/NNP))
   ./.)(S
   You/PRP
+  ca/MD
+  n't/RB
+  win/VB
+  the/DT
+  (NP (NBAR argument/NN))
+  ./.
+  You/PRP
+  do/VBP
+  n't/RB
+  know/VB
+  what/WP
+  you/PRP
+  're/VBP
+  talking/VBG
+  about/IN
+  (NP (NBAR Jessica/NNP))
+  's/POS
+  (NP (NBAR Law/NNP))
+  ./.)(S
+  You/PRP
+  run/VBP
+  the/DT
+  (NP (NBAR editorial/NN page/NN))
+  in/IN
+  the/DT
+  most/RBS
+  (NP (NBAR powerful/JJ paper/NN))
+  in/IN
+  the/DT
+  (NP (NBAR state/NN))
+  ,/,
+  and/CC
+  you/PRP
+  do/VBP
+  n't/RB
+  know/VB
+  (NP (NBAR anything/NN))
+  ./.
+  And/CC
+  all/DT
+  you/PRP
+  can/MD
+  do/VB
+  is/VBZ
+  smear/VB
+  ./.
+  That/DT
+  's/VBZ
+  all/DT
+  you/PRP
+  can/MD
+  do/VB
+  ./.)(S
+  You/PRP
+  run/VBP
+  the/DT
+  (NP (NBAR editorial/NN page/NN))
+  in/IN
+  the/DT
+  most/RBS
+  (NP (NBAR powerful/JJ paper/NN))
+  in/IN
+  the/DT
+  (NP (NBAR state/NN))
+  ,/,
+  and/CC
+  you/PRP
+  do/VBP
+  n't/RB
+  know/VB
+  (NP (NBAR anything/NN))
+  ./.
+  And/CC
+  all/DT
+  you/PRP
+  can/MD
+  do/VB
+  is/VBZ
+  smear/VB
+  ./.
+  That/DT
+  's/VBZ
+  all/DT
+  you/PRP
+  can/MD
+  do/VB
+  ./.)(S
+  You/PRP
   run/VBP
   the/DT
   (NP (NBAR editorial/NN page/NN))
@@ -1530,6 +3034,49 @@
   (NP (NBAR Law/NNP))
   was/VBD
   --/:)(S
+  (NP (NBAR HUBBARD/NN))
+  :/:
+  That/DT
+  's/VBZ
+  not/RB
+  true/JJ
+  ,/,
+  (NP (NBAR Bill/NNP))
+  ./.
+  As/IN
+  I/PRP
+  pointed/VBD
+  out/RP
+  earlier/RBR
+  ,/,
+  (NP (NBAR Jessica/NNP))
+  's/POS
+  (NP (NBAR Law/NNP))
+  was/VBD
+  --/:)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  You/PRP
+  do/VBP
+  n't/RB
+  know/VB
+  (NP (NBAR anything/NN))
+  about/IN
+  (NP (NBAR Jessica/NNP))
+  's/POS
+  (NP (NBAR Law/NNP))
+  ./.
+  This/DT
+  has/VBZ
+  been/VBN
+  in/IN
+  (NP (NBAR play/NN))
+  for/IN
+  five/CD
+  (NP (NBAR years/NNS))
+  out/IN
+  there/RB
+  ./.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   You/PRP
@@ -1634,6 +3181,155 @@
   There/EX
   's/VBZ
   --/:)(S
+  (NP (NBAR HUBBARD/NN))
+  :/:
+  In/IN
+  (NP (NBAR fact/NN))
+  ,/,
+  it/PRP
+  's/VBZ
+  only/RB
+  brought/VBD
+  up/RP
+  when/WRB
+  the/DT
+  (NP (NBAR republicans/NNS))
+  are/VBP
+  in/IN
+  the/DT
+  (NP (NBAR minority/NN))
+  in/IN
+  (NP (NBAR Colorado/NNP))
+  ./.
+  Not/RB
+  when/WRB
+  they/PRP
+  had/VBD
+  the/DT
+  (NP (NBAR majority/NN))
+  ./.
+  It/PRP
+  's/VBZ
+  been/VBN
+  used/VBN
+  against/IN
+  (NP (NBAR democrats/NNS))
+  as/IN
+  a/DT
+  (NP (NBAR wedge/JJ issue/NN))
+  politically/RB
+  ./.
+  There/EX
+  's/VBZ
+  --/:)(S
+  (NP (NBAR HUBBARD/NN))
+  :/:
+  In/IN
+  (NP (NBAR fact/NN))
+  ,/,
+  it/PRP
+  's/VBZ
+  only/RB
+  brought/VBD
+  up/RP
+  when/WRB
+  the/DT
+  (NP (NBAR republicans/NNS))
+  are/VBP
+  in/IN
+  the/DT
+  (NP (NBAR minority/NN))
+  in/IN
+  (NP (NBAR Colorado/NNP))
+  ./.
+  Not/RB
+  when/WRB
+  they/PRP
+  had/VBD
+  the/DT
+  (NP (NBAR majority/NN))
+  ./.
+  It/PRP
+  's/VBZ
+  been/VBN
+  used/VBN
+  against/IN
+  (NP (NBAR democrats/NNS))
+  as/IN
+  a/DT
+  (NP (NBAR wedge/JJ issue/NN))
+  politically/RB
+  ./.
+  There/EX
+  's/VBZ
+  --/:)(S
+  (NP (NBAR HUBBARD/NN))
+  :/:
+  In/IN
+  (NP (NBAR fact/NN))
+  ,/,
+  it/PRP
+  's/VBZ
+  only/RB
+  brought/VBD
+  up/RP
+  when/WRB
+  the/DT
+  (NP (NBAR republicans/NNS))
+  are/VBP
+  in/IN
+  the/DT
+  (NP (NBAR minority/NN))
+  in/IN
+  (NP (NBAR Colorado/NNP))
+  ./.
+  Not/RB
+  when/WRB
+  they/PRP
+  had/VBD
+  the/DT
+  (NP (NBAR majority/NN))
+  ./.
+  It/PRP
+  's/VBZ
+  been/VBN
+  used/VBN
+  against/IN
+  (NP (NBAR democrats/NNS))
+  as/IN
+  a/DT
+  (NP (NBAR wedge/JJ issue/NN))
+  politically/RB
+  ./.
+  There/EX
+  's/VBZ
+  --/:)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  All/DT
+  (NP (NBAR right/NN))
+  ,/,
+  but/CC
+  you/PRP
+  do/VBP
+  n't/RB
+  know/VB
+  whether/IN
+  you/PRP
+  support/VBP
+  it/PRP
+  or/CC
+  not/RB
+  ./.
+  (NP (NBAR All/NNP))
+  you/PRP
+  know/VBP
+  is/VBZ
+  that/IN
+  no/DT
+  (NP (NBAR one/NN))
+  ,/,
+  --/:)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   All/DT
@@ -1706,6 +3402,41 @@
   about/IN
   it/PRP
   ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  --/:
+  and/CC
+  believe/VB
+  me/PRP
+  ,/,
+  I/PRP
+  'll/MD
+  get/VB
+  (NP (NBAR law/NN enforcement/NN))
+  from/IN
+  (NP (NBAR Colorado/NNP))
+  on/IN
+  here/RB
+  and/CC
+  I/PRP
+  'll/MD
+  make/VB
+  you/PRP
+  look/VB
+  foolish/JJ
+  on/IN
+  that/DT
+  (NP (NBAR statement/NN))
+  ./.
+  But/CC
+  you/PRP
+  do/VBP
+  n't/RB
+  even/RB
+  know/VB
+  about/IN
+  it/PRP
+  ./.)(S
   And/CC
   you/PRP
   are/VBP
@@ -1738,6 +3469,40 @@
   ,/,
   (NP (NBAR Bill/NNP))
   --/:)(S
+  (NP (NBAR HUBBARD/NN))
+  :/:
+  I/PRP
+  do/VBP
+  know/VB
+  about/IN
+  it/PRP
+  ./.
+  What/WP
+  I/PRP
+  do/VBP
+  n't/RB
+  know/VB
+  ,/,
+  (NP (NBAR Bill/NNP))
+  --/:)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  Well/RB
+  ,/,
+  do/VBP
+  you/PRP
+  support/VB
+  it/PRP
+  or/CC
+  not/RB
+  ./.
+  Do/VB
+  you/PRP
+  support/VB
+  it/PRP
+  or/CC
+  not/RB
+  ./.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   Well/RB
@@ -1822,6 +3587,32 @@
   (NP (NBAR Colorado/NNP))
   is/VBZ
   --/:)(S
+  (NP (NBAR HUBBARD/NN))
+  :/:
+  This/DT
+  (NP (NBAR year/NN))
+  's/POS
+  --/:
+  I/PRP
+  think/VBP
+  that/IN
+  we/PRP
+  have/VBP
+  seen/VBN
+  in/IN
+  our/PRP$
+  (NP (NBAR judicial/JJ system/NN))
+  that/WDT
+  mandatory/JJ
+  sentencing/VBG
+  oftentimes/PRP
+  has/VBZ
+  unintended/VBN
+  (NP (NBAR consequences/NNS))
+  ./.
+  (NP (NBAR Colorado/NNP))
+  is/VBZ
+  --/:)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   All/DT
@@ -1834,6 +3625,21 @@
   support/VB
   it/PRP
   ./.)(S
+  (NP (NBAR HUBBARD/NN))
+  :/:
+  (NP (NBAR Colorado/NNP))
+  has/VBZ
+  (NP (NBAR strong/JJ sex/NN offender/NN laws/NNS))
+  ./.
+  I/PRP
+  do/VBP
+  n't/RB
+  see/VB
+  any/DT
+  (NP (NBAR reason/NN))
+  to/TO
+  change/VB
+  --/:)(S
   (NP (NBAR HUBBARD/NN))
   :/:
   (NP (NBAR Colorado/NNP))
@@ -1915,6 +3721,16 @@
   for/IN
   (NP (NBAR rape/NN))
   ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  (NP (NBAR Lifetime/JJ probation/NN))
+  ,/,
+  (NP (NBAR ooh/NN))
+  ./.
+  (NP (NBAR Lifetime/NNP probation/NN))
+  for/IN
+  (NP (NBAR rape/NN))
+  ./.)(S
   (NP (NBAR HUBBARD/NN))
   :/:
   (NP (NBAR Lifetime/NNP probation/NN))
@@ -1982,6 +3798,70 @@
   to/TO
   (NP (NBAR prison/NN))
   ./.)(S
+  (NP (NBAR HUBBARD/NN))
+  :/:
+  That/DT
+  's/VBZ
+  in/IN
+  (NP (NBAR addition/NN))
+  to/TO
+  their/PRP$
+  (NP (NBAR prison/NN sentences/NNS))
+  ,/,
+  (NP (NBAR Bill/NNP))
+  ./.
+  And/CC
+  if/IN
+  they/PRP
+  violate/VBP
+  any/DT
+  of/IN
+  the/DT
+  (NP (NBAR terms/NNS))
+  of/IN
+  that/DT
+  (NP (NBAR probation/NN))
+  ,/,
+  they/PRP
+  go/VBP
+  to/TO
+  (NP (NBAR prison/NN))
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  Yes/UH
+  ,/,
+  the/DT
+  two/CD
+  or/CC
+  three/CD
+  (NP (NBAR years/NNS))
+  that/IN
+  they/PRP
+  got/VBD
+  --/:
+  the/DT
+  two/CD
+  or/CC
+  three/CD
+  (NP (NBAR years/NNS))
+  that/IN
+  they/PRP
+  got/VBD
+  ,/,
+  that/IN
+  's/POS
+  good/JJ
+  ./.
+  The/DT
+  (NP (NBAR soccer/NN coach/NN))
+  that/WDT
+  raped/VBD
+  the/DT
+  (NP (NBAR kid/NN))
+  and/CC
+  got/VBD
+  --/:)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   Yes/UH
@@ -2046,6 +3926,91 @@
   look/VB
   up/RP
   (NP (NBAR Delbert/NNP Wallace/NNP Stewart/NNP))
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  All/DT
+  (NP (NBAR right/NN))
+  ./.
+  I/PRP
+  'm/VBP
+  just/RB
+  going/VBG
+  to/TO
+  say/VB
+  it/PRP
+  ./.
+  You/PRP
+  need/VBP
+  to/TO
+  look/VB
+  up/RP
+  (NP (NBAR Delbert/NNP Wallace/NNP Stewart/NNP))
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  All/DT
+  (NP (NBAR right/NN))
+  ./.
+  I/PRP
+  'm/VBP
+  just/RB
+  going/VBG
+  to/TO
+  say/VB
+  it/PRP
+  ./.
+  You/PRP
+  need/VBP
+  to/TO
+  look/VB
+  up/RP
+  (NP (NBAR Delbert/NNP Wallace/NNP Stewart/NNP))
+  ./.)(S
+  You/PRP
+  need/VBP
+  to/TO
+  find/VB
+  out/RP
+  what/WP
+  that/IN
+  (NP (NBAR man/NN))
+  did/VBD
+  ,/,
+  what/WP
+  a/DT
+  (NP (NBAR Colorado/NNP judge/NN))
+  gave/VBD
+  him/PRP
+  ,/,
+  and/CC
+  then/RB
+  you/PRP
+  need/VBP
+  to/TO
+  come/VB
+  back/RB
+  on/IN
+  the/DT
+  (NP (NBAR show/NN))
+  and/CC
+  tell/VB
+  me/PRP
+  you/PRP
+  do/VBP
+  n't/RB
+  need/VB
+  (NP (NBAR Jessica/NNP))
+  's/POS
+  (NP (NBAR Law/NNP))
+  ./.
+  All/DT
+  right/RB
+  ,/,
+  (NP (NBAR Mr./NNP Hubbard/NNP))
+  ,/,
+  fair/JJ
+  enough/RB
   ./.)(S
   You/PRP
   need/VBP
@@ -2122,6 +4087,36 @@
   ,/,
   (NP (NBAR Bill/NNP))
   ./.)(S
+  (NP (NBAR HUBBARD/NN))
+  :/:
+  I/PRP
+  can/MD
+  tell/VB
+  you/PRP
+  ,/,
+  I/PRP
+  know/VBP
+  about/IN
+  that/DT
+  (NP (NBAR care/NN))
+  ./.
+  Sure/JJ
+  ,/,
+  I/PRP
+  'm/VBP
+  happy/JJ
+  to/TO
+  come/VB
+  back/RB
+  and/CC
+  discuss/VB
+  it/PRP
+  with/IN
+  you/PRP
+  anytime/VBP
+  ,/,
+  (NP (NBAR Bill/NNP))
+  ./.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   All/DT
@@ -2129,4 +4124,4 @@
   ,/,
   very/RB
   good/JJ
-  ./.)(S )(S )(S )(S )(S )(S )(S )
+  ./.)

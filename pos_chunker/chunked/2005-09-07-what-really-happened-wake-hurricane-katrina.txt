@@ -22,7 +22,31 @@
   ``/``
   (NP (NBAR Talking/NNP Points/NNS Memo/NNP))
   ''/''
-  ./.)(S )(S
+  ./.)(S
+  What/WP
+  really/RB
+  happened/VBD
+  in/IN
+  the/DT
+  (NP (NBAR wake/NN))
+  of/IN
+  (NP (NBAR Hurricane/NNP Katrina/NNP))
+  (/(
+  (NP (NBAR search/NN))
+  )/)
+  ?/.
+  That/DT
+  is/VBZ
+  the/DT
+  (NP (NBAR subject/NN))
+  of/IN
+  this/DT
+  (NP (NBAR evening/NN))
+  's/POS
+  ``/``
+  (NP (NBAR Talking/NNP Points/NNS Memo/NNP))
+  ''/''
+  ./.)(S
   With/IN
   so/RB
   (NP (NBAR much/JJ misinformation/NN))
@@ -58,7 +82,43 @@
   we/PRP
   found/VBD
   out/RP
-  ./.)(S )(S
+  ./.)(S
+  With/IN
+  so/RB
+  (NP (NBAR much/JJ misinformation/NN))
+  and/CC
+  (NP (NBAR spin/NN))
+  about/IN
+  (NP (NBAR Katrina/NNP))
+  ,/,
+  we/PRP
+  decided/VBD
+  to/TO
+  do/VB
+  a/DT
+  (NP (NBAR methodical/JJ investigation/NN))
+  into/IN
+  exactly/RB
+  what/WP
+  happened/VBD
+  after/IN
+  the/DT
+  (NP (NBAR hurricane/NN))
+  ripped/VBD
+  through/IN
+  (NP (NBAR New/NNP Orleans/NNP))
+  (/(
+  (NP (NBAR search/NN))
+  )/)
+  ./.
+  And/CC
+  here/RB
+  's/VBZ
+  what/WP
+  we/PRP
+  found/VBD
+  out/RP
+  ./.)(S
   We/PRP
   begin/VBP
   with/IN
@@ -116,7 +176,123 @@
   in/IN
   evacuating/VBG
   ./.
-  ''/'')(S )(S
+  ''/'')(S
+  We/PRP
+  begin/VBP
+  with/IN
+  the/DT
+  (NP (NBAR Louisiana/NNP Hurricane/NNP Evacuation/NNP Plan/NNP))
+  (/(
+  (NP (NBAR search/NN))
+  )/)
+  ,/,
+  which/WDT
+  is/VBZ
+  what/WP
+  the/DT
+  (NP (NBAR mayor/NN))
+  and/CC
+  the/DT
+  (NP (NBAR governor/NN))
+  were/VBD
+  supposed/VBN
+  to/TO
+  follow/VB
+  ./.
+  One/CD
+  (NP (NBAR key/JJ provision/NN))
+  in/IN
+  that/DT
+  (NP (NBAR plan/NN))
+  states/VBZ
+  ,/,
+  ``/``
+  The/DT
+  (NP (NBAR primary/JJ means/NNS))
+  of/IN
+  (NP (NBAR hurricane/NN evacuation/NN))
+  will/MD
+  be/VB
+  (NP (NBAR personal/JJ vehicles/NNS))
+  ./.
+  (NP (NBAR School/NNP))
+  and/CC
+  (NP (NBAR municipal/JJ buses/NNS))
+  ,/,
+  (NP (NBAR government-owned/JJ vehicles/NNS))
+  may/MD
+  be/VB
+  used/VBN
+  to/TO
+  provide/VB
+  (NP (NBAR transportation/NN))
+  for/IN
+  (NP (NBAR individuals/NNS))
+  who/WP
+  require/VBP
+  (NP (NBAR assistance/NN))
+  in/IN
+  evacuating/VBG
+  ./.
+  ''/'')(S
+  We/PRP
+  begin/VBP
+  with/IN
+  the/DT
+  (NP (NBAR Louisiana/NNP Hurricane/NNP Evacuation/NNP Plan/NNP))
+  (/(
+  (NP (NBAR search/NN))
+  )/)
+  ,/,
+  which/WDT
+  is/VBZ
+  what/WP
+  the/DT
+  (NP (NBAR mayor/NN))
+  and/CC
+  the/DT
+  (NP (NBAR governor/NN))
+  were/VBD
+  supposed/VBN
+  to/TO
+  follow/VB
+  ./.
+  One/CD
+  (NP (NBAR key/JJ provision/NN))
+  in/IN
+  that/DT
+  (NP (NBAR plan/NN))
+  states/VBZ
+  ,/,
+  ``/``
+  The/DT
+  (NP (NBAR primary/JJ means/NNS))
+  of/IN
+  (NP (NBAR hurricane/NN evacuation/NN))
+  will/MD
+  be/VB
+  (NP (NBAR personal/JJ vehicles/NNS))
+  ./.
+  (NP (NBAR School/NNP))
+  and/CC
+  (NP (NBAR municipal/JJ buses/NNS))
+  ,/,
+  (NP (NBAR government-owned/JJ vehicles/NNS))
+  may/MD
+  be/VB
+  used/VBN
+  to/TO
+  provide/VB
+  (NP (NBAR transportation/NN))
+  for/IN
+  (NP (NBAR individuals/NNS))
+  who/WP
+  require/VBP
+  (NP (NBAR assistance/NN))
+  in/IN
+  evacuating/VBG
+  ./.
+  ''/'')(S
   But/CC
   those/DT
   (NP (NBAR government/NN vehicles/NNS))
@@ -170,7 +346,61 @@
   before/IN
   the/DT
   (NP (NBAR storm/NN hit/NN))
-  ./.)(S )(S
+  ./.)(S
+  But/CC
+  those/DT
+  (NP (NBAR government/NN vehicles/NNS))
+  were/VBD
+  not/RB
+  used/VBN
+  on/IN
+  a/DT
+  (NP (NBAR large/JJ scale/NN))
+  to/TO
+  get/VB
+  (NP (NBAR people/NNS))
+  out/IN
+  of/IN
+  (NP (NBAR town/NN))
+  ./.
+  Instead/RB
+  ,/,
+  (NP (NBAR Governor/NNP Kathleen/NNP Blanco/NNP))
+  (/(
+  (NP (NBAR search/NN))
+  )/)
+  and/CC
+  (NP (NBAR Mayor/NNP Ray/NNP Nagin/NNP))
+  (/(
+  (NP (NBAR search/NN))
+  )/)
+  decided/VBD
+  to/TO
+  allow/VB
+  (NP (NBAR New/NNP Orleans/NNP residents/NNS))
+  to/TO
+  stay/VB
+  if/IN
+  they/PRP
+  wanted/VBD
+  ,/,
+  even/RB
+  though/IN
+  a/DT
+  (NP (NBAR mandatory/JJ evacuation/NN order/NN))
+  had/VBD
+  been/VBN
+  issued/VBN
+  by/IN
+  the/DT
+  (NP (NBAR mayor/NN))
+  about/IN
+  14/CD
+  (NP (NBAR hours/NNS))
+  before/IN
+  the/DT
+  (NP (NBAR storm/NN hit/NN))
+  ./.)(S
   (NP (NBAR Nagin/NN))
   did/VBD
   authorize/VB
@@ -208,7 +438,127 @@
   flooded/VBN
   by/IN
   (NP (NBAR Katrina/NNP))
-  ./.)(S )(S
+  ./.)(S
+  (NP (NBAR Nagin/NN))
+  did/VBD
+  authorize/VB
+  (NP (NBAR transportation/NN))
+  to/TO
+  get/VB
+  (NP (NBAR folks/NNS))
+  to/TO
+  the/DT
+  (NP (NBAR Superdome/NNP))
+  (/(
+  (NP (NBAR search/NN))
+  )/)
+  ,/,
+  which/WDT
+  was/VBD
+  designated/VBN
+  a/DT
+  (NP (NBAR refuge/NN))
+  of/IN
+  (NP (NBAR last/JJ resort/NN))
+  ./.
+  However/RB
+  ,/,
+  most/JJS
+  (NP (NBAR city/NN buses/NNS))
+  stood/VBD
+  idle/JJ
+  and/CC
+  on/IN
+  (NP (NBAR low/JJ ground/NN))
+  and/CC
+  were/VBD
+  quickly/RB
+  flooded/VBN
+  by/IN
+  (NP (NBAR Katrina/NNP))
+  ./.)(S
+  Even/RB
+  though/IN
+  the/DT
+  (NP (NBAR mayor/NN))
+  opened/VBD
+  the/DT
+  (NP (NBAR Superdome/NNP))
+  to/TO
+  (NP (NBAR thousands/NNS))
+  ,/,
+  there/EX
+  was/VBD
+  not/RB
+  nearly/RB
+  enough/RB
+  (NP (NBAR security/NN))
+  inside/RB
+  ,/,
+  nor/CC
+  (NP (NBAR enough/JJ food/NN))
+  and/CC
+  (NP (NBAR water/NN))
+  ./.
+  (NP (NBAR Mayor/NNP Nagin/NNP))
+  still/RB
+  has/VBZ
+  not/RB
+  explained/VBN
+  why/WRB
+  a/DT
+  (NP (NBAR mandatory/JJ evacuation/NN))
+  is/VBZ
+  not/RB
+  mandatory/JJ
+  ./.
+  What/WP
+  say/VBP
+  you/PRP
+  ,/,
+  (NP (NBAR Mayor/NNP Nagin/NNP))
+  ?/.)(S
+  Even/RB
+  though/IN
+  the/DT
+  (NP (NBAR mayor/NN))
+  opened/VBD
+  the/DT
+  (NP (NBAR Superdome/NNP))
+  to/TO
+  (NP (NBAR thousands/NNS))
+  ,/,
+  there/EX
+  was/VBD
+  not/RB
+  nearly/RB
+  enough/RB
+  (NP (NBAR security/NN))
+  inside/RB
+  ,/,
+  nor/CC
+  (NP (NBAR enough/JJ food/NN))
+  and/CC
+  (NP (NBAR water/NN))
+  ./.
+  (NP (NBAR Mayor/NNP Nagin/NNP))
+  still/RB
+  has/VBZ
+  not/RB
+  explained/VBN
+  why/WRB
+  a/DT
+  (NP (NBAR mandatory/JJ evacuation/NN))
+  is/VBZ
+  not/RB
+  mandatory/JJ
+  ./.
+  What/WP
+  say/VBP
+  you/PRP
+  ,/,
+  (NP (NBAR Mayor/NNP Nagin/NNP))
+  ?/.)(S
   Even/RB
   though/IN
   the/DT
@@ -299,6 +649,104 @@
   ./.
   Why/WRB
   ?/.)(S
+  Now/RB
+  (NP (NBAR Governor/NNP Blanco/NNP))
+  also/RB
+  made/VBD
+  (NP (NBAR major/JJ mistakes/NNS))
+  ./.
+  After/IN
+  asking/VBG
+  and/CC
+  getting/VBG
+  the/DT
+  (NP (NBAR federal/JJ government/NN))
+  to/TO
+  declare/VB
+  the/DT
+  (NP (NBAR hurricane/NN zone/NN))
+  a/DT
+  (NP (NBAR disaster/NN area/NN))
+  two/CD
+  (NP (NBAR days/NNS))
+  before/IN
+  the/DT
+  (NP (NBAR storm/NN hit/NN))
+  ,/,
+  the/DT
+  (NP (NBAR governor/NN))
+  failed/VBD
+  to/TO
+  send/VB
+  any/DT
+  (NP (NBAR National/NNP Guard/NNP))
+  (/(
+  (NP (NBAR search/NN))
+  )/)
+  troops/VBZ
+  in/IN
+  to/TO
+  secure/VB
+  (NP (NBAR New/NNP Orleans/NNP))
+  and/CC
+  the/DT
+  surrounding/VBG
+  (NP (NBAR parishes/NNS))
+  before/IN
+  the/DT
+  (NP (NBAR storm/NN))
+  ./.
+  Why/WRB
+  ?/.)(S
+  Now/RB
+  (NP (NBAR Governor/NNP Blanco/NNP))
+  also/RB
+  made/VBD
+  (NP (NBAR major/JJ mistakes/NNS))
+  ./.
+  After/IN
+  asking/VBG
+  and/CC
+  getting/VBG
+  the/DT
+  (NP (NBAR federal/JJ government/NN))
+  to/TO
+  declare/VB
+  the/DT
+  (NP (NBAR hurricane/NN zone/NN))
+  a/DT
+  (NP (NBAR disaster/NN area/NN))
+  two/CD
+  (NP (NBAR days/NNS))
+  before/IN
+  the/DT
+  (NP (NBAR storm/NN hit/NN))
+  ,/,
+  the/DT
+  (NP (NBAR governor/NN))
+  failed/VBD
+  to/TO
+  send/VB
+  any/DT
+  (NP (NBAR National/NNP Guard/NNP))
+  (/(
+  (NP (NBAR search/NN))
+  )/)
+  troops/VBZ
+  in/IN
+  to/TO
+  secure/VB
+  (NP (NBAR New/NNP Orleans/NNP))
+  and/CC
+  the/DT
+  surrounding/VBG
+  (NP (NBAR parishes/NNS))
+  before/IN
+  the/DT
+  (NP (NBAR storm/NN))
+  ./.
+  Why/WRB
+  ?/.)(S
   She/PRP
   also/RB
   failed/VBD
@@ -330,6 +778,88 @@
   ask/VB
   for/IN
   more/JJR
+  ?/.)(S
+  She/PRP
+  also/RB
+  failed/VBD
+  to/TO
+  ask/VB
+  for/IN
+  more/JJR
+  (NP (NBAR troops/NNS))
+  from/IN
+  the/DT
+  (NP (NBAR feds/NNS))
+  ,/,
+  knowing/VBG
+  she/PRP
+  only/RB
+  had/VBD
+  about/IN
+  6,000/CD
+  to/TO
+  control/VB
+  the/DT
+  (NP (NBAR city/NN))
+  of/IN
+  1.3/CD
+  million/CD
+  ./.
+  Why/WRB
+  not/RB
+  ask/VB
+  for/IN
+  more/JJR
+  ?/.)(S
+  Like/IN
+  the/DT
+  (NP (NBAR mayor/NN))
+  ,/,
+  (NP (NBAR Governor/NNP Blanco/NNP))
+  has/VBZ
+  no/DT
+  (NP (NBAR explanation/NN))
+  ./.
+  Surely/RB
+  she/PRP
+  knew/VBD
+  the/DT
+  (NP (NBAR potential/NN))
+  for/IN
+  (NP (NBAR chaos/NN))
+  ./.
+  Why/WRB
+  not/RB
+  send/VB
+  the/DT
+  (NP (NBAR Guard/NNP))
+  in/IN
+  immediately/RB
+  ?/.)(S
+  Like/IN
+  the/DT
+  (NP (NBAR mayor/NN))
+  ,/,
+  (NP (NBAR Governor/NNP Blanco/NNP))
+  has/VBZ
+  no/DT
+  (NP (NBAR explanation/NN))
+  ./.
+  Surely/RB
+  she/PRP
+  knew/VBD
+  the/DT
+  (NP (NBAR potential/NN))
+  for/IN
+  (NP (NBAR chaos/NN))
+  ./.
+  Why/WRB
+  not/RB
+  send/VB
+  the/DT
+  (NP (NBAR Guard/NNP))
+  in/IN
+  immediately/RB
   ?/.)(S
   Like/IN
   the/DT
@@ -403,6 +933,188 @@
   in/IN
   the/DT
   (NP (NBAR city/NN))
+  ./.)(S
+  Then/RB
+  when/WRB
+  the/DT
+  (NP (NBAR levees/NNS))
+  were/VBD
+  breached/VBN
+  ,/,
+  the/DT
+  (NP (NBAR Guard/NNP))
+  found/VBD
+  itself/PRP
+  unable/JJ
+  to/TO
+  get/VB
+  into/IN
+  (NP (NBAR New/NNP Orleans/NNP))
+  ./.
+  They/PRP
+  're/VBP
+  outside/JJ
+  ./.
+  It/PRP
+  was/VBD
+  not/RB
+  until/IN
+  (NP (NBAR Wednesday/NNP))
+  ,/,
+  (NP (NBAR August/NNP))
+  31st/CD
+  ,/,
+  three/CD
+  (NP (NBAR days/NNS))
+  after/IN
+  the/DT
+  (NP (NBAR storm/NN hit/NN))
+  ,/,
+  that/IN
+  (NP (NBAR Blanco/NNP))
+  admitted/VBD
+  she/PRP
+  did/VBD
+  n't/RB
+  have/VB
+  (NP (NBAR enough/JJ security/NN))
+  in/IN
+  the/DT
+  (NP (NBAR city/NN))
+  ./.)(S
+  Then/RB
+  when/WRB
+  the/DT
+  (NP (NBAR levees/NNS))
+  were/VBD
+  breached/VBN
+  ,/,
+  the/DT
+  (NP (NBAR Guard/NNP))
+  found/VBD
+  itself/PRP
+  unable/JJ
+  to/TO
+  get/VB
+  into/IN
+  (NP (NBAR New/NNP Orleans/NNP))
+  ./.
+  They/PRP
+  're/VBP
+  outside/JJ
+  ./.
+  It/PRP
+  was/VBD
+  not/RB
+  until/IN
+  (NP (NBAR Wednesday/NNP))
+  ,/,
+  (NP (NBAR August/NNP))
+  31st/CD
+  ,/,
+  three/CD
+  (NP (NBAR days/NNS))
+  after/IN
+  the/DT
+  (NP (NBAR storm/NN hit/NN))
+  ,/,
+  that/IN
+  (NP (NBAR Blanco/NNP))
+  admitted/VBD
+  she/PRP
+  did/VBD
+  n't/RB
+  have/VB
+  (NP (NBAR enough/JJ security/NN))
+  in/IN
+  the/DT
+  (NP (NBAR city/NN))
+  ./.)(S
+  Once/RB
+  the/DT
+  (NP (NBAR levees/NNS))
+  were/VBD
+  breached/VBN
+  ,/,
+  the/DT
+  (NP (NBAR situation/NN))
+  then/RB
+  became/VBD
+  a/DT
+  (NP (NBAR national/JJ security/NN issue/NN))
+  ./.
+  And/CC
+  the/DT
+  (NP (NBAR feds/NNS))
+  ,/,
+  already/RB
+  having/VBG
+  the/DT
+  (NP (NBAR power/NN))
+  to/TO
+  act/VB
+  ,/,
+  should/MD
+  have/VB
+  arrived/VBN
+  in/IN
+  (NP (NBAR force/NN))
+  ./.
+  But/CC
+  the/DT
+  (NP (NBAR homeland/NN security/NN office/NN))
+  and/CC
+  (NP (NBAR President/NNP Bush/NNP))
+  were/VBD
+  24/CD
+  (NP (NBAR hours/NNS))
+  late/JJ
+  in/IN
+  taking/VBG
+  (NP (NBAR decisive/JJ action/NN))
+  ./.)(S
+  Once/RB
+  the/DT
+  (NP (NBAR levees/NNS))
+  were/VBD
+  breached/VBN
+  ,/,
+  the/DT
+  (NP (NBAR situation/NN))
+  then/RB
+  became/VBD
+  a/DT
+  (NP (NBAR national/JJ security/NN issue/NN))
+  ./.
+  And/CC
+  the/DT
+  (NP (NBAR feds/NNS))
+  ,/,
+  already/RB
+  having/VBG
+  the/DT
+  (NP (NBAR power/NN))
+  to/TO
+  act/VB
+  ,/,
+  should/MD
+  have/VB
+  arrived/VBN
+  in/IN
+  (NP (NBAR force/NN))
+  ./.
+  But/CC
+  the/DT
+  (NP (NBAR homeland/NN security/NN office/NN))
+  and/CC
+  (NP (NBAR President/NNP Bush/NNP))
+  were/VBD
+  24/CD
+  (NP (NBAR hours/NNS))
+  late/JJ
+  in/IN
+  taking/VBG
+  (NP (NBAR decisive/JJ action/NN))
   ./.)(S
   Once/RB
   the/DT
@@ -518,6 +1230,219 @@
   knew/VBD
   that/IN
   ./.)(S
+  So/RB
+  summing/VBG
+  up/RP
+  ,/,
+  the/DT
+  (NP (NBAR mayor/NN))
+  allowed/VBD
+  (NP (NBAR citizens/NNS))
+  to/TO
+  defy/VB
+  a/DT
+  (NP (NBAR mandatory/JJ evacuation/NN))
+  and/CC
+  did/VBD
+  n't/RB
+  use/VB
+  (NP (NBAR city/NN buses/NNS))
+  to/TO
+  get/VB
+  them/PRP
+  out/IN
+  of/IN
+  (NP (NBAR town/NN))
+  ./.
+  The/DT
+  (NP (NBAR governor/NN))
+  did/VBD
+  n't/RB
+  send/VB
+  the/DT
+  (NP (NBAR Guard/NNP))
+  in/IN
+  before/IN
+  the/DT
+  (NP (NBAR storm/NN))
+  ./.
+  And/CC
+  that/IN
+  caused/VBD
+  the/DT
+  (NP (NBAR New/NNP Orleans/NNP police/NNS))
+  to/TO
+  be/VB
+  quickly/RB
+  overwhelmed/VBN
+  ./.
+  The/DT
+  (NP (NBAR evacuation/NN plan/NN))
+  clearly/RB
+  states/VBZ
+  that/IN
+  a/DT
+  (NP (NBAR refuge/NN))
+  of/IN
+  (NP (NBAR last/JJ resort/NN))
+  may/MD
+  not/RB
+  have/VB
+  (NP (NBAR food/NN))
+  and/CC
+  (NP (NBAR water/NN))
+  available/JJ
+  ,/,
+  but/CC
+  I/PRP
+  wonder/VBP
+  how/WRB
+  (NP (NBAR many/JJ people/NNS))
+  knew/VBD
+  that/IN
+  ./.)(S
+  So/RB
+  summing/VBG
+  up/RP
+  ,/,
+  the/DT
+  (NP (NBAR mayor/NN))
+  allowed/VBD
+  (NP (NBAR citizens/NNS))
+  to/TO
+  defy/VB
+  a/DT
+  (NP (NBAR mandatory/JJ evacuation/NN))
+  and/CC
+  did/VBD
+  n't/RB
+  use/VB
+  (NP (NBAR city/NN buses/NNS))
+  to/TO
+  get/VB
+  them/PRP
+  out/IN
+  of/IN
+  (NP (NBAR town/NN))
+  ./.
+  The/DT
+  (NP (NBAR governor/NN))
+  did/VBD
+  n't/RB
+  send/VB
+  the/DT
+  (NP (NBAR Guard/NNP))
+  in/IN
+  before/IN
+  the/DT
+  (NP (NBAR storm/NN))
+  ./.
+  And/CC
+  that/IN
+  caused/VBD
+  the/DT
+  (NP (NBAR New/NNP Orleans/NNP police/NNS))
+  to/TO
+  be/VB
+  quickly/RB
+  overwhelmed/VBN
+  ./.
+  The/DT
+  (NP (NBAR evacuation/NN plan/NN))
+  clearly/RB
+  states/VBZ
+  that/IN
+  a/DT
+  (NP (NBAR refuge/NN))
+  of/IN
+  (NP (NBAR last/JJ resort/NN))
+  may/MD
+  not/RB
+  have/VB
+  (NP (NBAR food/NN))
+  and/CC
+  (NP (NBAR water/NN))
+  available/JJ
+  ,/,
+  but/CC
+  I/PRP
+  wonder/VBP
+  how/WRB
+  (NP (NBAR many/JJ people/NNS))
+  knew/VBD
+  that/IN
+  ./.)(S
+  So/RB
+  summing/VBG
+  up/RP
+  ,/,
+  the/DT
+  (NP (NBAR mayor/NN))
+  allowed/VBD
+  (NP (NBAR citizens/NNS))
+  to/TO
+  defy/VB
+  a/DT
+  (NP (NBAR mandatory/JJ evacuation/NN))
+  and/CC
+  did/VBD
+  n't/RB
+  use/VB
+  (NP (NBAR city/NN buses/NNS))
+  to/TO
+  get/VB
+  them/PRP
+  out/IN
+  of/IN
+  (NP (NBAR town/NN))
+  ./.
+  The/DT
+  (NP (NBAR governor/NN))
+  did/VBD
+  n't/RB
+  send/VB
+  the/DT
+  (NP (NBAR Guard/NNP))
+  in/IN
+  before/IN
+  the/DT
+  (NP (NBAR storm/NN))
+  ./.
+  And/CC
+  that/IN
+  caused/VBD
+  the/DT
+  (NP (NBAR New/NNP Orleans/NNP police/NNS))
+  to/TO
+  be/VB
+  quickly/RB
+  overwhelmed/VBN
+  ./.
+  The/DT
+  (NP (NBAR evacuation/NN plan/NN))
+  clearly/RB
+  states/VBZ
+  that/IN
+  a/DT
+  (NP (NBAR refuge/NN))
+  of/IN
+  (NP (NBAR last/JJ resort/NN))
+  may/MD
+  not/RB
+  have/VB
+  (NP (NBAR food/NN))
+  and/CC
+  (NP (NBAR water/NN))
+  available/JJ
+  ,/,
+  but/CC
+  I/PRP
+  wonder/VBP
+  how/WRB
+  (NP (NBAR many/JJ people/NNS))
+  knew/VBD
+  that/IN
+  ./.)(S
   Also/RB
   ,/,
   how/WRB
@@ -556,12 +1481,99 @@
   that/DT
   's/VBZ
   (NP (NBAR “The/JJ Memo.”/NNP)))(S
+  Again/RB
+  ,/,
+  we/PRP
+  believe/VBP
+  (NP (NBAR Blanco/NNP))
+  and/CC
+  (NP (NBAR Nagin/NNP))
+  should/MD
+  be/VB
+  forced/VBN
+  to/TO
+  answer/VB
+  those/DT
+  (NP (NBAR questions/NNS))
+  ./.
+  And/CC
+  that/DT
+  's/VBZ
+  (NP (NBAR “The/JJ Memo.”/NNP)))(S
   The/DT
   Most/RBS
   (NP (NBAR Ridiculous/JJ Item/NN))
   of/IN
   the/DT
   (NP (NBAR Day/NNP)))(S
+  One/CD
+  of/IN
+  (NP (NBAR America/NNP))
+  's/POS
+  (NP (NBAR best-loved/JJ TV/NN actors/NNS))
+  has/VBZ
+  died/VBN
+  ./.
+  (NP (NBAR Bob/NNP Denver/NNP))
+  (/(
+  (NP (NBAR search/NN))
+  )/)
+  played/VBD
+  (NP (NBAR Gilligan/NNP))
+  and/CC
+  (NP (NBAR Maynard/NNP G./NNP Krebs/NNP))
+  ,/,
+  one/CD
+  of/IN
+  my/PRP$
+  (NP (NBAR personal/JJ favorites/NNS))
+  ,/,
+  on/IN
+  the/DT
+  ``/``
+  (NP (NBAR Dobie/NNP Gillis/NNP))
+  ''/''
+  (NP (NBAR program/NN))
+  ./.
+  You/PRP
+  may/MD
+  remember/VB
+  that/DT
+  ./.)(S
+  One/CD
+  of/IN
+  (NP (NBAR America/NNP))
+  's/POS
+  (NP (NBAR best-loved/JJ TV/NN actors/NNS))
+  has/VBZ
+  died/VBN
+  ./.
+  (NP (NBAR Bob/NNP Denver/NNP))
+  (/(
+  (NP (NBAR search/NN))
+  )/)
+  played/VBD
+  (NP (NBAR Gilligan/NNP))
+  and/CC
+  (NP (NBAR Maynard/NNP G./NNP Krebs/NNP))
+  ,/,
+  one/CD
+  of/IN
+  my/PRP$
+  (NP (NBAR personal/JJ favorites/NNS))
+  ,/,
+  on/IN
+  the/DT
+  ``/``
+  (NP (NBAR Dobie/NNP Gillis/NNP))
+  ''/''
+  (NP (NBAR program/NN))
+  ./.
+  You/PRP
+  may/MD
+  remember/VB
+  that/DT
+  ./.)(S
   One/CD
   of/IN
   (NP (NBAR America/NNP))
@@ -634,4 +1646,28 @@
   to/TO
   his/PRP$
   (NP (NBAR family/NN))
-  ./.)(S )
+  ./.)(S
+  (NP (NBAR Mr./NNP Denver/NNP))
+  was/VBD
+  semi-retired/VBN
+  in/IN
+  his/PRP$
+  (NP (NBAR later/JJ years/NNS))
+  but/CC
+  is/VBZ
+  remembered/VBN
+  fondly/RB
+  by/IN
+  (NP (NBAR many/JJ Baby/NNP Boomers/NNP))
+  ./.
+  We/PRP
+  salute/VBP
+  him/PRP
+  and/CC
+  offer/VB
+  our/PRP$
+  (NP (NBAR condolences/NNS))
+  to/TO
+  his/PRP$
+  (NP (NBAR family/NN))
+  ./.)

@@ -1,4 +1,4 @@
-(S )(S
+(S
   Watch/VB
   The/DT
   (NP (NBAR O'Reilly/NNP Factor/NNP weeknights/NNS))
@@ -16,6 +16,82 @@
   the/DT
   (NP (NBAR Radio/NNP Factor/NN))
   !/.)(S
+  Watch/VB
+  The/DT
+  (NP (NBAR O'Reilly/NNP Factor/NNP weeknights/NNS))
+  at/IN
+  8/CD
+  (NP (NBAR p.m./NN))
+  and/CC
+  11/CD
+  (NP (NBAR p.m/NN))
+  ./.
+  (NP (NBAR ET/NNP))
+  and/CC
+  listen/VB
+  to/TO
+  the/DT
+  (NP (NBAR Radio/NNP Factor/NN))
+  !/.)(S
+  (NP (NBAR BILL/NNP O'REILLY/NNP HOST/NNP))
+  :/:
+  In/IN
+  the/DT
+  ''/''
+  (NP (NBAR Personal/NNP Story/NNP))
+  ''/''
+  (NP (NBAR segment/NN tonight/NN))
+  ,/,
+  in/IN
+  this/DT
+  (NP (NBAR age/NN))
+  of/IN
+  (NP (NBAR vicious/JJ terrorism/NN))
+  ,/,
+  sometimes/RB
+  we/PRP
+  forget/VBP
+  there/EX
+  are/VBP
+  still/RB
+  (NP (NBAR entire/JJ countries/NNS))
+  in/IN
+  the/DT
+  (NP (NBAR world/NN))
+  that/WDT
+  deny/VBP
+  even/RB
+  (NP (NBAR basic/JJ human/JJ rights/NNS))
+  to/TO
+  (NP (NBAR citizens/NNS))
+  ./.
+  Such/PDT
+  a/DT
+  (NP (NBAR place/NN))
+  is/VBZ
+  (NP (NBAR Cuba/NNP))
+  ,/,
+  (/(
+  (NP (NBAR search/NN))
+  )/)
+  where/WRB
+  the/DT
+  (NP (NBAR villainous/JJ dictator/NN))
+  ,/,
+  (NP (NBAR Fidel/NNP Castro/NNP))
+  (/(
+  (NP (NBAR search/NN))
+  )/)
+  ,/,
+  keeps/VBZ
+  his/PRP$
+  (NP (NBAR people/NNS))
+  in/IN
+  a/DT
+  tightly/RB
+  guarded/VBN
+  (NP (NBAR police/NN state/NN))
+  ./.)(S
   (NP (NBAR BILL/NNP O'REILLY/NNP HOST/NNP))
   :/:
   In/IN
@@ -113,6 +189,113 @@
   a/DT
   (NP (NBAR guy/NN))
   ./.)(S
+  (NP (NBAR New/NNP York/NNP Yankee/NNP))
+  pitcher/RB
+  (NP (NBAR Jose/NNP Contreras/NNP))
+  defected/VBD
+  from/IN
+  (NP (NBAR Cuba/NNP))
+  two/CD
+  (NP (NBAR years/NNS))
+  ago/RB
+  ,/,
+  but/CC
+  his/PRP$
+  (NP (NBAR wife/NN))
+  and/CC
+  two/CD
+  (NP (NBAR young/JJ daughters/NNS))
+  were/VBD
+  not/RB
+  allowed/VBN
+  to/TO
+  join/VB
+  him/PRP
+  in/IN
+  the/DT
+  (NP (NBAR USA/NNP))
+  ./.
+  (NP (NBAR Castro/NNP))
+  personally/RB
+  blocking/VBG
+  any/DT
+  (NP (NBAR reunion/NN))
+  ./.
+  He/PRP
+  's/VBZ
+  quite/RB
+  a/DT
+  (NP (NBAR guy/NN))
+  ./.)(S
+  (NP (NBAR New/NNP York/NNP Yankee/NNP))
+  pitcher/RB
+  (NP (NBAR Jose/NNP Contreras/NNP))
+  defected/VBD
+  from/IN
+  (NP (NBAR Cuba/NNP))
+  two/CD
+  (NP (NBAR years/NNS))
+  ago/RB
+  ,/,
+  but/CC
+  his/PRP$
+  (NP (NBAR wife/NN))
+  and/CC
+  two/CD
+  (NP (NBAR young/JJ daughters/NNS))
+  were/VBD
+  not/RB
+  allowed/VBN
+  to/TO
+  join/VB
+  him/PRP
+  in/IN
+  the/DT
+  (NP (NBAR USA/NNP))
+  ./.
+  (NP (NBAR Castro/NNP))
+  personally/RB
+  blocking/VBG
+  any/DT
+  (NP (NBAR reunion/NN))
+  ./.
+  He/PRP
+  's/VBZ
+  quite/RB
+  a/DT
+  (NP (NBAR guy/NN))
+  ./.)(S
+  But/CC
+  now/RB
+  the/DT
+  (NP (NBAR family/NN))
+  has/VBZ
+  escaped/VBN
+  dramatically/RB
+  ./.
+  And/CC
+  joining/VBG
+  us/PRP
+  from/IN
+  (NP (NBAR Miami/NNP))
+  to/TO
+  tell/VB
+  us/PRP
+  how/WRB
+  that/DT
+  happened/VBD
+  is/VBZ
+  (NP (NBAR Joe/NNP Garcia/NNP))
+  ,/,
+  the/DT
+  (NP (NBAR executive/JJ director/NN))
+  of/IN
+  the/DT
+  (NP (NBAR Cuban/NNP American/NNP National/NNP Foundation/NNP))
+  (/(
+  (NP (NBAR search/NN))
+  )/)
+  ./.)(S
   But/CC
   now/RB
   the/DT
@@ -166,6 +349,348 @@
   do/VBP
   it/PRP
   ?/.)(S
+  You/PRP
+  know/VBP
+  ,/,
+  (NP (NBAR everybody/NN))
+  knows/VBZ
+  that/IN
+  (NP (NBAR Cuba/NNP))
+  's/POS
+  a/DT
+  (NP (NBAR rough/JJ place/NN))
+  to/TO
+  get/VB
+  out/IN
+  of/IN
+  ./.
+  How/WRB
+  did/VBD
+  these/DT
+  (NP (NBAR people/NNS))
+  do/VBP
+  it/PRP
+  ?/.)(S
+  (NP (NBAR JOE/NNP GARCIA/NNP))
+  ,/,
+  (NP (NBAR CUBAN/NNP AMERICAN/NNP NAT'L/NNP FOUNDATION/NNP))
+  :/:
+  Well/RB
+  ,/,
+  clearly/RB
+  ,/,
+  there/EX
+  's/VBZ
+  probably/RB
+  a/DT
+  smuggling/VBG
+  (NP (NBAR occurring/NN))
+  here/RB
+  ./.
+  This/DT
+  is/VBZ
+  one/CD
+  of/IN
+  those/DT
+  (NP (NBAR events/NNS))
+  where/WRB
+  ,/,
+  you/PRP
+  know/VBP
+  ,/,
+  (NP (NBAR people/NNS))
+  out/IN
+  of/IN
+  (NP (NBAR desperation/NN))
+  ,/,
+  they/PRP
+  have/VBP
+  no/DT
+  (NP (NBAR way/NN))
+  out/RB
+  ./.
+  21/CD
+  (NP (NBAR people/NNS))
+  came/VBD
+  in/IN
+  that/DT
+  (NP (NBAR boat/NN))
+  last/JJ
+  --/:
+  they/PRP
+  left/VBD
+  (NP (NBAR Sunday/NNP night/NN))
+  ./.
+  And/CC
+  as/IN
+  they/PRP
+  were/VBD
+  heading/VBG
+  out/RP
+  ,/,
+  apparently/RB
+  somewhere/RB
+  along/IN
+  the/DT
+  (NP (NBAR line/NN))
+  ,/,
+  they/PRP
+  ran/VBD
+  into/IN
+  (NP (NBAR Coast/NNP Guard/NNP cutters/NNS))
+  ./.
+  The/DT
+  (NP (NBAR boat/NN))
+  turned/VBD
+  off/RP
+  its/PRP$
+  (NP (NBAR lights/NNS))
+  and/CC
+  went/VBD
+  for/IN
+  the/DT
+  (NP (NBAR gold/NN))
+  ./.)(S
+  (NP (NBAR JOE/NNP GARCIA/NNP))
+  ,/,
+  (NP (NBAR CUBAN/NNP AMERICAN/NNP NAT'L/NNP FOUNDATION/NNP))
+  :/:
+  Well/RB
+  ,/,
+  clearly/RB
+  ,/,
+  there/EX
+  's/VBZ
+  probably/RB
+  a/DT
+  smuggling/VBG
+  (NP (NBAR occurring/NN))
+  here/RB
+  ./.
+  This/DT
+  is/VBZ
+  one/CD
+  of/IN
+  those/DT
+  (NP (NBAR events/NNS))
+  where/WRB
+  ,/,
+  you/PRP
+  know/VBP
+  ,/,
+  (NP (NBAR people/NNS))
+  out/IN
+  of/IN
+  (NP (NBAR desperation/NN))
+  ,/,
+  they/PRP
+  have/VBP
+  no/DT
+  (NP (NBAR way/NN))
+  out/RB
+  ./.
+  21/CD
+  (NP (NBAR people/NNS))
+  came/VBD
+  in/IN
+  that/DT
+  (NP (NBAR boat/NN))
+  last/JJ
+  --/:
+  they/PRP
+  left/VBD
+  (NP (NBAR Sunday/NNP night/NN))
+  ./.
+  And/CC
+  as/IN
+  they/PRP
+  were/VBD
+  heading/VBG
+  out/RP
+  ,/,
+  apparently/RB
+  somewhere/RB
+  along/IN
+  the/DT
+  (NP (NBAR line/NN))
+  ,/,
+  they/PRP
+  ran/VBD
+  into/IN
+  (NP (NBAR Coast/NNP Guard/NNP cutters/NNS))
+  ./.
+  The/DT
+  (NP (NBAR boat/NN))
+  turned/VBD
+  off/RP
+  its/PRP$
+  (NP (NBAR lights/NNS))
+  and/CC
+  went/VBD
+  for/IN
+  the/DT
+  (NP (NBAR gold/NN))
+  ./.)(S
+  (NP (NBAR JOE/NNP GARCIA/NNP))
+  ,/,
+  (NP (NBAR CUBAN/NNP AMERICAN/NNP NAT'L/NNP FOUNDATION/NNP))
+  :/:
+  Well/RB
+  ,/,
+  clearly/RB
+  ,/,
+  there/EX
+  's/VBZ
+  probably/RB
+  a/DT
+  smuggling/VBG
+  (NP (NBAR occurring/NN))
+  here/RB
+  ./.
+  This/DT
+  is/VBZ
+  one/CD
+  of/IN
+  those/DT
+  (NP (NBAR events/NNS))
+  where/WRB
+  ,/,
+  you/PRP
+  know/VBP
+  ,/,
+  (NP (NBAR people/NNS))
+  out/IN
+  of/IN
+  (NP (NBAR desperation/NN))
+  ,/,
+  they/PRP
+  have/VBP
+  no/DT
+  (NP (NBAR way/NN))
+  out/RB
+  ./.
+  21/CD
+  (NP (NBAR people/NNS))
+  came/VBD
+  in/IN
+  that/DT
+  (NP (NBAR boat/NN))
+  last/JJ
+  --/:
+  they/PRP
+  left/VBD
+  (NP (NBAR Sunday/NNP night/NN))
+  ./.
+  And/CC
+  as/IN
+  they/PRP
+  were/VBD
+  heading/VBG
+  out/RP
+  ,/,
+  apparently/RB
+  somewhere/RB
+  along/IN
+  the/DT
+  (NP (NBAR line/NN))
+  ,/,
+  they/PRP
+  ran/VBD
+  into/IN
+  (NP (NBAR Coast/NNP Guard/NNP cutters/NNS))
+  ./.
+  The/DT
+  (NP (NBAR boat/NN))
+  turned/VBD
+  off/RP
+  its/PRP$
+  (NP (NBAR lights/NNS))
+  and/CC
+  went/VBD
+  for/IN
+  the/DT
+  (NP (NBAR gold/NN))
+  ./.)(S
+  (NP (NBAR JOE/NNP GARCIA/NNP))
+  ,/,
+  (NP (NBAR CUBAN/NNP AMERICAN/NNP NAT'L/NNP FOUNDATION/NNP))
+  :/:
+  Well/RB
+  ,/,
+  clearly/RB
+  ,/,
+  there/EX
+  's/VBZ
+  probably/RB
+  a/DT
+  smuggling/VBG
+  (NP (NBAR occurring/NN))
+  here/RB
+  ./.
+  This/DT
+  is/VBZ
+  one/CD
+  of/IN
+  those/DT
+  (NP (NBAR events/NNS))
+  where/WRB
+  ,/,
+  you/PRP
+  know/VBP
+  ,/,
+  (NP (NBAR people/NNS))
+  out/IN
+  of/IN
+  (NP (NBAR desperation/NN))
+  ,/,
+  they/PRP
+  have/VBP
+  no/DT
+  (NP (NBAR way/NN))
+  out/RB
+  ./.
+  21/CD
+  (NP (NBAR people/NNS))
+  came/VBD
+  in/IN
+  that/DT
+  (NP (NBAR boat/NN))
+  last/JJ
+  --/:
+  they/PRP
+  left/VBD
+  (NP (NBAR Sunday/NNP night/NN))
+  ./.
+  And/CC
+  as/IN
+  they/PRP
+  were/VBD
+  heading/VBG
+  out/RP
+  ,/,
+  apparently/RB
+  somewhere/RB
+  along/IN
+  the/DT
+  (NP (NBAR line/NN))
+  ,/,
+  they/PRP
+  ran/VBD
+  into/IN
+  (NP (NBAR Coast/NNP Guard/NNP cutters/NNS))
+  ./.
+  The/DT
+  (NP (NBAR boat/NN))
+  turned/VBD
+  off/RP
+  its/PRP$
+  (NP (NBAR lights/NNS))
+  and/CC
+  went/VBD
+  for/IN
+  the/DT
+  (NP (NBAR gold/NN))
+  ./.)(S
   (NP (NBAR JOE/NNP GARCIA/NNP))
   ,/,
   (NP (NBAR CUBAN/NNP AMERICAN/NNP NAT'L/NNP FOUNDATION/NNP))
@@ -280,6 +805,40 @@
   're/VBP
   free/JJ
   ./.)(S
+  I/PRP
+  mean/VBP
+  ,/,
+  they/PRP
+  drove/VBD
+  over/RP
+  three/CD
+  (NP (NBAR hours/NNS))
+  and/CC
+  they/PRP
+  beached/VBD
+  themselves/PRP
+  at/IN
+  (NP (NBAR Big/NNP Pine/NNP Key/NNP))
+  ,/,
+  which/WDT
+  is/VBZ
+  one/CD
+  of/IN
+  the/DT
+  (NP (NBAR Keys/NNP))
+  on/IN
+  your/PRP$
+  (NP (NBAR way/NN))
+  to/TO
+  (NP (NBAR Key/NNP West/NNP))
+  in/IN
+  (NP (NBAR South/NNP Florida/NNP))
+  ./.
+  And/CC
+  they/PRP
+  're/VBP
+  free/JJ
+  ./.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   All/DT
@@ -319,6 +878,336 @@
   'm/VBP
   sorry/JJ
   ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  All/DT
+  right/RB
+  ,/,
+  we/PRP
+  're/VBP
+  looking/VBG
+  at/IN
+  the/DT
+  (NP (NBAR family/NN))
+  now/RB
+  ./.
+  (NP (NBAR Jose/NNP Contreras/NNP))
+  and/CC
+  his/PRP$
+  (NP (NBAR wife/NN))
+  and/CC
+  one/CD
+  (NP (NBAR young/JJ daughter/NN))
+  ./.
+  I/PRP
+  do/VBP
+  n't/RB
+  see/VB
+  the/DT
+  (NP (NBAR other/JJ one/NN))
+  ./.
+  Yes/UH
+  ,/,
+  she/PRP
+  's/VBZ
+  standing/VBG
+  there/RB
+  ,/,
+  I/PRP
+  'm/VBP
+  sorry/JJ
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  All/DT
+  right/RB
+  ,/,
+  we/PRP
+  're/VBP
+  looking/VBG
+  at/IN
+  the/DT
+  (NP (NBAR family/NN))
+  now/RB
+  ./.
+  (NP (NBAR Jose/NNP Contreras/NNP))
+  and/CC
+  his/PRP$
+  (NP (NBAR wife/NN))
+  and/CC
+  one/CD
+  (NP (NBAR young/JJ daughter/NN))
+  ./.
+  I/PRP
+  do/VBP
+  n't/RB
+  see/VB
+  the/DT
+  (NP (NBAR other/JJ one/NN))
+  ./.
+  Yes/UH
+  ,/,
+  she/PRP
+  's/VBZ
+  standing/VBG
+  there/RB
+  ,/,
+  I/PRP
+  'm/VBP
+  sorry/JJ
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  All/DT
+  right/RB
+  ,/,
+  we/PRP
+  're/VBP
+  looking/VBG
+  at/IN
+  the/DT
+  (NP (NBAR family/NN))
+  now/RB
+  ./.
+  (NP (NBAR Jose/NNP Contreras/NNP))
+  and/CC
+  his/PRP$
+  (NP (NBAR wife/NN))
+  and/CC
+  one/CD
+  (NP (NBAR young/JJ daughter/NN))
+  ./.
+  I/PRP
+  do/VBP
+  n't/RB
+  see/VB
+  the/DT
+  (NP (NBAR other/JJ one/NN))
+  ./.
+  Yes/UH
+  ,/,
+  she/PRP
+  's/VBZ
+  standing/VBG
+  there/RB
+  ,/,
+  I/PRP
+  'm/VBP
+  sorry/JJ
+  ./.)(S
+  But/CC
+  let/VB
+  's/PRP
+  take/VB
+  it/PRP
+  step/VB
+  by/IN
+  (NP (NBAR step/NN))
+  ,/,
+  (NP (NBAR Mr./NNP Garcia/NNP))
+  ,/,
+  because/IN
+  you/PRP
+  know/VBP
+  this/DT
+  (NP (NBAR world/NN))
+  as/RB
+  well/RB
+  as/IN
+  (NP (NBAR anybody/NN))
+  knows/VBZ
+  it/PRP
+  ./.
+  (NP (NBAR Number/NNP))
+  one/CD
+  ,/,
+  to/TO
+  get/VB
+  in/IN
+  a/DT
+  (NP (NBAR power/NN boat/NN))
+  like/IN
+  that/DT
+  ,/,
+  and/CC
+  I/PRP
+  used/VBD
+  to/TO
+  work/VB
+  in/IN
+  (NP (NBAR Miami/NNP))
+  ,/,
+  and/CC
+  I/PRP
+  know/VBP
+  the/DT
+  (NP (NBAR area/NN))
+  ./.
+  You/PRP
+  got/VBD
+  to/TO
+  have/VB
+  a/DT
+  (NP (NBAR lot/NN))
+  of/IN
+  (NP (NBAR money/NN))
+  ./.
+  You/PRP
+  got/VBD
+  to/TO
+  --/:
+  this/DT
+  is/VBZ
+  n't/RB
+  a/DT
+  (NP (NBAR cheap/JJ thing/NN))
+  to/TO
+  do/VB
+  ,/,
+  correct/VB
+  ?/.)(S
+  But/CC
+  let/VB
+  's/PRP
+  take/VB
+  it/PRP
+  step/VB
+  by/IN
+  (NP (NBAR step/NN))
+  ,/,
+  (NP (NBAR Mr./NNP Garcia/NNP))
+  ,/,
+  because/IN
+  you/PRP
+  know/VBP
+  this/DT
+  (NP (NBAR world/NN))
+  as/RB
+  well/RB
+  as/IN
+  (NP (NBAR anybody/NN))
+  knows/VBZ
+  it/PRP
+  ./.
+  (NP (NBAR Number/NNP))
+  one/CD
+  ,/,
+  to/TO
+  get/VB
+  in/IN
+  a/DT
+  (NP (NBAR power/NN boat/NN))
+  like/IN
+  that/DT
+  ,/,
+  and/CC
+  I/PRP
+  used/VBD
+  to/TO
+  work/VB
+  in/IN
+  (NP (NBAR Miami/NNP))
+  ,/,
+  and/CC
+  I/PRP
+  know/VBP
+  the/DT
+  (NP (NBAR area/NN))
+  ./.
+  You/PRP
+  got/VBD
+  to/TO
+  have/VB
+  a/DT
+  (NP (NBAR lot/NN))
+  of/IN
+  (NP (NBAR money/NN))
+  ./.
+  You/PRP
+  got/VBD
+  to/TO
+  --/:
+  this/DT
+  is/VBZ
+  n't/RB
+  a/DT
+  (NP (NBAR cheap/JJ thing/NN))
+  to/TO
+  do/VB
+  ,/,
+  correct/VB
+  ?/.)(S
+  But/CC
+  let/VB
+  's/PRP
+  take/VB
+  it/PRP
+  step/VB
+  by/IN
+  (NP (NBAR step/NN))
+  ,/,
+  (NP (NBAR Mr./NNP Garcia/NNP))
+  ,/,
+  because/IN
+  you/PRP
+  know/VBP
+  this/DT
+  (NP (NBAR world/NN))
+  as/RB
+  well/RB
+  as/IN
+  (NP (NBAR anybody/NN))
+  knows/VBZ
+  it/PRP
+  ./.
+  (NP (NBAR Number/NNP))
+  one/CD
+  ,/,
+  to/TO
+  get/VB
+  in/IN
+  a/DT
+  (NP (NBAR power/NN boat/NN))
+  like/IN
+  that/DT
+  ,/,
+  and/CC
+  I/PRP
+  used/VBD
+  to/TO
+  work/VB
+  in/IN
+  (NP (NBAR Miami/NNP))
+  ,/,
+  and/CC
+  I/PRP
+  know/VBP
+  the/DT
+  (NP (NBAR area/NN))
+  ./.
+  You/PRP
+  got/VBD
+  to/TO
+  have/VB
+  a/DT
+  (NP (NBAR lot/NN))
+  of/IN
+  (NP (NBAR money/NN))
+  ./.
+  You/PRP
+  got/VBD
+  to/TO
+  --/:
+  this/DT
+  is/VBZ
+  n't/RB
+  a/DT
+  (NP (NBAR cheap/JJ thing/NN))
+  to/TO
+  do/VB
+  ,/,
+  correct/VB
+  ?/.)(S
   But/CC
   let/VB
   's/PRP
@@ -446,6 +1335,177 @@
   great/JJ
   ,/,
   (NP (NBAR Bill/NNP))
+  ./.)(S
+  (NP (NBAR GARCIA/NNP))
+  :/:
+  No/UH
+  ,/,
+  it/PRP
+  is/VBZ
+  not/RB
+  ./.
+  It/PRP
+  's/VBZ
+  usually/RB
+  on/IN
+  a/DT
+  (NP (NBAR cheap/NN))
+  you/PRP
+  're/VBP
+  talking/VBG
+  about/IN
+  maybe/RB
+  somewhere/RB
+  between/IN
+  $/$
+  10,000/CD
+  and/CC
+  $/$
+  15,000/CD
+  a/DT
+  (NP (NBAR person/NN))
+  to/TO
+  get/VB
+  on/IN
+  these/DT
+  (NP (NBAR boats/NNS))
+  ./.
+  Clearly/RB
+  ,/,
+  the/DT
+  (NP (NBAR U.S./NNP prosecutors/NNS office/NN))
+  has/VBZ
+  been/VBN
+  very/RB
+  aggressive/JJ
+  on/IN
+  stopping/VBG
+  these/DT
+  (NP (NBAR types/NNS))
+  of/IN
+  (NP (NBAR activity/NN))
+  ./.
+  But/CC
+  the/DT
+  (NP (NBAR desperation/NN))
+  is/VBZ
+  great/JJ
+  ,/,
+  (NP (NBAR Bill/NNP))
+  ./.)(S
+  (NP (NBAR GARCIA/NNP))
+  :/:
+  No/UH
+  ,/,
+  it/PRP
+  is/VBZ
+  not/RB
+  ./.
+  It/PRP
+  's/VBZ
+  usually/RB
+  on/IN
+  a/DT
+  (NP (NBAR cheap/NN))
+  you/PRP
+  're/VBP
+  talking/VBG
+  about/IN
+  maybe/RB
+  somewhere/RB
+  between/IN
+  $/$
+  10,000/CD
+  and/CC
+  $/$
+  15,000/CD
+  a/DT
+  (NP (NBAR person/NN))
+  to/TO
+  get/VB
+  on/IN
+  these/DT
+  (NP (NBAR boats/NNS))
+  ./.
+  Clearly/RB
+  ,/,
+  the/DT
+  (NP (NBAR U.S./NNP prosecutors/NNS office/NN))
+  has/VBZ
+  been/VBN
+  very/RB
+  aggressive/JJ
+  on/IN
+  stopping/VBG
+  these/DT
+  (NP (NBAR types/NNS))
+  of/IN
+  (NP (NBAR activity/NN))
+  ./.
+  But/CC
+  the/DT
+  (NP (NBAR desperation/NN))
+  is/VBZ
+  great/JJ
+  ,/,
+  (NP (NBAR Bill/NNP))
+  ./.)(S
+  (NP (NBAR GARCIA/NNP))
+  :/:
+  No/UH
+  ,/,
+  it/PRP
+  is/VBZ
+  not/RB
+  ./.
+  It/PRP
+  's/VBZ
+  usually/RB
+  on/IN
+  a/DT
+  (NP (NBAR cheap/NN))
+  you/PRP
+  're/VBP
+  talking/VBG
+  about/IN
+  maybe/RB
+  somewhere/RB
+  between/IN
+  $/$
+  10,000/CD
+  and/CC
+  $/$
+  15,000/CD
+  a/DT
+  (NP (NBAR person/NN))
+  to/TO
+  get/VB
+  on/IN
+  these/DT
+  (NP (NBAR boats/NNS))
+  ./.
+  Clearly/RB
+  ,/,
+  the/DT
+  (NP (NBAR U.S./NNP prosecutors/NNS office/NN))
+  has/VBZ
+  been/VBN
+  very/RB
+  aggressive/JJ
+  on/IN
+  stopping/VBG
+  these/DT
+  (NP (NBAR types/NNS))
+  of/IN
+  (NP (NBAR activity/NN))
+  ./.
+  But/CC
+  the/DT
+  (NP (NBAR desperation/NN))
+  is/VBZ
+  great/JJ
+  ,/,
+  (NP (NBAR Bill/NNP))
   ./.)(S (NP (NBAR O'REILLY/NN)) :/: No/UH ,/, I/PRP know/VBP that/DT ./.)(S
   (NP (NBAR GARCIA/NN))
   :/:
@@ -458,6 +1518,21 @@
   the/DT
   (NP (NBAR world/NN))
   ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  But/CC
+  just/RB
+  the/DT
+  (NP (NBAR craft/NN))
+  that/IN
+  they/PRP
+  used/VBD
+  was/VBD
+  so/RB
+  fast/JJ
+  ./.
+  I/PRP
+  .../:)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   But/CC
@@ -511,6 +1586,87 @@
   that/IN
   possible/JJ
   ?/.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  .../:
+  one/CD
+  of/IN
+  our/PRP$
+  (NP (NBAR sources/NNS))
+  say/VBP
+  it/PRP
+  could/MD
+  have/VB
+  cost/VBN
+  (NP (NBAR Jose/NNP Contreras/NNP))
+  ,/,
+  who/WP
+  's/VBZ
+  a/DT
+  (NP (NBAR wealthy/JJ individual/NN))
+  now/RB
+  playing/VBG
+  with/IN
+  the/DT
+  (NP (NBAR Yankees/NNS))
+  ,/,
+  $/$
+  150,000/CD
+  to/TO
+  get/VB
+  his/PRP$
+  (NP (NBAR family/NN))
+  out/IN
+  of/IN
+  there/EX
+  ./.
+  Is/VBZ
+  that/IN
+  possible/JJ
+  ?/.)(S
+  (NP (NBAR GARCIA/NNP))
+  :/:
+  Oh/UH
+  ,/,
+  very/RB
+  possible/JJ
+  ./.
+  I/PRP
+  mean/VBP
+  ,/,
+  if/IN
+  this/DT
+  was/VBD
+  the/DT
+  (NP (NBAR main/JJ objective/NN))
+  of/IN
+  whoever/WP
+  helped/VBD
+  get/VB
+  these/DT
+  (NP (NBAR folks/NNS))
+  out/RP
+  ,/,
+  and/CC
+  clearly/RB
+  they/PRP
+  were/VBD
+  the/DT
+  (NP (NBAR golden/JJ nugget/NN))
+  of/IN
+  this/DT
+  (NP (NBAR group/NN))
+  probably/RB
+  ,/,
+  it/PRP
+  could/MD
+  have/VB
+  cost/VBN
+  as/RB
+  much/JJ
+  as/IN
+  that/DT
+  ./.)(S
   (NP (NBAR GARCIA/NNP))
   :/:
   Oh/UH
@@ -594,6 +1750,206 @@
   in/IN
   (NP (NBAR Cuba/NNP))
   ?/.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  All/DT
+  (NP (NBAR right/NN))
+  ,/,
+  it/PRP
+  could/MD
+  have/VB
+  cost/VBN
+  (/(
+  (NP (NBAR UNINTELLIGIBLE/NNP))
+  )/)
+  because/IN
+  that/DT
+  's/VBZ
+  what/WP
+  our/PRP$
+  (NP (NBAR guys/NNS))
+  are/VBP
+  telling/VBG
+  me/PRP
+  ./.
+  Now/RB
+  who/WP
+  are/VBP
+  these/DT
+  (NP (NBAR smugglers/NNS))
+  ?/.
+  Are/VBP
+  they/PRP
+  (NP (NBAR Cuban/NNP nationals/NNS))
+  ?/.
+  Are/VBP
+  they/PRP
+  (NP (NBAR people/NNS))
+  who/WP
+  live/VBP
+  in/IN
+  (NP (NBAR Cuba/NNP))
+  ?/.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  All/DT
+  (NP (NBAR right/NN))
+  ,/,
+  it/PRP
+  could/MD
+  have/VB
+  cost/VBN
+  (/(
+  (NP (NBAR UNINTELLIGIBLE/NNP))
+  )/)
+  because/IN
+  that/DT
+  's/VBZ
+  what/WP
+  our/PRP$
+  (NP (NBAR guys/NNS))
+  are/VBP
+  telling/VBG
+  me/PRP
+  ./.
+  Now/RB
+  who/WP
+  are/VBP
+  these/DT
+  (NP (NBAR smugglers/NNS))
+  ?/.
+  Are/VBP
+  they/PRP
+  (NP (NBAR Cuban/NNP nationals/NNS))
+  ?/.
+  Are/VBP
+  they/PRP
+  (NP (NBAR people/NNS))
+  who/WP
+  live/VBP
+  in/IN
+  (NP (NBAR Cuba/NNP))
+  ?/.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  All/DT
+  (NP (NBAR right/NN))
+  ,/,
+  it/PRP
+  could/MD
+  have/VB
+  cost/VBN
+  (/(
+  (NP (NBAR UNINTELLIGIBLE/NNP))
+  )/)
+  because/IN
+  that/DT
+  's/VBZ
+  what/WP
+  our/PRP$
+  (NP (NBAR guys/NNS))
+  are/VBP
+  telling/VBG
+  me/PRP
+  ./.
+  Now/RB
+  who/WP
+  are/VBP
+  these/DT
+  (NP (NBAR smugglers/NNS))
+  ?/.
+  Are/VBP
+  they/PRP
+  (NP (NBAR Cuban/NNP nationals/NNS))
+  ?/.
+  Are/VBP
+  they/PRP
+  (NP (NBAR people/NNS))
+  who/WP
+  live/VBP
+  in/IN
+  (NP (NBAR Cuba/NNP))
+  ?/.)(S
+  (NP (NBAR GARCIA/NNP))
+  :/:
+  No/UH
+  ,/,
+  no/DT
+  ,/,
+  these/DT
+  (NP (NBAR guys/NNS))
+  are/VBP
+  both/DT
+  (NP (NBAR U.S./NNP residents/NNS))
+  ./.
+  They/PRP
+  were/VBD
+  in/IN
+  (NP (NBAR jail/NN))
+  ./.
+  They/PRP
+  --/:
+  from/IN
+  what/WP
+  we/PRP
+  understand/VBP
+  ,/,
+  they/PRP
+  've/VBP
+  been/VBN
+  released/VBN
+  but/CC
+  no/DT
+  (NP (NBAR prosecution/NN))
+  or/CC
+  no/DT
+  (NP (NBAR indictment/NN))
+  has/VBZ
+  been/VBN
+  handed/VBN
+  down/RP
+  yet/RB
+  ./.)(S
+  (NP (NBAR GARCIA/NNP))
+  :/:
+  No/UH
+  ,/,
+  no/DT
+  ,/,
+  these/DT
+  (NP (NBAR guys/NNS))
+  are/VBP
+  both/DT
+  (NP (NBAR U.S./NNP residents/NNS))
+  ./.
+  They/PRP
+  were/VBD
+  in/IN
+  (NP (NBAR jail/NN))
+  ./.
+  They/PRP
+  --/:
+  from/IN
+  what/WP
+  we/PRP
+  understand/VBP
+  ,/,
+  they/PRP
+  've/VBP
+  been/VBN
+  released/VBN
+  but/CC
+  no/DT
+  (NP (NBAR prosecution/NN))
+  or/CC
+  no/DT
+  (NP (NBAR indictment/NN))
+  has/VBZ
+  been/VBN
+  handed/VBN
+  down/RP
+  yet/RB
+  ./.)(S
   (NP (NBAR GARCIA/NNP))
   :/:
   No/UH
@@ -666,6 +2022,64 @@
   ./.
   (NP (NBAR Residents/NNPS))
   ./.)(S
+  (NP (NBAR GARCIA/NNP))
+  :/:
+  (NP (NBAR Cuban-Americans/NNPS))
+  ./.
+  (NP (NBAR Residents/NNPS))
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  They/PRP
+  get/VBP
+  the/DT
+  (NP (NBAR boat/NN))
+  ./.
+  They/PRP
+  go/VBP
+  to/TO
+  (NP (NBAR Cuba/NNP))
+  and/CC
+  they/PRP
+  pick/VBP
+  these/DT
+  (NP (NBAR people/NNS))
+  up/RP
+  at/IN
+  an/DT
+  (NP (NBAR assigned/JJ point/NN))
+  ./.
+  It/PRP
+  's/VBZ
+  all/DT
+  coordinated/VBN
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  They/PRP
+  get/VBP
+  the/DT
+  (NP (NBAR boat/NN))
+  ./.
+  They/PRP
+  go/VBP
+  to/TO
+  (NP (NBAR Cuba/NNP))
+  and/CC
+  they/PRP
+  pick/VBP
+  these/DT
+  (NP (NBAR people/NNS))
+  up/RP
+  at/IN
+  an/DT
+  (NP (NBAR assigned/JJ point/NN))
+  ./.
+  It/PRP
+  's/VBZ
+  all/DT
+  coordinated/VBN
+  ./.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   They/PRP
@@ -707,6 +2121,189 @@
   this/DT
   (NP (NBAR stuff/NN))
   ?/.)(S
+  (NP (NBAR GARCIA/NNP))
+  :/:
+  I/PRP
+  think/VBP
+  it/PRP
+  's/VBZ
+  more/JJR
+  than/IN
+  an/DT
+  underground/JJ
+  ./.
+  I/PRP
+  think/VBP
+  clearly/RB
+  ,/,
+  (NP (NBAR someone/NN))
+  reached/VBD
+  out/RP
+  ,/,
+  had/VBD
+  to/TO
+  have/VB
+  reached/VBN
+  out/RP
+  to/TO
+  the/DT
+  (NP (NBAR family/NN))
+  ./.
+  You/PRP
+  know/VBP
+  ,/,
+  (NP (NBAR Cuba/NNP))
+  does/VBZ
+  n't/RB
+  have/VB
+  as/RB
+  (NP (NBAR many/JJ patrol/NN boats/NNS))
+  as/IN
+  it/PRP
+  used/VBD
+  to/TO
+  ./.
+  Most/JJS
+  of/IN
+  (NP (NBAR Cuba/NNP))
+  's/POS
+  (NP (NBAR patrol/NN boats/NNS))
+  ca/MD
+  n't/RB
+  keep/VB
+  up/RP
+  with/IN
+  the/DT
+  (NP (NBAR fast/JJ type/NN))
+  of/IN
+  (NP (NBAR boat/NN))
+  that/IN
+  they/PRP
+  use/VBP
+  here/RB
+  ./.)(S
+  (NP (NBAR GARCIA/NNP))
+  :/:
+  I/PRP
+  think/VBP
+  it/PRP
+  's/VBZ
+  more/JJR
+  than/IN
+  an/DT
+  underground/JJ
+  ./.
+  I/PRP
+  think/VBP
+  clearly/RB
+  ,/,
+  (NP (NBAR someone/NN))
+  reached/VBD
+  out/RP
+  ,/,
+  had/VBD
+  to/TO
+  have/VB
+  reached/VBN
+  out/RP
+  to/TO
+  the/DT
+  (NP (NBAR family/NN))
+  ./.
+  You/PRP
+  know/VBP
+  ,/,
+  (NP (NBAR Cuba/NNP))
+  does/VBZ
+  n't/RB
+  have/VB
+  as/RB
+  (NP (NBAR many/JJ patrol/NN boats/NNS))
+  as/IN
+  it/PRP
+  used/VBD
+  to/TO
+  ./.
+  Most/JJS
+  of/IN
+  (NP (NBAR Cuba/NNP))
+  's/POS
+  (NP (NBAR patrol/NN boats/NNS))
+  ca/MD
+  n't/RB
+  keep/VB
+  up/RP
+  with/IN
+  the/DT
+  (NP (NBAR fast/JJ type/NN))
+  of/IN
+  (NP (NBAR boat/NN))
+  that/IN
+  they/PRP
+  use/VBP
+  here/RB
+  ./.)(S
+  (NP (NBAR GARCIA/NNP))
+  :/:
+  I/PRP
+  think/VBP
+  it/PRP
+  's/VBZ
+  more/JJR
+  than/IN
+  an/DT
+  underground/JJ
+  ./.
+  I/PRP
+  think/VBP
+  clearly/RB
+  ,/,
+  (NP (NBAR someone/NN))
+  reached/VBD
+  out/RP
+  ,/,
+  had/VBD
+  to/TO
+  have/VB
+  reached/VBN
+  out/RP
+  to/TO
+  the/DT
+  (NP (NBAR family/NN))
+  ./.
+  You/PRP
+  know/VBP
+  ,/,
+  (NP (NBAR Cuba/NNP))
+  does/VBZ
+  n't/RB
+  have/VB
+  as/RB
+  (NP (NBAR many/JJ patrol/NN boats/NNS))
+  as/IN
+  it/PRP
+  used/VBD
+  to/TO
+  ./.
+  Most/JJS
+  of/IN
+  (NP (NBAR Cuba/NNP))
+  's/POS
+  (NP (NBAR patrol/NN boats/NNS))
+  ca/MD
+  n't/RB
+  keep/VB
+  up/RP
+  with/IN
+  the/DT
+  (NP (NBAR fast/JJ type/NN))
+  of/IN
+  (NP (NBAR boat/NN))
+  that/IN
+  they/PRP
+  use/VBP
+  here/RB
+  ./.)(S
   (NP (NBAR GARCIA/NNP))
   :/:
   I/PRP
@@ -852,7 +2449,82 @@
   (NP (NBAR kind/NN))
   of/IN
   (NP (NBAR smuggling/NN))
+  ./.)(S
+  (NP (NBAR GARCIA/NN))
+  :/:
+  There/EX
+  are/VBP
+  literally/RB
+  several/JJ
+  hundred/CD
+  (NP (NBAR people/NNS))
+  who/WP
+  are/VBP
+  (NP (NBAR U.S./NNP residents/NNS))
+  ./.
+  Therefore/RB
+  ,/,
+  they/PRP
+  have/VBP
+  no/DT
+  (NP (NBAR right/NN))
+  to/TO
+  claim/VB
+  (NP (NBAR help/NN))
+  from/IN
+  the/DT
+  (NP (NBAR U.S./NNP government/NN))
+  ,/,
+  who/WP
+  are/VBP
+  in/IN
+  (NP (NBAR jail/NN))
+  for/IN
+  trying/VBG
+  to/TO
+  do/VB
+  this/DT
+  (NP (NBAR kind/NN))
+  of/IN
+  (NP (NBAR smuggling/NN))
   ./.)(S (NP (NBAR O'REILLY/NN)) :/: (NP (NBAR OK/NN)) ./.)(S
+  (NP (NBAR GARCIA/NN))
+  :/:
+  But/CC
+  (NP (NBAR Bill/NNP))
+  ,/,
+  I/PRP
+  do/VBP
+  n't/RB
+  put/VB
+  it/PRP
+  beyond/IN
+  that/IN
+  there/EX
+  are/VBP
+  (NP (NBAR people/NNS))
+  who/WP
+  the/DT
+  (NP (NBAR Cuban/NNP government/NN))
+  may/MD
+  even/RB
+  participate/VB
+  in/IN
+  some/DT
+  of/IN
+  these/DT
+  (NP (NBAR cases/NNS))
+  ./.
+  I/PRP
+  do/VBP
+  n't/RB
+  think/VB
+  this/DT
+  is/VBZ
+  the/DT
+  (NP (NBAR case/NN))
+  here/RB
+  ./.)(S
   (NP (NBAR GARCIA/NN))
   :/:
   But/CC
@@ -939,6 +2611,25 @@
   of/IN
   (NP (NBAR cash/NN))
   ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  .../:
+  floating/VBG
+  around/RB
+  ,/,
+  to/TO
+  get/VB
+  these/DT
+  (NP (NBAR people/NNS))
+  out/RP
+  ./.
+  That/DT
+  's/VBZ
+  a/DT
+  (NP (NBAR lot/NN))
+  of/IN
+  (NP (NBAR cash/NN))
+  ./.)(S
   (NP (NBAR GARCIA/NN))
   :/:
   Goes/VBZ
@@ -1000,6 +2691,210 @@
   ./.
   (NP (NBAR Right/NNP))
   ?/.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  .../:
+  if/IN
+  (NP (NBAR Cuban/NNP refugees/NNS))
+  reach/VBP
+  (NP (NBAR U.S./NNP soil/NN))
+  ,/,
+  they/PRP
+  're/VBP
+  here/RB
+  ./.
+  But/CC
+  if/IN
+  the/DT
+  (NP (NBAR Coast/NNP Guard/NNP))
+  catches/VBZ
+  them/PRP
+  before/IN
+  they/PRP
+  put/VBP
+  their/PRP$
+  (NP (NBAR hand/NN))
+  on/IN
+  the/DT
+  (NP (NBAR sand/NN))
+  ,/,
+  they/PRP
+  go/VBP
+  back/RB
+  ./.
+  (NP (NBAR Right/NNP))
+  ?/.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  .../:
+  if/IN
+  (NP (NBAR Cuban/NNP refugees/NNS))
+  reach/VBP
+  (NP (NBAR U.S./NNP soil/NN))
+  ,/,
+  they/PRP
+  're/VBP
+  here/RB
+  ./.
+  But/CC
+  if/IN
+  the/DT
+  (NP (NBAR Coast/NNP Guard/NNP))
+  catches/VBZ
+  them/PRP
+  before/IN
+  they/PRP
+  put/VBP
+  their/PRP$
+  (NP (NBAR hand/NN))
+  on/IN
+  the/DT
+  (NP (NBAR sand/NN))
+  ,/,
+  they/PRP
+  go/VBP
+  back/RB
+  ./.
+  (NP (NBAR Right/NNP))
+  ?/.)(S
+  (NP (NBAR GARCIA/NNS))
+  :/:
+  They/PRP
+  go/VBP
+  back/RB
+  ./.
+  That/DT
+  's/VBZ
+  exactly/RB
+  how/WRB
+  the/DT
+  (NP (NBAR policy/NN works/NNS))
+  ,/,
+  which/WDT
+  is/VBZ
+  a/DT
+  very/RB
+  (NP (NBAR dangerous/JJ policy/NN))
+  ./.
+  Because/IN
+  in/IN
+  this/DT
+  (NP (NBAR case/NN))
+  ,/,
+  these/DT
+  (NP (NBAR guys/NNS))
+  were/VBD
+  caught/VBN
+  three/CD
+  (NP (NBAR hours/NNS))
+  out/RP
+  ./.
+  And/CC
+  they/PRP
+  just/RB
+  turned/VBD
+  out/RP
+  the/DT
+  (NP (NBAR lights/NNS))
+  and/CC
+  they/PRP
+  went/VBD
+  for/IN
+  the/DT
+  (NP (NBAR gold/NN))
+  ./.)(S
+  (NP (NBAR GARCIA/NNS))
+  :/:
+  They/PRP
+  go/VBP
+  back/RB
+  ./.
+  That/DT
+  's/VBZ
+  exactly/RB
+  how/WRB
+  the/DT
+  (NP (NBAR policy/NN works/NNS))
+  ,/,
+  which/WDT
+  is/VBZ
+  a/DT
+  very/RB
+  (NP (NBAR dangerous/JJ policy/NN))
+  ./.
+  Because/IN
+  in/IN
+  this/DT
+  (NP (NBAR case/NN))
+  ,/,
+  these/DT
+  (NP (NBAR guys/NNS))
+  were/VBD
+  caught/VBN
+  three/CD
+  (NP (NBAR hours/NNS))
+  out/RP
+  ./.
+  And/CC
+  they/PRP
+  just/RB
+  turned/VBD
+  out/RP
+  the/DT
+  (NP (NBAR lights/NNS))
+  and/CC
+  they/PRP
+  went/VBD
+  for/IN
+  the/DT
+  (NP (NBAR gold/NN))
+  ./.)(S
+  (NP (NBAR GARCIA/NNS))
+  :/:
+  They/PRP
+  go/VBP
+  back/RB
+  ./.
+  That/DT
+  's/VBZ
+  exactly/RB
+  how/WRB
+  the/DT
+  (NP (NBAR policy/NN works/NNS))
+  ,/,
+  which/WDT
+  is/VBZ
+  a/DT
+  very/RB
+  (NP (NBAR dangerous/JJ policy/NN))
+  ./.
+  Because/IN
+  in/IN
+  this/DT
+  (NP (NBAR case/NN))
+  ,/,
+  these/DT
+  (NP (NBAR guys/NNS))
+  were/VBD
+  caught/VBN
+  three/CD
+  (NP (NBAR hours/NNS))
+  out/RP
+  ./.
+  And/CC
+  they/PRP
+  just/RB
+  turned/VBD
+  out/RP
+  the/DT
+  (NP (NBAR lights/NNS))
+  and/CC
+  they/PRP
+  went/VBD
+  for/IN
+  the/DT
+  (NP (NBAR gold/NN))
+  ./.)(S
   (NP (NBAR GARCIA/NNS))
   :/:
   They/PRP
@@ -1130,6 +3025,48 @@
   the/DT
   (NP (NBAR week/NN))
   ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  I/PRP
+  think/VBP
+  --/:
+  you/PRP
+  know/VBP
+  ,/,
+  I/PRP
+  understand/VBP
+  why/WRB
+  because/IN
+  of/IN
+  the/DT
+  (NP (NBAR mariels/NNS))
+  (/(
+  (NP (NBAR ph/NN))
+  )/)
+  and/CC
+  all/DT
+  of/IN
+  that/DT
+  ./.
+  I/PRP
+  got/VBD
+  it/PRP
+  ,/,
+  but/CC
+  it/PRP
+  's/VBZ
+  an/DT
+  incredible/JJ
+  --/:
+  it/PRP
+  should/MD
+  be/VB
+  a/DT
+  (NP (NBAR movie/NN))
+  of/IN
+  the/DT
+  (NP (NBAR week/NN))
+  ./.)(S
   (NP (NBAR Mr./NNP Garcia/NNP))
   thanks/VBZ
   very/RB
@@ -1166,4 +3103,115 @@
   ,/,
   the/DT
   better/JJR
-  ./.)(S )(S )
+  ./.)(S
+  (NP (NBAR Mr./NNP Garcia/NNP))
+  thanks/VBZ
+  very/RB
+  much/JJ
+  ./.
+  We/PRP
+  appreciate/VBP
+  it/PRP
+  ./.
+  We/PRP
+  're/VBP
+  very/RB
+  glad/JJ
+  the/DT
+  (NP (NBAR Contreras/NNP family/NN))
+  is/VBZ
+  back/RB
+  together/RB
+  again/RB
+  ./.
+  And/CC
+  to/TO
+  (NP (NBAR Fidel/NNP Castro/NNP))
+  ,/,
+  you/PRP
+  know/VBP
+  ,/,
+  the/DT
+  (NP (NBAR sooner/NN))
+  you/PRP
+  depart/VBP
+  this/DT
+  (NP (NBAR earth/NN))
+  ,/,
+  the/DT
+  better/JJR
+  ./.)(S
+  (NP (NBAR Mr./NNP Garcia/NNP))
+  thanks/VBZ
+  very/RB
+  much/JJ
+  ./.
+  We/PRP
+  appreciate/VBP
+  it/PRP
+  ./.
+  We/PRP
+  're/VBP
+  very/RB
+  glad/JJ
+  the/DT
+  (NP (NBAR Contreras/NNP family/NN))
+  is/VBZ
+  back/RB
+  together/RB
+  again/RB
+  ./.
+  And/CC
+  to/TO
+  (NP (NBAR Fidel/NNP Castro/NNP))
+  ,/,
+  you/PRP
+  know/VBP
+  ,/,
+  the/DT
+  (NP (NBAR sooner/NN))
+  you/PRP
+  depart/VBP
+  this/DT
+  (NP (NBAR earth/NN))
+  ,/,
+  the/DT
+  better/JJR
+  ./.)(S
+  (NP (NBAR Mr./NNP Garcia/NNP))
+  thanks/VBZ
+  very/RB
+  much/JJ
+  ./.
+  We/PRP
+  appreciate/VBP
+  it/PRP
+  ./.
+  We/PRP
+  're/VBP
+  very/RB
+  glad/JJ
+  the/DT
+  (NP (NBAR Contreras/NNP family/NN))
+  is/VBZ
+  back/RB
+  together/RB
+  again/RB
+  ./.
+  And/CC
+  to/TO
+  (NP (NBAR Fidel/NNP Castro/NNP))
+  ,/,
+  you/PRP
+  know/VBP
+  ,/,
+  the/DT
+  (NP (NBAR sooner/NN))
+  you/PRP
+  depart/VBP
+  this/DT
+  (NP (NBAR earth/NN))
+  ,/,
+  the/DT
+  better/JJR
+  ./.)

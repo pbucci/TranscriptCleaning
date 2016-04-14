@@ -1,4 +1,30 @@
-(S )(S )(S
+(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  ``/``
+  (NP (NBAR Personal/NNP Story/NNP Segment/NNP))
+  ''/''
+  (NP (NBAR tonight/NN))
+  --/:
+  (NP (NBAR NBC/NNP Sportscaster/NNP Bob/NNP Costas/NNP))
+  ./.
+  As/IN
+  you/PRP
+  may/MD
+  know/VB
+  there/EX
+  was/VBD
+  some/DT
+  controversial/JJ
+  over/IN
+  his/PRP$
+  (NP (NBAR comments/NNS))
+  about/IN
+  (NP (NBAR Putin/NNP))
+  during/IN
+  the/DT
+  (NP (NBAR Olympic/NNP coverage/NN))
+  ./.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   ``/``
@@ -74,6 +100,56 @@
   particularly/RB
   the/DT
   (NP (NBAR United/NNP States/NNPS))
+  ./.)(S
+  (NP (NBAR COSTAS/NN))
+  :/:
+  Just/RB
+  in/IN
+  the/DT
+  (NP (NBAR past/JJ year/NN))
+  ,/,
+  (NP (NBAR Putin/NNP))
+  brokered/VBD
+  a/DT
+  (NP (NBAR deal/NN))
+  to/TO
+  allow/VB
+  (NP (NBAR Syria/NNP))
+  to/TO
+  avoid/VB
+  a/DT
+  (NP (NBAR U.S./NNP military/JJ strike/NN))
+  by/IN
+  giving/VBG
+  up/RP
+  its/PRP$
+  (NP (NBAR chemical/NN weapons/NNS))
+  and/CC
+  helped/VBD
+  bring/VB
+  (NP (NBAR Iran/NNP))
+  to/TO
+  the/DT
+  (NP (NBAR negotiating/NN table/NN))
+  over/IN
+  its/PRP$
+  (NP (NBAR nuclear/JJ intentions/NNS))
+  ./.
+  And/CC
+  he/PRP
+  has/VBZ
+  repeatedly/RB
+  showcased/VBN
+  his/PRP$
+  (NP (NBAR confidence/NN))
+  to/TO
+  take/VB
+  on/IN
+  the/DT
+  (NP (NBAR West/NNP))
+  particularly/RB
+  the/DT
+  (NP (NBAR United/NNP States/NNPS))
   ./.)(S (/( (NP (NBAR END/NNP VIDEO/NNP CLIP/NNP)) )/))(S
   (NP (NBAR O'REILLY/NN))
   :/:
@@ -91,7 +167,77 @@
   (NP (NBAR Mr./NNP Costas/NNP))
   said/VBD
   this/DT
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  And/CC
+  that/DT
+  was/VBD
+  on/IN
+  (NP (NBAR February/NNP))
+  6th/CD
+  ./.
+  Two/CD
+  (NP (NBAR weeks/NNS))
+  later/RB
+  ,/,
+  (NP (NBAR Mr./NNP Costas/NNP))
+  said/VBD
+  this/DT
   ./.)(S (/( (NP (NBAR BEGIN/NNP VIDEO/NNP CLIP/NNP)) )/))(S
+  (NP (NBAR COSTAS/NNS))
+  :/:
+  While/IN
+  in/IN
+  (NP (NBAR many/JJ significant/JJ ways/NNS Russian/JJ citizens/NNS))
+  have/VBP
+  better/JJR
+  (NP (NBAR lives/NNS))
+  than/IN
+  (NP (NBAR Soviet/JJ citizens/NNS))
+  of/IN
+  a/DT
+  (NP (NBAR generation/NN))
+  ago/RB
+  ,/,
+  theirs/PRP
+  is/VBZ
+  still/RB
+  a/DT
+  (NP (NBAR government/NN))
+  which/WDT
+  imprisons/VBZ
+  (NP (NBAR dissidents/NNS))
+  ,/,
+  is/VBZ
+  hostile/JJ
+  to/TO
+  gay/VB
+  (NP (NBAR rights/NNS))
+  ,/,
+  (NP (NBAR sponsors/NNS))
+  and/CC
+  supports/VBZ
+  a/DT
+  (NP (NBAR vicious/JJ regime/NN))
+  in/IN
+  (NP (NBAR Syria/NNP))
+  and/CC
+  that/DT
+  's/VBZ
+  just/RB
+  a/DT
+  (NP (NBAR partial/JJ list/NN))
+  ./.
+  No/DT
+  (NP (NBAR amount/NN))
+  of/IN
+  (NP (NBAR Olympic/NNP glory/NN))
+  can/MD
+  mask/VB
+  those/DT
+  (NP (NBAR realities/NNS))
+  ./.)(S
   (NP (NBAR COSTAS/NNS))
   :/:
   While/IN
@@ -216,6 +362,408 @@
   was/VBD
   fair/VBN
   ?/.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  Right/RB
+  but/CC
+  you/PRP
+  know/VBP
+  everybody/JJ
+  gets/VBZ
+  it/PRP
+  if/IN
+  you/PRP
+  are/VBP
+  as/RB
+  big/JJ
+  as/IN
+  you/PRP
+  are/VBP
+  ./.
+  But/CC
+  you/PRP
+  do/VBP
+  n't/RB
+  think/VB
+  that/DT
+  was/VBD
+  fair/VBN
+  ?/.)(S
+  (NP (NBAR COSTAS/NN))
+  :/:
+  No/DT
+  because/IN
+  it/PRP
+  was/VBD
+  entirely/RB
+  out/IN
+  of/IN
+  (NP (NBAR context/NN))
+  ./.
+  I/PRP
+  was/VBD
+  reluctant/JJ
+  to/TO
+  come/VB
+  on/IN
+  ./.
+  I/PRP
+  come/VBP
+  on/IN
+  out/IN
+  of/IN
+  (NP (NBAR respect/NN))
+  to/TO
+  you/PRP
+  ./.
+  You/PRP
+  've/VBP
+  always/RB
+  been/VBN
+  fair/JJ
+  to/TO
+  me/PRP
+  ./.
+  But/CC
+  I/PRP
+  run/VBP
+  the/DT
+  (NP (NBAR risk/NN))
+  of/IN
+  amplifying/VBG
+  which/WDT
+  should/MD
+  be/VB
+  nonissue/RB
+  ./.
+  This/DT
+  is/VBZ
+  a/DT
+  (NP (NBAR controversy/NN))
+  only/RB
+  for/IN
+  those/DT
+  looking/VBG
+  for/IN
+  the/DT
+  most/RBS
+  (NP (NBAR flimsy/JJ pretext/NN))
+  for/IN
+  a/DT
+  (NP (NBAR controversy/NN))
+  and/CC
+  a/DT
+  (NP (NBAR kind/NN))
+  of/IN
+  (NP (NBAR cut/NN))
+  and/CC
+  (NP (NBAR paste/NN thing/NN))
+  that/WDT
+  is/VBZ
+  n't/RB
+  even/RB
+  (NP (NBAR journalism/NN))
+  ./.)(S
+  (NP (NBAR COSTAS/NN))
+  :/:
+  No/DT
+  because/IN
+  it/PRP
+  was/VBD
+  entirely/RB
+  out/IN
+  of/IN
+  (NP (NBAR context/NN))
+  ./.
+  I/PRP
+  was/VBD
+  reluctant/JJ
+  to/TO
+  come/VB
+  on/IN
+  ./.
+  I/PRP
+  come/VBP
+  on/IN
+  out/IN
+  of/IN
+  (NP (NBAR respect/NN))
+  to/TO
+  you/PRP
+  ./.
+  You/PRP
+  've/VBP
+  always/RB
+  been/VBN
+  fair/JJ
+  to/TO
+  me/PRP
+  ./.
+  But/CC
+  I/PRP
+  run/VBP
+  the/DT
+  (NP (NBAR risk/NN))
+  of/IN
+  amplifying/VBG
+  which/WDT
+  should/MD
+  be/VB
+  nonissue/RB
+  ./.
+  This/DT
+  is/VBZ
+  a/DT
+  (NP (NBAR controversy/NN))
+  only/RB
+  for/IN
+  those/DT
+  looking/VBG
+  for/IN
+  the/DT
+  most/RBS
+  (NP (NBAR flimsy/JJ pretext/NN))
+  for/IN
+  a/DT
+  (NP (NBAR controversy/NN))
+  and/CC
+  a/DT
+  (NP (NBAR kind/NN))
+  of/IN
+  (NP (NBAR cut/NN))
+  and/CC
+  (NP (NBAR paste/NN thing/NN))
+  that/WDT
+  is/VBZ
+  n't/RB
+  even/RB
+  (NP (NBAR journalism/NN))
+  ./.)(S
+  (NP (NBAR COSTAS/NN))
+  :/:
+  No/DT
+  because/IN
+  it/PRP
+  was/VBD
+  entirely/RB
+  out/IN
+  of/IN
+  (NP (NBAR context/NN))
+  ./.
+  I/PRP
+  was/VBD
+  reluctant/JJ
+  to/TO
+  come/VB
+  on/IN
+  ./.
+  I/PRP
+  come/VBP
+  on/IN
+  out/IN
+  of/IN
+  (NP (NBAR respect/NN))
+  to/TO
+  you/PRP
+  ./.
+  You/PRP
+  've/VBP
+  always/RB
+  been/VBN
+  fair/JJ
+  to/TO
+  me/PRP
+  ./.
+  But/CC
+  I/PRP
+  run/VBP
+  the/DT
+  (NP (NBAR risk/NN))
+  of/IN
+  amplifying/VBG
+  which/WDT
+  should/MD
+  be/VB
+  nonissue/RB
+  ./.
+  This/DT
+  is/VBZ
+  a/DT
+  (NP (NBAR controversy/NN))
+  only/RB
+  for/IN
+  those/DT
+  looking/VBG
+  for/IN
+  the/DT
+  most/RBS
+  (NP (NBAR flimsy/JJ pretext/NN))
+  for/IN
+  a/DT
+  (NP (NBAR controversy/NN))
+  and/CC
+  a/DT
+  (NP (NBAR kind/NN))
+  of/IN
+  (NP (NBAR cut/NN))
+  and/CC
+  (NP (NBAR paste/NN thing/NN))
+  that/WDT
+  is/VBZ
+  n't/RB
+  even/RB
+  (NP (NBAR journalism/NN))
+  ./.)(S
+  (NP (NBAR COSTAS/NN))
+  :/:
+  No/DT
+  because/IN
+  it/PRP
+  was/VBD
+  entirely/RB
+  out/IN
+  of/IN
+  (NP (NBAR context/NN))
+  ./.
+  I/PRP
+  was/VBD
+  reluctant/JJ
+  to/TO
+  come/VB
+  on/IN
+  ./.
+  I/PRP
+  come/VBP
+  on/IN
+  out/IN
+  of/IN
+  (NP (NBAR respect/NN))
+  to/TO
+  you/PRP
+  ./.
+  You/PRP
+  've/VBP
+  always/RB
+  been/VBN
+  fair/JJ
+  to/TO
+  me/PRP
+  ./.
+  But/CC
+  I/PRP
+  run/VBP
+  the/DT
+  (NP (NBAR risk/NN))
+  of/IN
+  amplifying/VBG
+  which/WDT
+  should/MD
+  be/VB
+  nonissue/RB
+  ./.
+  This/DT
+  is/VBZ
+  a/DT
+  (NP (NBAR controversy/NN))
+  only/RB
+  for/IN
+  those/DT
+  looking/VBG
+  for/IN
+  the/DT
+  most/RBS
+  (NP (NBAR flimsy/JJ pretext/NN))
+  for/IN
+  a/DT
+  (NP (NBAR controversy/NN))
+  and/CC
+  a/DT
+  (NP (NBAR kind/NN))
+  of/IN
+  (NP (NBAR cut/NN))
+  and/CC
+  (NP (NBAR paste/NN thing/NN))
+  that/WDT
+  is/VBZ
+  n't/RB
+  even/RB
+  (NP (NBAR journalism/NN))
+  ./.)(S
+  (NP (NBAR COSTAS/NN))
+  :/:
+  No/DT
+  because/IN
+  it/PRP
+  was/VBD
+  entirely/RB
+  out/IN
+  of/IN
+  (NP (NBAR context/NN))
+  ./.
+  I/PRP
+  was/VBD
+  reluctant/JJ
+  to/TO
+  come/VB
+  on/IN
+  ./.
+  I/PRP
+  come/VBP
+  on/IN
+  out/IN
+  of/IN
+  (NP (NBAR respect/NN))
+  to/TO
+  you/PRP
+  ./.
+  You/PRP
+  've/VBP
+  always/RB
+  been/VBN
+  fair/JJ
+  to/TO
+  me/PRP
+  ./.
+  But/CC
+  I/PRP
+  run/VBP
+  the/DT
+  (NP (NBAR risk/NN))
+  of/IN
+  amplifying/VBG
+  which/WDT
+  should/MD
+  be/VB
+  nonissue/RB
+  ./.
+  This/DT
+  is/VBZ
+  a/DT
+  (NP (NBAR controversy/NN))
+  only/RB
+  for/IN
+  those/DT
+  looking/VBG
+  for/IN
+  the/DT
+  most/RBS
+  (NP (NBAR flimsy/JJ pretext/NN))
+  for/IN
+  a/DT
+  (NP (NBAR controversy/NN))
+  and/CC
+  a/DT
+  (NP (NBAR kind/NN))
+  of/IN
+  (NP (NBAR cut/NN))
+  and/CC
+  (NP (NBAR paste/NN thing/NN))
+  that/WDT
+  is/VBZ
+  n't/RB
+  even/RB
+  (NP (NBAR journalism/NN))
+  ./.)(S
   (NP (NBAR COSTAS/NN))
   :/:
   No/DT
@@ -365,6 +913,231 @@
   ./.
   All/DT
   (NP (NBAR right/NN))
+  ./.)(S
+  That/DT
+  was/VBD
+  not/RB
+  a/DT
+  (NP (NBAR profile/NN))
+  of/IN
+  (NP (NBAR Putin/NNP))
+  ./.
+  It/PRP
+  was/VBD
+  a/DT
+  set/VBN
+  up/RP
+  to/TO
+  a/DT
+  (NP (NBAR conversation/NN))
+  in/IN
+  which/WDT
+  (NP (NBAR Putin/NNP))
+  would/MD
+  immediately/RB
+  be/VB
+  called/VBN
+  an/DT
+  (NP (NBAR autocrat/NN))
+  and/CC
+  his/PRP$
+  (NP (NBAR desire/NN))
+  to/TO
+  expand/VB
+  the/DT
+  (NP (NBAR former/JJ Soviet/NNP empire/NN))
+  ,/,
+  now/RB
+  the/DT
+  (NP (NBAR Russian/JJ empire/NN))
+  ,/,
+  his/PRP$
+  (NP (NBAR desire/NN))
+  to/TO
+  make/VB
+  his/PRP$
+  (NP (NBAR nation/NN))
+  more/RBR
+  and/CC
+  more/RBR
+  influential/JJ
+  and/CC
+  consequential/JJ
+  on/IN
+  the/DT
+  (NP (NBAR international/JJ stage/NN))
+  ./.
+  That/DT
+  was/VBD
+  the/DT
+  (NP (NBAR whole/JJ thing/NN))
+  --/:
+  not/RB
+  an/DT
+  (NP (NBAR hour/NN))
+  later/RB
+  ,/,
+  not/RB
+  after/IN
+  a/DT
+  commercial/JJ
+  --/:
+  contiguous/JJ
+  to/TO
+  it/PRP
+  ./.
+  All/DT
+  (NP (NBAR right/NN))
+  ./.)(S
+  That/DT
+  was/VBD
+  not/RB
+  a/DT
+  (NP (NBAR profile/NN))
+  of/IN
+  (NP (NBAR Putin/NNP))
+  ./.
+  It/PRP
+  was/VBD
+  a/DT
+  set/VBN
+  up/RP
+  to/TO
+  a/DT
+  (NP (NBAR conversation/NN))
+  in/IN
+  which/WDT
+  (NP (NBAR Putin/NNP))
+  would/MD
+  immediately/RB
+  be/VB
+  called/VBN
+  an/DT
+  (NP (NBAR autocrat/NN))
+  and/CC
+  his/PRP$
+  (NP (NBAR desire/NN))
+  to/TO
+  expand/VB
+  the/DT
+  (NP (NBAR former/JJ Soviet/NNP empire/NN))
+  ,/,
+  now/RB
+  the/DT
+  (NP (NBAR Russian/JJ empire/NN))
+  ,/,
+  his/PRP$
+  (NP (NBAR desire/NN))
+  to/TO
+  make/VB
+  his/PRP$
+  (NP (NBAR nation/NN))
+  more/RBR
+  and/CC
+  more/RBR
+  influential/JJ
+  and/CC
+  consequential/JJ
+  on/IN
+  the/DT
+  (NP (NBAR international/JJ stage/NN))
+  ./.
+  That/DT
+  was/VBD
+  the/DT
+  (NP (NBAR whole/JJ thing/NN))
+  --/:
+  not/RB
+  an/DT
+  (NP (NBAR hour/NN))
+  later/RB
+  ,/,
+  not/RB
+  after/IN
+  a/DT
+  commercial/JJ
+  --/:
+  contiguous/JJ
+  to/TO
+  it/PRP
+  ./.
+  All/DT
+  (NP (NBAR right/NN))
+  ./.)(S
+  That/DT
+  was/VBD
+  not/RB
+  a/DT
+  (NP (NBAR profile/NN))
+  of/IN
+  (NP (NBAR Putin/NNP))
+  ./.
+  It/PRP
+  was/VBD
+  a/DT
+  set/VBN
+  up/RP
+  to/TO
+  a/DT
+  (NP (NBAR conversation/NN))
+  in/IN
+  which/WDT
+  (NP (NBAR Putin/NNP))
+  would/MD
+  immediately/RB
+  be/VB
+  called/VBN
+  an/DT
+  (NP (NBAR autocrat/NN))
+  and/CC
+  his/PRP$
+  (NP (NBAR desire/NN))
+  to/TO
+  expand/VB
+  the/DT
+  (NP (NBAR former/JJ Soviet/NNP empire/NN))
+  ,/,
+  now/RB
+  the/DT
+  (NP (NBAR Russian/JJ empire/NN))
+  ,/,
+  his/PRP$
+  (NP (NBAR desire/NN))
+  to/TO
+  make/VB
+  his/PRP$
+  (NP (NBAR nation/NN))
+  more/RBR
+  and/CC
+  more/RBR
+  influential/JJ
+  and/CC
+  consequential/JJ
+  on/IN
+  the/DT
+  (NP (NBAR international/JJ stage/NN))
+  ./.
+  That/DT
+  was/VBD
+  the/DT
+  (NP (NBAR whole/JJ thing/NN))
+  --/:
+  not/RB
+  an/DT
+  (NP (NBAR hour/NN))
+  later/RB
+  ,/,
+  not/RB
+  after/IN
+  a/DT
+  commercial/JJ
+  --/:
+  contiguous/JJ
+  to/TO
+  it/PRP
+  ./.
+  All/DT
+  (NP (NBAR right/NN))
   ./.)(S (NP (NBAR O'REILLY/NN)) :/: (NP (NBAR Ok/NN)) ./.)(S
   (NP (NBAR COSTAS/NN))
   :/:
@@ -377,6 +1150,64 @@
   was/VBD
   (NP (NBAR nothing/NN))
   ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  But/CC
+  why/WRB
+  get/VBP
+  involved/VBN
+  with/IN
+  (NP (NBAR politics/NNS))
+  at/IN
+  all/DT
+  ./.
+  You/PRP
+  guys/VBP
+  were/VBD
+  over/RB
+  there/RB
+  to/TO
+  cover/VB
+  the/DT
+  (NP (NBAR games/NNS))
+  ./.
+  I/PRP
+  mean/VBP
+  why/WRB
+  even/RB
+  bother/RBR
+  with/IN
+  it/PRP
+  ?/.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  But/CC
+  why/WRB
+  get/VBP
+  involved/VBN
+  with/IN
+  (NP (NBAR politics/NNS))
+  at/IN
+  all/DT
+  ./.
+  You/PRP
+  guys/VBP
+  were/VBD
+  over/RB
+  there/RB
+  to/TO
+  cover/VB
+  the/DT
+  (NP (NBAR games/NNS))
+  ./.
+  I/PRP
+  mean/VBP
+  why/WRB
+  even/RB
+  bother/RBR
+  with/IN
+  it/PRP
+  ?/.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   But/CC
@@ -475,6 +1306,584 @@
   laid/VBD
   it/PRP
   out/RP
+  ./.)(S
+  (NP (NBAR COSTAS/NN))
+  :/:
+  In/IN
+  (NP (NBAR fact/NN))
+  --/:
+  in/IN
+  (NP (NBAR fact/NN))
+  ,/,
+  on/IN
+  (NP (NBAR behalf/NN))
+  of/IN
+  my/PRP$
+  (NP (NBAR colleagues/NNS))
+  at/IN
+  (NP (NBAR NBC/NNP))
+  and/CC
+  (NP (NBAR Mark/NNP Lazarus/NNP))
+  who/WP
+  runs/VBZ
+  (NP (NBAR NBC/NNP Sports/NNPS))
+  now/RB
+  ,/,
+  we/PRP
+  did/VBD
+  exactly/RB
+  what/WP
+  we/PRP
+  said/VBD
+  we/PRP
+  were/VBD
+  going/VBG
+  to/TO
+  do/VB
+  ./.
+  We/PRP
+  would/MD
+  frame/VB
+  the/DT
+  (NP (NBAR back/JJ drop/NN))
+  against/IN
+  which/WDT
+  these/DT
+  (NP (NBAR issues/NNS))
+  --/:
+  against/IN
+  which/WDT
+  these/DT
+  (NP (NBAR Olympics/NNPS))
+  took/VBD
+  (NP (NBAR place/NN))
+  ./.
+  Each/DT
+  of/IN
+  the/DT
+  first/JJ
+  two/CD
+  (NP (NBAR nights/NNS))
+  in/IN
+  the/DT
+  (NP (NBAR first/JJ minute/NN))
+  ,/,
+  in/IN
+  a/DT
+  (NP (NBAR broad/JJ sense/NN))
+  ,/,
+  I/PRP
+  laid/VBD
+  it/PRP
+  out/RP
+  ./.)(S
+  (NP (NBAR COSTAS/NN))
+  :/:
+  In/IN
+  (NP (NBAR fact/NN))
+  --/:
+  in/IN
+  (NP (NBAR fact/NN))
+  ,/,
+  on/IN
+  (NP (NBAR behalf/NN))
+  of/IN
+  my/PRP$
+  (NP (NBAR colleagues/NNS))
+  at/IN
+  (NP (NBAR NBC/NNP))
+  and/CC
+  (NP (NBAR Mark/NNP Lazarus/NNP))
+  who/WP
+  runs/VBZ
+  (NP (NBAR NBC/NNP Sports/NNPS))
+  now/RB
+  ,/,
+  we/PRP
+  did/VBD
+  exactly/RB
+  what/WP
+  we/PRP
+  said/VBD
+  we/PRP
+  were/VBD
+  going/VBG
+  to/TO
+  do/VB
+  ./.
+  We/PRP
+  would/MD
+  frame/VB
+  the/DT
+  (NP (NBAR back/JJ drop/NN))
+  against/IN
+  which/WDT
+  these/DT
+  (NP (NBAR issues/NNS))
+  --/:
+  against/IN
+  which/WDT
+  these/DT
+  (NP (NBAR Olympics/NNPS))
+  took/VBD
+  (NP (NBAR place/NN))
+  ./.
+  Each/DT
+  of/IN
+  the/DT
+  first/JJ
+  two/CD
+  (NP (NBAR nights/NNS))
+  in/IN
+  the/DT
+  (NP (NBAR first/JJ minute/NN))
+  ,/,
+  in/IN
+  a/DT
+  (NP (NBAR broad/JJ sense/NN))
+  ,/,
+  I/PRP
+  laid/VBD
+  it/PRP
+  out/RP
+  ./.)(S
+  Then/RB
+  we/PRP
+  brought/VBD
+  on/IN
+  (NP (NBAR David/NNP Remnick/NNP))
+  ,/,
+  whether/IN
+  (NP (NBAR people/NNS thinks/NNS))
+  he/PRP
+  leans/VBZ
+  left/VBD
+  or/CC
+  not/RB
+  ,/,
+  he/PRP
+  is/VBZ
+  an/DT
+  (NP (NBAR expert/NN))
+  on/IN
+  (NP (NBAR Russian/JJ history/NN))
+  and/CC
+  (NP (NBAR Russian/JJ politics/NNS))
+  ./.
+  And/CC
+  we/PRP
+  talked/VBD
+  about/IN
+  these/DT
+  being/VBG
+  (NP (NBAR Putin/NNP))
+  's/POS
+  (NP (NBAR games/NNS))
+  ./.
+  The/DT
+  1984/CD
+  (NP (NBAR Olympics/NNPS))
+  were/VBD
+  n't/RB
+  (NP (NBAR Ronald/NNP Reagan/NNP))
+  's/POS
+  (NP (NBAR games/NNS))
+  ./.
+  They/PRP
+  were/VBD
+  (NP (NBAR Peter/NNP Uebberoth/NNP))
+  's/POS
+  ./.
+  The/DT
+  1996/CD
+  (NP (NBAR Olympics/NNPS))
+  were/VBD
+  (NP (NBAR Billy/NNP Payne/NNP))
+  's/POS
+  not/RB
+  (NP (NBAR Bill/NNP Clinton/NNP))
+  's/POS
+  ./.
+  The/DT
+  2002/CD
+  (NP (NBAR Olympics/NNPS))
+  were/VBD
+  (NP (NBAR Mitt/NNP Romney/NNP))
+  's/POS
+  not/RB
+  (NP (NBAR George/NNP Bush/NNP))
+  's/POS
+  ./.
+  These/DT
+  were/VBD
+  (NP (NBAR Putin/NNP))
+  's/POS
+  (NP (NBAR games/NNS))
+  ./.)(S
+  Then/RB
+  we/PRP
+  brought/VBD
+  on/IN
+  (NP (NBAR David/NNP Remnick/NNP))
+  ,/,
+  whether/IN
+  (NP (NBAR people/NNS thinks/NNS))
+  he/PRP
+  leans/VBZ
+  left/VBD
+  or/CC
+  not/RB
+  ,/,
+  he/PRP
+  is/VBZ
+  an/DT
+  (NP (NBAR expert/NN))
+  on/IN
+  (NP (NBAR Russian/JJ history/NN))
+  and/CC
+  (NP (NBAR Russian/JJ politics/NNS))
+  ./.
+  And/CC
+  we/PRP
+  talked/VBD
+  about/IN
+  these/DT
+  being/VBG
+  (NP (NBAR Putin/NNP))
+  's/POS
+  (NP (NBAR games/NNS))
+  ./.
+  The/DT
+  1984/CD
+  (NP (NBAR Olympics/NNPS))
+  were/VBD
+  n't/RB
+  (NP (NBAR Ronald/NNP Reagan/NNP))
+  's/POS
+  (NP (NBAR games/NNS))
+  ./.
+  They/PRP
+  were/VBD
+  (NP (NBAR Peter/NNP Uebberoth/NNP))
+  's/POS
+  ./.
+  The/DT
+  1996/CD
+  (NP (NBAR Olympics/NNPS))
+  were/VBD
+  (NP (NBAR Billy/NNP Payne/NNP))
+  's/POS
+  not/RB
+  (NP (NBAR Bill/NNP Clinton/NNP))
+  's/POS
+  ./.
+  The/DT
+  2002/CD
+  (NP (NBAR Olympics/NNPS))
+  were/VBD
+  (NP (NBAR Mitt/NNP Romney/NNP))
+  's/POS
+  not/RB
+  (NP (NBAR George/NNP Bush/NNP))
+  's/POS
+  ./.
+  These/DT
+  were/VBD
+  (NP (NBAR Putin/NNP))
+  's/POS
+  (NP (NBAR games/NNS))
+  ./.)(S
+  Then/RB
+  we/PRP
+  brought/VBD
+  on/IN
+  (NP (NBAR David/NNP Remnick/NNP))
+  ,/,
+  whether/IN
+  (NP (NBAR people/NNS thinks/NNS))
+  he/PRP
+  leans/VBZ
+  left/VBD
+  or/CC
+  not/RB
+  ,/,
+  he/PRP
+  is/VBZ
+  an/DT
+  (NP (NBAR expert/NN))
+  on/IN
+  (NP (NBAR Russian/JJ history/NN))
+  and/CC
+  (NP (NBAR Russian/JJ politics/NNS))
+  ./.
+  And/CC
+  we/PRP
+  talked/VBD
+  about/IN
+  these/DT
+  being/VBG
+  (NP (NBAR Putin/NNP))
+  's/POS
+  (NP (NBAR games/NNS))
+  ./.
+  The/DT
+  1984/CD
+  (NP (NBAR Olympics/NNPS))
+  were/VBD
+  n't/RB
+  (NP (NBAR Ronald/NNP Reagan/NNP))
+  's/POS
+  (NP (NBAR games/NNS))
+  ./.
+  They/PRP
+  were/VBD
+  (NP (NBAR Peter/NNP Uebberoth/NNP))
+  's/POS
+  ./.
+  The/DT
+  1996/CD
+  (NP (NBAR Olympics/NNPS))
+  were/VBD
+  (NP (NBAR Billy/NNP Payne/NNP))
+  's/POS
+  not/RB
+  (NP (NBAR Bill/NNP Clinton/NNP))
+  's/POS
+  ./.
+  The/DT
+  2002/CD
+  (NP (NBAR Olympics/NNPS))
+  were/VBD
+  (NP (NBAR Mitt/NNP Romney/NNP))
+  's/POS
+  not/RB
+  (NP (NBAR George/NNP Bush/NNP))
+  's/POS
+  ./.
+  These/DT
+  were/VBD
+  (NP (NBAR Putin/NNP))
+  's/POS
+  (NP (NBAR games/NNS))
+  ./.)(S
+  Then/RB
+  we/PRP
+  brought/VBD
+  on/IN
+  (NP (NBAR David/NNP Remnick/NNP))
+  ,/,
+  whether/IN
+  (NP (NBAR people/NNS thinks/NNS))
+  he/PRP
+  leans/VBZ
+  left/VBD
+  or/CC
+  not/RB
+  ,/,
+  he/PRP
+  is/VBZ
+  an/DT
+  (NP (NBAR expert/NN))
+  on/IN
+  (NP (NBAR Russian/JJ history/NN))
+  and/CC
+  (NP (NBAR Russian/JJ politics/NNS))
+  ./.
+  And/CC
+  we/PRP
+  talked/VBD
+  about/IN
+  these/DT
+  being/VBG
+  (NP (NBAR Putin/NNP))
+  's/POS
+  (NP (NBAR games/NNS))
+  ./.
+  The/DT
+  1984/CD
+  (NP (NBAR Olympics/NNPS))
+  were/VBD
+  n't/RB
+  (NP (NBAR Ronald/NNP Reagan/NNP))
+  's/POS
+  (NP (NBAR games/NNS))
+  ./.
+  They/PRP
+  were/VBD
+  (NP (NBAR Peter/NNP Uebberoth/NNP))
+  's/POS
+  ./.
+  The/DT
+  1996/CD
+  (NP (NBAR Olympics/NNPS))
+  were/VBD
+  (NP (NBAR Billy/NNP Payne/NNP))
+  's/POS
+  not/RB
+  (NP (NBAR Bill/NNP Clinton/NNP))
+  's/POS
+  ./.
+  The/DT
+  2002/CD
+  (NP (NBAR Olympics/NNPS))
+  were/VBD
+  (NP (NBAR Mitt/NNP Romney/NNP))
+  's/POS
+  not/RB
+  (NP (NBAR George/NNP Bush/NNP))
+  's/POS
+  ./.
+  These/DT
+  were/VBD
+  (NP (NBAR Putin/NNP))
+  's/POS
+  (NP (NBAR games/NNS))
+  ./.)(S
+  Then/RB
+  we/PRP
+  brought/VBD
+  on/IN
+  (NP (NBAR David/NNP Remnick/NNP))
+  ,/,
+  whether/IN
+  (NP (NBAR people/NNS thinks/NNS))
+  he/PRP
+  leans/VBZ
+  left/VBD
+  or/CC
+  not/RB
+  ,/,
+  he/PRP
+  is/VBZ
+  an/DT
+  (NP (NBAR expert/NN))
+  on/IN
+  (NP (NBAR Russian/JJ history/NN))
+  and/CC
+  (NP (NBAR Russian/JJ politics/NNS))
+  ./.
+  And/CC
+  we/PRP
+  talked/VBD
+  about/IN
+  these/DT
+  being/VBG
+  (NP (NBAR Putin/NNP))
+  's/POS
+  (NP (NBAR games/NNS))
+  ./.
+  The/DT
+  1984/CD
+  (NP (NBAR Olympics/NNPS))
+  were/VBD
+  n't/RB
+  (NP (NBAR Ronald/NNP Reagan/NNP))
+  's/POS
+  (NP (NBAR games/NNS))
+  ./.
+  They/PRP
+  were/VBD
+  (NP (NBAR Peter/NNP Uebberoth/NNP))
+  's/POS
+  ./.
+  The/DT
+  1996/CD
+  (NP (NBAR Olympics/NNPS))
+  were/VBD
+  (NP (NBAR Billy/NNP Payne/NNP))
+  's/POS
+  not/RB
+  (NP (NBAR Bill/NNP Clinton/NNP))
+  's/POS
+  ./.
+  The/DT
+  2002/CD
+  (NP (NBAR Olympics/NNPS))
+  were/VBD
+  (NP (NBAR Mitt/NNP Romney/NNP))
+  's/POS
+  not/RB
+  (NP (NBAR George/NNP Bush/NNP))
+  's/POS
+  ./.
+  These/DT
+  were/VBD
+  (NP (NBAR Putin/NNP))
+  's/POS
+  (NP (NBAR games/NNS))
+  ./.)(S
+  Then/RB
+  we/PRP
+  brought/VBD
+  on/IN
+  (NP (NBAR David/NNP Remnick/NNP))
+  ,/,
+  whether/IN
+  (NP (NBAR people/NNS thinks/NNS))
+  he/PRP
+  leans/VBZ
+  left/VBD
+  or/CC
+  not/RB
+  ,/,
+  he/PRP
+  is/VBZ
+  an/DT
+  (NP (NBAR expert/NN))
+  on/IN
+  (NP (NBAR Russian/JJ history/NN))
+  and/CC
+  (NP (NBAR Russian/JJ politics/NNS))
+  ./.
+  And/CC
+  we/PRP
+  talked/VBD
+  about/IN
+  these/DT
+  being/VBG
+  (NP (NBAR Putin/NNP))
+  's/POS
+  (NP (NBAR games/NNS))
+  ./.
+  The/DT
+  1984/CD
+  (NP (NBAR Olympics/NNPS))
+  were/VBD
+  n't/RB
+  (NP (NBAR Ronald/NNP Reagan/NNP))
+  's/POS
+  (NP (NBAR games/NNS))
+  ./.
+  They/PRP
+  were/VBD
+  (NP (NBAR Peter/NNP Uebberoth/NNP))
+  's/POS
+  ./.
+  The/DT
+  1996/CD
+  (NP (NBAR Olympics/NNPS))
+  were/VBD
+  (NP (NBAR Billy/NNP Payne/NNP))
+  's/POS
+  not/RB
+  (NP (NBAR Bill/NNP Clinton/NNP))
+  's/POS
+  ./.
+  The/DT
+  2002/CD
+  (NP (NBAR Olympics/NNPS))
+  were/VBD
+  (NP (NBAR Mitt/NNP Romney/NNP))
+  's/POS
+  not/RB
+  (NP (NBAR George/NNP Bush/NNP))
+  's/POS
+  ./.
+  These/DT
+  were/VBD
+  (NP (NBAR Putin/NNP))
+  's/POS
+  (NP (NBAR games/NNS))
   ./.)(S
   Then/RB
   we/PRP
@@ -640,7 +2049,53 @@
   critical/JJ
   of/IN
   (NP (NBAR Putin/NNP))
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  All/DT
+  (NP (NBAR right/NN))
+  and/CC
+  let/VB
+  me/PRP
+  back/RP
+  that/IN
+  up/RP
+  with/IN
+  a/DT
+  (NP (NBAR clip/NN))
+  ./.
+  I/PRP
+  mean/VBP
+  because/IN
+  what/WP
+  you/PRP
+  are/VBP
+  saying/VBG
+  is/VBZ
+  that/IN
+  you/PRP
+  were/VBD
+  critical/JJ
+  of/IN
+  (NP (NBAR Putin/NNP))
   ./.)(S (NP (NBAR COSTAS/NN)) :/: Repeatedly/RB ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  Even/RB
+  while/IN
+  discussing/VBG
+  his/PRP$
+  (NP (NBAR influence/NN))
+  on/IN
+  the/DT
+  (NP (NBAR games/NNS))
+  ./.
+  Roll/VB
+  the/DT
+  (NP (NBAR tape/NN))
+  we/PRP
+  have/VBP
+  ./.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   Even/RB
@@ -727,6 +2182,110 @@
   all/DT
   of/IN
   that/DT
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  (NP (NBAR Ok./NN))
+  Now/RB
+  once/RB
+  you/PRP
+  got/VBD
+  that/IN
+  out/RP
+  ,/,
+  were/VBD
+  there/EX
+  any/DT
+  (NP (NBAR retractions/NNS))
+  ?/.
+  (NP (NBAR Anybody/NNP))
+  say/VBP
+  (NP (NBAR look/NN))
+  ,/,
+  we/PRP
+  are/VBP
+  sorry/JJ
+  ,/,
+  we/PRP
+  portrayed/VBD
+  (NP (NBAR Costas/NNP))
+  as/IN
+  a/DT
+  (NP (NBAR left/NN))
+  wing/VBG
+  (NP (NBAR guy/NN))
+  or/CC
+  all/DT
+  of/IN
+  that/DT
+  ./.)(S
+  (NP (NBAR COSTAS/NN))
+  :/:
+  No/DT
+  ./.
+  And/CC
+  as/IN
+  a/DT
+  (NP (NBAR matter/NN))
+  of/IN
+  (NP (NBAR fact/NN))
+  ,/,
+  all/DT
+  of/IN
+  that/DT
+  and/CC
+  much/RB
+  ,/,
+  much/RB
+  more/RBR
+  is/VBZ
+  on/IN
+  (NP (NBAR NBCOlympics.com/NNP))
+  was/VBD
+  immediately/RB
+  ./.
+  So/RB
+  far/RB
+  as/IN
+  I/PRP
+  know/VBP
+  is/VBZ
+  still/RB
+  there/RB
+  ./.)(S
+  (NP (NBAR COSTAS/NN))
+  :/:
+  No/DT
+  ./.
+  And/CC
+  as/IN
+  a/DT
+  (NP (NBAR matter/NN))
+  of/IN
+  (NP (NBAR fact/NN))
+  ,/,
+  all/DT
+  of/IN
+  that/DT
+  and/CC
+  much/RB
+  ,/,
+  much/RB
+  more/RBR
+  is/VBZ
+  on/IN
+  (NP (NBAR NBCOlympics.com/NNP))
+  was/VBD
+  immediately/RB
+  ./.
+  So/RB
+  far/RB
+  as/IN
+  I/PRP
+  know/VBP
+  is/VBZ
+  still/RB
+  there/RB
   ./.)(S
   (NP (NBAR COSTAS/NN))
   :/:
@@ -861,6 +2420,255 @@
   such/PDT
   a/DT
   (NP (NBAR horrible/JJ human/JJ rights/NNS record/NN))
+  ?/.)(S
+  (NP (NBAR COSTAS/NN))
+  :/:
+  I/PRP
+  'm/VBP
+  talking/VBG
+  --/:
+  I/PRP
+  'm/VBP
+  talking/VBG
+  about/IN
+  repeatedly/RB
+  and/CC
+  straightforwardly/RB
+  either/RB
+  in/IN
+  (NP (NBAR questions/NNS))
+  to/TO
+  (NP (NBAR guests/NNS))
+  including/VBG
+  (NP (NBAR Thomas/NNP Bach/NNP))
+  the/DT
+  (NP (NBAR head/NN))
+  of/IN
+  the/DT
+  (NP (NBAR IOC/NNP))
+  or/CC
+  in/IN
+  (NP (NBAR statements/NNS))
+  of/IN
+  my/PRP$
+  own/JJ
+  I/PRP
+  talked/VBD
+  about/RB
+  (NP (NBAR corruption/NN))
+  as/IN
+  endemic/JJ
+  in/IN
+  (NP (NBAR Russia/NNP))
+  including/VBG
+  as/IN
+  (NP (NBAR part/NN))
+  of/IN
+  these/DT
+  (NP (NBAR games/NNS))
+  ./.
+  I/PRP
+  talked/VBD
+  about/IN
+  the/DT
+  (NP (NBAR jailing/NN))
+  of/IN
+  (NP (NBAR dissidents/NNS))
+  ./.
+  I/PRP
+  talked/VBD
+  about/IN
+  their/PRP$
+  (NP (NBAR horrible/JJ human/JJ rights/NNS record/NN))
+  ./.
+  In/IN
+  (NP (NBAR fact/NN))
+  I/PRP
+  said/VBD
+  to/TO
+  (NP (NBAR Thomas/NNP Bach/NNP))
+  are/VBP
+  you/PRP
+  comfortable/JJ
+  having/VBG
+  the/DT
+  (NP (NBAR Olympic/NNP flame/NN burning/NN))
+  over/IN
+  (NP (NBAR Vladimir/NNP Putin/NNP))
+  's/POS
+  (NP (NBAR Russia/NNP))
+  where/WRB
+  they/PRP
+  have/VBP
+  such/PDT
+  a/DT
+  (NP (NBAR horrible/JJ human/JJ rights/NNS record/NN))
+  ?/.)(S
+  (NP (NBAR COSTAS/NN))
+  :/:
+  I/PRP
+  'm/VBP
+  talking/VBG
+  --/:
+  I/PRP
+  'm/VBP
+  talking/VBG
+  about/IN
+  repeatedly/RB
+  and/CC
+  straightforwardly/RB
+  either/RB
+  in/IN
+  (NP (NBAR questions/NNS))
+  to/TO
+  (NP (NBAR guests/NNS))
+  including/VBG
+  (NP (NBAR Thomas/NNP Bach/NNP))
+  the/DT
+  (NP (NBAR head/NN))
+  of/IN
+  the/DT
+  (NP (NBAR IOC/NNP))
+  or/CC
+  in/IN
+  (NP (NBAR statements/NNS))
+  of/IN
+  my/PRP$
+  own/JJ
+  I/PRP
+  talked/VBD
+  about/RB
+  (NP (NBAR corruption/NN))
+  as/IN
+  endemic/JJ
+  in/IN
+  (NP (NBAR Russia/NNP))
+  including/VBG
+  as/IN
+  (NP (NBAR part/NN))
+  of/IN
+  these/DT
+  (NP (NBAR games/NNS))
+  ./.
+  I/PRP
+  talked/VBD
+  about/IN
+  the/DT
+  (NP (NBAR jailing/NN))
+  of/IN
+  (NP (NBAR dissidents/NNS))
+  ./.
+  I/PRP
+  talked/VBD
+  about/IN
+  their/PRP$
+  (NP (NBAR horrible/JJ human/JJ rights/NNS record/NN))
+  ./.
+  In/IN
+  (NP (NBAR fact/NN))
+  I/PRP
+  said/VBD
+  to/TO
+  (NP (NBAR Thomas/NNP Bach/NNP))
+  are/VBP
+  you/PRP
+  comfortable/JJ
+  having/VBG
+  the/DT
+  (NP (NBAR Olympic/NNP flame/NN burning/NN))
+  over/IN
+  (NP (NBAR Vladimir/NNP Putin/NNP))
+  's/POS
+  (NP (NBAR Russia/NNP))
+  where/WRB
+  they/PRP
+  have/VBP
+  such/PDT
+  a/DT
+  (NP (NBAR horrible/JJ human/JJ rights/NNS record/NN))
+  ?/.)(S
+  (NP (NBAR COSTAS/NN))
+  :/:
+  I/PRP
+  'm/VBP
+  talking/VBG
+  --/:
+  I/PRP
+  'm/VBP
+  talking/VBG
+  about/IN
+  repeatedly/RB
+  and/CC
+  straightforwardly/RB
+  either/RB
+  in/IN
+  (NP (NBAR questions/NNS))
+  to/TO
+  (NP (NBAR guests/NNS))
+  including/VBG
+  (NP (NBAR Thomas/NNP Bach/NNP))
+  the/DT
+  (NP (NBAR head/NN))
+  of/IN
+  the/DT
+  (NP (NBAR IOC/NNP))
+  or/CC
+  in/IN
+  (NP (NBAR statements/NNS))
+  of/IN
+  my/PRP$
+  own/JJ
+  I/PRP
+  talked/VBD
+  about/RB
+  (NP (NBAR corruption/NN))
+  as/IN
+  endemic/JJ
+  in/IN
+  (NP (NBAR Russia/NNP))
+  including/VBG
+  as/IN
+  (NP (NBAR part/NN))
+  of/IN
+  these/DT
+  (NP (NBAR games/NNS))
+  ./.
+  I/PRP
+  talked/VBD
+  about/IN
+  the/DT
+  (NP (NBAR jailing/NN))
+  of/IN
+  (NP (NBAR dissidents/NNS))
+  ./.
+  I/PRP
+  talked/VBD
+  about/IN
+  their/PRP$
+  (NP (NBAR horrible/JJ human/JJ rights/NNS record/NN))
+  ./.
+  In/IN
+  (NP (NBAR fact/NN))
+  I/PRP
+  said/VBD
+  to/TO
+  (NP (NBAR Thomas/NNP Bach/NNP))
+  are/VBP
+  you/PRP
+  comfortable/JJ
+  having/VBG
+  the/DT
+  (NP (NBAR Olympic/NNP flame/NN burning/NN))
+  over/IN
+  (NP (NBAR Vladimir/NNP Putin/NNP))
+  's/POS
+  (NP (NBAR Russia/NNP))
+  where/WRB
+  they/PRP
+  have/VBP
+  such/PDT
+  a/DT
+  (NP (NBAR horrible/JJ human/JJ rights/NNS record/NN))
   ?/.)(S (NP (NBAR O'REILLY/NN)) :/: What/WP did/VBD he/PRP say/VB ?/.)(S
   (NP (NBAR COSTAS/NN))
   :/:
@@ -884,6 +2692,201 @@
   right/RB
   ,/,
   right/RB
+  ./.)(S
+  (NP (NBAR COSTAS/NN))
+  :/:
+  And/CC
+  I/PRP
+  asked/VBD
+  him/PRP
+  about/IN
+  the/DT
+  last/JJ
+  --/:
+  the/DT
+  two/CD
+  of/IN
+  the/DT
+  last/JJ
+  four/CD
+  (NP (NBAR Olympics/NNPS))
+  being/VBG
+  in/IN
+  (NP (NBAR problematic/JJ regimes/NNS))
+  like/IN
+  (NP (NBAR China/NNP))
+  and/CC
+  (NP (NBAR Russia/NNP))
+  ./.
+  I/PRP
+  also/RB
+  talked/VBD
+  about/IN
+  their/PRP$
+  (NP (NBAR alliances/NNS))
+  with/IN
+  (NP (NBAR Syria/NNP))
+  and/CC
+  with/IN
+  (NP (NBAR Iran/NNP))
+  ./.
+  I/PRP
+  talked/VBD
+  to/TO
+  (NP (NBAR President/NNP Obama/NNP))
+  about/IN
+  whether/IN
+  or/CC
+  not/RB
+  he/PRP
+  can/MD
+  possibly/RB
+  work/VB
+  with/IN
+  this/DT
+  (NP (NBAR truculent/JJ character/NN))
+  ./.
+  (NP (NBAR Obama/NNP))
+  had/VBD
+  said/VBD
+  he/PRP
+  wanted/VBD
+  to/TO
+  re-set/VB
+  the/DT
+  (NP (NBAR relationship/NN))
+  with/IN
+  (NP (NBAR Russia/NNP))
+  ./.)(S
+  (NP (NBAR COSTAS/NN))
+  :/:
+  And/CC
+  I/PRP
+  asked/VBD
+  him/PRP
+  about/IN
+  the/DT
+  last/JJ
+  --/:
+  the/DT
+  two/CD
+  of/IN
+  the/DT
+  last/JJ
+  four/CD
+  (NP (NBAR Olympics/NNPS))
+  being/VBG
+  in/IN
+  (NP (NBAR problematic/JJ regimes/NNS))
+  like/IN
+  (NP (NBAR China/NNP))
+  and/CC
+  (NP (NBAR Russia/NNP))
+  ./.
+  I/PRP
+  also/RB
+  talked/VBD
+  about/IN
+  their/PRP$
+  (NP (NBAR alliances/NNS))
+  with/IN
+  (NP (NBAR Syria/NNP))
+  and/CC
+  with/IN
+  (NP (NBAR Iran/NNP))
+  ./.
+  I/PRP
+  talked/VBD
+  to/TO
+  (NP (NBAR President/NNP Obama/NNP))
+  about/IN
+  whether/IN
+  or/CC
+  not/RB
+  he/PRP
+  can/MD
+  possibly/RB
+  work/VB
+  with/IN
+  this/DT
+  (NP (NBAR truculent/JJ character/NN))
+  ./.
+  (NP (NBAR Obama/NNP))
+  had/VBD
+  said/VBD
+  he/PRP
+  wanted/VBD
+  to/TO
+  re-set/VB
+  the/DT
+  (NP (NBAR relationship/NN))
+  with/IN
+  (NP (NBAR Russia/NNP))
+  ./.)(S
+  (NP (NBAR COSTAS/NN))
+  :/:
+  And/CC
+  I/PRP
+  asked/VBD
+  him/PRP
+  about/IN
+  the/DT
+  last/JJ
+  --/:
+  the/DT
+  two/CD
+  of/IN
+  the/DT
+  last/JJ
+  four/CD
+  (NP (NBAR Olympics/NNPS))
+  being/VBG
+  in/IN
+  (NP (NBAR problematic/JJ regimes/NNS))
+  like/IN
+  (NP (NBAR China/NNP))
+  and/CC
+  (NP (NBAR Russia/NNP))
+  ./.
+  I/PRP
+  also/RB
+  talked/VBD
+  about/IN
+  their/PRP$
+  (NP (NBAR alliances/NNS))
+  with/IN
+  (NP (NBAR Syria/NNP))
+  and/CC
+  with/IN
+  (NP (NBAR Iran/NNP))
+  ./.
+  I/PRP
+  talked/VBD
+  to/TO
+  (NP (NBAR President/NNP Obama/NNP))
+  about/IN
+  whether/IN
+  or/CC
+  not/RB
+  he/PRP
+  can/MD
+  possibly/RB
+  work/VB
+  with/IN
+  this/DT
+  (NP (NBAR truculent/JJ character/NN))
+  ./.
+  (NP (NBAR Obama/NNP))
+  had/VBD
+  said/VBD
+  he/PRP
+  wanted/VBD
+  to/TO
+  re-set/VB
+  the/DT
+  (NP (NBAR relationship/NN))
+  with/IN
+  (NP (NBAR Russia/NNP))
   ./.)(S
   (NP (NBAR COSTAS/NN))
   :/:
@@ -1059,6 +3062,21 @@
   --/:
   (NP (NBAR period/NN))
   ./.)(S
+  (NP (NBAR COSTAS/NN))
+  :/:
+  And/CC
+  he/PRP
+  's/VBZ
+  a/DT
+  (NP (NBAR villain/NN))
+  ./.
+  He/PRP
+  's/VBZ
+  an/DT
+  adversary/JJ
+  --/:
+  (NP (NBAR period/NN))
+  ./.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   (NP (NBAR Did/NNP))
@@ -1072,6 +3090,79 @@
   with/IN
   him/PRP
   ?/.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  (NP (NBAR Did/NNP))
+  you/PRP
+  meet/VB
+  him/PRP
+  ?/.
+  (NP (NBAR Did/NNP))
+  you/PRP
+  deal/VB
+  with/IN
+  him/PRP
+  ?/.)(S
+  (NP (NBAR COSTAS/NN))
+  :/:
+  I/PRP
+  did/VBD
+  I/PRP
+  not/RB
+  meet/VB
+  him/PRP
+  ./.
+  We/PRP
+  asked/VBD
+  for/IN
+  an/DT
+  (NP (NBAR interview/NN))
+  with/IN
+  him/PRP
+  ./.
+  Either/CC
+  me/PRP
+  ,/,
+  (NP (NBAR Brian/NNP Williams/NNP))
+  ,/,
+  (NP (NBAR Matt/NNP Lauer/NNP))
+  --/:
+  he/PRP
+  would/MD
+  n't/RB
+  do/VB
+  it/PRP
+  ./.)(S
+  (NP (NBAR COSTAS/NN))
+  :/:
+  I/PRP
+  did/VBD
+  I/PRP
+  not/RB
+  meet/VB
+  him/PRP
+  ./.
+  We/PRP
+  asked/VBD
+  for/IN
+  an/DT
+  (NP (NBAR interview/NN))
+  with/IN
+  him/PRP
+  ./.
+  Either/CC
+  me/PRP
+  ,/,
+  (NP (NBAR Brian/NNP Williams/NNP))
+  ,/,
+  (NP (NBAR Matt/NNP Lauer/NNP))
+  --/:
+  he/PRP
+  would/MD
+  n't/RB
+  do/VB
+  it/PRP
+  ./.)(S
   (NP (NBAR COSTAS/NN))
   :/:
   I/PRP
@@ -1293,6 +3384,259 @@
   (NP (NBAR Costas/NNP))
   over/IN
   ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  You/PRP
+  know/VBP
+  I/PRP
+  'm/VBP
+  going/VBG
+  to/TO
+  call/VB
+  the/DT
+  (NP (NBAR dose/NN))
+  of/IN
+  (NP (NBAR Father/NNP Damian/NNP))
+  to/TO
+  heal/VB
+  you/PRP
+  ./.
+  All/DT
+  right/JJ
+  I/PRP
+  've/VBP
+  got/VBN
+  to/TO
+  --/:
+  I/PRP
+  've/VBP
+  got/VBN
+  to/TO
+  hold/VB
+  you/PRP
+  over/RP
+  again/RB
+  ./.
+  Although/IN
+  I/PRP
+  do/VBP
+  n't/RB
+  want/VB
+  to/TO
+  but/CC
+  I/PRP
+  have/VBP
+  got/VBN
+  some/DT
+  more/RBR
+  (NP (NBAR questions/NNS))
+  about/IN
+  how/WRB
+  (NP (NBAR NBC/NNP))
+  in/IN
+  (NP (NBAR Russia/NNP dealt/NN))
+  with/IN
+  this/DT
+  (NP (NBAR thing/NN))
+  and/CC
+  whether/IN
+  you/PRP
+  guys/VBP
+  --/:
+  whether/IN
+  we/PRP
+  should/MD
+  have/VB
+  the/DT
+  (NP (NBAR Olympics/NNPS))
+  there/EX
+  anyway/RB
+  ./.
+  All/DT
+  right/RB
+  so/IN
+  I/PRP
+  'm/VBP
+  going/VBG
+  to/TO
+  hold/VB
+  (NP (NBAR Costas/NNP))
+  over/IN
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  You/PRP
+  know/VBP
+  I/PRP
+  'm/VBP
+  going/VBG
+  to/TO
+  call/VB
+  the/DT
+  (NP (NBAR dose/NN))
+  of/IN
+  (NP (NBAR Father/NNP Damian/NNP))
+  to/TO
+  heal/VB
+  you/PRP
+  ./.
+  All/DT
+  right/JJ
+  I/PRP
+  've/VBP
+  got/VBN
+  to/TO
+  --/:
+  I/PRP
+  've/VBP
+  got/VBN
+  to/TO
+  hold/VB
+  you/PRP
+  over/RP
+  again/RB
+  ./.
+  Although/IN
+  I/PRP
+  do/VBP
+  n't/RB
+  want/VB
+  to/TO
+  but/CC
+  I/PRP
+  have/VBP
+  got/VBN
+  some/DT
+  more/RBR
+  (NP (NBAR questions/NNS))
+  about/IN
+  how/WRB
+  (NP (NBAR NBC/NNP))
+  in/IN
+  (NP (NBAR Russia/NNP dealt/NN))
+  with/IN
+  this/DT
+  (NP (NBAR thing/NN))
+  and/CC
+  whether/IN
+  you/PRP
+  guys/VBP
+  --/:
+  whether/IN
+  we/PRP
+  should/MD
+  have/VB
+  the/DT
+  (NP (NBAR Olympics/NNPS))
+  there/EX
+  anyway/RB
+  ./.
+  All/DT
+  right/RB
+  so/IN
+  I/PRP
+  'm/VBP
+  going/VBG
+  to/TO
+  hold/VB
+  (NP (NBAR Costas/NNP))
+  over/IN
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  You/PRP
+  know/VBP
+  I/PRP
+  'm/VBP
+  going/VBG
+  to/TO
+  call/VB
+  the/DT
+  (NP (NBAR dose/NN))
+  of/IN
+  (NP (NBAR Father/NNP Damian/NNP))
+  to/TO
+  heal/VB
+  you/PRP
+  ./.
+  All/DT
+  right/JJ
+  I/PRP
+  've/VBP
+  got/VBN
+  to/TO
+  --/:
+  I/PRP
+  've/VBP
+  got/VBN
+  to/TO
+  hold/VB
+  you/PRP
+  over/RP
+  again/RB
+  ./.
+  Although/IN
+  I/PRP
+  do/VBP
+  n't/RB
+  want/VB
+  to/TO
+  but/CC
+  I/PRP
+  have/VBP
+  got/VBN
+  some/DT
+  more/RBR
+  (NP (NBAR questions/NNS))
+  about/IN
+  how/WRB
+  (NP (NBAR NBC/NNP))
+  in/IN
+  (NP (NBAR Russia/NNP dealt/NN))
+  with/IN
+  this/DT
+  (NP (NBAR thing/NN))
+  and/CC
+  whether/IN
+  you/PRP
+  guys/VBP
+  --/:
+  whether/IN
+  we/PRP
+  should/MD
+  have/VB
+  the/DT
+  (NP (NBAR Olympics/NNPS))
+  there/EX
+  anyway/RB
+  ./.
+  All/DT
+  right/RB
+  so/IN
+  I/PRP
+  'm/VBP
+  going/VBG
+  to/TO
+  hold/VB
+  (NP (NBAR Costas/NNP))
+  over/IN
+  ./.)(S
+  And/CC
+  then/RB
+  (NP (NBAR Goldberg/NNP))
+  who/WP
+  (NP (NBAR Costas/NNP))
+  knows/VBZ
+  ,/,
+  actually/RB
+  dined/VBN
+  with/IN
+  him/PRP
+  ./.
+  It/PRP
+  's/VBZ
+  amazing/JJ
+  ./.)(S
   And/CC
   then/RB
   (NP (NBAR Goldberg/NNP))
@@ -1336,6 +3680,14 @@
   have/VBP
   proof/VBN
   ./.)(S
+  (NP (NBAR COSTAS/NN))
+  :/:
+  Really/RB
+  ?/.
+  I/PRP
+  have/VBP
+  proof/VBN
+  ./.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   I/PRP
@@ -1357,4 +3709,70 @@
   blew/VBD
   my/PRP$
   (NP (NBAR cover/NN))
-  ./.)(S (NP (NBAR COSTAS/NN)) :/: Yes/UH ./.)(S )(S )
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  I/PRP
+  picked/VBD
+  --/:
+  I/PRP
+  picked/VBD
+  up/RP
+  the/DT
+  (NP (NBAR tab/NN))
+  ./.
+  All/DT
+  (NP (NBAR right/NN))
+  ./.
+  Ok/UH
+  ./.
+  There/EX
+  I/PRP
+  blew/VBD
+  my/PRP$
+  (NP (NBAR cover/NN))
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  I/PRP
+  picked/VBD
+  --/:
+  I/PRP
+  picked/VBD
+  up/RP
+  the/DT
+  (NP (NBAR tab/NN))
+  ./.
+  All/DT
+  (NP (NBAR right/NN))
+  ./.
+  Ok/UH
+  ./.
+  There/EX
+  I/PRP
+  blew/VBD
+  my/PRP$
+  (NP (NBAR cover/NN))
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  I/PRP
+  picked/VBD
+  --/:
+  I/PRP
+  picked/VBD
+  up/RP
+  the/DT
+  (NP (NBAR tab/NN))
+  ./.
+  All/DT
+  (NP (NBAR right/NN))
+  ./.
+  Ok/UH
+  ./.
+  There/EX
+  I/PRP
+  blew/VBD
+  my/PRP$
+  (NP (NBAR cover/NN))
+  ./.)(S (NP (NBAR COSTAS/NN)) :/: Yes/UH ./.)

@@ -1,4 +1,46 @@
-(S )(S )(S
+(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  ``/``
+  (NP (NBAR Watters/NNS World/NNP))
+  ''/''
+  (NP (NBAR segment/NN))
+  tonight/VBD
+  according/VBG
+  to/TO
+  a/DT
+  (NP (NBAR Gallup/NNP poll/NN))
+  taken/VBN
+  in/IN
+  2007/CD
+  ,/,
+  57/CD
+  (NP (NBAR percent/NN))
+  of/IN
+  (NP (NBAR Canadians/NNPS))
+  are/VBP
+  satisfied/VBN
+  with/IN
+  their/PRP$
+  (NP (NBAR national/JJ health/NN care/NN program/NN))
+  ./.
+  The/DT
+  (NP (NBAR system/NN))
+  is/VBZ
+  financed/VBN
+  through/IN
+  (NP (NBAR tax/NN revenues/NNS))
+  that/WDT
+  can/MD
+  reach/VB
+  as/RB
+  high/JJ
+  as/IN
+  50/CD
+  (NP (NBAR percent/NN))
+  on/IN
+  (NP (NBAR income/NN))
+  ./.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   ``/``
@@ -78,7 +120,54 @@
   with/IN
   some/DT
   (NP (NBAR Canadians/NNS))
+  ./.)(S
+  And/CC
+  over/IN
+  the/DT
+  (NP (NBAR years/NNS many/JJ Canadians/NNPS))
+  have/VBP
+  come/VBN
+  here/RB
+  to/TO
+  the/DT
+  (NP (NBAR USA/NNP))
+  for/IN
+  (NP (NBAR things/NNS))
+  like/IN
+  (NP (NBAR surgery/NN))
+  ,/,
+  because/IN
+  (NP (NBAR wait/NN times/NNS))
+  are/VBP
+  (NP (NBAR long/JJ north/NN))
+  of/IN
+  the/DT
+  (NP (NBAR border/NN))
+  ./.
+  With/IN
+  all/DT
+  that/DT
+  in/IN
+  (NP (NBAR mind/NN))
+  ,/,
+  (NP (NBAR Jesse/NNP Watters/NNP))
+  ventured/VBD
+  out/RP
+  to/TO
+  talk/VB
+  with/IN
+  some/DT
+  (NP (NBAR Canadians/NNS))
   ./.)(S (/( (NP (NBAR BEGIN/NNP VIDEO/NNP CLIP/NNP)) )/))(S
+  (NP (NBAR WATTERS/NNS))
+  :/:
+  (NP (NBAR Socialized/NNP Canadian/NNP Health/NNP Care/NNP))
+  ./.
+  What/WP
+  exactly/RB
+  is/VBZ
+  that/IN
+  ?/.)(S
   (NP (NBAR WATTERS/NNS))
   :/:
   (NP (NBAR Socialized/NNP Canadian/NNP Health/NNP Care/NNP))
@@ -99,6 +188,28 @@
   is/VBZ
   pretty/RB
   ridiculous/JJ
+  ./.)(S
+  (NP (NBAR UNIDENTIFIED/JJ FEMALE/NN))
+  :/:
+  We/PRP
+  pay/VBP
+  a/DT
+  (NP (NBAR lot/NN))
+  of/IN
+  (NP (NBAR tax/NN))
+  ./.
+  But/CC
+  we/PRP
+  also/RB
+  get/VBP
+  a/DT
+  (NP (NBAR lot/NN))
+  for/IN
+  the/DT
+  (NP (NBAR tax/NN))
+  that/IN
+  we/PRP
+  pay/VBP
   ./.)(S
   (NP (NBAR UNIDENTIFIED/JJ FEMALE/NN))
   :/:
@@ -247,6 +358,23 @@
   ./.)(S
   (NP (NBAR UNIDENTIFIED/JJ MALE/NN))
   :/:
+  I/PRP
+  'm/VBP
+  on/IN
+  the/DT
+  (NP (NBAR way/NN))
+  to/TO
+  being/VBG
+  (NP (NBAR Tammy/NNP))
+  ./.
+  I/PRP
+  used/VBD
+  to/TO
+  be/VB
+  (NP (NBAR Tom/NNP))
+  ./.)(S
+  (NP (NBAR UNIDENTIFIED/JJ MALE/NN))
+  :/:
   Yes/UH
   ,/,
   for/IN
@@ -269,6 +397,60 @@
   ,/,
   they/PRP
   will/MD
+  ./.)(S
+  (NP (NBAR WATTERS/NNS))
+  :/:
+  See/VB
+  ,/,
+  (NP (NBAR Obama/NNP))
+  is/VBZ
+  trying/VBG
+  to/TO
+  emulate/VB
+  you/PRP
+  (NP (NBAR guys/NNS))
+  ./.
+  And/CC
+  now/RB
+  it/PRP
+  's/VBZ
+  a/DT
+  (NP (NBAR train/NN wreck/NN))
+  ./.
+  So/CC
+  I/PRP
+  think/VBP
+  it/PRP
+  's/VBZ
+  your/PRP$
+  (NP (NBAR fault/NN))
+  ./.)(S
+  (NP (NBAR WATTERS/NNS))
+  :/:
+  See/VB
+  ,/,
+  (NP (NBAR Obama/NNP))
+  is/VBZ
+  trying/VBG
+  to/TO
+  emulate/VB
+  you/PRP
+  (NP (NBAR guys/NNS))
+  ./.
+  And/CC
+  now/RB
+  it/PRP
+  's/VBZ
+  a/DT
+  (NP (NBAR train/NN wreck/NN))
+  ./.
+  So/CC
+  I/PRP
+  think/VBP
+  it/PRP
+  's/VBZ
+  your/PRP$
+  (NP (NBAR fault/NN))
   ./.)(S
   (NP (NBAR WATTERS/NNS))
   :/:
@@ -332,6 +514,26 @@
   by/IN
   (NP (NBAR side/NN))
   ./.)(S
+  (NP (NBAR UNIDENTIFIED/JJ MALE/NN))
+  :/:
+  In/IN
+  this/DT
+  (NP (NBAR emergency/NN department/NN))
+  here/RB
+  we/PRP
+  have/VBP
+  (NP (NBAR homeless/JJ people/NNS))
+  ,/,
+  we/PRP
+  have/VBP
+  (NP (NBAR bank/NN presidents/NNS))
+  ./.
+  They/PRP
+  're/VBP
+  side/JJ
+  by/IN
+  (NP (NBAR side/NN))
+  ./.)(S
   (NP (NBAR WATTERS/NNS))
   :/:
   Have/VBP
@@ -371,6 +573,52 @@
   in/IN
   (NP (NBAR Canada/NNP))
   ?/.)(S
+  (NP (NBAR UNIDENTIFIED/JJ FEMALE/NNP))
+  :/:
+  No/DT
+  ./.
+  We/PRP
+  do/VBP
+  n't/RB
+  enjoy/VB
+  waiting/VBG
+  like/IN
+  (NP (NBAR months/NNS))
+  for/IN
+  an/DT
+  (NP (NBAR appointment/NN))
+  ./.
+  So/IN
+  it/PRP
+  's/VBZ
+  not/RB
+  the/DT
+  most/RBS
+  (NP (NBAR effective/JJ way/NN))
+  ./.)(S
+  (NP (NBAR UNIDENTIFIED/JJ FEMALE/NNP))
+  :/:
+  No/DT
+  ./.
+  We/PRP
+  do/VBP
+  n't/RB
+  enjoy/VB
+  waiting/VBG
+  like/IN
+  (NP (NBAR months/NNS))
+  for/IN
+  an/DT
+  (NP (NBAR appointment/NN))
+  ./.
+  So/IN
+  it/PRP
+  's/VBZ
+  not/RB
+  the/DT
+  most/RBS
+  (NP (NBAR effective/JJ way/NN))
+  ./.)(S
   (NP (NBAR UNIDENTIFIED/JJ FEMALE/NNP))
   :/:
   No/DT
@@ -493,6 +741,75 @@
   ./.)(S
   (NP (NBAR UNIDENTIFIED/JJ FEMALE/NN))
   :/:
+  You/PRP
+  need/VBP
+  a/DT
+  (NP (NBAR special/JJ appointment/NN))
+  ./.
+  (NP (NBAR Specialists/NNS))
+  take/VBP
+  (NP (NBAR months/NNS))
+  to/TO
+  get/VB
+  ./.
+  And/CC
+  when/WRB
+  (NP (NBAR people/NNS))
+  are/VBP
+  ill/JJ
+  ,/,
+  they/PRP
+  do/VBP
+  n't/RB
+  have/VB
+  (NP (NBAR money/NN))
+  ./.)(S
+  (NP (NBAR UNIDENTIFIED/JJ FEMALE/NN))
+  :/:
+  You/PRP
+  need/VBP
+  a/DT
+  (NP (NBAR special/JJ appointment/NN))
+  ./.
+  (NP (NBAR Specialists/NNS))
+  take/VBP
+  (NP (NBAR months/NNS))
+  to/TO
+  get/VB
+  ./.
+  And/CC
+  when/WRB
+  (NP (NBAR people/NNS))
+  are/VBP
+  ill/JJ
+  ,/,
+  they/PRP
+  do/VBP
+  n't/RB
+  have/VB
+  (NP (NBAR money/NN))
+  ./.)(S
+  (NP (NBAR UNIDENTIFIED/JJ FEMALE/NN))
+  :/:
+  I/PRP
+  'm/VBP
+  in/IN
+  the/DT
+  (NP (NBAR hospital/NN))
+  ./.
+  I/PRP
+  take/VBP
+  the/DT
+  (NP (NBAR things/NNS))
+  in/IN
+  my/PRP$
+  (NP (NBAR arms/NNS))
+  and/CC
+  I/PRP
+  run/VBP
+  ./.)(S
+  (NP (NBAR UNIDENTIFIED/JJ FEMALE/NN))
+  :/:
   I/PRP
   'm/VBP
   in/IN
@@ -518,6 +835,36 @@
   and/CC
   (NP (NBAR ditch/NN))
   ./.)(S (NP (NBAR UNIDENTIFIED/JJ FEMALE/NNP)) :/: Yes/UH ./.)(S
+  (NP (NBAR UNIDENTIFIED/JJ MALE/NN))
+  :/:
+  I/PRP
+  was/VBD
+  blowing/VBG
+  off/RP
+  a/DT
+  (NP (NBAR little/JJ steam/NN))
+  ./.
+  So/IN
+  what/WP
+  ?/.
+  So/RB
+  what/WP
+  ?/.)(S
+  (NP (NBAR UNIDENTIFIED/JJ MALE/NN))
+  :/:
+  I/PRP
+  was/VBD
+  blowing/VBG
+  off/RP
+  a/DT
+  (NP (NBAR little/JJ steam/NN))
+  ./.
+  So/IN
+  what/WP
+  ?/.
+  So/RB
+  what/WP
+  ?/.)(S
   (NP (NBAR UNIDENTIFIED/JJ MALE/NN))
   :/:
   I/PRP
@@ -639,6 +986,12 @@
   are/VBP
   (NP (NBAR real/JJ breasts/NNS))
   ?/.)(S
+  (NP (NBAR UNIDENTIFIED/JJ MALE/NN))
+  :/:
+  (NP (NBAR Real/JJ yes/NNS))
+  ./.
+  Yes/UH
+  ./.)(S
   (NP (NBAR UNIDENTIFIED/JJ MALE/NN))
   :/:
   (NP (NBAR Real/JJ yes/NNS))
@@ -776,6 +1129,30 @@
   ./.
   (NP (NBAR Wow/NNP))
   ./.)(S
+  (NP (NBAR UNIDENTIFIED/JJ MALE/NN))
+  :/:
+  I/PRP
+  do/VBP
+  ,/,
+  I/PRP
+  do/VBP
+  ./.
+  (NP (NBAR Bill/NNP O'Reilly/NNP))
+  ./.
+  (NP (NBAR Wow/NNP))
+  ./.)(S
+  (NP (NBAR UNIDENTIFIED/JJ MALE/NN))
+  :/:
+  I/PRP
+  do/VBP
+  ,/,
+  I/PRP
+  do/VBP
+  ./.
+  (NP (NBAR Bill/NNP O'Reilly/NNP))
+  ./.
+  (NP (NBAR Wow/NNP))
+  ./.)(S
   (NP (NBAR WATTERS/NNS))
   :/:
   (NP (NBAR Name/NN))
@@ -787,6 +1164,27 @@
   a/DT
   (NP (NBAR great/JJ name/NN))
   ./.)(S
+  (NP (NBAR WATTERS/NNS))
+  :/:
+  (NP (NBAR Name/NN))
+  the/DT
+  (NP (NBAR child/NN Jesse/NNP))
+  ./.
+  It/PRP
+  's/VBZ
+  a/DT
+  (NP (NBAR great/JJ name/NN))
+  ./.)(S
+  (NP (NBAR UNIDENTIFIED/JJ FEMALE/NN))
+  :/:
+  (NP (NBAR Jesse/NNP))
+  ./.
+  (NP (NBAR Are/NNP))
+  you/PRP
+  straight/VBD
+  or/CC
+  gay/VB
+  ?/.)(S
   (NP (NBAR UNIDENTIFIED/JJ FEMALE/NN))
   :/:
   (NP (NBAR Jesse/NNP))
@@ -868,6 +1266,20 @@
   One/CD
   (NP (NBAR guy/NN))
   --/:)(S
+  (NP (NBAR WATTERS/NNS))
+  :/:
+  Well/RB
+  ,/,
+  it/PRP
+  's/VBZ
+  free/JJ
+  for/IN
+  one/CD
+  (NP (NBAR thing/NN))
+  ./.
+  One/CD
+  (NP (NBAR guy/NN))
+  --/:)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   When/WRB
@@ -904,6 +1316,199 @@
   you/PRP
   walk/VBP
   out/RP
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  When/WRB
+  you/PRP
+  say/VBP
+  it/PRP
+  's/VBZ
+  free/JJ
+  ,/,
+  there/EX
+  are/VBP
+  no/DT
+  (NP (NBAR co-pays/NNS))
+  ,/,
+  no/DT
+  (NP (NBAR deductibles/NNS))
+  ,/,
+  (NP (NBAR nothing/NN))
+  ./.
+  You/PRP
+  have/VBP
+  a/DT
+  (NP (NBAR card/NN))
+  and/CC
+  you/PRP
+  just/RB
+  walk/VB
+  in/IN
+  ,/,
+  they/PRP
+  treat/VBP
+  you/PRP
+  and/CC
+  you/PRP
+  walk/VBP
+  out/RP
+  ./.)(S
+  (NP (NBAR WATTERS/NNS))
+  :/:
+  A/DT
+  (NP (NBAR guy/NN))
+  said/VBD
+  he/PRP
+  got/VBD
+  (NP (NBAR free/JJ knee/NN surgery/NN))
+  ./.
+  Only/RB
+  waited/VBD
+  for/IN
+  about/IN
+  four/CD
+  (NP (NBAR months/NNS))
+  but/CC
+  the/DT
+  (NP (NBAR knee/NN surgery/NN))
+  was/VBD
+  free/JJ
+  ./.
+  I/PRP
+  guy/VBP
+  had/VBD
+  (NP (NBAR aids/NNS))
+  that/IN
+  I/PRP
+  spoke/VBD
+  to/TO
+  for/IN
+  20/CD
+  (NP (NBAR years/NNS))
+  ./.
+  He/PRP
+  's/VBZ
+  been/VBN
+  getting/VBG
+  all/PDT
+  the/DT
+  (NP (NBAR expensive/JJ medications/NNS))
+  and/CC
+  he/PRP
+  has/VBZ
+  been/VBN
+  kept/VBN
+  alive/JJ
+  so/RB
+  (NP (NBAR people/NNS))
+  do/VBP
+  like/IN
+  it/PRP
+  ./.)(S
+  (NP (NBAR WATTERS/NNS))
+  :/:
+  A/DT
+  (NP (NBAR guy/NN))
+  said/VBD
+  he/PRP
+  got/VBD
+  (NP (NBAR free/JJ knee/NN surgery/NN))
+  ./.
+  Only/RB
+  waited/VBD
+  for/IN
+  about/IN
+  four/CD
+  (NP (NBAR months/NNS))
+  but/CC
+  the/DT
+  (NP (NBAR knee/NN surgery/NN))
+  was/VBD
+  free/JJ
+  ./.
+  I/PRP
+  guy/VBP
+  had/VBD
+  (NP (NBAR aids/NNS))
+  that/IN
+  I/PRP
+  spoke/VBD
+  to/TO
+  for/IN
+  20/CD
+  (NP (NBAR years/NNS))
+  ./.
+  He/PRP
+  's/VBZ
+  been/VBN
+  getting/VBG
+  all/PDT
+  the/DT
+  (NP (NBAR expensive/JJ medications/NNS))
+  and/CC
+  he/PRP
+  has/VBZ
+  been/VBN
+  kept/VBN
+  alive/JJ
+  so/RB
+  (NP (NBAR people/NNS))
+  do/VBP
+  like/IN
+  it/PRP
+  ./.)(S
+  (NP (NBAR WATTERS/NNS))
+  :/:
+  A/DT
+  (NP (NBAR guy/NN))
+  said/VBD
+  he/PRP
+  got/VBD
+  (NP (NBAR free/JJ knee/NN surgery/NN))
+  ./.
+  Only/RB
+  waited/VBD
+  for/IN
+  about/IN
+  four/CD
+  (NP (NBAR months/NNS))
+  but/CC
+  the/DT
+  (NP (NBAR knee/NN surgery/NN))
+  was/VBD
+  free/JJ
+  ./.
+  I/PRP
+  guy/VBP
+  had/VBD
+  (NP (NBAR aids/NNS))
+  that/IN
+  I/PRP
+  spoke/VBD
+  to/TO
+  for/IN
+  20/CD
+  (NP (NBAR years/NNS))
+  ./.
+  He/PRP
+  's/VBZ
+  been/VBN
+  getting/VBG
+  all/PDT
+  the/DT
+  (NP (NBAR expensive/JJ medications/NNS))
+  and/CC
+  he/PRP
+  has/VBZ
+  been/VBN
+  kept/VBN
+  alive/JJ
+  so/RB
+  (NP (NBAR people/NNS))
+  do/VBP
+  like/IN
+  it/PRP
   ./.)(S
   (NP (NBAR WATTERS/NNS))
   :/:
@@ -1041,7 +1646,45 @@
   He/PRP
   has/VBZ
   (NP (NBAR breasts/NNS))
+  ./.)(S
+  (NP (NBAR WATTERS/NNS))
+  :/:
+  Well/RB
+  he/PRP
+  has/VBZ
+  n't/RB
+  gone/VBN
+  all/PDT
+  the/DT
+  (NP (NBAR way/NN))
+  ,/,
+  if/IN
+  you/PRP
+  know/VBP
+  what/WP
+  I/PRP
+  mean/VBP
+  ./.
+  He/PRP
+  has/VBZ
+  (NP (NBAR breasts/NNS))
   ./.)(S (NP (NBAR O'REILLY/NN)) :/: (NP (NBAR Ok/NN)) ./.)(S (NP (NBAR WATTERS/NNS)) :/: Right/RB ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  But/CC
+  he/PRP
+  's/VBZ
+  on/IN
+  the/DT
+  (NP (NBAR way/NN))
+  ./.
+  Are/VBP
+  they/PRP
+  picking/VBG
+  up/RP
+  the/DT
+  (NP (NBAR whole/JJ tab/NN))
+  ?/.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   But/CC
@@ -1077,6 +1720,25 @@
   80/CD
   (NP (NBAR percent/NN))
   ./.)(S
+  (NP (NBAR WATTERS/NNS))
+  :/:
+  They/PRP
+  're/VBP
+  picking/VBG
+  up/RP
+  a/DT
+  (NP (NBAR large/JJ percentage/NN))
+  ./.
+  I/PRP
+  think/VBP
+  he/PRP
+  said/VBD
+  75/CD
+  (NP (NBAR percent/NN))
+  to/TO
+  80/CD
+  (NP (NBAR percent/NN))
+  ./.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   That/DT
@@ -1084,6 +1746,30 @@
   obviously/RB
   an/DT
   (NP (NBAR elective/JJ thing/NN))
+  ./.)(S
+  (NP (NBAR WATTERS/NNS))
+  :/:
+  Well/RB
+  no/DT
+  ,/,
+  he/PRP
+  's/VBZ
+  not/RB
+  ./.
+  He/PRP
+  is/VBZ
+  a/DT
+  (NP (NBAR man/NN))
+  trapped/VBN
+  --/:
+  a/DT
+  (NP (NBAR woman/NN))
+  trapped/VBN
+  in/IN
+  a/DT
+  (NP (NBAR man/NN))
+  's/POS
+  (NP (NBAR body/NN))
   ./.)(S
   (NP (NBAR WATTERS/NNS))
   :/:
@@ -1150,6 +1836,64 @@
   very/RB
   disheartening/JJ
   ./.)(S
+  (NP (NBAR WATTERS/NNS))
+  :/:
+  I/PRP
+  'm/VBP
+  not/RB
+  making/VBG
+  (NP (NBAR fun/NN))
+  of/IN
+  this/DT
+  ./.
+  But/CC
+  he/PRP
+  says/VBZ
+  it/PRP
+  's/VBZ
+  very/RB
+  disheartening/JJ
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  (NP (NBAR Right/NNP))
+  ./.
+  Transgendered/VBN
+  (NP (NBAR people/NNS))
+  certainly/RB
+  have/VBP
+  their/PRP$
+  (NP (NBAR reasons/NNS))
+  for/IN
+  what/WP
+  they/PRP
+  do/VBP
+  ./.
+  And/CC
+  that/DT
+  's/VBZ
+  legitimate/JJ
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  (NP (NBAR Right/NNP))
+  ./.
+  Transgendered/VBN
+  (NP (NBAR people/NNS))
+  certainly/RB
+  have/VBP
+  their/PRP$
+  (NP (NBAR reasons/NNS))
+  for/IN
+  what/WP
+  they/PRP
+  do/VBP
+  ./.
+  And/CC
+  that/DT
+  's/VBZ
+  legitimate/JJ
+  ./.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   (NP (NBAR Right/NNP))
@@ -1192,6 +1936,29 @@
   to/TO
   die/VB
   ./.)(S (NP (NBAR WATTERS/NNS)) :/: No/DT ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  It/PRP
+  's/VBZ
+  --/:
+  it/PRP
+  's/VBZ
+  you/PRP
+  know/VBP
+  this/DT
+  would/MD
+  make/VB
+  my/PRP$
+  (NP (NBAR life/NN))
+  better/RBR
+  ./.
+  So/RB
+  therefore/IN
+  it/PRP
+  's/VBZ
+  an/DT
+  optional/JJ
+  ./.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
   It/PRP
@@ -1338,6 +2105,22 @@
   (NP (NBAR thousands/NNS))
   come/VBP
   here/RB
+  ./.)(S
+  (NP (NBAR O'REILLY/NN))
+  :/:
+  (NP (NBAR Right/NNP))
+  ./.
+  And/CC
+  as/IN
+  you/PRP
+  pointed/VBD
+  out/RP
+  a/DT
+  (NP (NBAR lot/NN))
+  of/IN
+  (NP (NBAR thousands/NNS))
+  come/VBP
+  here/RB
   ./.)(S (NP (NBAR WATTERS/NNS)) :/: Right/RB ./.)(S
   (NP (NBAR O'REILLY/NN))
   :/:
@@ -1387,4 +2170,4 @@
   (NP (NBAR Jesse/NNP Watters/NNP))
   ,/,
   (NP (NBAR everybody/NN))
-  ./.)(S )(S )
+  ./.)
